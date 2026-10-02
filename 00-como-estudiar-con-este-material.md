@@ -1,0 +1,135 @@
+# 00 · Cómo estudiar con este material (The Outlining Method)
+
+> **Para qué sirve este archivo:** antes de entrar a los temas, entendé cómo está construido cada módulo y cómo sacarle el máximo provecho. Son 10 minutos que te ahorran horas.
+
+---
+
+## 🗺️ Esquema de este archivo
+
+- **I. Qué es el Outlining Method**
+  - A. Idea central: la información se organiza en jerarquía
+  - B. Niveles del esquema
+  - C. Por qué funciona
+- **II. Cómo está armado cada módulo del repo**
+  - A. Bloques fijos de cada archivo
+  - B. Convenciones visuales
+- **III. Cómo estudiar un módulo (paso a paso)**
+- **IV. Orden sugerido de la materia**
+
+---
+
+## I. Qué es el Outlining Method
+
+### I.A Idea central
+
+El *outlining method* (método del esquema) es una forma de tomar y estudiar apuntes que organiza el contenido **por jerarquía de importancia**: primero las ideas principales, debajo las ideas secundarias que las sostienen y, debajo de esas, los detalles, ejemplos y datos.
+
+La clave no es "resumir": es **mostrar la relación** entre las ideas. Cuando ves que *"Big Data"* tiene como hijo a *"las 5 V"* y que *"Veracidad"* es una de ellas, ya no memorizás cinco palabras sueltas: entendés que son **cinco características de una misma cosa**.
+
+### I.B Niveles del esquema
+
+En este repo se usan siempre los mismos niveles:
+
+| Nivel | Formato en el archivo | Qué contiene | Ejemplo |
+|---|---|---|---|
+| **I, II, III…** | `## I. Título` | Grandes ideas del tema | I. Big Data |
+| **A, B, C…** | `### I.A Título` | Subtemas de la idea | I.A Las 5 V |
+| **1, 2, 3…** | `#### I.A.1 Título` o lista numerada | Componentes del subtema | 1. Volumen |
+| **viñetas** | `-` | Detalles, ejemplos, datos, definiciones | "Escala de exabytes" |
+
+```mermaid
+flowchart TD
+    I["I. Idea principal"] --> A["I.A Subtema"]
+    I --> B["I.B Subtema"]
+    A --> A1["I.A.1 Componente"]
+    A --> A2["I.A.2 Componente"]
+    A1 --> d1["- detalle / ejemplo"]
+    A1 --> d2["- dato / definición"]
+```
+
+### I.C Por qué funciona
+
+1. **Obliga a distinguir lo importante de lo accesorio.** Si algo está en el nivel I, es examen seguro.
+2. **Da "ganchos" para la memoria.** Recordás la estructura y la estructura te trae los detalles.
+3. **Sirve para escribir respuestas de parcial.** Una pregunta a desarrollar se responde recorriendo el esquema: definición → características → ejemplos → relación con otros temas.
+4. **Permite estudiar en dos velocidades:** primero el esqueleto (vista de pájaro), después el desarrollo completo.
+
+---
+
+## II. Cómo está armado cada módulo del repo
+
+### II.A Bloques fijos de cada archivo
+
+Cada archivo `NN-tema.md` tiene siempre estos bloques, en este orden:
+
+1. **Cabecera** – de qué presentación de clase sale el contenido, prerrequisitos y tiempo estimado.
+2. **🎯 Objetivos de aprendizaje** – lo que tenés que poder hacer al terminar.
+3. **🗺️ Esquema del tema** – el *outline* completo en forma de esqueleto. Es lo primero que leés y lo último que repasás.
+4. **🧠 Mapa visual** – un diagrama (Mermaid o SVG) del tema.
+5. **📖 Desarrollo** – el contenido completo, respetando exactamente la numeración del esquema (I, I.A, I.A.1…). Acá está la explicación de verdad: definiciones, por qué, ejemplos, casos.
+6. **⚠️ Conceptos que se confunden** – trampas típicas de parcial.
+7. **🔗 Conexiones** – con qué otros módulos se relaciona.
+8. **✍️ Autoevaluación** – preguntas con la respuesta escondida (hacé clic para desplegarla). Intentá responder **antes** de abrirla.
+
+### II.B Convenciones visuales
+
+- > 📌 **Definición** — bloque con la definición tal como la da la cátedra. Conviene saberla casi textual.
+- > 💡 **Para entenderlo** — explicación intuitiva con palabras simples.
+- > 🧩 **Ejemplo** — caso concreto.
+- > ➕ **Contexto adicional** — información que **no está en las diapositivas** de la materia y que se agrega para entender mejor. Usala para comprender, pero en el parcial priorizá la versión de la cátedra.
+- **Negrita** = palabra clave que tiene que aparecer en tu respuesta.
+
+---
+
+## III. Cómo estudiar un módulo (paso a paso)
+
+```mermaid
+flowchart LR
+    A["1. Leer el esquema<br/>(2 min)"] --> B["2. Leer el desarrollo<br/>completo"]
+    B --> C["3. Reconstruir el esquema<br/>de memoria en papel"]
+    C --> D["4. Comparar con el<br/>esquema del archivo"]
+    D --> E["5. Autoevaluación"]
+    E -->|"fallaste algo"| B
+    E -->|"todo bien"| F["Siguiente módulo"]
+```
+
+1. **Leé el esquema** sin detenerte en detalles: entendé qué partes tiene el tema.
+2. **Leé el desarrollo** con calma. Cada vez que termines una sección de nivel I, pará y explicala en voz alta en 30 segundos.
+3. **Cerrá el archivo y escribí el esquema de memoria** (solo niveles I, A y 1). Esto es lo que más fija.
+4. **Compará** con el esquema real. Lo que te faltó es lo que no entendiste: volvé a esa sección.
+5. **Hacé la autoevaluación.** Respondé por escrito, después desplegá la respuesta.
+
+> 💡 **Tip de examen:** para una pregunta del tipo *"Defina X y explique sus características"*, usá la estructura del esquema: **definición (I) → características (I.A) → ejemplo (🧩) → relación con otro concepto (🔗)**. Es exactamente cómo está ordenado cada módulo.
+
+---
+
+## IV. Orden sugerido de la materia
+
+El orden de los módulos sigue el orden en que se dieron las clases y va de lo general a lo aplicado:
+
+```mermaid
+flowchart TD
+    subgraph B1["Bloque 1 · Fundamentos"]
+        M1["01 Tecnología e innovación"] --> M2["02 Impactos y desafíos"] --> M3["03 Tecnologías disruptivas"]
+    end
+    subgraph B2["Bloque 2 · Datos"]
+        M4["04 Business Intelligence"] --> M5["05 Data Mining"] --> M6["06 Big Data"]
+    end
+    subgraph B3["Bloque 3 · Dinámica de la innovación"]
+        M7["07 Unicornios"] --> M8["08 Curvas de la tecnología"] --> M9["09 Schumpeter y ciclos"]
+    end
+    subgraph B4["Bloque 4 · Gestionar y crear"]
+        M10["10 Gestión de la innovación"] --> M11["11 Creatividad"] --> M12["12 Innovación tecnológica e IA"] --> M13["13 Design Thinking"]
+    end
+    subgraph B5["Bloque 5 · Ecosistema"]
+        M14["14 Innovación abierta"] --> M15["15 VICA y VANI"]
+    end
+    subgraph B6["Bloque 6 · Ejecutar y medir"]
+        M16["16 Proyectos y estrategia"] --> M17["17 Lean Startup"] --> M18["18 KPI"] --> M19["19 OKR"]
+    end
+    B1 --> B2 --> B3 --> B4 --> B5 --> B6
+```
+
+---
+
+[🏠 Índice](README.md) · [Siguiente → 01 Tecnología e innovación](01-tecnologia-e-innovacion-fundamentos.md)
