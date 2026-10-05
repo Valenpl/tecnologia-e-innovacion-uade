@@ -152,4 +152,14 @@ La cátedra sostiene lo contrario en "importancia del proceso creativo": *"aunqu
 
 ---
 
-[← 20 Glosario](20-glosario.md) · [🏠 Índice](README.md)
+### 11. 🔥 La pregunta de apertura de la materia
+**"La tecnología mejoró la vida de las personas. ¿Por qué?" Desarrolle con conceptos de la materia.**
+
+<details><summary>Ver respuesta modelo</summary>
+
+La tecnología —**aplicación del conocimiento científico para crear herramientas y procesos que resuelven problemas**— mejora la vida **cuando se convierte en innovación**: su **aplicación práctica y exitosa** para generar valor (*"una tecnología desarrollada que no se utiliza no es innovación"*). A través de la relación tripartita (tecnología = **motor**, innovación = **proceso**, negocios = **campo de aplicación**) produce impactos concretos: **eficiencia operativa** y automatización, **nuevos modelos de negocio**, mejoras en **salud y calidad de vida** (telemedicina, biotecnología), **conectividad** e hiperpersonalización (5G, IoT) y decisiones basadas en datos (BI, Big Data). Las **tecnologías disruptivas** además vuelven las soluciones **más accesibles y baratas**, extendiendo el beneficio a más personas. Pero la mejora no es automática ni pareja: aparecen **desafíos** —ciberseguridad, ética de la IA, resistencia al cambio, sostenibilidad, **brecha digital** y costos de integración— y la **destrucción creativa** desplaza empresas y empleos. Conclusión: sí mejoró la vida, **en la medida en que se innova con ella y se gestionan sus desafíos**.
+</details>
+
+---
+
+[← 20 Glosario](20-glosario.md) · [🏠 Índice](README.md) · [Siguiente → 22 Foco de parcial](22-foco-de-parcial.md)

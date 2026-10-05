@@ -102,7 +102,7 @@ La cátedra muestra un gráfico con el **PIB** en el eje vertical y los **años*
 
 > 💡 La economía no crece en línea recta: crece **a saltos**, cada vez que una oleada de innovación reemplaza la forma vieja de producir por una más productiva.
 
-> ℹ️ **Nota sobre el material:** la misma diapositiva incluye un gráfico de barras que compara **País 1 a País 4** (valores de 10 a 40) sin indicar explícitamente la variable. Una lectura consistente con el tema es que **los países que más innovan son los que más crecen**, pero la diapositiva no lo rotula: si aparece en el parcial, preguntá o explicitá tu supuesto.
+> ℹ️ **Nota sobre el material:** la misma diapositiva incluye un gráfico de barras que compara **País 1 a País 4** (valores de 10 a 40) sin rotular la variable. El **apunte de cursada** lo resuelve explícitamente: *"Cada innovación hace subir el PIB a un nuevo nivel a lo largo de los años (crecimiento 'en escalones'). Por eso **los países que más innovan son los que más crecen**."* → Esa es la lectura a usar en el parcial.
 
 ---
 

@@ -1,6 +1,6 @@
 # 📚 Tecnología e Innovación — Material de estudio
 
-Material de **estudio** (no de repaso) de la materia **Tecnología e Innovación** (UADE, 2027 · 1er cuatrimestre), armado tema por tema a partir de las presentaciones de clase de los profesores **Gustavo E. Escandell** y **Mario Barrios**.
+Material de **estudio** (no de repaso) de la materia **Tecnología e Innovación** (UADE, 2027 · 1er cuatrimestre), armado tema por tema a partir de las presentaciones de clase de los profesores **Gustavo E. Escandell** y **Mario Barrios**, complementado con el **apunte de cursada** (Clases 1–2) y las **notas de clase**.
 
 Cada módulo sigue el **Outlining Method**: primero el **esquema jerárquico** del tema (vista de pájaro) y después el **desarrollo completo** con la misma numeración, diagramas, ejemplos, trampas de parcial y autoevaluación con respuestas plegables.
 
@@ -62,7 +62,8 @@ Cada módulo sigue el **Outlining Method**: primero el **esquema jerárquico** d
 | # | Módulo | Qué vas a aprender |
 |---|---|---|
 | 20 | [Glosario](20-glosario.md) | Todos los términos de la materia con link al módulo. |
-| 21 | [Preguntas integradoras](21-preguntas-integradoras.md) | 10 preguntas tipo parcial que cruzan varios temas, con respuesta modelo. |
+| 21 | [Preguntas integradoras](21-preguntas-integradoras.md) | 11 preguntas tipo parcial que cruzan varios temas, con respuesta modelo. |
+| 22 | [Foco de parcial](22-foco-de-parcial.md) | Qué se marcó como importante en clase y en el apunte: mapa de prioridades y checklist final. |
 
 ---
 
@@ -104,6 +105,12 @@ flowchart TB
 | ➕ | **Contexto adicional**: información que **no está en las diapositivas**. Sirve para entender; en el examen priorizá la versión de la cátedra. |
 | 🔗 | Conexión con otro módulo. |
 
+| 🔥 | **Prioridad de parcial**: marcado como importante en clase (notas) o "PONER EN PARCIAL" / resaltado en el apunte de cursada. |
+
+## 🏷️ Versiones
+
+Cada actualización del material se registra en [CHANGELOG.md](CHANGELOG.md) y se marca con un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día, `vAAAA.MM.DD.2`, `.3`…). Para ver una versión anterior: `git checkout v2026.10.02` · para comparar: `git diff v2026.10.02 v2026.10.05`.
+
 ## 📁 Estructura del repo
 
 ```
@@ -113,6 +120,8 @@ flowchart TB
 ├── 01 … 19-*.md             ← módulos de estudio
 ├── 20-glosario.md
 ├── 21-preguntas-integradoras.md
+├── 22-foco-de-parcial.md     ← prioridades de parcial
+├── CHANGELOG.md             ← historial de versiones (tags por fecha)
 └── assets/                  ← diagramas SVG (curvas, ciclos, Doblin, embudos)
 ```
 

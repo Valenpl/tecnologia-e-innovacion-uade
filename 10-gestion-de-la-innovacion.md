@@ -56,6 +56,8 @@
 
 ## I. Qué es gestionar la innovación
 
+> 🔥 **Prioridad de parcial:** "Gestión de la innovación" quedó marcada como **#importante** en las notas de la Clase 2. Lo que se remarcó en clase: **antes** las organizaciones tenían **estructura piramidal (jerárquica)** y **la innovación no es compatible con la estructura clásica** → por eso la Gestión 2.0 propone el modelo en red (III.A.3).
+
 Hasta ahora vimos **qué** es la innovación y **cómo evoluciona** (curvas, ciclos). La **gestión de la innovación** se pregunta: *¿cómo hace una organización para innovar de forma sistemática y no por casualidad?*
 
 Para eso la cátedra presenta dos herramientas:

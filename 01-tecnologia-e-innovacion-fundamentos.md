@@ -90,6 +90,8 @@ La materia arranca con una pregunta abierta: **"La tecnología mejoró la vida d
 
 > 💡 **Para entenderlo:** la tecnología por sí sola es una herramienta. Mejora la vida **cuando alguien la aplica para resolver un problema real y genera valor**. Ese "aplicarla para generar valor" es, justamente, la **innovación**.
 
+> 🔥 **Prioridad de parcial:** en las notas de clase esta pregunta quedó marcada como **#importante**. Preparala como pregunta a desarrollar: **tecnología** (definición) → **innovación** (aplicación práctica y exitosa) → **impactos** (módulo [02](02-impactos-y-desafios.md)) → **desafíos** como contrapeso → conclusión. Tenés una respuesta modelo en [21 · Preguntas integradoras](21-preguntas-integradoras.md) (pregunta 11).
+
 ---
 
 ## II. Definiciones base
@@ -118,6 +120,8 @@ Tres palabras de esta definición son claves y suelen evaluarse:
 1. **Aplicación práctica** → no alcanza con tener la idea; hay que llevarla a la realidad.
 2. **Exitosa** → tiene que funcionar y ser adoptada. Una idea que nadie usa no es innovación.
 3. **Mejorar la eficiencia o crear nuevas oportunidades** → el resultado tiene que generar **valor**.
+
+> 🔥 **Frase de clase (notas, #importante):** *"Una tecnología desarrollada que **no se utiliza** no es innovación."* Resume la diferencia entre ambos conceptos: el desarrollo técnico solo no alcanza; tiene que **usarse** y **generar valor**.
 
 Se la llama **"el para qué"** porque responde a *¿con qué propósito usamos la tecnología?*
 
@@ -212,6 +216,8 @@ Desarmado en esquema, la importancia está en que:
 ---
 
 ## V. Relación Tecnología – Innovación – Negocios
+
+> 🔥 **Prioridad de parcial:** "Tecnología e innovación" y la **relación tripartita** quedaron marcadas como **#importante** en las notas de la Clase 1.
 
 ### V.A El ciclo: motor → proceso → campo de aplicación
 

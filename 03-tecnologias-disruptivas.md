@@ -37,6 +37,7 @@
   4. Ventaja competitiva
   5. Impacto social y sostenibilidad
 - **V. Cómo implementarlas en una empresa (7 pasos)**
+  - + ¿Qué hace una empresa para no quedar desplazada? → I+D+i
 - **VI. Beneficios**
   1. Innovación y creación de nuevos mercados
   2. Eficiencia y productividad
@@ -99,6 +100,8 @@ La cátedra da dos definiciones complementarias. Conviene saber ambas.
 
 > 💡 **Para entenderlo:** "disrumpir" = **romper** la continuidad. Una tecnología disruptiva no compite "mejor" en el mismo juego: **cambia las reglas del juego**. El que antes dominaba queda desplazado, no porque haya hecho algo mal, sino porque el mercado empezó a valorar otra cosa.
 
+> 🔥 **Síntesis de clase (Clase 2, notas de cursada):** innovación disruptiva = **cambio de paradigma** → **una nueva tecnología deja obsoleta a una tecnología anterior** → se genera un **cambio brusco**. Son las tres ideas que no pueden faltar en tu definición.
+
 > 🧩 **Ejemplo de la cátedra:** el paso de la **fotografía de carrete a la digital**. Las primeras cámaras digitales sacaban peores fotos, pero eran más prácticas y baratas por foto. Mejoraron rápido y desplazaron al carrete.
 
 > ➕ **Contexto adicional:** el término *disruptive innovation* lo popularizó **Clayton Christensen** (Harvard) en *The Innovator's Dilemma* (1997). Para Christensen, lo disruptivo es sobre todo **el modelo de negocio**: entrar por abajo (segmentos baratos o desatendidos) y subir. Esto encaja perfecto con la característica "Accesibilidad y menor costo" y con las **Curvas S** del módulo [08](08-curvas-de-la-tecnologia.md).
@@ -160,6 +163,8 @@ flowchart LR
 
 Los **"ejemplos actuales"** que destaca la clase 2026 son cuatro: **IA, Blockchain, Cloud Computing y 5G**.
 
+En las notas de la **Clase 1**, la lista rápida de tecnologías que "generaron un gran cambio" fue: **IA, impresión 3D, robótica, e-commerce e IoT**.
+
 > 💡 **Para entenderlo – por qué estas tecnologías se potencian entre sí:** IoT **genera** datos → 5G los **transporta** → la nube los **almacena** → Big Data los **gestiona** → la IA los **interpreta y decide**. Por eso se habla de "convergencia tecnológica".
 
 ```mermaid
@@ -176,6 +181,8 @@ flowchart LR
 3. **Conectividad y nuevas experiencias** – **5G e IoT** facilitan la interconexión y la **hiperpersonalización** de productos en tiempo real.
 4. **Ventaja competitiva** – Permiten a **nuevas empresas competir con líderes de mercado** al ofrecer soluciones **más simples y accesibles**.
 5. **Impacto social y sostenibilidad** – Mejoran la calidad de vida y abordan desafíos globales como **ciberseguridad, sostenibilidad y salud**.
+
+> 🧩 **Ejemplo del apunte de cursada – Nokia y Apple** (ilustra el punto 4, *ventaja competitiva*): ➕ Nokia dominaba el mercado de celulares; Apple entró en 2007 con el **iPhone** (pantalla táctil + ecosistema de apps), una propuesta más simple de usar que **redefinió el estándar** del teléfono. Nokia perdió el liderazgo y terminó vendiendo su división de teléfonos a Microsoft (2014). *(El apunte solo nombra el par Nokia–Apple; el detalle es contexto adicional.)*
 
 ---
 
@@ -202,9 +209,21 @@ flowchart TD
 | **4. Desarrollar un plan de acción** | Plan detallado. | Selección de tecnologías, **plazos, recursos y responsabilidades**. |
 | **5. Capacitar al personal** | Formación y desarrollo profesional. | Para que puedan **usar y aprovechar** las nuevas tecnologías (ataca el desafío de la resistencia al cambio). |
 | **6. Medir y evaluar** | Seguimiento constante. | **Métricas y KPIs** para medir el éxito; ajustar la estrategia (→ módulo [18](18-kpi.md)). |
-| **7. Iterar y mejorar** | Mejora continua. | *"La innovación disruptiva es un proceso continuo"*: ser flexible y estar dispuesto a **reinventarse**. |
+| **7. Iterar y mejorar** | Mejora continua. | *"La innovación disruptiva es un proceso continuo"*: ser flexible y estar dispuesto a **reinventarse**. Apoyarse en **metodologías ágiles**; *si el producto no se puede mejorar, hay que **pivotar*** (→ Lean Startup, módulo [17](17-lean-startup.md)). |
 
 > 🔗 Fijate cómo este proceso **anticipa** temas de la segunda mitad de la materia: objetivos medibles (KPI/OKR), iterar (Lean Startup, Design Thinking), colaborar con startups (innovación abierta).
+
+### V.+ ¿Qué hace una empresa para no quedar desplazada por una disrupción?
+
+> 🔥 **Visto en Clase 2 (notas de cursada):** la respuesta que se dio en clase es **invertir en investigación y desarrollo (I+D)**, ampliado a **I+D+i**: la "i" minúscula final es la **innovación** — no alcanza con investigar y desarrollar, hay que **llevarlo al mercado** (sigla de la cátedra, ver módulo [12](12-innovacion-tecnologica-e-ia.md), I.C).
+
+- **I** (investigación) → generar conocimiento nuevo.
+- **D** (desarrollo) → convertir ese conocimiento en productos o procesos concretos.
+- **i** (innovación) → introducirlos en el mercado y que generen valor (🔗 *"una tecnología que no se utiliza no es innovación"*, módulo [01](01-tecnologia-e-innovacion-fundamentos.md)).
+
+> 💡 **Para entenderlo:** la empresa que solo explota su tecnología actual queda atrapada en la **fase de saturación** de su curva S. Invertir en I+D+i le permite **saltar a la curva siguiente** antes de que otro lo haga por ella (módulo [08](08-curvas-de-la-tecnologia.md), I.C). Otra vía es no hacerlo todo adentro: **colaborar con startups** e **innovación abierta** (paso 2 de arriba y módulo [14](14-innovacion-abierta.md)).
+
+> ⚠️ **Ojo:** la nota de clase sobre este punto es breve. Si te lo preguntan, respondé con **I+D / I+D+i** como eje y fundamentalo con la curva S; el 💡 es elaboración para entenderlo.
 
 ---
 

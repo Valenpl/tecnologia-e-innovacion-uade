@@ -93,31 +93,35 @@ Desglose en esquema:
 - **Con qué**: **estadística + inteligencia artificial**.
 - **Para qué**: **predecir** comportamientos, reducir costos, mejores decisiones.
 
+> 🔥 **Síntesis de clase (Clase 3, notas de cursada):** Data Mining consiste en **encontrar patrones que se repiten en grandes volúmenes de información**. Si tenés que definirlo en una línea, es esta.
+
 ---
 
 ## III. Objetivos
 
+> 🔥 **Prioridad de parcial:** Data Mining quedó marcado como **#importante** en las notas del repaso previo al parcial, y en el apunte de cursada están **resaltados** los objetivos 2, 3 y 4, los usos 1–3 de *Para qué sirve* y las 3 *Características* (marcados con 🔥 abajo). Fijate que se repite el mismo núcleo en las tres listas: **predecir · segmentar · detectar fraude**.
+
 1. **Identificación de patrones y tendencias** – descubrir comportamientos, asociaciones o secuencias **ocultas** que no son evidentes a simple vista.
-2. **Predicción de comportamientos (modelado predictivo)** – usar datos históricos para **pronosticar** tendencias futuras: demanda, riesgos financieros, **probabilidad de fuga de clientes**.
-3. **Segmentación de clientes** – agrupar datos similares (**clústeres**) para personalizar marketing, mejorar el engagement y fidelizar.
-4. **Detección de anomalías / fraude** – identificar comportamientos inusuales (transacciones sospechosas, fallas en manufactura).
+2. 🔥 **Predicción de comportamientos (modelado predictivo)** – usar datos históricos para **pronosticar** tendencias futuras: demanda, riesgos financieros, **probabilidad de fuga de clientes**.
+3. 🔥 **Segmentación de clientes** – agrupar datos similares (**clústeres**) para personalizar marketing, mejorar el engagement y fidelizar.
+4. 🔥 **Detección de anomalías / fraude** – identificar comportamientos inusuales (transacciones sospechosas, fallas en manufactura).
 5. **Apoyo a la toma de decisiones** – transformar grandes volúmenes de datos brutos en **información accionable** para la planificación estratégica.
 
 ## IV. Para qué sirve
 
 | Uso | Ejemplo |
 |---|---|
-| **Predicción de comportamientos** | Anticipar el **riesgo de abandono** de un cliente. |
-| **Segmentación de clientes** | Clasificar usuarios para personalizar campañas y productos. |
-| **Detección de fraudes** | Identificar en **tiempo real** transacciones bancarias sospechosas. |
+| 🔥 **Predicción de comportamientos** | Anticipar el **riesgo de abandono** de un cliente. |
+| 🔥 **Segmentación de clientes** | Clasificar usuarios para personalizar campañas y productos. |
+| 🔥 **Detección de fraudes** | Identificar en **tiempo real** transacciones bancarias sospechosas. |
 | **Optimización de procesos** | Detectar **cuellos de botella** y reducir costos. |
 | **Análisis de mercado** | Descubrir **qué productos se venden mejor juntos** (reglas de asociación) y optimizar inventario. |
 
 ## V. Características
 
-1. **Identificación de patrones** – encuentra reglas y estructuras en **bases de datos extensas**.
-2. **Predicción** – anticipa comportamientos futuros de clientes **o fallos en sistemas**.
-3. **Aplicaciones** – marketing (**análisis de la cesta de la compra**), finanzas (**detección de fraudes**) y producción (**mantenimiento preventivo**).
+1. 🔥 **Identificación de patrones** – encuentra reglas y estructuras en **bases de datos extensas**.
+2. 🔥 **Predicción** – anticipa comportamientos futuros de clientes **o fallos en sistemas**.
+3. 🔥 **Aplicaciones** – marketing (**análisis de la cesta de la compra**), finanzas (**detección de fraudes**) y producción (**mantenimiento preventivo**).
 
 ---
 

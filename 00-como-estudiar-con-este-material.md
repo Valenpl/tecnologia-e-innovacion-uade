@@ -77,6 +77,8 @@ Cada archivo `NN-tema.md` tiene siempre estos bloques, en este orden:
 - > 💡 **Para entenderlo** — explicación intuitiva con palabras simples.
 - > 🧩 **Ejemplo** — caso concreto.
 - > ➕ **Contexto adicional** — información que **no está en las diapositivas** de la materia y que se agrega para entender mejor. Usala para comprender, pero en el parcial priorizá la versión de la cátedra.
+
+- > 🔥 **Prioridad de parcial** — marcado como importante en clase (notas de cursada, `#importante`) o como "PONER EN PARCIAL" / resaltado en el apunte de cursada. El resumen de todas las marcas está en [22 · Foco de parcial](22-foco-de-parcial.md).
 - **Negrita** = palabra clave que tiene que aparecer en tu respuesta.
 
 ---

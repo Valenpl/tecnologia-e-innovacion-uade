@@ -72,6 +72,8 @@ Palabras clave para la respuesta de parcial:
 - **Históricos y actuales** (mira hacia atrás y al presente).
 - **Decisiones estratégicas fundamentadas**.
 
+> 🔥 **Síntesis de clase (Clase 3, notas de cursada):** BI es el **uso de dashboards, Big Data y Data Mining para la toma de decisiones** basada en el análisis de información y la **predicción de patrones**. Es decir: BI **integra** a los otros dos temas del bloque (🔗 módulo [06](06-big-data.md), sección VIII).
+
 > 💡 **Para entenderlo – la escalera dato → decisión:**
 > - **Dato**: "Sucursal 4 vendió $2.300.000 en marzo."
 > - **Información**: "La Sucursal 4 vendió 18 % menos que en febrero, y es la única que bajó."
@@ -81,6 +83,8 @@ Palabras clave para la respuesta de parcial:
 ---
 
 ## II. Aspectos clave
+
+> 🔥 **Prioridad de parcial:** en el apunte de cursada esta lista está marcada literalmente como **"PONER EN PARCIAL"**. Aprendé los 4 aspectos (proceso, objetivo, componentes, herramientas) casi textuales.
 
 | # | Aspecto | Contenido |
 |---|---|---|
