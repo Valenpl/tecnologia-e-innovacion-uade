@@ -10,7 +10,9 @@ Cada módulo sigue el **Outlining Method**: primero el **esquema jerárquico** d
 
 ## 🗂️ Índice (en el orden en que se dieron las clases)
 
-> 📍 **Parcial 1: entra todo hasta el Día 3** (módulos 01–15). Si el alcance se amplía, se actualiza en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 📍 **Parcial 1: entra todo hasta el Día 3** (módulos 01–15, más el concepto de **MVP**). Si el alcance se amplía, se actualiza en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+>
+> 🚨 **Parcial anterior resuelto:** [23 · Parcial anterior (caso Nokia)](23-parcial-anterior-nokia.md). Alta probabilidad de que se repita: **empezá por ahí**.
 >
 > Los números de archivo responden a cómo se armó el material; **el orden de estudio es el de estas tablas**, que sigue la cursada (según las notas de clase: Clase 1 → Clase 2 → Clase 3 → Día 3).
 
@@ -54,7 +56,7 @@ Cada módulo sigue el **Outlining Method**: primero el **esquema jerárquico** d
 | # | Módulo | Qué vas a aprender | Fuente |
 |---|---|---|---|
 | 16 | [Proyectos y estrategia de innovación](16-proyectos-y-estrategia-de-innovacion.md) | Proyecto de innovación, tipos, estrategia de innovación, alineación, caso retail. | Proyecto de Innovación · Barrios |
-| 17 | [Lean Startup](17-lean-startup.md) | Eric Ries, las 10 fases, MVP, iterar vs. pivotar. ⚠️ El concepto de **MVP** sí conviene saberlo para el Parcial 1: lo menciona el Día 3. | Proyecto de Innovación · Barrios |
+| 17 | [Lean Startup](17-lean-startup.md) | Eric Ries, las 10 fases, MVP, iterar vs. pivotar. ⚠️ El concepto de **MVP** entra en el Parcial 1: lo menciona el Día 3 y es la pregunta 10 del parcial anterior. | Proyecto de Innovación · Barrios |
 | 18 | [KPI](18-kpi.md) | Anatomía, SMART, leading/lagging, DORA, SaaS, casos Spotify y Mercado Libre, costo de no medir. | KPI & OKR · Barrios |
 | 19 | [OKR](19-okr.md) | Estructura, KPI vs. OKR, cascada, 6 errores, pago contra hitos para freelancers. | KPI & OKR · Barrios |
 
@@ -64,6 +66,8 @@ Cada módulo sigue el **Outlining Method**: primero el **esquema jerárquico** d
 | 20 | [Glosario](20-glosario.md) | Todos los términos de la materia con link al módulo. |
 | 21 | [Preguntas integradoras](21-preguntas-integradoras.md) | 11 preguntas tipo parcial que cruzan varios temas, con respuesta modelo. |
 | 22 | [Guía del Parcial 1](22-foco-de-parcial.md) | Alcance, orden y plan de estudio, posibles preguntas resueltas, práctica tipo caso y checklist. |
+| 23 | [Parcial anterior resuelto (caso Nokia)](23-parcial-anterior-nokia.md) | Las 10 preguntas del examen anterior con respuesta modelo (citar y explayarse), variantes probables, Kodak/NEXA y plan de 4 h. |
+| — | [Casos](casos/README.md) | Enunciado del parcial anterior, caso Nokia de la cátedra (versión larga), TP NEXA y respuestas del grupo. |
 
 ---
 
@@ -122,6 +126,8 @@ Cada actualización del material se registra en [CHANGELOG.md](CHANGELOG.md) y s
 ├── 20-glosario.md
 ├── 21-preguntas-integradoras.md
 ├── 22-foco-de-parcial.md     ← guía del Parcial 1
+├── 23-parcial-anterior-nokia.md ← parcial anterior resuelto
+├── casos/                   ← parcial anterior, caso Nokia, caso NEXA
 ├── CHANGELOG.md             ← historial de versiones (tags por fecha)
 └── assets/                  ← diagramas SVG (curvas, ciclos, Doblin, embudos)
 ```

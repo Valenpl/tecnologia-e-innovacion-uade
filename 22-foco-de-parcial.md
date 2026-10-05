@@ -1,7 +1,9 @@
 # 22 · Guía del Parcial 1: alcance, foco y práctica
 
 > **Alcance:** entra **todo hasta el Día 3** (módulos 01–15). La lista puede ampliarse: si cambia, se actualiza la sección I y se registra en el [CHANGELOG](CHANGELOG.md).
-> **Fuentes de las prioridades:** apunte de cursada (marca "PONER EN PARCIAL" y resaltados), notas de clase (`#importante` y "Posibles preguntas") y el TP del caso NEXA.
+> **Fuentes de las prioridades:** apunte de cursada (marca "PONER EN PARCIAL" y resaltados), notas de clase (`#importante` y "Posibles preguntas"), el TP del caso NEXA y el **parcial anterior** (caso Nokia).
+>
+> 🚨 **Parcial anterior:** hay alta probabilidad (7–8/10) de que el Parcial 1 sea igual o muy parecido al de la cursada anterior. Está **resuelto pregunta por pregunta** en [23 · Parcial anterior resuelto](23-parcial-anterior-nokia.md), con un plan de 4 h + repaso. **Si tenés poco tiempo, empezá por ahí.**
 > **Tiempo estimado:** ~14 h para los 15 módulos + 2 h de práctica (secciones VI–VIII).
 
 ---
@@ -18,6 +20,7 @@
   2. Etapas del proceso creativo (citar y explicar)
 - **VII. Práctica tipo caso (TP NEXA)**
 - **VIII. Checklist de repaso final**
+- **IX. Parcial anterior (caso Nokia)**
 
 ---
 
@@ -29,7 +32,7 @@
 | ✅ Entra | **Clase 2** · Barrios | [07](07-empresas-unicornio.md) · [08](08-curvas-de-la-tecnologia.md) · [09](09-schumpeter-destruccion-creativa-y-ciclos.md) · [10](10-gestion-de-la-innovacion.md) |
 | ✅ Entra | **Clase 3** · Escandell (datos) | [04](04-business-intelligence.md) · [05](05-data-mining.md) · [06](06-big-data.md) |
 | ✅ Entra | **Día 3** | [11](11-creatividad-y-proceso-creativo.md) · [12](12-innovacion-tecnologica-e-ia.md) · [13](13-design-thinking.md) · [14](14-innovacion-abierta.md) · [15](15-entornos-vica-y-vani.md) |
-| 🟡 Solo el concepto | — | **MVP** (se desarrolla en [17](17-lean-startup.md)): el Día 3 lo menciona y está en las posibles preguntas. Ver VI.1. |
+| ✅ Entra (concepto) | — | **MVP** (se desarrolla en [17](17-lean-startup.md)): lo menciona el Día 3, está en las posibles preguntas y es la **pregunta 10 del parcial anterior**. Ver VI.1 y [23](23-parcial-anterior-nokia.md) V.10. De Lean Startup alcanza con MVP, construir-medir-aprender, iterar y pivotar. |
 | ⏳ Por ahora no entra | Proyecto de innovación · KPI & OKR | [16](16-proyectos-y-estrategia-de-innovacion.md) · [17](17-lean-startup.md) · [18](18-kpi.md) · [19](19-okr.md) |
 
 > 💡 Si el alcance se amplía, alcanza con mover la fila de ⏳ a ✅, sumar el bloque a la sección II y registrar el cambio en el CHANGELOG.
@@ -63,6 +66,7 @@ Estudiá **en el orden de las clases**, no en el orden numérico de los archivos
 | `#importante` | Notas · Clase 2 | **Gestión de la innovación** (Doblin + Gestión 2.0). |
 | `#importante` | Notas · repaso previo al parcial | **Data Mining** y **Big Data**. |
 | **"Posibles preguntas"** | Notas de clase | **¿Qué es un MVP?** · **Etapas del proceso creativo, citar y explicar.** |
+| **Parcial anterior** | Examen de la cursada anterior | 5 preguntas teóricas (creatividad vs. innovación, Big Data + 5V, BI vs. Data Mining, Design Thinking, Doblin) + 5 sobre el **caso Nokia** (curva S, disrupción y Schumpeter, Gestión 2.0, opinión pública, MVP). Resuelto en [23](23-parcial-anterior-nokia.md). |
 | **TP caso NEXA** | Trabajo práctico | 15 preguntas sobre curva S, Gartner, adopción, Schumpeter, Doblin, Gestión 2.0 y opinión pública: muestra el **formato probable** (aplicar conceptos a un caso). |
 
 > ⚠️ **Ojo con la lectura:** que un tema del Día 3 tenga pocas marcas **no significa que no se evalúe**: entra igual. Las marcas solo indican dónde poner **más** horas.
@@ -231,4 +235,25 @@ Recorré las **5 etapas** (preparación con datos del mercado e informe sobre OR
 
 ---
 
-[← 21 Preguntas integradoras](21-preguntas-integradoras.md) · [🏠 Índice](README.md)
+## IX. Parcial anterior (caso Nokia)
+
+El examen de la cursada anterior está transcripto en [casos/parcial-anterior-nokia.md](casos/parcial-anterior-nokia.md) y **resuelto** en [23 · Parcial anterior resuelto](23-parcial-anterior-nokia.md).
+
+| Pregunta | Tema | Módulos | Resolución |
+|---|---|---|---|
+| 1 | Innovación tecnológica vs. creatividad | [11](11-creatividad-y-proceso-creativo.md) · [01](01-tecnologia-e-innovacion-fundamentos.md) | [23](23-parcial-anterior-nokia.md) III.1 |
+| 2 | Big Data y las 5 V | [06](06-big-data.md) | III.2 |
+| 3 | BI vs. Data Mining | [04](04-business-intelligence.md) · [05](05-data-mining.md) | III.3 |
+| 4 | Design Thinking + etapas | [13](13-design-thinking.md) | III.4 |
+| 5 | 10 tipos de Doblin (3 categorías) | [10](10-gestion-de-la-innovacion.md) | III.5 |
+| 6 | Curva S aplicada a Nokia | [08](08-curvas-de-la-tecnologia.md) · [03](03-tecnologias-disruptivas.md) | V.6 |
+| 7 | Disrupción y destrucción creativa | [03](03-tecnologias-disruptivas.md) · [09](09-schumpeter-destruccion-creativa-y-ciclos.md) | V.7 |
+| 8 | Gestión 2.0 e interdisciplina | [10](10-gestion-de-la-innovacion.md) | V.8 |
+| 9 | Opinión pública, desarrolladores y valuación | [07](07-empresas-unicornio.md) | V.9 |
+| 10 | MVP | [17](17-lean-startup.md) · VI.1 de esta guía | V.10 |
+
+> 💡 **Qué cambia en la estrategia:** las preguntas del parcial anterior pasan a ser **lo primero que se estudia**; el resto del temario (checklist VIII) queda como cobertura para el 20–30 % que puede variar.
+
+---
+
+[← 21 Preguntas integradoras](21-preguntas-integradoras.md) · [🏠 Índice](README.md) · [Siguiente → 23 Parcial anterior resuelto](23-parcial-anterior-nokia.md)

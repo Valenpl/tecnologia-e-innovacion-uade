@@ -108,7 +108,7 @@ flowchart LR
 
 ## IV. Orden sugerido de la materia
 
-Estudiá en el **orden en que se dieron las clases**, no en el orden numérico de los archivos (que responde a cómo se armó el material). Para el **Parcial 1 entra todo hasta el Día 3**; el alcance actualizado y el plan de estudio están en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+Estudiá en el **orden en que se dieron las clases**, no en el orden numérico de los archivos (que responde a cómo se armó el material). Para el **Parcial 1 entra todo hasta el Día 3**; el alcance actualizado y el plan de estudio están en [22 · Guía del Parcial 1](22-foco-de-parcial.md), y el **parcial anterior resuelto** en [23](23-parcial-anterior-nokia.md).
 
 ```mermaid
 flowchart TB

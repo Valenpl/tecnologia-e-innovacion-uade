@@ -2,6 +2,22 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.05.4 — 2026-10-05
+
+**Motivo:** apareció el **parcial de la cursada anterior** (caso Nokia vs. Apple), con alta probabilidad (7–8/10) de repetirse, y se agregaron archivos nuevos en la carpeta `TP/` (caso Nokia de la cátedra y versiones del TP NEXA).
+
+### Agregado
+- **23 · Parcial anterior resuelto:** las 10 preguntas (5 teóricas + 5 sobre el caso Nokia) con cita de la cátedra, respuesta modelo **citar y explayarse**, esqueleto para memorizar y trampas; resumen del caso, 8 variantes probables con el mismo caso, tabla Nokia / Kodak / NEXA, plan de 4 h + repaso y simulacro.
+- **casos/**: enunciado del parcial anterior, caso Nokia de la cátedra (versión larga, convertido con `markitdown` y limpiado: flechas y tablas reconstruidas), enunciado del TP NEXA y respuestas del grupo (preguntas 1–6, sin datos personales).
+- **Glosario:** ambidestreza, cultura del miedo, ecosistema, explotar/explorar, miopía temporal, resiliencia organizacional.
+
+### Cambiado
+- **22:** el parcial anterior pasa a ser la primera señal de prioridad (aviso en la cabecera, fila en la sección III y nueva sección IX); el **MVP entra** en el alcance.
+- **README** y **00:** acceso directo al módulo 23 y a `casos/`.
+
+### Fuera del repo
+- `TP-md/`: conversión a markdown de todos los archivos de `TP/` (incluidos borradores).
+
 ## v2026.10.05.3 — 2026-10-05
 
 **Motivo:** el índice no seguía el orden de la cursada y no estaba claro qué estudiar. Alcance del **Parcial 1: todo hasta el Día 3** (puede ampliarse).

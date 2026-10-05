@@ -9,6 +9,7 @@
 | **Aceleradora corporativa** | Estructura interna que da mentoría, recursos e infraestructura a emprendedores a cambio de pilotar soluciones. | [14](14-innovacion-abierta.md) |
 | **Adoption Rate** | Usuarios activos / licencias contratadas. Meta > 75 %. | [18](18-kpi.md) |
 | **Adoptadores tempranos** | 13,5 % de la curva de adopción; visionarios. | [08](08-curvas-de-la-tecnologia.md) |
+| **Ambidestreza** | Mantener el negocio actual (explotar) mientras se desarrolla agresivamente el futuro (explorar). Exige recursos, liderazgo y estructura. | [23](23-parcial-anterior-nokia.md) |
 | **Análisis morfológico** | Técnica creativa: descomponer un problema en componentes y combinar opciones. | [11](11-creatividad-y-proceso-creativo.md) |
 | **ARR / MRR** | Ingreso recurrente anual / mensual. | [18](18-kpi.md) |
 | **Árbol de decisión** | Técnica de Data Mining: modelo visual de reglas para clasificar o predecir. | [05](05-data-mining.md) |
@@ -27,6 +28,7 @@
 | **Code Coverage** | Líneas testeadas / total × 100. Meta > 80 %. | [18](18-kpi.md) |
 | **Corporate Venture Capital (CVC)** | Cartera de inversiones de una gran empresa en múltiples startups simultáneamente. | [14](14-innovacion-abierta.md) |
 | **Creatividad** | Capacidad de generar nuevas ideas y conceptos por medio de la creación, cambios y mejoras. | [11](11-creatividad-y-proceso-creativo.md) |
+| **Cultura del miedo** | Caso Nokia: directivos que temen a la competencia y mandos medios que no comunican malas noticias → información distorsionada y decisiones lentas. | [23](23-parcial-anterior-nokia.md) |
 | **Curva de adopción** | Cómo distintos grupos adoptan una tecnología: 2,5 / 13,5 / 34 / 34 / 16 %. | [08](08-curvas-de-la-tecnologia.md) |
 | **Curva S** | Evolución del desempeño de una tecnología: despegue lento, crecimiento acelerado, saturación (Christensen). | [08](08-curvas-de-la-tecnologia.md) |
 | **Data Mining** | Proceso técnico y automatizado que descubre patrones ocultos en grandes volúmenes de datos con estadística e IA. | [05](05-data-mining.md) |
@@ -37,8 +39,10 @@
 | **Destrucción creativa** | Proceso de transformación que acompaña a la innovación (Schumpeter). | [09](09-schumpeter-destruccion-creativa-y-ciclos.md) |
 | **Doblin (10 tipos)** | Configuración (4), Oferta (2), Experiencia (4). | [10](10-gestion-de-la-innovacion.md) |
 | **DORA metrics** | Deployment frequency, lead time, change failure rate, MTTR. | [18](18-kpi.md) |
+| **Ecosistema (plataforma)** | Competencia donde el valor del dispositivo depende de desarrolladores, apps, usuarios y socios: *ecosistema vs. ecosistema*. | [23](23-parcial-anterior-nokia.md) |
 | **Embudo de desarrollo** | Modelo cerrado y secuencial que filtra ideas (Wheelwright & Clark, 1992). | [14](14-innovacion-abierta.md) |
 | **Estrategia de innovación** | Plan que vincula las mejoras novedosas con la estrategia comercial; hoja de ruta. | [16](16-proyectos-y-estrategia-de-innovacion.md) |
+| **Explotar / Explorar** | Explotar: seguir mejorando el negocio actual (menor riesgo inmediato). Explorar: apostar por una nueva plataforma (posicionarse antes, más riesgo). | [23](23-parcial-anterior-nokia.md) |
 | **Gemelo digital** | Réplica virtual para simular escenarios antes de aplicarlos en la realidad. | [02](02-impactos-y-desafios.md) |
 | **Gestión de la Innovación 2.0** | Liderazgo, inversión/procesos, estructura en red, estilos de liderazgo, fracaso, trabajo en equipo. | [10](10-gestion-de-la-innovacion.md) |
 | **Hype Cycle (Gartner)** | Ciclo de expectativas: detonante, pico, abismo, pendiente, meseta. | [08](08-curvas-de-la-tecnologia.md) |
@@ -63,8 +67,9 @@
 | **Lean Startup** | Metodología de Eric Ries para reducir riesgo y desperdicio con prototipos, experimentación y aprendizaje. | [17](17-lean-startup.md) |
 | **LTV / CAC** | Relación valor de vida del cliente / costo de adquirirlo; saludable ≥ 3:1. | [18](18-kpi.md) |
 | **Machine learning** | Subcampo de la IA: sistemas que aprenden de los datos. | [12](12-innovacion-tecnologica-e-ia.md) |
+| **Miopía temporal** | Concentración excesiva en la innovación de corto plazo en detrimento de la de mayor beneficio futuro (caso Nokia). | [23](23-parcial-anterior-nokia.md) |
 | **MTTR** | Tiempo medio de recuperación ante falla. | [18](18-kpi.md) |
-| **MVP** | Producto mínimo viable para probar hipótesis con usuarios reales. | [17](17-lean-startup.md) |
+| **MVP** | Producto mínimo viable para probar hipótesis con usuarios reales. | [17](17-lean-startup.md) · [23](23-parcial-anterior-nokia.md) |
 | **NPS** | % promotores − % detractores. | [18](18-kpi.md) |
 | **OKR** | Objectives and Key Results: sistema que conecta metas aspiracionales con indicadores medibles. | [19](19-okr.md) |
 | **Pivotar** | Cambiar aspectos clave del negocio cuando el mercado no valida. | [17](17-lean-startup.md) |
@@ -72,6 +77,7 @@
 | **Proyecto de innovación** | Esfuerzo planificado y estratégico para introducir cambios significativos que generen valor. | [16](16-proyectos-y-estrategia-de-innovacion.md) |
 | **Reglas de asociación** | Técnica de Data Mining: qué elementos aparecen juntos (cesta de compra). | [05](05-data-mining.md) |
 | **Regresión** | Técnica de Data Mining para predecir valores numéricos continuos. | [05](05-data-mining.md) |
+| **Resiliencia organizacional** | Capacidad de perder un negocio central y usar las capacidades restantes para construir una nueva posición (Nokia → redes). | [23](23-parcial-anterior-nokia.md) |
 | **SCAMPER** | Sustituir, Combinar, Adaptar, Modificar, Poner en otro uso, Eliminar, Revertir. | [11](11-creatividad-y-proceso-creativo.md) |
 | **Self-Service BI** | Usuarios de negocio sin conocimientos técnicos consultan datos y crean informes. | [04](04-business-intelligence.md) |
 | **SLA** | Acuerdo de nivel de servicio; el KPI como compromiso contractual. | [18](18-kpi.md) |
