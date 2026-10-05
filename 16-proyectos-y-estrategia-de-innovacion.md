@@ -93,6 +93,8 @@ Toda esta unidad responde a esa pregunta: la innovación tiene que **planificars
 
 > 📌 *"Un proyecto de innovación es fundamental porque **transforma ideas en soluciones tangibles** que mejoran procesos, crean productos novedosos y generan un cambio positivo en la sociedad. Permite a empresas **mantenerse competitivas**, aumenta la eficiencia (**hacer más con menos**) y resuelve problemas complejos, impulsando el **desarrollo económico y social**."*
 
+> 📝 **Citar y explayarse:** La cátedra define el proyecto de innovación como *"un esfuerzo planificado y estratégico para introducir cambios significativos, nuevos productos, servicios o procesos"* que resuelven problemas *"de manera creativa y mejorada"*. Lo que lo diferencia de una idea suelta es que está **planificado**: tiene objetivo, recursos, plazos y responsables, y está conectado con la estrategia. Su importancia está en que *"transforma ideas en soluciones tangibles"*, permite a las empresas *"mantenerse competitivas"* y aumentar la eficiencia —*"hacer más con menos"*—. Es el puente entre la creatividad y la innovación: sin proyecto, la idea no llega a la práctica. Implementar turnos online en una clínica es un proyecto de innovación si se define qué problema resuelve, quién lo lleva adelante, con qué presupuesto y cómo se va a medir el resultado.
+
 ### II.D Elementos clave
 
 Seis elementos. La forma más fácil de recordarlos es como **seis preguntas**:
@@ -134,6 +136,8 @@ Seis elementos. La forma más fácil de recordarlos es como **seis preguntas**:
 ## III. Tipos de proyectos de innovación
 
 > 📌 *"Los tipos principales se clasifican por su **impacto** (incremental, radical, disruptivo) o por su **área de aplicación**, destacando los de producto, proceso, organizacionales, tecnológicos y sociales."*
+
+> 📝 **Citar y explayarse:** Según la cátedra, los proyectos de innovación se clasifican por su **impacto** —incremental, radical o disruptivo— o por su **área de aplicación** —producto, proceso, organizacional, tecnológica o social—. Son dos criterios distintos que se combinan: el primero mide **cuánto** cambia; el segundo, **dónde** cambia. Un mismo proyecto puede ser incremental y de proceso (automatizar la facturación de una empresa) o disruptivo y de producto (lanzar un servicio que reemplaza a otro). Clasificar bien un proyecto sirve para estimar su riesgo y los recursos que va a necesitar: uno disruptivo implica bastante más incertidumbre que uno incremental.
 
 ```mermaid
 flowchart TB
@@ -208,6 +212,8 @@ flowchart TB
 
 > 📌 *"Una estrategia de innovación es el **plan estructurado que vincula las mejoras novedosas con la estrategia comercial** de la organización, definiendo **objetivos, prioridades y recursos** necesarios para **crear valor**. Actúa como una **hoja de ruta** para competir mejor, fomentando la **experimentación, el aprendizaje y el crecimiento sostenido a largo plazo**."*
 
+> 📝 **Citar y explayarse:** La cátedra define la estrategia de innovación como *"el plan estructurado que vincula las mejoras novedosas con la estrategia comercial"*, definiendo *"objetivos, prioridades y recursos"* para crear valor, y la compara con una *"hoja de ruta"*. Esto significa que la estrategia decide **qué** innovaciones conviene encarar, **en qué orden** y **con qué recursos**, según cómo quiere competir la empresa. Sin ella, la innovación se dispersa en ideas sueltas que no suman. Además, fomenta *"la experimentación, el aprendizaje y el crecimiento sostenido a largo plazo"*, porque asume que no todos los proyectos van a funcionar. Una cadena de retail que decide priorizar la experiencia digital del cliente, y en función de eso elige qué proyectos financiar, está aplicando una estrategia de innovación.
+
 ### V.B Componentes para elaborarla
 
 | # | Componente | Explicación |
@@ -261,6 +267,8 @@ flowchart LR
         b2 --> K
     end
 ```
+
+> 📝 **Citar y explayarse:** Según la nota del docente, la innovación alineada *"no es un producto ni una herramienta"* sino *"un concepto de gestión empresarial"* que consiste en *"conectar las metas de innovación de una organización con sus objetivos de negocio generales"*. La idea es que innovar no es valioso en sí mismo: lo es cuando contribuye a lo que la empresa necesita lograr. Innovar sin alineación produce proyectos que no generan valor, dispersión de recursos, soluciones que el cliente no necesita e imposibilidad de medir el éxito. Con alineación, cada proyecto se justifica por el objetivo de negocio al que aporta y se mide con indicadores comunes. Si el objetivo de una cadena de retail es recuperar clientes, una app de fidelización está alineada; un proyecto de realidad virtual sin relación con ese objetivo, probablemente no.
 
 ---
 

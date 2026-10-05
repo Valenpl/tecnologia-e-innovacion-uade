@@ -72,6 +72,8 @@ Palabras clave para la respuesta de parcial:
 - **Históricos y actuales** (mira hacia atrás y al presente).
 - **Decisiones estratégicas fundamentadas**.
 
+> 📝 **Citar y explayarse:** La cátedra define el Business Intelligence como *"el conjunto de tecnologías, procesos y herramientas que transforman datos brutos en información significativa y accionable"*. Que sea un **conjunto** significa que no es un software puntual sino una forma de trabajar con los datos que combina herramientas (como Power BI), procesos (recolectar, almacenar, analizar, visualizar) y personas que deciden. Su aporte es convertir datos sueltos en información **accionable**, es decir, que indica qué hacer; y lo hace mirando datos **históricos y actuales** para tomar *"decisiones estratégicas fundamentadas"* en lugar de intuiciones. Por ejemplo, una cadena de supermercados que ve en un dashboard que una sucursal cae en ventas mientras las demás suben puede investigar la causa y actuar a tiempo.
+
 > 🔥 **Síntesis de clase (Clase 3, notas de cursada):** BI es el **uso de dashboards, Big Data y Data Mining para la toma de decisiones** basada en el análisis de información y la **predicción de patrones**. Es decir: BI **integra** a los otros dos temas del bloque (🔗 módulo [06](06-big-data.md), sección VIII).
 
 > 💡 **Para entenderlo – la escalera dato → decisión:**
@@ -84,7 +86,7 @@ Palabras clave para la respuesta de parcial:
 
 ## II. Aspectos clave
 
-> 🔥 **Prioridad de parcial:** en el apunte de cursada esta lista está marcada literalmente como **"PONER EN PARCIAL"**. Aprendé los 4 aspectos (proceso, objetivo, componentes, herramientas) casi textuales.
+> 🔥 **Prioridad de parcial:** en el apunte de cursada esta lista está marcada literalmente como **"PONER EN PARCIAL"**. Aprendé los 4 aspectos (proceso, objetivo, componentes, herramientas) para **citarlos y explicar cada uno con un ejemplo**.
 
 | # | Aspecto | Contenido |
 |---|---|---|

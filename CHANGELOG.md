@@ -2,6 +2,21 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.05.2 — 2026-10-05
+
+**Motivo:** el profesor pidió **no citar a secas, sino citar y explayarse**, y advirtió que la diapositiva de *Objetivos* de Big Data mezcla contenido de Data Mining (los apuntes hay que leerlos con criterio).
+
+### Agregado
+- Convención **📝 Citar y explayarse** (README y módulo 00): párrafo modelo que cita a la cátedra y la desarrolla con palabras propias, ejemplo y consecuencia.
+- **51 bloques 📝** en los módulos 01–19, uno por cada definición o idea central de la cátedra.
+- **06 · III.+ Lectura crítica**: tabla que separa, objetivo por objetivo, qué es Big Data y qué es en rigor Data Mining; advertencia en *Importancia* y nueva fila en *Conceptos que se confunden*.
+- **05**: aviso del cruce con los objetivos de Big Data.
+- **22**: la sección III pasa a "citar y desarrollar"; nueva prioridad y checklist sobre el cruce Big Data / Data Mining.
+
+### Cambiado
+- Se reemplazó el consejo de saber definiciones "casi textuales" por "citar y explayarse" (00, 04, 22, README).
+- **09**: la lectura del gráfico País 1–4 queda como interpretación del apunte (coherente con Schumpeter), no como dato de la diapositiva.
+
 ## v2026.10.05 — 2026-10-05
 
 **Fuentes integradas:** apunte de cursada (PDF *Tecnología e Innovación*, Clases 1–2) y notas de clase (*Tendencias Tecnológicas*: Clase 1, Clase 2, Clase 3, repaso).

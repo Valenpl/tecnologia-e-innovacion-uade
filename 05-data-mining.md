@@ -95,11 +95,13 @@ Desglose en esquema:
 
 > 🔥 **Síntesis de clase (Clase 3, notas de cursada):** Data Mining consiste en **encontrar patrones que se repiten en grandes volúmenes de información**. Si tenés que definirlo en una línea, es esta.
 
+> 📝 **Citar y explayarse:** La cátedra define la minería de datos como *"un proceso técnico y automatizado que analiza grandes volúmenes de información (Big Data) para descubrir patrones, tendencias, anomalías y correlaciones ocultas"*. Lo que la distingue es que busca lo **oculto**: relaciones que no se ven a simple vista ni con una consulta común, y que aparecen al aplicar **técnicas estadísticas y de inteligencia artificial** sobre muchos datos. Ese descubrimiento sirve para *"convertir datos brutos en conocimiento estratégico"*, sobre todo para **predecir** comportamientos. Un banco, por ejemplo, puede descubrir que los clientes con varios reclamos en poco tiempo y poca antigüedad tienden a irse, y usar ese patrón para retenerlos antes. A diferencia de Big Data, que **gestiona** los datos, Data Mining los **analiza**.
+
 ---
 
 ## III. Objetivos
 
-> 🔥 **Prioridad de parcial:** Data Mining quedó marcado como **#importante** en las notas del repaso previo al parcial, y en el apunte de cursada están **resaltados** los objetivos 2, 3 y 4, los usos 1–3 de *Para qué sirve* y las 3 *Características* (marcados con 🔥 abajo). Fijate que se repite el mismo núcleo en las tres listas: **predecir · segmentar · detectar fraude**.
+> 🔥 **Prioridad de parcial:** Data Mining quedó marcado como **#importante** en las notas del repaso previo al parcial, y en el apunte de cursada están **resaltados** los objetivos 2, 3 y 4, los usos 1–3 de *Para qué sirve* y las 3 *Características* (marcados con 🔥 abajo). Fijate que se repite el mismo núcleo en las tres listas: **predecir · segmentar · detectar fraude**. ⚠️ Estos mismos puntos aparecen también en la diapositiva de *Objetivos* de **Big Data**, donde en rigor están fuera de lugar: ver módulo [06](06-big-data.md), III.+.
 
 1. **Identificación de patrones y tendencias** – descubrir comportamientos, asociaciones o secuencias **ocultas** que no son evidentes a simple vista.
 2. 🔥 **Predicción de comportamientos (modelado predictivo)** – usar datos históricos para **pronosticar** tendencias futuras: demanda, riesgos financieros, **probabilidad de fuga de clientes**.

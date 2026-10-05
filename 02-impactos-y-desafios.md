@@ -109,11 +109,15 @@ flowchart LR
 
 > ⚠️ Fijate en **"a largo plazo"**: la innovación rara vez paga en el corto plazo. Esto se conecta con la **Gestión de la innovación 2.0** (módulo [10](10-gestion-de-la-innovacion.md)), donde la cátedra dice que *el cortoplacismo va en detrimento de la innovación*.
 
+> 📝 **Citar y explayarse:** La cátedra afirma que invertir en innovación tecnológica *"fortalece la defensa contra amenazas externas, ayuda a abordar riesgos internos"* y mejora la eficiencia, lo que se traduce en *"un retorno de inversión significativo a largo plazo"*. La clave está en el **largo plazo**: la inversión tiene un costo inmediato (equipos, capacitación, cambio de procesos) y sus beneficios llegan después, en forma de menos incidentes, procesos más rápidos y mejor posición competitiva. Por eso las empresas cortoplacistas tienden a invertir de menos. Por ejemplo, implementar ciberseguridad proactiva cuesta hoy, pero evita una filtración de datos que podría costar mucho más en multas y reputación.
+
 ---
 
 ## III. Impactos en la sociedad
 
 > 📌 *"La técnica, tecnología e innovación impactan profundamente la sociedad actual al aumentar la productividad, facilitar la conectividad global, transformar el trabajo remoto y mejorar diagnósticos médicos. Impulsan el aprendizaje en línea, el comercio electrónico y el acceso a la información."*
+
+> 📝 **Citar y explayarse:** Para la cátedra, la técnica, la tecnología y la innovación *"impactan profundamente la sociedad actual"*: aumentan la productividad, facilitan la conectividad global, transforman el trabajo remoto y mejoran los diagnósticos médicos. Lo que estos impactos tienen en común es que **cambian cómo las personas se relacionan, trabajan y acceden a servicios**, no solo las herramientas que usan. El trabajo remoto, por ejemplo, no es solo una videollamada: reorganiza horarios, ciudades y formas de contratar. Pero estos impactos no llegan a todos por igual, y por eso la materia los presenta junto con sus **desafíos** (brecha digital, ciberseguridad, ética).
 
 ### III.1 Conectividad y comunicación
 - Interacción **inmediata** y **acortamiento de distancias**.

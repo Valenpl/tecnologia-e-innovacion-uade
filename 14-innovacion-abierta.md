@@ -84,6 +84,8 @@ flowchart LR
     F2 -.->|"descartadas"| X
 ```
 
+> 📝 **Citar y explayarse:** Según la cátedra, el embudo de Wheelwright y Clark describe un proceso *"lineal, secuencial y cerrado"* basado en una idea: *"una empresa siempre genera muchas más ideas de las que financieramente puede o debe ejecutar"*. Por eso el desarrollo funciona como un **filtro** que descarta opciones en cada etapa hasta que solo las mejores llegan al mercado. El rasgo clave es que es **cerrado**: todas las ideas nacen adentro, todo se desarrolla adentro y lo descartado queda archivado sin aprovecharse. Ese es justamente el punto que critica Chesbrough: las ideas descartadas pueden tener valor para otros, y las ideas externas pueden ser mejores que las propias. Un laboratorio corporativo que patenta tecnologías que nunca usa es el ejemplo típico de este modelo.
+
 ### II.B La ruptura del modelo tradicional
 
 #### II.B.1 Premisa central
@@ -92,6 +94,8 @@ flowchart LR
 #### II.B.2 Factores de cambio
 1. **Alta movilidad laboral** de profesionales calificados (el talento se va a otras empresas o funda startups, llevándose el conocimiento).
 2. **Auge del capital de riesgo** (*venture capital*): hay dinero disponible para que las ideas se desarrollen **fuera** de las grandes empresas.
+
+> 📝 **Citar y explayarse:** La premisa central de la innovación abierta es que *"el conocimiento útil está distribuido globalmente de forma fragmentada"* y que ninguna empresa, *"sin importar su tamaño"*, puede *"monopolizar eficazmente todo el talento"*. Esto se volvió cierto por dos factores: la **alta movilidad laboral**, porque los profesionales cambian de empresa o fundan startups llevándose el conocimiento, y el **auge del capital de riesgo**, que financia ideas fuera de las grandes compañías. La consecuencia es que la vieja lógica de contratar a los mejores y desarrollar todo adentro deja de alcanzar: lo más valioso puede estar en una startup, una universidad o un proveedor. Por eso las grandes tecnológicas compran startups o se asocian con ellas en lugar de desarrollarlo todo por su cuenta.
 
 #### II.B.3 El mantra obsoleto
 > *"Si queremos que algo salga bien, debemos hacerlo nosotros mismos."*
@@ -152,6 +156,8 @@ flowchart LR
 - Hoy la tecnología y la demanda cambian a una velocidad tal que **si desarrollás todo adentro, llegás tarde** al mercado.
 - Abrirse al exterior **no es una moda: es una regla de supervivencia**.
 
+> 📝 **Citar y explayarse:** La cátedra resume el nuevo imperativo diciendo que *"las empresas ya no pueden sobrevivir siendo islas tecnológicas"* y que *"el éxito depende de cooperar con el mundo exterior"*. La razón es la velocidad: antes un producto podía sostener a una empresa durante años, pero hoy la tecnología y la demanda cambian tan rápido que desarrollar todo internamente implica **llegar tarde** al mercado. Cooperar permite usar tecnologías ajenas sin inventarlas y, a la vez, obtener ingresos de las propias que no se usan, por ejemplo licenciándolas. No es una moda sino una **condición de supervivencia**, sobre todo en entornos inestables como los que describe el modelo VANI (módulo [15](15-entornos-vica-y-vani.md)).
+
 ### IV.2 No tenés que inventarlo todo para usarlo ("crear… tecnología")
 - Las corporaciones sufrían el síndrome **"No fue inventado aquí"** (*Not Invented Here*): si sus ingenieros no lo habían creado, lo rechazaban.
 - Chesbrough demostró que se pueden crear productos revolucionarios **integrando piezas del rompecabezas que otros ya armaron**.
@@ -183,6 +189,8 @@ flowchart LR
 ### V.B El cambio: propiedad intelectual flexible
 
 > 📌 *"Chesbrough explicó que esta protección extrema se volvió **un freno**. En lugar de gastar recursos en esconder todo, la innovación abierta propone que la **propiedad intelectual sea flexible**: si tenés una patente que no usás, **la licenciás o la vendés**; y si necesitás una tecnología externa, **pagás por ella o te asociás**."*
+
+> 📝 **Citar y explayarse:** Chesbrough sostiene que la protección extrema de la propiedad intelectual *"se volvió un freno"*, y que la innovación abierta propone que sea **flexible**: *"si tenés una patente que no usás, la licenciás o la vendés; y si necesitás una tecnología externa, pagás por ella o te asociás"*. El cambio de mentalidad es pasar de ver la propiedad intelectual como un muro para **esconder** conocimiento a verla como un **activo que circula** y genera valor en ambas direcciones. Guardar una patente sin usarla tiene costo y no produce nada; licenciarla genera ingresos y puede abrir mercados nuevos. Por ejemplo, una farmacéutica puede licenciar a otra un compuesto que no va a desarrollar y, a la vez, comprarle a una startup una tecnología de diagnóstico que no tiene.
 
 ### V.C Paradigma cerrado vs. abierto
 
@@ -217,6 +225,8 @@ flowchart LR
 - *"Es, literalmente, **crear un fondo de inversión propio dentro de la compañía**."*
 
 > 💡 **Por qué funciona:** es una **cartera de apuestas**. La mayoría de las startups fracasará, pero alcanza con que una o dos sean enormes. Además, la empresa **ve antes que nadie** qué tecnologías están despegando (las nuevas curvas S). Esto será clave en el entorno **No Lineal** del módulo [15](15-entornos-vica-y-vani.md).
+
+> 📝 **Citar y explayarse:** La cátedra define una cartera de Corporate Venture Capital como *"el conjunto de inversiones financieras y estratégicas que realiza una gran empresa en múltiples startups tecnológicas de forma simultánea"*; es, literalmente, *"crear un fondo de inversión propio dentro de la compañía"*. Su lógica es la de una **cartera de apuestas**: en lugar de concentrar el presupuesto en un laboratorio interno o en una sola idea, la empresa reparte pequeñas participaciones entre muchas startups, sabiendo que la mayoría fracasará pero que alcanza con que una o dos tengan éxito. Además de la rentabilidad, le da una ventaja estratégica: ve antes que nadie qué tecnologías están despegando. Google Ventures, el brazo inversor de Alphabet, es el caso que analiza la cátedra.
 
 ---
 

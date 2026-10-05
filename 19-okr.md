@@ -121,6 +121,8 @@ flowchart LR
 
 > 💡 **Analogía:** los KPI son el **tablero del auto** (velocidad, temperatura, combustible: siempre encendido). El OKR es **el destino del viaje** de este trimestre y los hitos que te dicen si estás llegando.
 
+> 📝 **Citar y explayarse:** La cátedra define OKR como *"un sistema de gestión de objetivos que conecta metas aspiracionales con indicadores medibles de progreso, para alinear a toda la organización en torno a lo que realmente importa"*. Se compone de un **Objective**, cualitativo e inspirador, y de **Key Results**, medibles, que prueban si se logró. Con los KPI se complementa: *"los KPI te dicen cómo estás; los OKR te dicen adónde querés ir"*, y un buen KR es *"un KPI con contexto estratégico"*. Es decir, los KPI son el tablero del auto, siempre encendido, y el OKR es el destino del viaje de este trimestre. Un objetivo como "ofrecer una plataforma en la que nuestros clientes confíen" puede medirse, por ejemplo, con el KR "uptime mayor al 99,95 % en el tercer trimestre".
+
 ---
 
 ## IV. Cómo escribir un buen Objective
@@ -156,6 +158,8 @@ Un buen Objective:
 | Escalar comercialmente | **MRR de USD 50K al fin del Q** | "Conseguir más clientes" | **Ambiguo, no verificable** |
 
 > 📌 **Regla práctica:** *"Si **alguien externo al equipo** puede verificar si el KR se cumplió o no, **sin necesidad de interpretación**, está bien definido."*
+
+> 📝 **Citar y explayarse:** Para la cátedra, los KR son *"la evidencia del logro"*: si un KR no puede responder *"¿cómo sabemos que lo logramos?"*, no es válido. De ahí salen dos reglas. La **regla de oro**: *"si se cumplen todos los KR, el Objective debería estar logrado"*; si no, los KR están mal elegidos. Y la **regla práctica**: un KR está bien definido si *"alguien externo al equipo puede verificar si se cumplió o no, sin necesidad de interpretación"*. El error más común es confundir un KR con una iniciativa: "mejorar los procesos de QA" es algo que se hace; "Defect Escape Rate menor al 3 %" es un resultado que se verifica.
 
 ---
 
@@ -207,6 +211,8 @@ flowchart TB
 
 > ⚠️ **Error típico:** copiar el objetivo de la empresa en cada área. Ingeniería no puede "ser la plataforma #1 en LATAM" sola; **sí puede** "entregar features sin interrupciones", que **contribuye** a eso.
 
+> 📝 **Citar y explayarse:** La cátedra explica que *"los OKR se definen primero a nivel empresa, luego se cascadean a equipos"*, y que cada equipo elige aquellos donde *"puede tener impacto real"*. La clave es que los OKR del equipo *"no replican los de empresa palabra por palabra"*: son *"la contribución real del equipo a ese objetivo mayor"*. Copiar el objetivo general en cada área no sirve, porque ningún equipo puede lograrlo solo; traducirlo a lo que cada uno controla, en cambio, alinea a toda la organización. Si la empresa quiere ser la plataforma número uno para PyMEs en LATAM, ingeniería no puede lograrlo sola, pero sí puede comprometerse a entregar funcionalidades sin interrupciones, que contribuye a ese objetivo.
+
 ---
 
 ## VIII. Errores frecuentes al implementar OKR
@@ -229,6 +235,8 @@ flowchart TB
 > 📌 *"Los OKR **no son exclusivos de grandes empresas**. Para un freelancer o equipo pequeño son una **herramienta de negociación y transparencia con el cliente**."*
 
 **Pago contra hitos basado en OKR:** el contrato define los KR del proyecto y **cada hito de pago se vincula al cumplimiento verificable de un KR**. *"Elimina la ambigüedad y protege a ambas partes."*
+
+> 📝 **Citar y explayarse:** La cátedra destaca que *"los OKR no son exclusivos de grandes empresas"*: para un freelancer o un equipo pequeño son *"una herramienta de negociación y transparencia con el cliente"*. La aplicación concreta es el **pago contra hitos**: el contrato define los KR del proyecto y cada pago se vincula a un KR cumplido, por ejemplo *"Hito 1 = KR1 cumplido = cobro del 30 %"*. Como el KR es verificable sin interpretación, ambas partes saben qué se entrega y cuándo se cobra, lo que *"elimina la ambigüedad y protege a ambas partes"*. Un desarrollador web, por ejemplo, puede pactar cobrar una parte cuando el sitio esté publicado con un tiempo de carga menor a 2 segundos, en lugar de "cuando esté terminado".
 
 ```mermaid
 flowchart LR
@@ -282,6 +290,8 @@ flowchart LR
 > | KPI | OKR | Impacto |
 > |---|---|---|
 > | Lo que **medís** hoy | **Hacia dónde** vas | Lo que **generás** |
+
+> 📝 **Citar y explayarse:** Como cierre, la cátedra plantea que KPI, iniciativas y OKR *"son capas de un mismo sistema de gestión orientado a resultados"*: los KPI muestran cómo funciona la operación, las iniciativas son lo que se hace para mover los números y los OKR marcan hacia dónde va la organización y cómo sabe que llegó. La frase de Peter Drucker que cierra la clase, *"lo que no se mide, no se puede mejorar"*, resume la lógica: sin medición no hay forma de saber si una innovación funciona, ni de aprender de ella. Por eso la medición conecta con toda la materia: con Lean Startup, que valida hipótesis con datos, y con la estrategia de innovación, que necesita indicadores para saber si cada proyecto aporta al objetivo.
 
 ---
 

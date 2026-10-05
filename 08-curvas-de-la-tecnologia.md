@@ -133,6 +133,8 @@ Este es el punto **más importante** del tema:
 - Pero la 2 tiene **más techo**: cuando entra en crecimiento acelerado, **supera** a la 1 y la desplaza.
 - La empresa que sigue invirtiendo solo en la curva vieja queda atrapada en **mejoras marginales**.
 
+> 📝 **Citar y explayarse:** Las curvas S de Christensen *"explican cómo las tecnologías evolucionan y cómo nuevas innovaciones pueden desplazar a las tecnologías existentes"*. Cada tecnología pasa por tres fases: un **despegue lento**, porque al principio rinde poco y exige mucha inversión en I+D; un **crecimiento acelerado**, cuando madura y la adopción aumenta; y una **saturación**, donde las mejoras se vuelven marginales. El punto clave es que *"una nueva tecnología emerge antes de que la anterior se vuelva completamente obsoleta"*: cuando la vieja se satura, la nueva todavía rinde menos y las empresas establecidas la subestiman, pero tiene más techo y termina superándola. Por eso una empresa que solo mejora su tecnología actual queda atrapada en la saturación. La fotografía de rollo frente a la digital es el caso típico.
+
 > 🧩 **Ejemplo:** discos rígidos mecánicos (curva 1, saturándose) → discos de estado sólido SSD (curva 2: al principio caros y de poca capacidad; hoy dominan). Otro: carrete → fotografía digital (módulo [03](03-tecnologias-disruptivas.md)).
 
 > 🔗 **Conexión con disrupción:** las características "**empiezan con rendimiento inferior**" y "**evolución rápida**" de las tecnologías disruptivas son, literalmente, describir el inicio de una nueva curva S.
@@ -195,6 +197,8 @@ La versión detallada de la cátedra muestra los eventos de mercado a lo largo d
 
 > ⚠️ **Trampa de parcial:** el abismo de desilusión **no significa que la tecnología fracasó**. Muchas tecnologías pasan por el abismo y llegan a la meseta. Lo que cae son las **expectativas**, no necesariamente el desempeño.
 
+> 📝 **Citar y explayarse:** El ciclo de Gartner *"describe la evolución de una nueva tecnología desde su introducción hasta su adopción masiva"*, pero lo que mide en el eje vertical son las **expectativas**, no el rendimiento. Tras el lanzamiento, las expectativas suben hasta un **pico sobredimensionado** impulsado por los medios y la proliferación de proveedores; luego caen al **abismo de desilusión**, cuando la tecnología no cumple tan rápido lo prometido y muchos proveedores fracasan; después suben moderadamente en la **pendiente de iluminación**, cuando aparecen buenas prácticas; y se estabilizan en la **meseta de productividad**, con una adopción del 20 al 30 % del mercado potencial. La lección es que ni el entusiasmo inicial ni la decepción posterior reflejan el valor real de la tecnología: hay que evaluarla por su uso concreto. La IA generativa, con su pico de expectativas y las críticas posteriores, es un ejemplo reciente.
+
 ---
 
 ## III. Curva de adopción tecnológica
@@ -233,6 +237,8 @@ Además, la línea gris de **"Valor"** (percibido de la novedad) es alta al prin
 
 > 🧩 **Ejemplo – pagos con QR en Argentina:** innovadores y early adopters lo usaron apenas apareció; la mayoría temprana se sumó cuando muchos comercios lo aceptaban; la mayoría tardía cuando "todo el mundo" lo usaba; los rezagados siguen prefiriendo efectivo.
 
+> 📝 **Citar y explayarse:** La curva de adopción *"explica cómo diferentes grupos adoptan una nueva tecnología con el tiempo"*: innovadores (2,5 %), adoptadores tempranos (13,5 %), mayoría temprana (34 %), mayoría tardía (34 %) y rezagados (16 %). Su utilidad, según la cátedra, es entender *"la velocidad de adopción y las estrategias necesarias"* para difundir una innovación, porque cada grupo valora cosas distintas: a los primeros les importan la **tecnología y el rendimiento**; al resto, la **comodidad, la experiencia de uso y la calidad**. Por eso el paso de los adoptadores tempranos a la mayoría temprana es crítico: lo que convence a un visionario no convence a un pragmático, que necesita ver que la tecnología ya funciona y que otros la usan. Muchas innovaciones fracasan justamente en ese salto.
+
 ---
 
 ## IV. Desarrollo de tecnologías (proyectos)
@@ -259,6 +265,8 @@ Por encima de los proyectos aparecen los **programas** (A, B) y la **gobernanza 
 > 🧩 **Ejemplo de software:** v1.0 de una app (creación inicial) → v2 con más funciones → integraciones (adiciones) → parches y versiones menores (revisiones) → *end of life* y migración a un producto nuevo (retiro).
 
 > 🔗 Conecta con **proyectos de innovación** y **estrategia** (módulo [16](16-proyectos-y-estrategia-de-innovacion.md)): la estrategia define el portafolio.
+
+> 📝 **Citar y explayarse:** Para la cátedra, el desarrollo de tecnologías *"sigue un ciclo de vida que va desde la introducción hasta su retiro"* y *"cada proyecto evoluciona mediante mejoras y revisiones"*. Esto implica que una tecnología no se construye en un solo proyecto: hay un proyecto de creación inicial, otros que agregan características durante el crecimiento, revisiones en la madurez y, finalmente, un proyecto de retiro cuando *"deja de ser competitiva"*. Por encima, los programas y la **gobernanza del portafolio** deciden en qué invertir según la etapa de cada tecnología. Una aplicación de software lo muestra bien: versión 1.0, versiones con nuevas funciones, parches de mantenimiento y, al final, el fin de soporte y la migración a un producto nuevo.
 
 ---
 

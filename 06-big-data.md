@@ -21,6 +21,7 @@
 - **I. Definición**
 - **II. Para qué sirve** (4 ejemplos)
 - **III. Objetivos** (6)
+  - + Lectura crítica: objetivos que en rigor son de Data Mining
 - **IV. Importancia** (5)
 - **V. Áreas y ámbitos de aplicación**
 - **VI. Las 5 V**
@@ -77,6 +78,8 @@ Fijate en los tres adjetivos: **masivos** (→ Volumen), **rápidos** (→ Veloc
 
 > 🔥 **Prioridad de parcial:** Big Data y Data Mining quedaron marcados como **#importante** en las notas del repaso previo al parcial. **Síntesis de clase (Clase 3):** Big Data = **grandes volúmenes de información** que **se usan para hacer predicciones**; Data Mining = **encontrar patrones que se repiten** en esos volúmenes. → La comparación de la sección VII es pregunta probable.
 
+> 📝 **Citar y explayarse:** La cátedra define el Big Data como *"conjuntos de datos tan masivos, rápidos y complejos que las herramientas tradicionales no pueden procesarlos"*. El criterio no es solo la cantidad: también importan la **velocidad** con que llegan y la **variedad** de formatos (texto, video, sensores), y lo decisivo es que superan la capacidad de una base de datos convencional, por lo que requieren tecnologías específicas como el procesamiento distribuido o la nube. Estas tecnologías permiten *"recopilar, gestionar y analizar"* esos volúmenes. Con un matiz: según la propia tabla comparativa de la cátedra (VII), lo propio de Big Data es la **gestión** (almacenar y procesar); el análisis que descubre patrones es Data Mining. Netflix lo ilustra: Big Data es la infraestructura que guarda cada reproducción, pausa y búsqueda de millones de usuarios.
+
 ---
 
 ## II. Para qué sirve
@@ -97,6 +100,25 @@ Fijate en los tres adjetivos: **masivos** (→ Volumen), **rápidos** (→ Veloc
 5. **Innovación y desarrollo** – descubrir patrones y conexiones para **nuevos modelos de negocio**, productos o servicios.
 6. **Detección de riesgos y fraude** – comportamientos inusuales **en tiempo real** (ciberseguridad, seguridad financiera).
 
+### III.+ Lectura crítica: esta diapositiva mezcla Big Data con Data Mining
+
+> ⚠️ **Ojo – lo señaló el profesor en clase:** la diapositiva de *Objetivos* de Big Data incluye funciones que, según la **propia tabla comparativa de la cátedra** (sección [VII](#vii-big-data-vs-data-mining)), corresponden a **Data Mining**. El objetivo de Big Data es *"almacenar, procesar y gestionar grandes cantidades de datos"* (nivel de análisis **bajo**); **analizar, predecir y descubrir patrones** es la función de Data Mining (nivel **alto**).
+
+| Objetivo de la diapositiva | Qué lo delata | ¿De quién es en rigor? | Qué aporta Big Data |
+|---|---|---|---|
+| 1. Mejorar la toma de decisiones | "**analizar** datos para decidir" | Data Mining (objetivo 5: *apoyo a la toma de decisiones*) + BI | Datos suficientes y confiables (Volumen, Veracidad) para decidir sobre hechos. |
+| 2. Optimización de procesos | "**predecir** fallos" | Mixto: procesar más rápido es Big Data; predecir fallos es Data Mining (característica *predicción… fallos en sistemas*) | Procesar datos de sensores en tiempo real (Velocidad). |
+| 3. Personalización de la experiencia | "**comprender** hábitos de consumo" | Data Mining (segmentación, reglas de asociación) | Guardar el historial completo de cada usuario (Volumen, Variedad). |
+| 4. Predicción y anticipación | "**prever** tendencias" | Data Mining (objetivo 2: *modelado predictivo*) | Historia larga de datos con la que se entrenan los modelos. |
+| 5. Innovación y desarrollo | "**descubrir patrones ocultos**" | Data Mining: es casi literal su definición | Integrar fuentes diversas donde aparecen conexiones nuevas (Variedad). |
+| 6. Detección de riesgos y fraude | "identificar comportamientos **inusuales**" | Data Mining (objetivo 4: *detección de anomalías/fraude*) | Procesar transacciones en tiempo real (Velocidad). |
+
+> 💡 **Cómo leerlo con criterio:** la diapositiva describe lo que logra una empresa cuando **usa** Big Data, es decir, cuando sobre esa infraestructura aplica Data Mining (y comunica con BI). No está "mal": habla del **ecosistema de datos** completo. Pero si te piden **diferenciar** Big Data de Data Mining, estos objetivos **no** son el rasgo propio de Big Data: su rasgo propio es poder **manejar** datos con las 5 V.
+
+> 📝 **Citar y explayarse:** si te preguntan por los objetivos de Big Data, citá los de la cátedra (decisiones basadas en hechos, optimización, personalización, predicción, innovación, detección de fraude) y **explayate aclarando el rol de cada herramienta**: Big Data los **habilita**, porque permite recolectar y procesar datos masivos, veloces y variados; el **análisis** que los concreta —predecir, segmentar, detectar anomalías— lo hace **Data Mining**; y la decisión se comunica con **BI**. Mostrar esa distinción es lo que separa una respuesta que repite la diapositiva de una que la entiende.
+
+> 🔗 El **apunte de cursada** resalta en Data Mining justamente **predicción, segmentación y detección de fraude**: coinciden en buena parte con los objetivos de esta diapositiva. Ver módulo [05](05-data-mining.md), III.
+
 ## IV. Importancia
 
 1. **Toma de decisiones inteligente** – basada en **evidencias**, no intuiciones; proyecciones más fiables.
@@ -104,6 +126,8 @@ Fijate en los tres adjetivos: **masivos** (→ Volumen), **rápidos** (→ Veloc
 3. **Conocimiento del cliente** – entender comportamiento, **sentimientos** y necesidades.
 4. **Innovación y nuevos modelos de negocio** – identifica oportunidades de mercado.
 5. **Detección de riesgos y fraudes** – crucial en **finanzas y salud**.
+
+> ⚠️ **Mismo cruce que en III:** *conocimiento del cliente* (3) y *detección de riesgos y fraudes* (5) son resultados del **análisis** (Data Mining) hecho sobre la base de Big Data. Ver [III.+](#iii-lectura-crítica-esta-diapositiva-mezcla-big-data-con-data-mining).
 
 ## V. Áreas y ámbitos de aplicación
 
@@ -164,6 +188,8 @@ flowchart LR
 ### VI.5 Valor
 > 📌 *"Es la capacidad de **transformar datos brutos en conocimientos útiles y rentables para el negocio**, siendo esta **la característica final más importante**."*
 - Sin valor, las otras cuatro V son solo **costo** (almacenar y procesar datos que no se usan).
+
+> 📝 **Citar y explayarse:** Las 5 V describen qué hace que un conjunto de datos sea Big Data. **Volumen** es *"la enorme cantidad de datos generados cada segundo"*; **Velocidad**, *"el ritmo acelerado al que se reciben y deben procesar"*, muchas veces en tiempo real; **Variedad**, que provienen en *"múltiples formatos"* estructurados, semiestructurados y no estructurados; **Veracidad**, su *"calidad, fiabilidad y precisión"*; y **Valor**, *"la capacidad de transformar datos brutos en conocimientos útiles y rentables"*. Las primeras cuatro describen el **desafío técnico** de manejar los datos; la quinta, el **propósito**. Por eso la cátedra dice que Valor es *"la característica final más importante"*: sin ella, todo lo anterior es solo costo de almacenamiento. Una plataforma de streaming con millones de eventos por minuto (volumen y velocidad), en distintos formatos (variedad), que limpia los registros erróneos (veracidad), solo justifica esa inversión si con esos datos mejora sus recomendaciones y retiene suscriptores (valor).
 
 ---
 
@@ -263,6 +289,7 @@ Esquema de respuesta:
 | Volumen | Velocidad | Cantidad total vs. **ritmo** al que llegan y deben procesarse. |
 | Veracidad | Valor | Calidad y confiabilidad del dato vs. **utilidad y rentabilidad** para el negocio. |
 | Variedad | "Muchos datos" | Variedad es **diversidad de formatos**, no cantidad. |
+| Objetivos de Big Data (diapositiva) | Objetivos de Data Mining | La diapositiva de Big Data incluye predecir, descubrir patrones y detectar fraude, que en rigor son **Data Mining**; Big Data los **habilita** (ver III.+). |
 | Big Data | Datos "grandes" en Excel | Big Data implica que las **herramientas tradicionales no pueden procesarlos**. |
 
 ---

@@ -76,6 +76,8 @@ Los diez tipos se agrupan en **tres categorías**, ordenadas **de izquierda a de
 
 > 📌 *"Los tipos ubicados a la izquierda están enfocados en **aspectos internos y más alejados del cliente**. Este tipo de innovación [el del medio] está enfocada en el **producto o servicio principal del negocio**. Finalmente, a la derecha se encuentran los tipos **más visibles y evidentes para los usuarios finales**."*
 
+> 📝 **Citar y explayarse:** El modelo de Doblin muestra que innovar no es solo crear un producto nuevo: hay **diez tipos** de innovación agrupados en tres categorías. A la izquierda, la **configuración**, con tipos *"enfocados en aspectos internos y más alejados del cliente"* (modelo de ingresos, red, estructura y procesos); en el centro, la **oferta**, enfocada *"en el producto o servicio principal del negocio"* (performance y sistema de producto); y a la derecha, la **experiencia**, con los tipos *"más visibles y evidentes para los usuarios finales"* (servicio, canal, marca y relación con el cliente). La consecuencia práctica es que las empresas que **combinan varios tipos** logran innovaciones más difíciles de copiar que las que solo cambian el producto. Netflix, por ejemplo, combinó un modelo de ingresos nuevo (suscripción), un canal nuevo (streaming) y una relación con el cliente basada en recomendaciones personalizadas.
+
 ### II.A Configuración (interno, lejos del cliente)
 
 | # | Tipo | Función (cátedra) | Explicación | Ejemplo |
@@ -204,6 +206,8 @@ flowchart TB
 > 📌 *"Los equipos poseen características **interdisciplinarias**. **No es realizar algo con varios sectores**, es la **capacidad de un diseño y trabajo colaborativo entre ellos**."*
 
 > ⚠️ **Matiz importante:** juntar a gente de distintas áreas en una reunión **no** es trabajo interdisciplinario. Lo es cuando **diseñan y construyen juntos** la solución.
+
+> 📝 **Citar y explayarse:** La Gestión de la Innovación 2.0 sostiene que la innovación depende de la **organización y las personas**, no solo de la tecnología, y lo apoya en seis pilares. El **liderazgo**: si la dirección no brinda *"el ambiente favorable para la innovación, nunca podrá emerger"*. La **inversión, procesos y sistemas**, porque *"el corto plazo, los resultados inmediatos y la preponderancia de lo operativo sobre lo estratégico van en detrimento de la innovación"*. La **estructura**: los modelos *"jerárquico-piramidales son un detractor/freno"* y deben evolucionar hacia modelos en red. Los **estilos de liderazgo**, donde los rígidos se reemplazan por líderes *"de afiliación, colaborativos y visionarios"*. El **fracaso**: *"está bien fracasar"*, porque sin capacidad de aprender de los errores nadie experimenta. Y el **trabajo en equipo** interdisciplinario, entendido como diseñar juntos y no solo reunir áreas. En conjunto: una empresa con talento pero con estructura rígida, castigo al error y mirada cortoplacista no va a innovar.
 
 ### III.B Habilidades blandas
 

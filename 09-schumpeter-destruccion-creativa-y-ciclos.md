@@ -80,6 +80,8 @@ Economista austríaco, uno de los autores más influyentes sobre **innovación y
 - Una **función de producción** es la forma en que se **combinan los recursos** (trabajo, capital, materias primas, conocimiento) para producir algo.
 - Innovar = **combinar los recursos de una manera nueva**. No hace falta inventar algo: basta con una **nueva combinación** que funcione en la economía.
 
+> 📝 **Citar y explayarse:** Schumpeter define la destrucción creativa como *"el proceso de transformación que acompaña a la innovación"*, y la innovación como *"la introducción de una nueva función de producción"*, es decir, una nueva forma de combinar trabajo, capital, materias primas y conocimiento. El término une dos caras del mismo proceso: cada innovación **crea** productos, empresas y empleos nuevos y, al mismo tiempo, **destruye** los que quedan obsoletos. Para Schumpeter esto no es un efecto colateral sino el **motor del crecimiento económico**. El streaming lo ilustra: creó plataformas como Netflix y Spotify y nuevos empleos digitales, mientras hacía desaparecer los videoclubes y gran parte de la venta de discos.
+
 ### II.C Los emprendedores aparecen en grupos
 
 > 📌 *"¿Por qué los emprendedores aparecen, no de forma continua, es decir, individualmente en cada intervalo apropiadamente elegido, sino **en grupos**? Exclusivamente porque **la aparición de uno o unos pocos emprendedores facilita la aparición de otros**, y éstos el surgimiento de más, **en números cada vez mayores**."*
@@ -89,6 +91,8 @@ Lógica de la cita:
 2. Eso **reduce el riesgo** para los siguientes → aparecen imitadores y nuevos emprendedores.
 3. El efecto se **acelera**: cada vez son más.
 4. Resultado: la innovación llega **en oleadas o enjambres**, no de forma pareja.
+
+> 📝 **Citar y explayarse:** Schumpeter se pregunta por qué los emprendedores aparecen *"no de forma continua (…) sino en grupos"*, y responde que *"la aparición de uno o unos pocos emprendedores facilita la aparición de otros"*. El primer innovador asume el mayor riesgo, pero al demostrar que la idea funciona abre el camino: deja infraestructura, conocimiento y gente formada, y reduce la incertidumbre para los que vienen después, que imitan y mejoran. Por eso la innovación llega en **oleadas** y no de forma pareja, y esas oleadas explican los saltos de crecimiento y los ciclos económicos. Silicon Valley es un caso clásico: el éxito de las primeras empresas de semiconductores atrajo ingenieros, inversores y proveedores, y de ellas se desprendieron decenas de empresas nuevas.
 
 > 🧩 **Ejemplo:** después de que las primeras fintech demostraron que se podía operar con una billetera virtual en Argentina, aparecieron muchísimas más en pocos años (y empresas de otros rubros que agregaron pagos digitales).
 
@@ -102,7 +106,7 @@ La cátedra muestra un gráfico con el **PIB** en el eje vertical y los **años*
 
 > 💡 La economía no crece en línea recta: crece **a saltos**, cada vez que una oleada de innovación reemplaza la forma vieja de producir por una más productiva.
 
-> ℹ️ **Nota sobre el material:** la misma diapositiva incluye un gráfico de barras que compara **País 1 a País 4** (valores de 10 a 40) sin rotular la variable. El **apunte de cursada** lo resuelve explícitamente: *"Cada innovación hace subir el PIB a un nuevo nivel a lo largo de los años (crecimiento 'en escalones'). Por eso **los países que más innovan son los que más crecen**."* → Esa es la lectura a usar en el parcial.
+> ℹ️ **Nota sobre el material:** la misma diapositiva incluye un gráfico de barras que compara **País 1 a País 4** (valores de 10 a 40) sin rotular la variable. El **apunte de cursada** lo resuelve explícitamente: *"Cada innovación hace subir el PIB a un nuevo nivel a lo largo de los años (crecimiento 'en escalones'). Por eso **los países que más innovan son los que más crecen**."* → Es una lectura **coherente con Schumpeter** (la innovación es el motor del crecimiento), pero tené en cuenta que es la **interpretación del apunte**, no un rótulo de la diapositiva: si lo usás, citalo como interpretación y explicá por qué tiene sentido.
 
 ---
 

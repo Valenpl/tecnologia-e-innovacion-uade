@@ -92,6 +92,8 @@ mindmap
 
 > 💡 **La metáfora del GPS:** el GPS no maneja por vos; te dice **dónde estás respecto de adónde querés ir** y te avisa si te desviaste. Eso hace un KPI.
 
+> 📝 **Citar y explayarse:** La cátedra define un KPI como *"un indicador cuantificable que permite evaluar qué tan bien una organización, equipo o proceso está alcanzando sus objetivos estratégicos en un período de tiempo definido"*, y lo compara con un *"GPS empresarial"*. La comparación es precisa: el KPI no hace el trabajo, pero muestra **dónde estás respecto de adónde querés llegar** y permite *"corregir el rumbo"* con decisiones basadas en datos. Por eso un KPI no es cualquier número: tiene que estar ligado a un **objetivo estratégico** y a un **período**. "Tiempo promedio de resolución de bugs críticos", por ejemplo, es un KPI si la empresa se propuso mejorar la calidad del servicio y lo revisa cada semana.
+
 ### I.B Métrica vs. KPI
 
 > *"La palabra clave es **'Key'**. **No toda métrica es un KPI.**"*
@@ -128,6 +130,8 @@ Un KPI tiene que:
 > 📌 **La frase para memorizar:** *"Un KPI sin meta es una **observación**. Un KPI sin responsable es un **deseo**. Un KPI sin frecuencia es **historia**."*
 
 > 🧩 **Ejemplo completo de la cátedra:** *"Reducir el tiempo de resolución de bugs críticos **a menos de 4 horas** (meta), **medido semanalmente** (frecuencia), **responsable: Tech Lead**. **Línea de base actual: 11,5 horas**."*
+
+> 📝 **Citar y explayarse:** La cátedra marca la diferencia con una frase: *"la métrica informa; el KPI orienta decisiones"*. Una métrica pasa a ser KPI cuando tiene **meta, frecuencia y responsable**, porque *"sin meta, no hay KPI: es solo una métrica"* y *"sin frecuencia y responsable, el KPI no genera acción"*. De ahí la frase: *"un KPI sin meta es una observación; sin responsable, un deseo; sin frecuencia, historia"*. El ejemplo de la cátedra lo reúne todo: reducir el tiempo de resolución de bugs críticos a menos de 4 horas (meta), medido semanalmente (frecuencia), con el Tech Lead como responsable y una línea de base de 11,5 horas. Sin esos elementos, "tiempo de resolución de bugs" sería solo un dato en un tablero.
 
 ```mermaid
 flowchart LR
@@ -334,6 +338,8 @@ flowchart LR
 
 > 💡 **La lección del caso:** sin medir **por equipo**, el problema estaba "diluido" en el promedio de la empresa. El KPI permitió **focalizar** la intervención (regla de Pareto: pocos generan la mayoría de los problemas).
 
+> 📝 **Citar y explayarse:** La conclusión de la cátedra sobre el caso es que *"la medición sistemática de KPI de ingeniería genera impacto directo tanto en la calidad del producto como en la satisfacción del equipo"*, y que *"los equipos con mejores DORA metrics tienen también la mayor retención de ingenieros"*. Lo importante es que medir no fue solo controlar: al medir **por equipo**, el problema dejó de estar diluido en el promedio de la empresa y se pudo concentrar la intervención donde más rendía. Y el efecto fue doble: mejoró el producto y mejoró el clima, porque los equipos con procesos más sanos trabajan con menos urgencias y frustración. Un buen KPI no solo describe la realidad: ayuda a cambiarla.
+
 ---
 
 ## IX. El costo de no medir: caso TechSolve
@@ -382,6 +388,8 @@ flowchart LR
 - **Reducción de micromanagement**: *"el número habla"* sin reportes manuales.
 - **Cultura de mejora continua**: cada sprint review es oportunidad de ajustar.
 - **Responsabilidad distribuida**: cada squad es **dueño de su métrica**.
+
+> 📝 **Citar y explayarse:** La cátedra afirma que *"los KPI no solo miden: cambian cómo se organiza el trabajo"*: cuando el equipo ve los mismos indicadores en tiempo real, se pasa del *"control por actividad"* a la *"autonomía por resultado"*. Esto significa que ya no hace falta supervisar cada tarea, porque el equipo sabe qué resultado tiene que lograr y decide cómo alcanzarlo. Se reduce el micromanagement, ya que *"el número habla"*, y las conversaciones pasan de "qué hiciste" a "cómo movemos el indicador". Un equipo de soporte que ve su tiempo de respuesta en un tablero compartido, por ejemplo, puede reorganizar sus turnos por su cuenta sin esperar instrucciones.
 
 **Modelos habilitados por KPI claros:**
 

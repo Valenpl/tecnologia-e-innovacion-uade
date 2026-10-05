@@ -75,6 +75,8 @@ Tres condiciones que tiene que tener tu definición:
 2. Su **valoración supera USD 1.000 millones** (1 billón en inglés: *one billion*).
 3. **Todavía no cotiza en bolsa ni fue adquirida** (es privada).
 
+> 📝 **Citar y explayarse:** Según la cátedra, las empresas unicornio son *"startups tecnológicas que alcanzan una valoración de más de 1.000 millones de dólares antes de cotizar en bolsa o ser adquiridas"*. La definición combina tres condiciones: ser una startup con la tecnología en el centro del negocio, alcanzar esa valoración y seguir siendo privada. Lo importante es que la cifra es una **valoración**, no ventas ni ganancias: refleja lo que los inversores de capital de riesgo creen que la empresa va a valer, por su **crecimiento acelerado** y su **modelo de negocio innovador**. Uber o Airbnb antes de salir a bolsa son ejemplos: valían miles de millones por sus expectativas de crecimiento, aun sin ser rentables.
+
 > ➕ **Contexto adicional:** el término lo acuñó la inversora **Aileen Lee** en 2013. Se eligió "unicornio" porque en ese momento era **rarísimo** que una startup llegara a esa valuación. La **valoración** es lo que los inversores estiman que vale la empresa (no sus ventas ni sus ganancias).
 
 ### II.B Características clave
@@ -126,6 +128,8 @@ flowchart LR
 ```
 
 > 🔗 **Conexión clave:** este caso une el factor **regulación y privacidad** con lo visto en Data Mining y Big Data: el uso de datos personales sin límites claros **es un riesgo de negocio**, no solo ético (módulos [05](05-data-mining.md) y [06](06-big-data.md)).
+
+> 📝 **Citar y explayarse:** La cátedra plantea que *"la percepción pública puede hacer que el valor de una empresa unicornio suba o caiga rápidamente"*. Esto ocurre porque su valor depende de la **confianza** de inversores y usuarios en lo que la empresa va a lograr, y no de resultados consolidados: un escándalo o una filtración de datos erosionan esa confianza, mientras que un lanzamiento exitoso la refuerza. El caso de Facebook lo muestra: Mark Zuckerberg pasó de las portadas como *"Rey de la Tecnología"* a ser señalado *"por temas de privacidad y monopolio"*, y ese cambio de percepción afectó el valor de la empresa. La conclusión es que, en estas empresas, la **reputación es un activo** tan importante como la tecnología.
 
 ---
 

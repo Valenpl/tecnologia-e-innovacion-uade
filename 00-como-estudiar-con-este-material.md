@@ -73,7 +73,8 @@ Cada archivo `NN-tema.md` tiene siempre estos bloques, en este orden:
 
 ### II.B Convenciones visuales
 
-- > 📌 **Definición** — bloque con la definición tal como la da la cátedra. Conviene saberla casi textual.
+- > 📌 **Definición** — bloque con la definición tal como la da la cátedra. Sirve para **citarla**, pero nunca la dejes sola en una respuesta (ver 📝).
+- > 📝 **Citar y explayarse** — párrafo modelo que **cita** la idea central de la cátedra y la **desarrolla** con palabras propias: qué significa, por qué importa y un ejemplo. Es el formato que pide el profesor: **no citar a secas, sino citar y explayarse**.
 - > 💡 **Para entenderlo** — explicación intuitiva con palabras simples.
 - > 🧩 **Ejemplo** — caso concreto.
 - > ➕ **Contexto adicional** — información que **no está en las diapositivas** de la materia y que se agrega para entender mejor. Usala para comprender, pero en el parcial priorizá la versión de la cátedra.
@@ -101,7 +102,7 @@ flowchart LR
 4. **Compará** con el esquema real. Lo que te faltó es lo que no entendiste: volvé a esa sección.
 5. **Hacé la autoevaluación.** Respondé por escrito, después desplegá la respuesta.
 
-> 💡 **Tip de examen:** para una pregunta del tipo *"Defina X y explique sus características"*, usá la estructura del esquema: **definición (I) → características (I.A) → ejemplo (🧩) → relación con otro concepto (🔗)**. Es exactamente cómo está ordenado cada módulo.
+> 💡 **Tip de examen:** para una pregunta del tipo *"Defina X y explique sus características"*, usá la estructura del esquema: **definición (I) → características (I.A) → ejemplo (🧩) → relación con otro concepto (🔗)**. Es exactamente cómo está ordenado cada módulo. Y recordá la consigna del profesor: **no alcanza con citar**. Cada cita va seguida de qué significa, por qué importa y un ejemplo; los bloques 📝 de cada módulo te muestran cómo queda escrito.
 
 ---
 

@@ -72,6 +72,8 @@ flowchart TB
 
 > 💡 **Para entenderlo:** la mayoría de los fracasos tecnológicos empiezan por la tecnología ("tenemos esta tecnología, ¿qué hacemos?"). Design Thinking **empieza por la persona** ("¿qué le pasa a esta persona?") y recién después busca la tecnología. Por eso es la respuesta directa al problema n.º 1 de innovar: **falta de comprensión del usuario** (módulo [12](12-innovacion-tecnologica-e-ia.md)).
 
+> 📝 **Citar y explayarse:** La cátedra define el Design Thinking como *"una metodología centrada en el ser humano para resolver problemas complejos y fomentar la innovación"*, que integra *"necesidades de los usuarios, tecnología y requisitos de negocio"*. Que esté **centrada en el ser humano** significa que el punto de partida no es la tecnología disponible sino la persona y su problema: primero se empatiza y se define el reto, y recién después se idean, prototipan y testean soluciones. Integrar las tres dimensiones asegura que la solución sea **deseable** para el usuario, **factible** técnicamente y **viable** para el negocio. Además es iterativa: el testeo puede devolver al equipo a cualquier etapa anterior. Por ejemplo, una app de turnos médicos diseñada así empezaría observando a pacientes mayores pedir turno, y no por elegir la tecnología.
+
 ---
 
 ## II. Etapas

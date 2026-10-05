@@ -88,6 +88,8 @@ mindmap
 
 Compará con la definición de la Clase 1 (módulo [01](01-tecnologia-e-innovacion-fundamentos.md)): ambas hablan de **proceso**, de **productos/servicios/métodos** y de **generar valor**. La del Día 3 agrega el **espectro** incremental ↔ disruptivo y el adjetivo **sostenible**.
 
+> 📝 **Citar y explayarse:** En la versión del Día 3, la innovación tecnológica es *"el proceso de crear, mejorar o aplicar nuevas tecnologías para desarrollar productos, servicios o procesos más eficientes, funcionales o sostenibles"*. Respecto de la Clase 1 agrega dos ideas: que innovar puede ser **crear, mejorar o simplemente aplicar** una tecnología (no hace falta inventarla) y que el cambio puede ser **incremental o disruptivo**. En todos los casos combina conocimiento científico y técnico para *"resolver problemas, aumentar la competitividad empresarial y generar valor"*. Agregar pago con QR a una app existente es una innovación incremental; reemplazar las sucursales por un banco 100 % digital es disruptiva. Ambas son innovación tecnológica porque usan tecnología para generar valor.
+
 ### I.B Características generales
 
 | Característica | Explicación |
@@ -258,6 +260,8 @@ flowchart TB
 > 📌 *"La Inteligencia Artificial (IA) es un **campo de la informática** dedicado a crear **sistemas capaces de realizar tareas que, por lo general, requieren inteligencia humana**, como **aprender, razonar, percibir y tomar decisiones**. Se basa en el **procesamiento de grandes volúmenes de datos** mediante **algoritmos** para **identificar patrones** y **mejorar automáticamente con la experiencia**."*
 
 > 🔗 Fijate que la definición usa vocabulario de los módulos de datos: **grandes volúmenes de datos** (Big Data), **identificar patrones** (Data Mining).
+
+> 📝 **Citar y explayarse:** La cátedra define la inteligencia artificial como *"un campo de la informática dedicado a crear sistemas capaces de realizar tareas que, por lo general, requieren inteligencia humana, como aprender, razonar, percibir y tomar decisiones"*, y la presenta como *"el ejemplo más disruptivo de innovación tecnológica de la última década"*. Es tan disruptiva por dos rasgos: su **capacidad de evolución**, porque mejora automáticamente con más datos y uso, y su **transversalidad**, porque no pertenece a una industria sino que atraviesa salud, finanzas, educación o logística. Su funcionamiento se apoya en el bloque de datos: necesita *"grandes volúmenes de datos"* (Big Data) y algoritmos que *"identifican patrones"* (Data Mining). Un filtro que clasifica correos o un sistema que detecta fraudes con tarjetas son ejemplos cotidianos.
 
 ### V.C Aspectos clave
 

@@ -10,7 +10,7 @@
 
 - **I. Señales de prioridad** (de dónde sale cada marca 🔥)
 - **II. Mapa de prioridades por módulo**
-- **III. Lo que tenés que poder escribir casi textual**
+- **III. Lo que tenés que poder citar y desarrollar**
 - **IV. Preguntas probables**
 - **V. Checklist de repaso final**
 
@@ -38,14 +38,16 @@
 | [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md) | síntesis de clase | Definición (**cambio de paradigma**, deja obsoleta a la anterior, **cambio brusco**) · 5 características · 7 pasos de implementación · cómo no quedar desplazado (**I+D+i**). |
 | [04 Business Intelligence](04-business-intelligence.md) | 🔥🔥 | **Los 4 aspectos clave** ("PONER EN PARCIAL") · definición · para qué sirve. |
 | [05 Data Mining](05-data-mining.md) | 🔥🔥 | Objetivos resaltados · **proceso de 6 etapas en orden** · técnicas predictivas vs. descriptivas. |
-| [06 Big Data](06-big-data.md) | 🔥 | **Las 5 V** · **tabla Big Data vs. Data Mining** · integración BI + DM + BD. |
+| [06 Big Data](06-big-data.md) | 🔥 | **Las 5 V** · **tabla Big Data vs. Data Mining** · integración BI + DM + BD · ⚠️ **objetivos de la diapositiva que en rigor son de Data Mining** (III.+). |
 | [08 Curvas de la tecnología](08-curvas-de-la-tecnologia.md) | visto en Clase 2 | 3 fases de la curva S · 5 fases de Gartner · % de la curva de adopción. |
 | [10 Gestión de la innovación](10-gestion-de-la-innovacion.md) | 🔥 | 10 tipos de Doblin en 3 categorías · 6 pilares de la Gestión 2.0 · **piramidal vs. red**. |
 | 02, 07, 09, 11–19 | sin marca | Estudiarlos normalmente con su módulo. |
 
 ---
 
-## III. Lo que tenés que poder escribir casi textual
+## III. Lo que tenés que poder citar y desarrollar
+
+> 📝 El profesor pidió **no citar a secas, sino citar y explayarse**. Para cada definición: **(1)** citá la idea central de la cátedra, **(2)** explicá con tus palabras qué significa, **(3)** dá un ejemplo, **(4)** relacionala con otro concepto. Cada módulo tiene bloques 📝 con el párrafo modelo.
 
 1. **Tecnología** – aplicación del conocimiento científico para crear herramientas y procesos que resuelven problemas. → [01](01-tecnologia-e-innovacion-fundamentos.md)
 2. **Innovación** – aplicación práctica y exitosa de nuevas ideas tecnológicas para mejorar la eficiencia o crear nuevas oportunidades (introducir cambios significativos, nuevos o mejorados, para generar valor y satisfacer necesidades). → [01](01-tecnologia-e-innovacion-fundamentos.md)
@@ -83,6 +85,7 @@ flowchart LR
 - [ ] Escribo los 4 aspectos clave del BI sin mirar.
 - [ ] Ordeno las 6 etapas de Data Mining y explico por qué van en ese orden.
 - [ ] Nombro las 5 V y digo cuál es la más importante (**Valor**).
+- [ ] Explico por qué varios "objetivos de Big Data" de la diapositiva son, en rigor, Data Mining (y qué aporta Big Data en cada uno).
 - [ ] Completo la tabla Big Data vs. Data Mining (definición, objetivo, enfoque, ejemplo Netflix).
 - [ ] Ubico los 10 tipos de Doblin en Configuración / Oferta / Experiencia.
 - [ ] Explico por qué la estructura piramidal frena la innovación y qué propone el modelo en red.

@@ -74,6 +74,8 @@ flowchart LR
 
 > 💡 **Para entenderlo:** antes de elegir *cómo* innovar, una empresa tiene que entender *en qué mundo* está jugando. VICA y VANI son dos "diagnósticos" de ese mundo.
 
+> 📝 **Citar y explayarse:** La cátedra plantea que *"los modelos de gestión no nacen en el vacío"*: la innovación abierta surgió como *"respuesta directa a la aceleración del entorno"*, y para diseñar una estrategia las organizaciones usan *"marcos analíticos que describen la naturaleza del mundo que enfrentan"*. VICA y VANI son esos marcos: diagnósticos del contexto que condicionan cómo conviene innovar. VICA describe un mundo **volátil, incierto, complejo y ambiguo**, difícil de predecir pero todavía estructurado, que se enfrenta con **agilidad y planificación flexible**. VANI, en cambio, describe un mundo **frágil, ansioso, no lineal e incomprensible**, que *"ya no solo es inestable, sino que está roto"*. Elegir una estrategia sin este diagnóstico es como planificar un viaje sin mirar el clima.
+
 ---
 
 ## II. VICA (VUCA): gestión del cambio
@@ -185,6 +187,8 @@ flowchart LR
     VANI --> I["Incomprensible"] --> R4["Inteligencia colectiva"]
     R1 & R2 & R3 & R4 --> IA(["INNOVACIÓN ABIERTA<br/>= resiliencia colectiva"])
 ```
+
+> 📝 **Citar y explayarse:** La conclusión de la cátedra es que *"la innovación abierta ya no es para competir"*: en un entorno VANI es *"la única herramienta para construir resiliencia colectiva"*. Cada rasgo del mundo VANI tiene su respuesta en la apertura: ante la **fragilidad**, redes y redundancia para no depender de un único proveedor o laboratorio; ante la **ansiedad**, compartir los riesgos con el ecosistema; ante la **no linealidad**, múltiples apuestas simultáneas como las carteras de CVC; y ante lo **incomprensible**, inteligencia colectiva. Es decir, la innovación abierta cambia de función: deja de ser una forma de ganar ventaja y pasa a ser una forma de **sobrevivir**. La pandemia lo mostró: las cadenas de suministro que dependían de una sola fábrica se cortaron por completo, mientras que las diversificadas pudieron adaptarse.
 
 ---
 

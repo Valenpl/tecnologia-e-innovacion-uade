@@ -2,7 +2,7 @@
 
 Material de **estudio** (no de repaso) de la materia **Tecnología e Innovación** (UADE, 2027 · 1er cuatrimestre), armado tema por tema a partir de las presentaciones de clase de los profesores **Gustavo E. Escandell** y **Mario Barrios**, complementado con el **apunte de cursada** (Clases 1–2) y las **notas de clase**.
 
-Cada módulo sigue el **Outlining Method**: primero el **esquema jerárquico** del tema (vista de pájaro) y después el **desarrollo completo** con la misma numeración, diagramas, ejemplos, trampas de parcial y autoevaluación con respuestas plegables.
+Cada módulo sigue el **Outlining Method**: primero el **esquema jerárquico** del tema (vista de pájaro) y después el **desarrollo completo** con la misma numeración, diagramas, ejemplos, trampas de parcial, bloques 📝 para responder **citando y explayándose** (como pide el profesor) y autoevaluación con respuestas plegables.
 
 > 👉 **Si es tu primera vez:** empezá por [**00 · Cómo estudiar con este material**](00-como-estudiar-con-este-material.md) (10 minutos).
 
@@ -98,7 +98,8 @@ flowchart TB
 
 | Símbolo | Significado |
 |---|---|
-| 📌 | **Definición de la cátedra** (conviene saberla casi textual). |
+| 📌 | **Definición de la cátedra** (para citarla; siempre seguida de desarrollo propio). |
+| 📝 | **Citar y explayarse**: párrafo modelo que cita a la cátedra y lo desarrolla con palabras propias y un ejemplo (lo que pide el profesor). |
 | 💡 | Explicación intuitiva / para entenderlo. |
 | 🧩 | Ejemplo. |
 | ⚠️ | Trampa típica de parcial o concepto que se confunde. |
