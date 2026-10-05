@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [09 Schumpeter](09-schumpeter-destruccion-creativa-y-ciclos.md).
 > **Tiempo estimado:** 60 min.
 > **Parcial 1:** ✅ entra (Clase 2). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 5 · Doblin:** leé solo [§II](#ii-los-10-tipos-de-innovación-según-doblin) → seguí en [23 · III.5](23-parcial-anterior-nokia.md#iii5-los-10-tipos-de-innovación-de-doblin-las-3-categorías--explicar-una) · **Paso 9 · Gestión 2.0:** leé solo [§III.A](#iiia-gestión-de-la-innovación-20) → seguí en [23 · V.8](23-parcial-anterior-nokia.md#v8-gestión-de-la-innovación-20-por-qué-juntar-a-los-jefes-no-es-trabajar-interdisciplinariamente).
 
 ---
 
@@ -288,4 +289,6 @@ Porque una innovación en un tipo **impacta en otras funciones** de la empresa, 
 
 ---
 
-[← 09 Schumpeter](09-schumpeter-destruccion-creativa-y-ciclos.md) · [🏠 Índice](README.md) · [Siguiente → 11 Creatividad](11-creatividad-y-proceso-creativo.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 09 Schumpeter](09-schumpeter-destruccion-creativa-y-ciclos.md) · [🏠 Índice](README.md) · [Siguiente por clase → 04 Business Intelligence](04-business-intelligence.md)

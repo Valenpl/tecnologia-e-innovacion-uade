@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [18 KPI](18-kpi.md).
 > **Tiempo estimado:** 70 min.
 > **Parcial 1:** ⏳ todavía no entra (es posterior al Día 3).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** no entra en el Parcial 1; no lo estudies todavía.
 
 ---
 
@@ -401,4 +402,6 @@ Freelancer: claridad sobre qué se paga y cuándo, evidencia objetiva de valor, 
 
 ---
 
-[← 18 KPI](18-kpi.md) · [🏠 Índice](README.md) · [Siguiente → 20 Glosario](20-glosario.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 18 KPI](18-kpi.md) · [🏠 Índice](README.md) · [Siguiente por clase → 20 Glosario](20-glosario.md)

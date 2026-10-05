@@ -137,4 +137,6 @@ flowchart TB
 
 ---
 
-[🏠 Índice](README.md) · [Siguiente → 01 Tecnología e innovación](01-tecnologia-e-innovacion-fundamentos.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[🏠 Índice](README.md) · [Siguiente por clase → 01 Tecnología e Innovación](01-tecnologia-e-innovacion-fundamentos.md)

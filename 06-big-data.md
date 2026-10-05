@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [04 BI](04-business-intelligence.md) y [05 Data Mining](05-data-mining.md).
 > **Tiempo estimado:** 50 min.
 > **Parcial 1:** ✅ entra (Clase 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 2 · Big Data:** leé solo [§I](#i-definición) y [§VI](#vi-las-5-v) → seguí en [23 · III.2](23-parcial-anterior-nokia.md#iii2-qué-es-big-data-y-las-5-v) · **Paso 3 · BI y Data Mining:** leé solo [§VII](#vii-big-data-vs-data-mining) → seguí en [23 · III.3](23-parcial-anterior-nokia.md#iii3-business-intelligence-vs-data-mining).
 
 ---
 
@@ -343,4 +344,6 @@ Falla el **Valor** (y posiblemente la **Veracidad**). Recomendaría definir preg
 
 ---
 
-[← 05 Data Mining](05-data-mining.md) · [🏠 Índice](README.md) · [Siguiente → 07 Empresas unicornio](07-empresas-unicornio.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 05 Data Mining](05-data-mining.md) · [🏠 Índice](README.md) · [Siguiente por clase → 11 Creatividad y proceso creativo](11-creatividad-y-proceso-creativo.md)

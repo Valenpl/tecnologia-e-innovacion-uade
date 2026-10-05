@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md).
 > **Tiempo estimado:** 75 min (es uno de los temas más gráficos y preguntables).
 > **Parcial 1:** ✅ entra (Clase 2). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 7 · Curva S:** leé solo [§I.A](#ia-qué-explican), [§I.B](#ib-las-tres-fases) y [§I.C](#ic-el-salto-entre-curvas) → seguí en [03 §I](03-tecnologias-disruptivas.md#i-definición) y [03 §II](03-tecnologias-disruptivas.md#ii-características) · **Paso 15** (mañana): solo esquema y 📝 de [§II](#ii-ciclo-de-expectativas-tecnológicas-gartner) y [§III](#iii-curva-de-adopción-tecnológica).
 
 ---
 
@@ -346,4 +347,6 @@ El ciclo va de **introducción** (proyecto de creación inicial) a **crecimiento
 
 ---
 
-[← 07 Empresas unicornio](07-empresas-unicornio.md) · [🏠 Índice](README.md) · [Siguiente → 09 Schumpeter y ciclos económicos](09-schumpeter-destruccion-creativa-y-ciclos.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 07 Empresas unicornio y el impacto de la opinión pública](07-empresas-unicornio.md) · [🏠 Índice](README.md) · [Siguiente por clase → 09 Schumpeter](09-schumpeter-destruccion-creativa-y-ciclos.md)

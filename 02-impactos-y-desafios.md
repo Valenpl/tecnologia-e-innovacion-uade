@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [01 Fundamentos](01-tecnologia-e-innovacion-fundamentos.md).
 > **Tiempo estimado:** 45 min.
 > **Parcial 1:** ✅ entra (Clase 1). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** no está en la ruta (baja prioridad). Si te sobra tiempo, leé solo el esquema y los bloques 📝.
 
 ---
 
@@ -291,4 +292,6 @@ Porque los beneficios de la innovación (defensa ante amenazas, gestión de ries
 
 ---
 
-[← 01 Fundamentos](01-tecnologia-e-innovacion-fundamentos.md) · [🏠 Índice](README.md) · [Siguiente → 03 Tecnologías disruptivas](03-tecnologias-disruptivas.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 01 Tecnología e Innovación](01-tecnologia-e-innovacion-fundamentos.md) · [🏠 Índice](README.md) · [Siguiente por clase → 03 Tecnologías disruptivas](03-tecnologias-disruptivas.md)

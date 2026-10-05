@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [11 Creatividad](11-creatividad-y-proceso-creativo.md) y [12 Innovación tecnológica](12-innovacion-tecnologica-e-ia.md).
 > **Tiempo estimado:** 50 min.
 > **Parcial 1:** ✅ entra (Día 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 4 · Design Thinking:** leé solo [§I](#i-definición) y [§II](#ii-etapas) → seguí en [23 · III.4](23-parcial-anterior-nokia.md#iii4-design-thinking-qué-es--al-menos-3-etapas).
 
 ---
 
@@ -232,4 +233,6 @@ Centrado en el usuario (empatía); colaborativo y multidisciplinario; iterativo 
 
 ---
 
-[← 12 Innovación tecnológica e IA](12-innovacion-tecnologica-e-ia.md) · [🏠 Índice](README.md) · [Siguiente → 14 Innovación abierta](14-innovacion-abierta.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 12 Innovación tecnológica e Inteligencia Artificial](12-innovacion-tecnologica-e-ia.md) · [🏠 Índice](README.md) · [Siguiente por clase → 14 Innovación abierta](14-innovacion-abierta.md)

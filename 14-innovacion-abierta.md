@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [10 Gestión de la innovación](10-gestion-de-la-innovacion.md) (tipo "Red" de Doblin).
 > **Tiempo estimado:** 70 min.
 > **Parcial 1:** ✅ entra (Día 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 15** (mañana): solo esquema y 📝 de [§II](#ii-el-fundamento-del-embudo-cerrado-al-embudo-perforado), [§III](#iii-dinámica-de-flujos-el-embudo-perforado) y [§IV](#iv-las-tres-verdades-del-nuevo-imperativo).
 
 ---
 
@@ -338,4 +339,6 @@ Es el conjunto de **inversiones financieras y estratégicas** que una gran empre
 
 ---
 
-[← 13 Design Thinking](13-design-thinking.md) · [🏠 Índice](README.md) · [Siguiente → 15 Entornos VICA y VANI](15-entornos-vica-y-vani.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 13 Design Thinking](13-design-thinking.md) · [🏠 Índice](README.md) · [Siguiente por clase → 15 De VICA a VANI](15-entornos-vica-y-vani.md)

@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [04 Business Intelligence](04-business-intelligence.md).
 > **Tiempo estimado:** 60 min.
 > **Parcial 1:** ✅ entra (Clase 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 3 · BI y Data Mining:** leé solo [§II](#ii-definición) y [§III](#iii-objetivos) → seguí en [06 §VII](06-big-data.md#vii-big-data-vs-data-mining) · **Paso 15** (mañana): solo esquema y 📝 de [§VI](#vi-proceso-de-minería-de-datos).
 
 ---
 
@@ -358,4 +359,6 @@ No el algoritmo, que es una herramienta. Es responsable **la empresa** que decid
 
 ---
 
-[← 04 Business Intelligence](04-business-intelligence.md) · [🏠 Índice](README.md) · [Siguiente → 06 Big Data](06-big-data.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 04 Business Intelligence](04-business-intelligence.md) · [🏠 Índice](README.md) · [Siguiente por clase → 06 Big Data](06-big-data.md)

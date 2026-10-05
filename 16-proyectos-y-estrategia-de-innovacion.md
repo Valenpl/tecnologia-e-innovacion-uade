@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [10 Gestión de la innovación](10-gestion-de-la-innovacion.md), [12 Innovación tecnológica](12-innovacion-tecnologica-e-ia.md).
 > **Tiempo estimado:** 60 min.
 > **Parcial 1:** ⏳ todavía no entra (es posterior al Día 3).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** no entra en el Parcial 1; no lo estudies todavía.
 
 ---
 
@@ -399,4 +400,6 @@ Respuesta abierta. Ejemplo: Google Glass (primera versión de consumo): tecnolog
 
 ---
 
-[← 15 VICA y VANI](15-entornos-vica-y-vani.md) · [🏠 Índice](README.md) · [Siguiente → 17 Lean Startup](17-lean-startup.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 15 De VICA a VANI](15-entornos-vica-y-vani.md) · [🏠 Índice](README.md) · [Siguiente por clase → 17 El método Lean Startup](17-lean-startup.md)

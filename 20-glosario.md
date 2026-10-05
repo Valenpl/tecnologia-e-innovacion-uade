@@ -94,4 +94,6 @@
 
 ---
 
-[← 19 OKR](19-okr.md) · [🏠 Índice](README.md) · [Siguiente → 21 Preguntas integradoras](21-preguntas-integradoras.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 19 OKR](19-okr.md) · [🏠 Índice](README.md) · [Siguiente por clase → 21 Preguntas integradoras](21-preguntas-integradoras.md)

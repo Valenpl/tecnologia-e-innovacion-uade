@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [16 Proyectos y estrategia](16-proyectos-y-estrategia-de-innovacion.md).
 > **Tiempo estimado:** 90 min (tema largo y con cálculos).
 > **Parcial 1:** ⏳ todavía no entra (es posterior al Día 3).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** no entra en el Parcial 1; no lo estudies todavía.
 
 ---
 
@@ -502,4 +503,6 @@ Desplazan el modelo de **control por actividad** a **autonomía por resultado**:
 
 ---
 
-[← 17 Lean Startup](17-lean-startup.md) · [🏠 Índice](README.md) · [Siguiente → 19 OKR](19-okr.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 17 El método Lean Startup](17-lean-startup.md) · [🏠 Índice](README.md) · [Siguiente por clase → 19 OKR](19-okr.md)

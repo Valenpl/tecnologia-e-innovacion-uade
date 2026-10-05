@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [08 Curvas de la tecnología](08-curvas-de-la-tecnologia.md).
 > **Tiempo estimado:** 50 min.
 > **Parcial 1:** ✅ entra (Clase 2). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 8 · Destrucción creativa:** leé solo [§II](#ii-destrucción-creativa) → seguí en [23 · V.7](23-parcial-anterior-nokia.md#v7-el-competidor-disruptivo-por-qué-lo-inferior-se-vuelve-destrucción-creativa).
 
 ---
 
@@ -234,4 +235,6 @@ Porque **la aparición de uno o unos pocos emprendedores facilita la aparición 
 
 ---
 
-[← 08 Curvas de la tecnología](08-curvas-de-la-tecnologia.md) · [🏠 Índice](README.md) · [Siguiente → 10 Gestión de la innovación](10-gestion-de-la-innovacion.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 08 Curvas de la tecnología](08-curvas-de-la-tecnologia.md) · [🏠 Índice](README.md) · [Siguiente por clase → 10 Gestión de la innovación](10-gestion-de-la-innovacion.md)

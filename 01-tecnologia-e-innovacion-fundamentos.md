@@ -4,6 +4,7 @@
 > **Prerrequisitos:** ninguno. Es la base de toda la materia.
 > **Tiempo estimado:** 45–60 min.
 > **Parcial 1:** ✅ entra (Clase 1). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 1 · Creatividad vs. innovación:** leé solo [§II](#ii-definiciones-base) → seguí en [11 §I](11-creatividad-y-proceso-creativo.md#i-creatividad) y [11 §II.C](11-creatividad-y-proceso-creativo.md#iic-etapas-del-proceso-creativo) · **Paso 15** (mañana): solo esquema y 📝 de [§I](#i-punto-de-partida-por-qué-la-tecnología-mejoró-la-vida-de-las-personas) y [§V](#v-relación-tecnología--innovación--negocios).
 
 ---
 
@@ -342,4 +343,6 @@ Porque crea valor en el negocio de alojamiento **sin poseer inmuebles**: su valo
 
 ---
 
-[← 00 Cómo estudiar](00-como-estudiar-con-este-material.md) · [🏠 Índice](README.md) · [Siguiente → 02 Impactos y desafíos](02-impactos-y-desafios.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 00 Cómo estudiar con este material](00-como-estudiar-con-este-material.md) · [🏠 Índice](README.md) · [Siguiente por clase → 02 Impactos y desafíos de la tecnología y la innovación](02-impactos-y-desafios.md)

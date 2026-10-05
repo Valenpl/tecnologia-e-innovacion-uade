@@ -12,9 +12,9 @@ Cada módulo sigue el **Outlining Method**: primero el **esquema jerárquico** d
 
 ## 🎯 Ruta al Parcial 1 (empezá acá)
 
-> **Cómo funciona:** es **un solo camino**, en orden. Cada paso tiene tres partes: **leé** las secciones indicadas del módulo (solo esas, no el módulo entero) → **resolvé** la pregunta del parcial anterior en el [23](23-parcial-anterior-nokia.md) → **checkpoint**: escribí el 🧠 esqueleto de memoria. Si te sale, marcá el paso y pasá al siguiente; si no, releé el 📝 y probá de nuevo.
+> **Cómo funciona:** es **un solo camino**, en orden. **No hace falta volver a este índice:** cada paso enlaza al siguiente. Al principio de cada módulo hay un recuadro 🎯 que dice qué secciones leer y adónde seguir, y al final de cada pregunta del [23](23-parcial-anterior-nokia.md) hay un enlace al paso siguiente. Cada paso tiene tres partes: **leé** las secciones indicadas del módulo (solo esas, no el módulo entero) → **resolvé** la pregunta del parcial anterior en el [23](23-parcial-anterior-nokia.md) → **checkpoint**: escribí el 🧠 esqueleto de memoria. Si te sale, marcá el paso y pasá al siguiente; si no, releé el 📝 y probá de nuevo.
 >
-> **Por qué este orden:** el parcial anterior tiene **alta probabilidad (7–8/10) de repetirse**, así que el Día 1 se dedica entero a sus 10 preguntas, en el orden del examen (primero teoría, después el caso). El Día 2 consolida y cubre el 20–30 % que puede cambiar. Dentro de cada bloque, va primero lo que el paso siguiente necesita (por ejemplo, Data Mining antes que Big Data, porque la diferencia entre ambos se apoya en Data Mining).
+> **Por qué este orden:** el parcial anterior tiene **alta probabilidad (7–8/10) de repetirse**, así que el Día 1 se dedica entero a sus 10 preguntas, en el orden del examen (primero teoría, después el caso). El Día 2 consolida y cubre el 20–30 % que puede cambiar.
 
 ```mermaid
 flowchart LR
@@ -29,8 +29,8 @@ flowchart LR
 | ☐ | **0 · El objetivo** | 5' | [Enunciado del parcial anterior](casos/parcial-anterior-nokia.md) | [23](23-parcial-anterior-nokia.md) §I–II (método de respuesta) | …decir qué evalúa cada parte y cómo se responde (4 C y C-E-C). |
 | | **Bloque A · Teoría** | | | | |
 | ☐ | **1 · Creatividad vs. innovación** | 20' | [01](01-tecnologia-e-innovacion-fundamentos.md) §II · [11](11-creatividad-y-proceso-creativo.md) §I y §II.C | [23](23-parcial-anterior-nokia.md) III.1 | …diferenciarlas con cita, y nombrar las 5 etapas del proceso creativo. |
-| ☐ | **2 · BI y Data Mining** | 25' | [04](04-business-intelligence.md) §I–II · [05](05-data-mining.md) §II–III | [23](23-parcial-anterior-nokia.md) III.3 | …escribir los 4 aspectos clave del BI y la tabla BI vs. DM. |
-| ☐ | **3 · Big Data** | 15' | [06](06-big-data.md) §I, §VI y §VII | [23](23-parcial-anterior-nokia.md) III.2 | …definir Big Data y las 5 V (Valor = la más importante). |
+| ☐ | **2 · Big Data** | 15' | [06](06-big-data.md) §I y §VI | [23](23-parcial-anterior-nokia.md) III.2 | …definir Big Data y las 5 V (Valor = la más importante). |
+| ☐ | **3 · BI y Data Mining** | 25' | [04](04-business-intelligence.md) §I–II · [05](05-data-mining.md) §II–III · [06](06-big-data.md) §VII | [23](23-parcial-anterior-nokia.md) III.3 | …escribir los 4 aspectos clave del BI y la tabla BI vs. DM. |
 | ☐ | **4 · Design Thinking** | 15' | [13](13-design-thinking.md) §I–II | [23](23-parcial-anterior-nokia.md) III.4 | …definirlo y explicar las 5 etapas (iterativo). |
 | ☐ | **5 · Doblin** | 15' | [10](10-gestion-de-la-innovacion.md) §II | [23](23-parcial-anterior-nokia.md) III.5 | …ubicar los 10 tipos en Configuración / Oferta / Experiencia. |
 | | ☕ **Pausa** | 10' | | | |

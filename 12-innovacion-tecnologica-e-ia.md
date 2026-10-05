@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [11 Creatividad](11-creatividad-y-proceso-creativo.md).
 > **Tiempo estimado:** 70 min.
 > **Parcial 1:** ✅ entra (Día 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** no está en la ruta (baja prioridad). Si te sobra tiempo, leé solo el esquema y los bloques 📝.
 
 ---
 
@@ -379,4 +380,6 @@ Por su **capacidad de evolución** (mejora con la experiencia y los datos) y su 
 
 ---
 
-[← 11 Creatividad](11-creatividad-y-proceso-creativo.md) · [🏠 Índice](README.md) · [Siguiente → 13 Design Thinking](13-design-thinking.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 11 Creatividad y proceso creativo](11-creatividad-y-proceso-creativo.md) · [🏠 Índice](README.md) · [Siguiente por clase → 13 Design Thinking](13-design-thinking.md)

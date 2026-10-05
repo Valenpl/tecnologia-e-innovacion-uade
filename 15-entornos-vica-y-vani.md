@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [14 Innovación abierta](14-innovacion-abierta.md).
 > **Tiempo estimado:** 45 min.
 > **Parcial 1:** ✅ entra (Día 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 15** (mañana): solo esquema y 📝 de [§II](#ii-vica-vuca-gestión-del-cambio) y [§III](#iii-vani-bani-gestión-del-caos).
 
 ---
 
@@ -254,4 +255,6 @@ Que, ante un mundo **incomprensible**, la **Innovación Abierta** (no la Intelig
 
 ---
 
-[← 14 Innovación abierta](14-innovacion-abierta.md) · [🏠 Índice](README.md) · [Siguiente → 16 Proyectos y estrategia de innovación](16-proyectos-y-estrategia-de-innovacion.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 14 Innovación abierta](14-innovacion-abierta.md) · [🏠 Índice](README.md) · [Siguiente por clase → 16 Proyectos de innovación y estrategia de innovación](16-proyectos-y-estrategia-de-innovacion.md)

@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [16 Proyectos y estrategia](16-proyectos-y-estrategia-de-innovacion.md), [13 Design Thinking](13-design-thinking.md).
 > **Tiempo estimado:** 45 min.
 > **Parcial 1:** ⏳ todavía no entra (es posterior al Día 3), **salvo el concepto de MVP**, que el Día 3 menciona: ver [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 11 · MVP:** leé solo [§I](#i-definición-y-objetivo) y [§IV](#iv-conceptos-clave) → seguí en [23 · V.10](23-parcial-anterior-nokia.md#v10-el-mvp-contra-la-competencia).
 
 ---
 
@@ -249,4 +250,6 @@ Es el **Producto Mínimo Viable**: la versión más simple del producto que perm
 
 ---
 
-[← 16 Proyectos y estrategia](16-proyectos-y-estrategia-de-innovacion.md) · [🏠 Índice](README.md) · [Siguiente → 18 KPI](18-kpi.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 16 Proyectos de innovación y estrategia de innovación](16-proyectos-y-estrategia-de-innovacion.md) · [🏠 Índice](README.md) · [Siguiente por clase → 18 KPI](18-kpi.md)

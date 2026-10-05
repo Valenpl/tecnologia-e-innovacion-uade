@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [10 Gestión de la innovación](10-gestion-de-la-innovacion.md).
 > **Tiempo estimado:** 60 min.
 > **Parcial 1:** ✅ entra (Clase 2 y Día 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 1 · Creatividad vs. innovación:** leé solo [§I](#i-creatividad) y [§II.C](#iic-etapas-del-proceso-creativo) → seguí en [23 · III.1](23-parcial-anterior-nokia.md#iii1-diferencia-entre-innovación-tecnológica-y-creatividad).
 
 ---
 
@@ -315,4 +316,6 @@ Ejemplo: **S**ustituir la tela por material impermeable reciclado; **C**ombinar 
 
 ---
 
-[← 10 Gestión de la innovación](10-gestion-de-la-innovacion.md) · [🏠 Índice](README.md) · [Siguiente → 12 Innovación tecnológica e IA](12-innovacion-tecnologica-e-ia.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 06 Big Data](06-big-data.md) · [🏠 Índice](README.md) · [Siguiente por clase → 12 Innovación tecnológica e Inteligencia Artificial](12-innovacion-tecnologica-e-ia.md)

@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [01](01-tecnologia-e-innovacion-fundamentos.md) y [02](02-impactos-y-desafios.md).
 > **Tiempo estimado:** 60 min.
 > **Parcial 1:** ✅ entra (Clase 1). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 7 · Curva S:** leé solo [§I](#i-definición) y [§II](#ii-características) → seguí en [23 · V.6](23-parcial-anterior-nokia.md#v6-la-curva-s-por-qué-cuidar-solo-la-tecnología-que-deja-plata-hoy-sentenció-a-nokia).
 
 ---
 
@@ -328,4 +329,6 @@ Porque ofrecen soluciones **más simples y accesibles** y entran por **nichos de
 
 ---
 
-[← 02 Impactos y desafíos](02-impactos-y-desafios.md) · [🏠 Índice](README.md) · [Siguiente → 04 Business Intelligence](04-business-intelligence.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 02 Impactos y desafíos de la tecnología y la innovación](02-impactos-y-desafios.md) · [🏠 Índice](README.md) · [Siguiente por clase → 07 Empresas unicornio y el impacto de la opinión pública](07-empresas-unicornio.md)

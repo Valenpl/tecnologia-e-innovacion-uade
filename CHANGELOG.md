@@ -2,6 +2,15 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.05.6 — 2026-10-05
+
+**Motivo:** los enlaces "Siguiente" seguían el orden numérico de los archivos y no la ruta al parcial.
+
+### Cambiado
+- **Navegación de la ruta encadenada:** recuadro 🎯 al inicio de cada módulo con el paso de la ruta, las secciones a leer y el enlace directo al siguiente destino (otra sección o la pregunta del 23); al final de cada pregunta del 23, enlace al paso siguiente. Se puede hacer toda la ruta sin volver al índice.
+- **Pies de página:** "Siguiente por clase" en el orden de la cursada (00 → 01 → 02 → 03 → 07 → 08 → 09 → 10 → 04 → 05 → 06 → 11 … → 23), más un enlace para volver a la ruta.
+- **Ruta:** Big Data (paso 2) pasa antes que BI y Data Mining (paso 3), para seguir el orden del examen y del módulo 23; la tabla Big Data vs. Data Mining se lee en el paso 3.
+
 ## v2026.10.05.5 — 2026-10-05
 
 **Motivo:** el índice seguía el orden de las clases y no llevaba directo al parcial. Se pidió un índice para **ir avanzando paso a paso hasta el parcial**.

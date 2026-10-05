@@ -5,6 +5,7 @@
 >
 > 🚨 **Parcial anterior:** hay alta probabilidad (7–8/10) de que el Parcial 1 sea igual o muy parecido al de la cursada anterior. Está **resuelto pregunta por pregunta** en [23 · Parcial anterior resuelto](23-parcial-anterior-nokia.md), con un plan de 4 h + repaso. **Si tenés poco tiempo, empezá por ahí.**
 > **Tiempo estimado:** ~14 h para los 15 módulos + 2 h de práctica (secciones VI–VIII).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 11 · MVP:** leé solo [§VI.1](#vi1-qué-es-un-mvp) → seguí en [17 §I](17-lean-startup.md#i-definición-y-objetivo) y [17 §IV](17-lean-startup.md#iv-conceptos-clave).
 
 ---
 
@@ -258,4 +259,6 @@ El examen de la cursada anterior está transcripto en [casos/parcial-anterior-no
 
 ---
 
-[← 21 Preguntas integradoras](21-preguntas-integradoras.md) · [🏠 Índice](README.md) · [Siguiente → 23 Parcial anterior resuelto](23-parcial-anterior-nokia.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 21 Preguntas integradoras](21-preguntas-integradoras.md) · [🏠 Índice](README.md) · [Siguiente por clase → 23 Parcial anterior resuelto](23-parcial-anterior-nokia.md)

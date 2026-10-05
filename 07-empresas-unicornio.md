@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md).
 > **Tiempo estimado:** 25 min.
 > **Parcial 1:** ✅ entra (Clase 2). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 10 · Opinión pública:** leé solo [§II.A](#iia-definición) y [§III](#iii-el-impacto-de-la-opinión-pública-en-la-valuación) → seguí en [23 · V.9](23-parcial-anterior-nokia.md#v9-crisis-de-datos-y-reputación-pública-el-valor-de-los-intangibles).
 
 ---
 
@@ -179,4 +180,6 @@ Porque su valoración se basa en **expectativas de crecimiento futuro** y en la 
 
 ---
 
-[← 06 Big Data](06-big-data.md) · [🏠 Índice](README.md) · [Siguiente → 08 Curvas de la tecnología](08-curvas-de-la-tecnologia.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 03 Tecnologías disruptivas](03-tecnologias-disruptivas.md) · [🏠 Índice](README.md) · [Siguiente por clase → 08 Curvas de la tecnología](08-curvas-de-la-tecnologia.md)

@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md).
 > **Tiempo estimado:** 50 min.
 > **Parcial 1:** ✅ entra (Clase 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 3 · BI y Data Mining:** leé solo [§I](#i-definición) y [§II](#ii-aspectos-clave) → seguí en [05 §II](05-data-mining.md#ii-definición) y [05 §III](05-data-mining.md#iii-objetivos).
 
 ---
 
@@ -284,4 +285,6 @@ Los datos pueden estar **incompletos o mal analizados**, y un dashboard prolijo 
 
 ---
 
-[← 03 Tecnologías disruptivas](03-tecnologias-disruptivas.md) · [🏠 Índice](README.md) · [Siguiente → 05 Data Mining](05-data-mining.md)
+🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
+
+[← 10 Gestión de la innovación](10-gestion-de-la-innovacion.md) · [🏠 Índice](README.md) · [Siguiente por clase → 05 Data Mining](05-data-mining.md)
