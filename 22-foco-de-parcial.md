@@ -41,6 +41,8 @@
 
 ## II. Orden y plan de estudio
 
+> 🎯 **Para el Parcial 1 de mañana, seguí la [Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá) del README** (≈ 5 h en 16 pasos, armada sobre el parcial anterior). El plan de abajo, de 6 sesiones y ~16 h, es para estudiar **todo** el temario con tiempo (por ejemplo, para el recuperatorio o el final).
+
 Estudiá **en el orden de las clases**, no en el orden numérico de los archivos. Cada sesión cierra con la autoevaluación de sus módulos.
 
 | Sesión | Bloque | Módulos (en orden) | Tiempo aprox. | Foco |

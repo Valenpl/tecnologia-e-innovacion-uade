@@ -108,7 +108,9 @@ flowchart LR
 
 ## IV. Orden sugerido de la materia
 
-Estudiá en el **orden en que se dieron las clases**, no en el orden numérico de los archivos (que responde a cómo se armó el material). Para el **Parcial 1 entra todo hasta el Día 3**; el alcance actualizado y el plan de estudio están en [22 · Guía del Parcial 1](22-foco-de-parcial.md), y el **parcial anterior resuelto** en [23](23-parcial-anterior-nokia.md).
+> 🎯 **Para el Parcial 1 no uses este orden:** seguí la [Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá) del README, armada sobre el parcial anterior.
+
+Para estudiar la materia completa, estudiá en el **orden en que se dieron las clases**, no en el orden numérico de los archivos (que responde a cómo se armó el material). Para el **Parcial 1 entra todo hasta el Día 3**; el alcance actualizado y el plan de estudio están en [22 · Guía del Parcial 1](22-foco-de-parcial.md), y el **parcial anterior resuelto** en [23](23-parcial-anterior-nokia.md).
 
 ```mermaid
 flowchart TB

@@ -4,17 +4,65 @@ Material de **estudio** (no de repaso) de la materia **Tecnología e Innovación
 
 Cada módulo sigue el **Outlining Method**: primero el **esquema jerárquico** del tema (vista de pájaro) y después el **desarrollo completo** con la misma numeración, diagramas, ejemplos, trampas de parcial, bloques 📝 para responder **citando y explayándose** (como pide el profesor) y autoevaluación con respuestas plegables.
 
-> 👉 **Si es tu primera vez:** empezá por [**00 · Cómo estudiar con este material**](00-como-estudiar-con-este-material.md) (10 minutos).
+> 👉 **Parcial 1 (mañana):** seguí la [**🎯 Ruta al Parcial 1**](#-ruta-al-parcial-1-empezá-acá), paso a paso. Está armada a partir del [parcial anterior resuelto](23-parcial-anterior-nokia.md).
+>
+> 📖 Para entender cómo está hecho cada módulo: [00 · Cómo estudiar con este material](00-como-estudiar-con-este-material.md).
 
 ---
 
-## 🗂️ Índice (en el orden en que se dieron las clases)
+## 🎯 Ruta al Parcial 1 (empezá acá)
 
-> 📍 **Parcial 1: entra todo hasta el Día 3** (módulos 01–15, más el concepto de **MVP**). Si el alcance se amplía, se actualiza en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+> **Cómo funciona:** es **un solo camino**, en orden. Cada paso tiene tres partes: **leé** las secciones indicadas del módulo (solo esas, no el módulo entero) → **resolvé** la pregunta del parcial anterior en el [23](23-parcial-anterior-nokia.md) → **checkpoint**: escribí el 🧠 esqueleto de memoria. Si te sale, marcá el paso y pasá al siguiente; si no, releé el 📝 y probá de nuevo.
 >
-> 🚨 **Parcial anterior resuelto:** [23 · Parcial anterior (caso Nokia)](23-parcial-anterior-nokia.md). Alta probabilidad de que se repita: **empezá por ahí**.
->
-> Los números de archivo responden a cómo se armó el material; **el orden de estudio es el de estas tablas**, que sigue la cursada (según las notas de clase: Clase 1 → Clase 2 → Clase 3 → Día 3).
+> **Por qué este orden:** el parcial anterior tiene **alta probabilidad (7–8/10) de repetirse**, así que el Día 1 se dedica entero a sus 10 preguntas, en el orden del examen (primero teoría, después el caso). El Día 2 consolida y cubre el 20–30 % que puede cambiar. Dentro de cada bloque, va primero lo que el paso siguiente necesita (por ejemplo, Data Mining antes que Big Data, porque la diferencia entre ambos se apoya en Data Mining).
+
+```mermaid
+flowchart LR
+    P0["0 · Objetivo"] --> A["Pasos 1–5<br/>Teoría<br/>(preguntas 1–5)"] --> R["☕"] --> B["Pasos 6–11<br/>Caso Nokia<br/>(preguntas 6–10)"] --> S["12 · Simulacro"]
+    S --> D2["Día 2 · Pasos 13–16<br/>esqueletos · variantes ·<br/>resto del temario · trampas"] --> PARCIAL(["📝 PARCIAL"])
+```
+
+### 📅 Día 1 · Hoy (≈ 3 h 35 + margen): las 10 preguntas del parcial anterior
+
+| ✓ | Paso | Tiempo | 1. Leé | 2. Resolvé | Checkpoint: podés… |
+|---|---|---|---|---|---|
+| ☐ | **0 · El objetivo** | 5' | [Enunciado del parcial anterior](casos/parcial-anterior-nokia.md) | [23](23-parcial-anterior-nokia.md) §I–II (método de respuesta) | …decir qué evalúa cada parte y cómo se responde (4 C y C-E-C). |
+| | **Bloque A · Teoría** | | | | |
+| ☐ | **1 · Creatividad vs. innovación** | 20' | [01](01-tecnologia-e-innovacion-fundamentos.md) §II · [11](11-creatividad-y-proceso-creativo.md) §I y §II.C | [23](23-parcial-anterior-nokia.md) III.1 | …diferenciarlas con cita, y nombrar las 5 etapas del proceso creativo. |
+| ☐ | **2 · BI y Data Mining** | 25' | [04](04-business-intelligence.md) §I–II · [05](05-data-mining.md) §II–III | [23](23-parcial-anterior-nokia.md) III.3 | …escribir los 4 aspectos clave del BI y la tabla BI vs. DM. |
+| ☐ | **3 · Big Data** | 15' | [06](06-big-data.md) §I, §VI y §VII | [23](23-parcial-anterior-nokia.md) III.2 | …definir Big Data y las 5 V (Valor = la más importante). |
+| ☐ | **4 · Design Thinking** | 15' | [13](13-design-thinking.md) §I–II | [23](23-parcial-anterior-nokia.md) III.4 | …definirlo y explicar las 5 etapas (iterativo). |
+| ☐ | **5 · Doblin** | 15' | [10](10-gestion-de-la-innovacion.md) §II | [23](23-parcial-anterior-nokia.md) III.5 | …ubicar los 10 tipos en Configuración / Oferta / Experiencia. |
+| | ☕ **Pausa** | 10' | | | |
+| | **Bloque B · Caso Nokia** | | | | |
+| ☐ | **6 · El caso** | 10' | [23](23-parcial-anterior-nokia.md) §IV (resumen, bandos internos, tesis) | — | …contar el caso en 1 minuto con 3 frases textuales. |
+| ☐ | **7 · Curva S** | 20' | [08](08-curvas-de-la-tecnologia.md) §I.A–I.C · [03](03-tecnologias-disruptivas.md) §I–II | [23](23-parcial-anterior-nokia.md) V.6 | …ubicar Symbian en la saturación con evidencia y explicar el salto. |
+| ☐ | **8 · Destrucción creativa** | 20' | [09](09-schumpeter-destruccion-creativa-y-ciclos.md) §II | [23](23-parcial-anterior-nokia.md) V.7 | …explicar por qué lo "inferior" disrumpe y qué se destruye / crea. |
+| ☐ | **9 · Gestión 2.0** | 15' | [10](10-gestion-de-la-innovacion.md) §III.A | [23](23-parcial-anterior-nokia.md) V.8 | …explicar por qué juntar jefes ≠ interdisciplina y los pilares 2.0. |
+| ☐ | **10 · Opinión pública** | 10' | [07](07-empresas-unicornio.md) §II.A y §III | [23](23-parcial-anterior-nokia.md) V.9 | …explicar el efecto en inversores (40 → 3) y desarrolladores. |
+| ☐ | **11 · MVP** | 15' | [22](22-foco-de-parcial.md) §VI.1 · [17](17-lean-startup.md) §I y §IV | [23](23-parcial-anterior-nokia.md) V.10 | …definir MVP y armar el plan de Nokia (hipótesis → medir → iterar/pivotar). |
+| ☐ | **12 · Simulacro** | 20' | — | [23](23-parcial-anterior-nokia.md) §IX: preguntas **3** y **8** sin mirar | …responderlas en ~10' cada una y corregirlas con el 📝. |
+
+### 🌅 Día 2 · Mañana a la mañana (1 h 30): consolidar y cubrir lo que puede cambiar
+
+| ✓ | Paso | Tiempo | Qué hacer | Checkpoint: podés… |
+|---|---|---|---|---|
+| ☐ | **13 · Esqueletos** | 20' | Escribí de memoria los 10 🧠 esqueletos del [23](23-parcial-anterior-nokia.md); releé solo los que fallaste. | …recitar las 10 respuestas en estructura. |
+| ☐ | **14 · Variantes del caso** | 20' | [23](23-parcial-anterior-nokia.md) §VI (priorizá VI.1 explotar / explorar / ambidestreza, VI.2 Gartner y VI.3 adopción) y §VII (Kodak / NEXA). | …responder *"¿qué habrías hecho en 2007?"* y trasladar el análisis a otro caso. |
+| ☐ | **15 · Resto del temario** | 35' | Solo **esquema + bloques 📝** de: [08](08-curvas-de-la-tecnologia.md) §II–III (Gartner y adopción con %) · [05](05-data-mining.md) §VI (6 etapas) · [14](14-innovacion-abierta.md) §II–IV (innovación abierta) · [15](15-entornos-vica-y-vani.md) §II–III (VICA / VANI) · [01](01-tecnologia-e-innovacion-fundamentos.md) §I y §V (pregunta de apertura y relación tripartita). | …cubrir las preguntas que podrían reemplazar a alguna del parcial anterior. |
+| ☐ | **16 · Trampas y cierre** | 15' | ⚠️ de las 10 preguntas y *Conceptos que se confunden* del [23](23-parcial-anterior-nokia.md) · checklist de la [Guía](22-foco-de-parcial.md) §VIII. | …no caer en ninguna trampa. Fin: no estudiar nada nuevo. |
+
+### 🚫 Qué NO estudiar antes del parcial
+
+- Módulos [16](16-proyectos-y-estrategia-de-innovacion.md), [18](18-kpi.md) y [19](19-okr.md): no entran en el Parcial 1.
+- De [17](17-lean-startup.md), solo el MVP (paso 11).
+- Detalles de baja probabilidad: listas de programas y software (BI, Data Mining), empresas que los usan, ciclos de Kitchin / Juglar / Kondratiev, técnicas creativas una por una, GV en detalle. Si sobra tiempo, el orden de consulta está abajo.
+
+---
+
+## 📚 Índice completo por clase (para consultar)
+
+> Todos los módulos, en el orden en que se dieron las clases. **No es el orden de estudio para el parcial** (ese es la ruta de arriba); sirve para buscar un tema o para estudiar la materia completa más adelante.
 
 ### Introducción
 | # | Módulo | Qué vas a aprender |
@@ -71,7 +119,7 @@ Cada módulo sigue el **Outlining Method**: primero el **esquema jerárquico** d
 
 ---
 
-## 🧭 Mapa de la materia
+## 🧭 Mapa de la materia (por clase)
 
 ```mermaid
 flowchart TB

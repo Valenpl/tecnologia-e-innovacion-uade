@@ -2,7 +2,7 @@
 
 > **Qué es:** el parcial que tomó la cátedra en la cursada anterior. Hay **alta probabilidad (7–8 sobre 10)** de que el Parcial 1 sea igual o muy parecido, así que este módulo tiene **las 10 preguntas resueltas** con el formato que pidió el profesor: **citar y explayarse**.
 > **Fuentes:** enunciado del parcial anterior ([casos/parcial-anterior-nokia.md](casos/parcial-anterior-nokia.md)) · caso Nokia de la cátedra ([casos/nokia-caso-catedra.md](casos/nokia-caso-catedra.md)) · módulos 01–17.
-> **Tiempo estimado:** 4 h (ver el plan en la sección VIII).
+> **Tiempo estimado:** 4 h hoy + 1 h 30 mañana. **El orden de estudio está en la [Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)** del README: este módulo es la "parte de resolver" de cada paso.
 > **Prerrequisitos:** ninguno obligatorio: cada respuesta te dice de qué módulo sale, por si te falta base.
 
 ---
@@ -505,27 +505,14 @@ Los conceptos son los mismos; solo cambia la evidencia. La cátedra misma mencio
 
 ## VIII. Plan de estudio: 4 h hoy + repaso mañana
 
-### Hoy (4 h)
+El plan está integrado en la **[🎯 Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)** del README: 16 pasos en orden, cada uno con qué leer del módulo, qué pregunta de este módulo resolver y un checkpoint.
 
-| Bloque | Tiempo | Qué hacer | Cómo |
-|---|---|---|---|
-| 1 | 0:00–0:15 | **Leé el caso** (IV) y el enunciado del examen. | Subrayá las frases que vas a usar como evidencia (tabla IV.B). |
-| 2 | 0:15–1:25 | **Parte A (1–5).** | Por pregunta: leé el 📝, tapalo, escribí el 🧠 esqueleto de memoria, compará. ~14 min cada una. |
-| — | 1:25–1:35 | Descanso. | |
-| 3 | 1:35–2:55 | **Parte B (6–10).** | Igual que la A, pero practicando el **C-E-C**: concepto → evidencia → conclusión. ~16 min cada una. |
-| 4 | 2:55–3:30 | **Variantes (VI).** | Priorizá VI.1 (explotar/explorar/ambidestreza), VI.2 (Gartner) y VI.3 (adopción). Solo el esqueleto. |
-| 5 | 3:30–4:00 | **Simulacro (IX).** | Escribí sin mirar una pregunta de la A (la 3) y una de la B (la 8), con tiempo. Corregí con el 📝. |
+| Día | Pasos | Qué cubre |
+|---|---|---|
+| **Hoy** (≈ 3 h 35 + margen) | 0–12 | Objetivo → teoría (preguntas 1–5) → pausa → caso (preguntas 6–10) → simulacro. |
+| **Mañana a la mañana** (1 h 30) | 13–16 | Esqueletos de memoria → variantes del caso (VI–VII) → resto del temario → trampas. |
 
-### Mañana a la mañana (repaso, 1 h 30)
-
-| Tiempo | Qué hacer |
-|---|---|
-| 30 min | Recitá o escribí los **10 esqueletos 🧠** de memoria. Releé solo los que fallaste. |
-| 30 min | **El 20–30 % que puede cambiar:** checklist de la [Guía del Parcial](22-foco-de-parcial.md) (VIII): aspectos clave del BI, etapas del Data Mining, etapas del proceso creativo, Gartner y adopción con %, Schumpeter, VICA/VANI, innovación abierta. |
-| 20 min | Repasá la tabla de VII (Nokia · Kodak · NEXA) y la **tesis del caso** (IV.D). |
-| 10 min | Nada nuevo. Revisá las ⚠️ trampas de las 10 preguntas. |
-
-> ⚠️ **No te quedes solo con las 10 preguntas.** Aunque la probabilidad de que se repita sea alta, el 20–30 % restante puede cambiar una o dos preguntas. La sección VI y el checklist de la Guía cubren ese margen.
+> ⚠️ **No te quedes solo con las 10 preguntas.** Aunque la probabilidad de que se repita sea alta, el 20–30 % restante puede cambiar una o dos preguntas. El paso 15 de la ruta cubre ese margen.
 
 ---
 

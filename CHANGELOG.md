@@ -2,6 +2,14 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.05.5 — 2026-10-05
+
+**Motivo:** el índice seguía el orden de las clases y no llevaba directo al parcial. Se pidió un índice para **ir avanzando paso a paso hasta el parcial**.
+
+### Cambiado
+- **README:** el índice principal pasa a ser la **🎯 Ruta al Parcial 1**: 16 pasos en orden (Día 1: objetivo → teoría → caso → simulacro; Día 2: esqueletos → variantes → resto del temario → trampas). Cada paso indica qué secciones leer del módulo, qué pregunta resolver del 23, el tiempo y un checkpoint. Se agrega qué **no** estudiar antes del parcial. El índice por clase queda abajo, como consulta.
+- **00, 22 y 23:** remiten a la ruta; el plan de 6 sesiones de la 22 queda para estudiar el temario completo, y la sección VIII de la 23 resume la ruta.
+
 ## v2026.10.05.4 — 2026-10-05
 
 **Motivo:** apareció el **parcial de la cursada anterior** (caso Nokia vs. Apple), con alta probabilidad (7–8/10) de repetirse, y se agregaron archivos nuevos en la carpeta `TP/` (caso Nokia de la cátedra y versiones del TP NEXA).
