@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Día 3 – Innovación tecnológica, creatividad vs. innovación*, diapositivas 10–29.
 > **Prerrequisitos:** [11 Creatividad](11-creatividad-y-proceso-creativo.md).
 > **Tiempo estimado:** 70 min.
+> **Parcial 1:** ✅ entra (Día 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 

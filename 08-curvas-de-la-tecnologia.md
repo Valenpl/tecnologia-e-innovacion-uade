@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Mario Barrios), diapositivas 5–13.
 > **Prerrequisitos:** [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md).
 > **Tiempo estimado:** 75 min (es uno de los temas más gráficos y preguntables).
+> **Parcial 1:** ✅ entra (Clase 2). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 

@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Mario Barrios), diapositivas 1–16, 24–26.
 > **Prerrequisitos:** [10 Gestión de la innovación](10-gestion-de-la-innovacion.md), [12 Innovación tecnológica](12-innovacion-tecnologica-e-ia.md).
 > **Tiempo estimado:** 60 min.
+> **Parcial 1:** ⏳ todavía no entra (es posterior al Día 3).
 
 ---
 

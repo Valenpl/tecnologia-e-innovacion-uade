@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Mario Barrios), diapositivas 14–18.
 > **Prerrequisitos:** [08 Curvas de la tecnología](08-curvas-de-la-tecnologia.md).
 > **Tiempo estimado:** 50 min.
+> **Parcial 1:** ✅ entra (Clase 2). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 

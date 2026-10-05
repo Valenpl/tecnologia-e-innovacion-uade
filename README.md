@@ -8,53 +8,53 @@ Cada módulo sigue el **Outlining Method**: primero el **esquema jerárquico** d
 
 ---
 
-## 🗂️ Índice
+## 🗂️ Índice (en el orden en que se dieron las clases)
+
+> 📍 **Parcial 1: entra todo hasta el Día 3** (módulos 01–15). Si el alcance se amplía, se actualiza en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+>
+> Los números de archivo responden a cómo se armó el material; **el orden de estudio es el de estas tablas**, que sigue la cursada (según las notas de clase: Clase 1 → Clase 2 → Clase 3 → Día 3).
 
 ### Introducción
 | # | Módulo | Qué vas a aprender |
 |---|---|---|
-| 00 | [Cómo estudiar con este material](00-como-estudiar-con-este-material.md) | El Outlining Method, la estructura de cada módulo y el orden sugerido. |
+| 00 | [Cómo estudiar con este material](00-como-estudiar-con-este-material.md) | El Outlining Method, la estructura de cada módulo y el orden de estudio. |
 
-### Bloque 1 · Fundamentos
-| # | Módulo | Qué vas a aprender | Fuente |
+### ✅ Parcial 1 · Clase 1 — Escandell
+| Orden | # | Módulo | Qué vas a aprender |
 |---|---|---|---|
-| 01 | [Tecnología e innovación: conceptos fundamentales](01-tecnologia-e-innovacion-fundamentos.md) | Tecnología ("el cómo") vs. innovación ("el para qué"), tipos, importancia, relación tripartita con los negocios. | Clase 1 · Escandell |
-| 02 | [Impactos y desafíos](02-impactos-y-desafios.md) | Impactos en sociedad y empresas, IA agéntica, gemelos digitales, hiperpersonalización, los 6 desafíos. | Clase 1 · Escandell |
-| 03 | [Tecnologías disruptivas](03-tecnologias-disruptivas.md) | Definición, 5 características, principales tecnologías, 7 pasos de implementación, beneficios y ventajas. | Clase 1 y Clase 2026 · Escandell |
+| 1 | 01 | [Tecnología e innovación: conceptos fundamentales](01-tecnologia-e-innovacion-fundamentos.md) | Tecnología ("el cómo") vs. innovación ("el para qué"), tipos, importancia, relación tripartita con los negocios. |
+| 2 | 02 | [Impactos y desafíos](02-impactos-y-desafios.md) | Impactos en sociedad y empresas, IA agéntica, gemelos digitales, hiperpersonalización, los 6 desafíos. |
+| 3 | 03 | [Tecnologías disruptivas](03-tecnologias-disruptivas.md) | Definición, 5 características, principales tecnologías, 7 pasos de implementación, I+D+i, beneficios y ventajas. |
 
-### Bloque 2 · Datos
-| # | Módulo | Qué vas a aprender | Fuente |
+### ✅ Parcial 1 · Clase 2 — Barrios (remota)
+| Orden | # | Módulo | Qué vas a aprender |
 |---|---|---|---|
-| 04 | [Business Intelligence](04-business-intelligence.md) | Definición, proceso, funciones, características (self-service, data warehouse), programas. | Clase 2026 · Escandell |
-| 05 | [Data Mining](05-data-mining.md) | Proceso de 6 etapas, 8 técnicas (clasificación, clustering, asociación…), casos y ética. | Clase 2026 · Escandell |
-| 06 | [Big Data](06-big-data.md) | Las 5 V, Big Data vs. Data Mining, integración BI + DM + BD, actividad del gerente de streaming. | Clase 2026 · Escandell |
+| 4 | 07 | [Empresas unicornio y opinión pública](07-empresas-unicornio.md) | Definición, características, factores que mueven la valuación (caso Facebook). |
+| 5 | 08 | [Curvas de la tecnología](08-curvas-de-la-tecnologia.md) | Curva S (Christensen), Hype Cycle (Gartner), curva de adopción, desarrollo de tecnologías. |
+| 6 | 09 | [Schumpeter: destrucción creativa y ciclos](09-schumpeter-destruccion-creativa-y-ciclos.md) | Destrucción creativa, 5 tipos de innovación, ciclos económicos, Kitchin–Juglar–Kondratiev. |
+| 7 | 10 | [Gestión de la innovación: Doblin y Gestión 2.0](10-gestion-de-la-innovacion.md) | Los 10 tipos de Doblin, los 6 pilares de la Gestión 2.0, habilidades blandas. |
 
-### Bloque 3 · Dinámica de la innovación
-| # | Módulo | Qué vas a aprender | Fuente |
+### ✅ Parcial 1 · Clase 3 — Escandell (datos)
+| Orden | # | Módulo | Qué vas a aprender |
 |---|---|---|---|
-| 07 | [Empresas unicornio y opinión pública](07-empresas-unicornio.md) | Definición, características, factores que mueven la valuación (caso Facebook). | Clase 2 · Barrios |
-| 08 | [Curvas de la tecnología](08-curvas-de-la-tecnologia.md) | Curva S (Christensen), Hype Cycle (Gartner), curva de adopción, desarrollo de tecnologías. | Clase 2 · Barrios |
-| 09 | [Schumpeter: destrucción creativa y ciclos](09-schumpeter-destruccion-creativa-y-ciclos.md) | Destrucción creativa, 5 tipos de innovación, ciclos económicos, Kitchin–Juglar–Kondratiev. | Clase 2 · Barrios |
+| 8 | 04 | [Business Intelligence](04-business-intelligence.md) | Definición, aspectos clave, funciones, características (self-service, data warehouse), programas. |
+| 9 | 05 | [Data Mining](05-data-mining.md) | Proceso de 6 etapas, 8 técnicas (clasificación, clustering, asociación…), casos y ética. |
+| 10 | 06 | [Big Data](06-big-data.md) | Las 5 V, Big Data vs. Data Mining (y la diapositiva que los mezcla), integración BI + DM + BD. |
 
-### Bloque 4 · Gestionar y crear
-| # | Módulo | Qué vas a aprender | Fuente |
+### ✅ Parcial 1 · Día 3 — Creatividad, innovación tecnológica e innovación abierta
+| Orden | # | Módulo | Qué vas a aprender |
 |---|---|---|---|
-| 10 | [Gestión de la innovación: Doblin y Gestión 2.0](10-gestion-de-la-innovacion.md) | Los 10 tipos de Doblin, los 6 pilares de la Gestión 2.0, habilidades blandas. | Clase 2 · Barrios |
-| 11 | [Creatividad y proceso creativo](11-creatividad-y-proceso-creativo.md) | Etapas, 7 reglas, 7 técnicas (SCAMPER, morfológico, brainwriting…), creatividad vs. innovación. | Clase 2 y Día 3 |
-| 12 | [Innovación tecnológica e IA](12-innovacion-tecnologica-e-ia.md) | Características, tipos, 10 problemas de innovar, Inteligencia Artificial. | Día 3 |
-| 13 | [Design Thinking](13-design-thinking.md) | Las 5 etapas, características, beneficios, casos (Apple, Netflix, Airbnb, BBVA, IKEA). | Día 3 |
+| 11 | 11 | [Creatividad y proceso creativo](11-creatividad-y-proceso-creativo.md) | Creatividad vs. innovación, etapas, 7 reglas, 7 técnicas (SCAMPER, morfológico, brainwriting…). *(Empieza en la Clase 2.)* |
+| 12 | 12 | [Innovación tecnológica e IA](12-innovacion-tecnologica-e-ia.md) | Características, tipos, 10 problemas de innovar, Inteligencia Artificial. |
+| 13 | 13 | [Design Thinking](13-design-thinking.md) | Las 5 etapas, características, beneficios, casos (Apple, Netflix, Airbnb, BBVA, IKEA). |
+| 14 | 14 | [Innovación abierta](14-innovacion-abierta.md) | Chesbrough, embudo cerrado vs. perforado, inbound/outbound, CVC, caso Google Ventures. |
+| 15 | 15 | [De VICA a VANI](15-entornos-vica-y-vani.md) | Entornos VUCA y BANI, matriz de transición, innovación abierta como resiliencia. |
 
-### Bloque 5 · Ecosistema
-| # | Módulo | Qué vas a aprender | Fuente |
-|---|---|---|---|
-| 14 | [Innovación abierta](14-innovacion-abierta.md) | Chesbrough, embudo cerrado vs. perforado, inbound/outbound, CVC, caso Google Ventures. | Día 3 · Innovación Abierta |
-| 15 | [De VICA a VANI](15-entornos-vica-y-vani.md) | Entornos VUCA y BANI, matriz de transición, innovación abierta como resiliencia. | Día 3 · Innovación Abierta |
-
-### Bloque 6 · Ejecutar y medir
+### ⏳ Después del Día 3 (todavía no entra en el Parcial 1)
 | # | Módulo | Qué vas a aprender | Fuente |
 |---|---|---|---|
 | 16 | [Proyectos y estrategia de innovación](16-proyectos-y-estrategia-de-innovacion.md) | Proyecto de innovación, tipos, estrategia de innovación, alineación, caso retail. | Proyecto de Innovación · Barrios |
-| 17 | [Lean Startup](17-lean-startup.md) | Eric Ries, las 10 fases, MVP, iterar vs. pivotar, comparación con Design Thinking. | Proyecto de Innovación · Barrios |
+| 17 | [Lean Startup](17-lean-startup.md) | Eric Ries, las 10 fases, MVP, iterar vs. pivotar. ⚠️ El concepto de **MVP** sí conviene saberlo para el Parcial 1: lo menciona el Día 3. | Proyecto de Innovación · Barrios |
 | 18 | [KPI](18-kpi.md) | Anatomía, SMART, leading/lagging, DORA, SaaS, casos Spotify y Mercado Libre, costo de no medir. | KPI & OKR · Barrios |
 | 19 | [OKR](19-okr.md) | Estructura, KPI vs. OKR, cascada, 6 errores, pago contra hitos para freelancers. | KPI & OKR · Barrios |
 
@@ -63,7 +63,7 @@ Cada módulo sigue el **Outlining Method**: primero el **esquema jerárquico** d
 |---|---|---|
 | 20 | [Glosario](20-glosario.md) | Todos los términos de la materia con link al módulo. |
 | 21 | [Preguntas integradoras](21-preguntas-integradoras.md) | 11 preguntas tipo parcial que cruzan varios temas, con respuesta modelo. |
-| 22 | [Foco de parcial](22-foco-de-parcial.md) | Qué se marcó como importante en clase y en el apunte: mapa de prioridades y checklist final. |
+| 22 | [Guía del Parcial 1](22-foco-de-parcial.md) | Alcance, orden y plan de estudio, posibles preguntas resueltas, práctica tipo caso y checklist. |
 
 ---
 
@@ -71,25 +71,25 @@ Cada módulo sigue el **Outlining Method**: primero el **esquema jerárquico** d
 
 ```mermaid
 flowchart TB
-    subgraph B1["1 · Fundamentos"]
-        M01["01 Tecnología<br/>e innovación"] --> M02["02 Impactos<br/>y desafíos"] --> M03["03 Tecnologías<br/>disruptivas"]
+    subgraph P1["📍 PARCIAL 1 · entra todo hasta el Día 3"]
+        subgraph C1["Clase 1 · Escandell"]
+            M01["01 Tecnología<br/>e innovación"] --> M02["02 Impactos<br/>y desafíos"] --> M03["03 Tecnologías<br/>disruptivas"]
+        end
+        subgraph C2["Clase 2 · Barrios"]
+            M07["07 Unicornios"] --> M08["08 Curvas"] --> M09["09 Schumpeter"] --> M10["10 Doblin y<br/>Gestión 2.0"]
+        end
+        subgraph C3["Clase 3 · Escandell · datos"]
+            M04["04 BI"] --> M05["05 Data Mining"] --> M06["06 Big Data"]
+        end
+        subgraph D3["Día 3"]
+            M11["11 Creatividad"] --> M12["12 Innovación<br/>tecnológica e IA"] --> M13["13 Design<br/>Thinking"] --> M14["14 Innovación<br/>abierta"] --> M15["15 VICA / VANI"]
+        end
+        C1 --> C2 --> C3 --> D3
     end
-    subgraph B2["2 · Datos"]
-        M04["04 BI"] --> M05["05 Data Mining"] --> M06["06 Big Data"]
-    end
-    subgraph B3["3 · Dinámica"]
-        M07["07 Unicornios"] --> M08["08 Curvas"] --> M09["09 Schumpeter"]
-    end
-    subgraph B4["4 · Gestionar y crear"]
-        M10["10 Doblin y<br/>Gestión 2.0"] --> M11["11 Creatividad"] --> M12["12 Innovación<br/>tecnológica e IA"] --> M13["13 Design<br/>Thinking"]
-    end
-    subgraph B5["5 · Ecosistema"]
-        M14["14 Innovación<br/>abierta"] --> M15["15 VICA / VANI"]
-    end
-    subgraph B6["6 · Ejecutar y medir"]
+    subgraph POST["⏳ Después del Día 3"]
         M16["16 Proyectos y<br/>estrategia"] --> M17["17 Lean Startup"] --> M18["18 KPI"] --> M19["19 OKR"]
     end
-    B1 --> B2 --> B3 --> B4 --> B5 --> B6
+    P1 --> POST
 ```
 
 ---
@@ -121,7 +121,7 @@ Cada actualización del material se registra en [CHANGELOG.md](CHANGELOG.md) y s
 ├── 01 … 19-*.md             ← módulos de estudio
 ├── 20-glosario.md
 ├── 21-preguntas-integradoras.md
-├── 22-foco-de-parcial.md     ← prioridades de parcial
+├── 22-foco-de-parcial.md     ← guía del Parcial 1
 ├── CHANGELOG.md             ← historial de versiones (tags por fecha)
 └── assets/                  ← diagramas SVG (curvas, ciclos, Doblin, embudos)
 ```

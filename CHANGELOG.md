@@ -2,6 +2,16 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.05.3 — 2026-10-05
+
+**Motivo:** el índice no seguía el orden de la cursada y no estaba claro qué estudiar. Alcance del **Parcial 1: todo hasta el Día 3** (puede ampliarse).
+
+### Cambiado
+- **README**: índice reordenado **por clase** (Clase 1 → Clase 2 → Clase 3 → Día 3), separando lo que entra en el Parcial 1 de lo posterior; mapa de la materia nuevo.
+- **00**: el orden sugerido pasa a ser el de las clases.
+- **Cabecera de cada módulo (01–19)**: indica si entra en el Parcial 1 y en qué clase se dio.
+- **22** pasa a ser la **Guía del Parcial 1**: alcance actualizable, plan de estudio en 6 sesiones, prioridades de los módulos 01–15, posibles preguntas resueltas (**MVP** y **etapas del proceso creativo**), mapa del TP NEXA por módulo, 5 preguntas de práctica nuevas para la Clase 3 y el Día 3, y checklist por clase.
+
 ## v2026.10.05.2 — 2026-10-05
 
 **Motivo:** el profesor pidió **no citar a secas, sino citar y explayarse**, y advirtió que la diapositiva de *Objetivos* de Big Data mezcla contenido de Data Mining (los apuntes hay que leerlos con criterio).

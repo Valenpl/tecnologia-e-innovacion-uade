@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Mario Barrios), diapositivas 19–25.
 > **Prerrequisitos:** [09 Schumpeter](09-schumpeter-destruccion-creativa-y-ciclos.md).
 > **Tiempo estimado:** 60 min.
+> **Parcial 1:** ✅ entra (Clase 2). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 

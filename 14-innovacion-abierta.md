@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Día 3 – Innovación Abierta* (basado en Henry Chesbrough), diapositivas 1–14 y 26–32.
 > **Prerrequisitos:** [10 Gestión de la innovación](10-gestion-de-la-innovacion.md) (tipo "Red" de Doblin).
 > **Tiempo estimado:** 70 min.
+> **Parcial 1:** ✅ entra (Día 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 

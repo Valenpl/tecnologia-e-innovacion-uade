@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Barrios), diapositivas 17–20; *KPI & OKR* (Ing. Mario Barrios), módulos 01–03 y Ejercicio 01.
 > **Prerrequisitos:** [16 Proyectos y estrategia](16-proyectos-y-estrategia-de-innovacion.md).
 > **Tiempo estimado:** 90 min (tema largo y con cálculos).
+> **Parcial 1:** ⏳ todavía no entra (es posterior al Día 3).
 
 ---
 

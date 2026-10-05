@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Clase "Pinamar" 2026* (Prof. Gustavo E. Escandell), diapositivas 33–47.
 > **Prerrequisitos:** [04 Business Intelligence](04-business-intelligence.md).
 > **Tiempo estimado:** 60 min.
+> **Parcial 1:** ✅ entra (Clase 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 

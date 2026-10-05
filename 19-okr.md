@@ -3,6 +3,7 @@
 > **Fuente en el material:** *KPI & OKR* (Ing. Mario Barrios), módulo 04, Ejercicio 02 y cierre.
 > **Prerrequisitos:** [18 KPI](18-kpi.md).
 > **Tiempo estimado:** 70 min.
+> **Parcial 1:** ⏳ todavía no entra (es posterior al Día 3).
 
 ---
 

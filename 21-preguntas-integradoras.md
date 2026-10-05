@@ -162,4 +162,4 @@ La tecnología —**aplicación del conocimiento científico para crear herramie
 
 ---
 
-[← 20 Glosario](20-glosario.md) · [🏠 Índice](README.md) · [Siguiente → 22 Foco de parcial](22-foco-de-parcial.md)
+[← 20 Glosario](20-glosario.md) · [🏠 Índice](README.md) · [Siguiente → 22 Guía del Parcial 1](22-foco-de-parcial.md)

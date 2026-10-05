@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Día 3 – Innovación Abierta*, diapositivas 15–25.
 > **Prerrequisitos:** [14 Innovación abierta](14-innovacion-abierta.md).
 > **Tiempo estimado:** 45 min.
+> **Parcial 1:** ✅ entra (Día 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 

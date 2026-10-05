@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Clase "Pinamar" 2026* (Prof. Gustavo E. Escandell), diapositivas 20–32.
 > **Prerrequisitos:** [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md).
 > **Tiempo estimado:** 50 min.
+> **Parcial 1:** ✅ entra (Clase 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 

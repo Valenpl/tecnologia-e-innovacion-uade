@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Tecnología e Innovación – CLASE 1* (Prof. Gustavo E. Escandell), diapositivas 15–26 y actividades 33–35.
 > **Prerrequisitos:** [01 Fundamentos](01-tecnologia-e-innovacion-fundamentos.md).
 > **Tiempo estimado:** 45 min.
+> **Parcial 1:** ✅ entra (Clase 1). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 

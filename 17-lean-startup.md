@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Mario Barrios), diapositivas 21–23.
 > **Prerrequisitos:** [16 Proyectos y estrategia](16-proyectos-y-estrategia-de-innovacion.md), [13 Design Thinking](13-design-thinking.md).
 > **Tiempo estimado:** 45 min.
+> **Parcial 1:** ⏳ todavía no entra (es posterior al Día 3), **salvo el concepto de MVP**, que el Día 3 menciona: ver [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 

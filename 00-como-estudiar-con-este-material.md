@@ -14,7 +14,7 @@
   - A. Bloques fijos de cada archivo
   - B. Convenciones visuales
 - **III. Cómo estudiar un módulo (paso a paso)**
-- **IV. Orden sugerido de la materia**
+- **IV. Orden sugerido de la materia** (por clase, con el alcance del Parcial 1)
 
 ---
 
@@ -79,7 +79,7 @@ Cada archivo `NN-tema.md` tiene siempre estos bloques, en este orden:
 - > 🧩 **Ejemplo** — caso concreto.
 - > ➕ **Contexto adicional** — información que **no está en las diapositivas** de la materia y que se agrega para entender mejor. Usala para comprender, pero en el parcial priorizá la versión de la cátedra.
 
-- > 🔥 **Prioridad de parcial** — marcado como importante en clase (notas de cursada, `#importante`) o como "PONER EN PARCIAL" / resaltado en el apunte de cursada. El resumen de todas las marcas está en [22 · Foco de parcial](22-foco-de-parcial.md).
+- > 🔥 **Prioridad de parcial** — marcado como importante en clase (notas de cursada, `#importante`) o como "PONER EN PARCIAL" / resaltado en el apunte de cursada. El resumen de todas las marcas está en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 - **Negrita** = palabra clave que tiene que aparecer en tu respuesta.
 
 ---
@@ -108,29 +108,29 @@ flowchart LR
 
 ## IV. Orden sugerido de la materia
 
-El orden de los módulos sigue el orden en que se dieron las clases y va de lo general a lo aplicado:
+Estudiá en el **orden en que se dieron las clases**, no en el orden numérico de los archivos (que responde a cómo se armó el material). Para el **Parcial 1 entra todo hasta el Día 3**; el alcance actualizado y el plan de estudio están en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ```mermaid
-flowchart TD
-    subgraph B1["Bloque 1 · Fundamentos"]
-        M1["01 Tecnología e innovación"] --> M2["02 Impactos y desafíos"] --> M3["03 Tecnologías disruptivas"]
+flowchart TB
+    subgraph P1["📍 PARCIAL 1 · entra todo hasta el Día 3"]
+        subgraph C1["Clase 1 · Escandell"]
+            M01["01 Tecnología<br/>e innovación"] --> M02["02 Impactos<br/>y desafíos"] --> M03["03 Tecnologías<br/>disruptivas"]
+        end
+        subgraph C2["Clase 2 · Barrios"]
+            M07["07 Unicornios"] --> M08["08 Curvas"] --> M09["09 Schumpeter"] --> M10["10 Doblin y<br/>Gestión 2.0"]
+        end
+        subgraph C3["Clase 3 · Escandell · datos"]
+            M04["04 BI"] --> M05["05 Data Mining"] --> M06["06 Big Data"]
+        end
+        subgraph D3["Día 3"]
+            M11["11 Creatividad"] --> M12["12 Innovación<br/>tecnológica e IA"] --> M13["13 Design<br/>Thinking"] --> M14["14 Innovación<br/>abierta"] --> M15["15 VICA / VANI"]
+        end
+        C1 --> C2 --> C3 --> D3
     end
-    subgraph B2["Bloque 2 · Datos"]
-        M4["04 Business Intelligence"] --> M5["05 Data Mining"] --> M6["06 Big Data"]
+    subgraph POST["⏳ Después del Día 3"]
+        M16["16 Proyectos y<br/>estrategia"] --> M17["17 Lean Startup"] --> M18["18 KPI"] --> M19["19 OKR"]
     end
-    subgraph B3["Bloque 3 · Dinámica de la innovación"]
-        M7["07 Unicornios"] --> M8["08 Curvas de la tecnología"] --> M9["09 Schumpeter y ciclos"]
-    end
-    subgraph B4["Bloque 4 · Gestionar y crear"]
-        M10["10 Gestión de la innovación"] --> M11["11 Creatividad"] --> M12["12 Innovación tecnológica e IA"] --> M13["13 Design Thinking"]
-    end
-    subgraph B5["Bloque 5 · Ecosistema"]
-        M14["14 Innovación abierta"] --> M15["15 VICA y VANI"]
-    end
-    subgraph B6["Bloque 6 · Ejecutar y medir"]
-        M16["16 Proyectos y estrategia"] --> M17["17 Lean Startup"] --> M18["18 KPI"] --> M19["19 OKR"]
-    end
-    B1 --> B2 --> B3 --> B4 --> B5 --> B6
+    P1 --> POST
 ```
 
 ---

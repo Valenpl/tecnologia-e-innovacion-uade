@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Tecnología e Innovación – CLASE 1* (Prof. Gustavo E. Escandell, MRI Pinamar, marzo 2026), diapositivas 4–14 y 32.
 > **Prerrequisitos:** ninguno. Es la base de toda la materia.
 > **Tiempo estimado:** 45–60 min.
+> **Parcial 1:** ✅ entra (Clase 1). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 

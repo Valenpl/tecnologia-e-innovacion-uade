@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Barrios), diapositivas 26–27; *Día 3 – Innovación tecnológica, creatividad vs. innovación*, diapositivas 2–9 y 29.
 > **Prerrequisitos:** [10 Gestión de la innovación](10-gestion-de-la-innovacion.md).
 > **Tiempo estimado:** 60 min.
+> **Parcial 1:** ✅ entra (Clase 2 y Día 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 

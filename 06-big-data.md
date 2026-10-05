@@ -3,6 +3,7 @@
 > **Fuente en el material:** *Clase "Pinamar" 2026* (Prof. Gustavo E. Escandell), diapositivas 48–64.
 > **Prerrequisitos:** [04 BI](04-business-intelligence.md) y [05 Data Mining](05-data-mining.md).
 > **Tiempo estimado:** 50 min.
+> **Parcial 1:** ✅ entra (Clase 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 

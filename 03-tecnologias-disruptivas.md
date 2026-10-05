@@ -3,6 +3,7 @@
 > **Fuente en el material:** *CLASE 1* (Prof. Escandell), diapositivas 27–31, y *Clase "Pinamar" 2026* (Prof. Escandell), diapositivas 5–19.
 > **Prerrequisitos:** [01](01-tecnologia-e-innovacion-fundamentos.md) y [02](02-impactos-y-desafios.md).
 > **Tiempo estimado:** 60 min.
+> **Parcial 1:** ✅ entra (Clase 1). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
 
 ---
 
