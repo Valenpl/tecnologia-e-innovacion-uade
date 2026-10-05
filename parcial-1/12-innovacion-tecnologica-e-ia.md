@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Día 3 – Innovación tecnológica, creatividad vs. innovación*, diapositivas 10–29.
 > **Prerrequisitos:** [11 Creatividad](11-creatividad-y-proceso-creativo.md).
 > **Tiempo estimado:** 70 min.
-> **Primer Parcial · Tema 12 de 16** (Día 3).
+> **Primer Parcial · Tema 12 de 13** (Día 3).
 
 ---
 
@@ -120,7 +120,7 @@ Compará con la definición de la Clase 1 (módulo [01](01-tecnologia-e-innovaci
 
 > 💡 **Para entenderlo – "I+D+i":** **I**nvestigación + **D**esarrollo + **i**nnovación. La "i" minúscula final remarca que **no alcanza con investigar y desarrollar**: hay que **llevarlo al mercado**.
 
-> 🔗 La característica 4 (**incertidumbre y riesgo**) es la razón de ser de **Lean Startup** (módulo [16](16-lean-startup-y-mvp.md)): reducir el riesgo experimentando antes de invertir fuerte.
+> 🔗 La característica 4 (**incertidumbre y riesgo**) es la razón de ser de **Lean Startup** (módulo [17](../resto-de-la-materia/17-lean-startup-y-mvp.md)): reducir el riesgo experimentando antes de invertir fuerte.
 
 ### I.D Beneficios
 
@@ -335,7 +335,7 @@ La clase deja dos preguntas abiertas:
 - **← [01](01-tecnologia-e-innovacion-fundamentos.md) y [03](03-tecnologias-disruptivas.md):** tipos de innovación y disrupción.
 - **← [09](09-data-mining.md) y [10](10-big-data.md):** la IA se alimenta de datos.
 - **→ [13 Design Thinking](13-design-thinking.md):** respuesta al problema "no entender al usuario".
-- **→ [16 Lean Startup](16-lean-startup-y-mvp.md):** respuesta al problema "alto costo y riesgo".
+- **→ [17 Lean Startup](../resto-de-la-materia/17-lean-startup-y-mvp.md):** respuesta al problema "alto costo y riesgo".
 
 ---
 

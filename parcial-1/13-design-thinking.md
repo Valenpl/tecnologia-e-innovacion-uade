@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Día 3 – Innovación tecnológica, creatividad vs. innovación*, diapositivas 30–37.
 > **Prerrequisitos:** [11 Creatividad](11-creatividad-y-proceso-creativo.md) y [12 Innovación tecnológica](12-innovacion-tecnologica-e-ia.md).
 > **Tiempo estimado:** 50 min.
-> **Primer Parcial · Tema 13 de 16** (Día 3). 🔥 Salió en el parcial anterior (pregunta [4](../evaluacion/parcial-anterior-resuelto.md#iii4-design-thinking-qué-es--al-menos-3-etapas)).
+> **Primer Parcial · Tema 13 de 13** (Día 3). 🔥 Salió en el parcial anterior (pregunta [4](../evaluacion/parcial-anterior-resuelto.md#iii4-design-thinking-qué-es--al-menos-3-etapas)).
 
 ---
 
@@ -172,7 +172,7 @@ flowchart LR
 | **4. Prototipar** | Hacés un prototipo en Figma de "reserva por QR" + una planilla compartida simulando la disponibilidad (barato y rápido). |
 | **5. Testear** | 15 estudiantes lo prueban una semana. Feedback: el QR funciona, pero no quieren instalar otra app → **volvés a idear**: bot de WhatsApp. Iterás. |
 
-> 🔗 Fijate que el paso 5 de este caso se parece mucho a **Lean Startup** (MVP → medir → aprender → pivotar). Las diferencias se ven en el módulo [16](16-lean-startup-y-mvp.md).
+> 🔗 Fijate que el paso 5 de este caso se parece mucho a **Lean Startup** (MVP → medir → aprender → pivotar). Las diferencias se ven en el módulo [17](../resto-de-la-materia/17-lean-startup-y-mvp.md).
 
 ---
 
@@ -184,7 +184,7 @@ flowchart LR
 | Prototipar | Producto final | El prototipo es **rápido, barato y tangible**, hecho para **aprender**, no para vender. |
 | Design Thinking | Proceso lineal | Es **iterativo**: desde testear se vuelve a cualquier etapa. |
 | Design Thinking | "Diseño gráfico" | Es una **metodología de resolución de problemas**, no de estética. |
-| Design Thinking | Lean Startup | DT pone el foco en **entender el problema y al usuario**; Lean Startup en **validar un modelo de negocio con métricas** (ver módulo 16). Se complementan. |
+| Design Thinking | Lean Startup | DT pone el foco en **entender el problema y al usuario**; Lean Startup en **validar un modelo de negocio con métricas** (ver tema 17). Se complementan. |
 
 ---
 
@@ -193,8 +193,8 @@ flowchart LR
 - **← [11 Creatividad](11-creatividad-y-proceso-creativo.md):** reglas (foco en usuario, iteración, interdisciplina).
 - **← [12 Innovación tecnológica](12-innovacion-tecnologica-e-ia.md):** problema n.º 1 de innovar.
 - **← [07 Gestión 2.0](07-gestion-de-la-innovacion.md):** fracaso aceptado, trabajo interdisciplinario.
-- **→ [17 Proyectos](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md):** DT es la metodología de "experimentación y validación".
-- **→ [16 Lean Startup](16-lean-startup-y-mvp.md)**.
+- **→ [16 Proyectos](../resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md):** DT es la metodología de "experimentación y validación".
+- **→ [17 Lean Startup](../resto-de-la-materia/17-lean-startup-y-mvp.md)**.
 
 ---
 
@@ -232,4 +232,4 @@ Centrado en el usuario (empatía); colaborativo y multidisciplinario; iterativo 
 
 ---
 
-[← 12 Innovación tecnológica e Inteligencia Artificial](12-innovacion-tecnologica-e-ia.md) · [🏠 Índice](../README.md) · [Siguiente → 14 Innovación abierta](14-innovacion-abierta.md)
+[← 12 Innovación tecnológica e Inteligencia Artificial](12-innovacion-tecnologica-e-ia.md) · [🏠 Índice](../README.md) · [Terminaste los temas del Primer Parcial → Evaluación](../evaluacion/README.md) · [Resto de la materia → 14 Innovación abierta](../resto-de-la-materia/14-innovacion-abierta.md)

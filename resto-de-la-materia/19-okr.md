@@ -3,7 +3,7 @@
 > **Fuente en el material:** *KPI & OKR* (Ing. Mario Barrios), módulo 08, Ejercicio 02 y cierre.
 > **Prerrequisitos:** [18 KPI](18-kpi.md).
 > **Tiempo estimado:** 70 min.
-> **Resto de la materia · Tema 19** (no entra en el Primer Parcial).
+> **Resto de la materia · Tema 19** (KPI & OKR · Barrios). No entra en el Primer Parcial.
 
 ---
 
@@ -351,7 +351,7 @@ La cátedra deja tres preguntas *"que deberían generar incomodidad productiva"*
 
 - **← [18 KPI](18-kpi.md).**
 - **← [07 Gestión 2.0](../parcial-1/07-gestion-de-la-innovacion.md):** liderazgo visionario (Objective inspirador), autonomía.
-- **← [17 Estrategia](17-proyectos-y-estrategia-de-innovacion.md):** "dirección clara" y alineación.
+- **← [16 Estrategia](16-proyectos-y-estrategia-de-innovacion.md):** "dirección clara" y alineación.
 
 ---
 

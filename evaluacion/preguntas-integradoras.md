@@ -17,10 +17,10 @@ flowchart TB
     DAT --> IA["12 IA"]
     CR["11 Creatividad"] --> IT["12 Innovación tecnológica"]
     IT --> DT["13 Design Thinking"]
-    DT --> LS["16 Lean Startup"]
+    DT --> LS["17 Lean Startup"]
     G["07 Gestión 2.0 y Doblin"] --> OI["14 Innovación abierta"]
     OI --> VANI["15 VICA / VANI"]
-    PR["17 Proyectos y estrategia"] --> LS
+    PR["16 Proyectos y estrategia"] --> LS
     LS --> KPI["18 KPI"]
     KPI --> OKR["19 OKR"]
     UNI["04 Unicornios"] --> OI

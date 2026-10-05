@@ -108,11 +108,11 @@ flowchart LR
 
 ## IV. Orden de los temas
 
-Estudiá los temas **en orden, del 01 al 16**, con el [índice](README.md). Los números siguen las clases. Del 17 en adelante es el **resto de la materia**, que no entra en el Primer Parcial. Lo que es práctica (guía del parcial, parcial anterior resuelto, preguntas integradoras y casos) está aparte, en [evaluación](evaluacion/README.md).
+Estudiá los temas **en orden** con el [índice](README.md). Los números siguen las clases. Del **01 al 13** es el **Primer Parcial**; del **14 en adelante** es el **resto de la materia**. Lo que es práctica (guía del parcial, parcial anterior resuelto, preguntas integradoras y casos) está aparte, en [evaluación](evaluacion/README.md).
 
 ```mermaid
 flowchart TB
-    subgraph P1["📍 PRIMER PARCIAL · temas 01–16"]
+    subgraph P1["📍 PRIMER PARCIAL · temas 01–13"]
         subgraph C1["Clase 1 · Escandell"]
             T01["01 Tecnología<br/>e innovación"] --> T02["02 Impactos<br/>y desafíos"] --> T03["03 Tecnologías<br/>disruptivas"]
         end
@@ -122,13 +122,13 @@ flowchart TB
         subgraph C3["Clase 3 · Escandell · datos"]
             T08["08 BI"] --> T09["09 Data Mining"] --> T10["10 Big Data"]
         end
-        subgraph D3["Día 3"]
-            T11["11 Creatividad"] --> T12["12 Innovación<br/>tecnológica e IA"] --> T13["13 Design<br/>Thinking"] --> T14["14 Innovación<br/>abierta"] --> T15["15 VICA / VANI"] --> T16["16 MVP"]
+        subgraph D3["Día 3 · primera parte"]
+            T11["11 Creatividad"] --> T12["12 Innovación<br/>tecnológica e IA"] --> T13["13 Design<br/>Thinking"]
         end
         C1 --> C2 --> C3 --> D3
     end
-    subgraph POST["⏳ RESTO DE LA MATERIA · temas 17–19"]
-        T17["17 Proyectos y<br/>estrategia"] --> T18["18 KPI"] --> T19["19 OKR"]
+    subgraph POST["⏳ RESTO DE LA MATERIA · temas 14–19"]
+        T14["14 Innovación<br/>abierta"] --> T15["15 VICA / VANI"] --> T16["16 Proyectos y<br/>estrategia"] --> T17["17 Lean Startup<br/>y MVP"] --> T18["18 KPI"] --> T19["19 OKR"]
     end
     P1 --> POST
 ```

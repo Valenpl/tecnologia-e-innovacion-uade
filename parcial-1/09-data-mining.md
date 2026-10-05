@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Clase "Pinamar" 2026* (Prof. Gustavo E. Escandell), diapositivas 33–47.
 > **Prerrequisitos:** [08 Business Intelligence](08-business-intelligence.md).
 > **Tiempo estimado:** 60 min.
-> **Primer Parcial · Tema 09 de 16** (Clase 3). 🔥 Salió en el parcial anterior (pregunta [3](../evaluacion/parcial-anterior-resuelto.md#iii3-business-intelligence-vs-data-mining)).
+> **Primer Parcial · Tema 09 de 13** (Clase 3). 🔥 Salió en el parcial anterior (pregunta [3](../evaluacion/parcial-anterior-resuelto.md#iii3-business-intelligence-vs-data-mining)).
 
 ---
 

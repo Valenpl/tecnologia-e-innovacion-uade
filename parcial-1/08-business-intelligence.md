@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Clase "Pinamar" 2026* (Prof. Gustavo E. Escandell), diapositivas 20–32.
 > **Prerrequisitos:** [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md).
 > **Tiempo estimado:** 50 min.
-> **Primer Parcial · Tema 08 de 16** (Clase 3). 🔥 Salió en el parcial anterior (pregunta [3](../evaluacion/parcial-anterior-resuelto.md#iii3-business-intelligence-vs-data-mining)).
+> **Primer Parcial · Tema 08 de 13** (Clase 3). 🔥 Salió en el parcial anterior (pregunta [3](../evaluacion/parcial-anterior-resuelto.md#iii3-business-intelligence-vs-data-mining)).
 
 ---
 
@@ -227,7 +227,7 @@ La clase plantea dos preguntas de debate. Conviene tener una postura argumentada
 1. **¿Qué pasaría si los datos están incompletos o mal analizados?**
    - Las decisiones "basadas en datos" serían **decisiones equivocadas con apariencia de rigor**. Un dashboard prolijo no garantiza datos correctos (por eso existen la característica de **gobernanza** y la V de **Veracidad** en Big Data → módulo [10](10-big-data.md)).
 2. **¿Puede una empresa depender demasiado de los datos?**
-   - Sí: los datos describen **el pasado** (BI es descriptivo/diagnóstico). En contextos de cambio brusco, la experiencia, la intuición y el criterio siguen siendo necesarios. (Se conecta con el entorno **VANI**, donde la cátedra dice que *"acumular más datos ya no funciona"* → módulo [15](15-entornos-vica-y-vani.md)).
+   - Sí: los datos describen **el pasado** (BI es descriptivo/diagnóstico). En contextos de cambio brusco, la experiencia, la intuición y el criterio siguen siendo necesarios. (Se conecta con el entorno **VANI**, donde la cátedra dice que *"acumular más datos ya no funciona"* → módulo [15](../resto-de-la-materia/15-entornos-vica-y-vani.md)).
 
 ---
 

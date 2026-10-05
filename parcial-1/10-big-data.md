@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Clase "Pinamar" 2026* (Prof. Gustavo E. Escandell), diapositivas 48–64.
 > **Prerrequisitos:** [08 BI](08-business-intelligence.md) y [09 Data Mining](09-data-mining.md).
 > **Tiempo estimado:** 50 min.
-> **Primer Parcial · Tema 10 de 16** (Clase 3). 🔥 Salió en el parcial anterior (pregunta [2](../evaluacion/parcial-anterior-resuelto.md#iii2-qué-es-big-data-y-las-5-v)).
+> **Primer Parcial · Tema 10 de 13** (Clase 3). 🔥 Salió en el parcial anterior (pregunta [2](../evaluacion/parcial-anterior-resuelto.md#iii2-qué-es-big-data-y-las-5-v)).
 
 ---
 
@@ -300,7 +300,7 @@ Esquema de respuesta:
 - **← [09 Data Mining](09-data-mining.md)**: Big Data es su base.
 - **← [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md)**: Big Data aparece como tecnología disruptiva.
 - **→ [12 IA](12-innovacion-tecnologica-e-ia.md)**: la IA se basa en el procesamiento de grandes volúmenes de datos.
-- **→ [15 VANI](15-entornos-vica-y-vani.md)**: el límite de "acumular más datos" en un mundo incomprensible.
+- **→ [15 VANI](../resto-de-la-materia/15-entornos-vica-y-vani.md)**: el límite de "acumular más datos" en un mundo incomprensible.
 
 ---
 

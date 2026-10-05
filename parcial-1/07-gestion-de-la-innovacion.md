@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Mario Barrios), diapositivas 19–25.
 > **Prerrequisitos:** [06 Schumpeter](06-schumpeter-destruccion-creativa-y-ciclos.md).
 > **Tiempo estimado:** 60 min.
-> **Primer Parcial · Tema 07 de 16** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [5](../evaluacion/parcial-anterior-resuelto.md#iii5-los-10-tipos-de-innovación-de-doblin-las-3-categorías--explicar-una) y [8](../evaluacion/parcial-anterior-resuelto.md#v8-gestión-de-la-innovación-20-por-qué-juntar-a-los-jefes-no-es-trabajar-interdisciplinariamente)).
+> **Primer Parcial · Tema 07 de 13** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [5](../evaluacion/parcial-anterior-resuelto.md#iii5-los-10-tipos-de-innovación-de-doblin-las-3-categorías--explicar-una) y [8](../evaluacion/parcial-anterior-resuelto.md#v8-gestión-de-la-innovación-20-por-qué-juntar-a-los-jefes-no-es-trabajar-interdisciplinariamente)).
 
 ---
 
@@ -187,7 +187,7 @@ flowchart TB
 | Lento para aprobar ideas nuevas | Rápido para experimentar |
 | Silos por área | Colaboración transversal |
 
-> 🔗 La idea de **red** reaparece en innovación abierta: *"la innovación se trata de conectar nodos en una red"* (módulo [14](14-innovacion-abierta.md)), y en los **squads** de Spotify (módulo [18](../resto-de-la-materia/18-kpi.md)).
+> 🔗 La idea de **red** reaparece en innovación abierta: *"la innovación se trata de conectar nodos en una red"* (módulo [14](../resto-de-la-materia/14-innovacion-abierta.md)), y en los **squads** de Spotify (módulo [18](../resto-de-la-materia/18-kpi.md)).
 
 #### III.A.4 Estilos de liderazgo
 > 📌 *"Los **estilos rígidos** son reemplazados por los líderes que poseen comportamientos **de afiliación, colaborativos y visionarios**."*
@@ -243,8 +243,8 @@ La cátedra las presenta como el segundo pilar de la "mirada moderna". Aunque la
 
 - **← [06 Schumpeter](06-schumpeter-destruccion-creativa-y-ciclos.md):** primeros "tipos de innovación".
 - **→ [11 Creatividad](11-creatividad-y-proceso-creativo.md):** la creatividad es el punto de partida de la innovación.
-- **→ [14 Innovación abierta](14-innovacion-abierta.md):** el tipo "Red" llevado al extremo.
-- **→ [17 Proyectos y estrategia](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md):** "cultura" como componente clave.
+- **→ [14 Innovación abierta](../resto-de-la-materia/14-innovacion-abierta.md):** el tipo "Red" llevado al extremo.
+- **→ [16 Proyectos y estrategia](../resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md):** "cultura" como componente clave.
 
 ---
 

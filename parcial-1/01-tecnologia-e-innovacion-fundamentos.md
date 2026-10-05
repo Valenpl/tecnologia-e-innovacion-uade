@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Tecnología e Innovación – CLASE 1* (Prof. Gustavo E. Escandell, MRI Pinamar, marzo 2026), diapositivas 4–14 y 32.
 > **Prerrequisitos:** ninguno. Es la base de toda la materia.
 > **Tiempo estimado:** 45–60 min.
-> **Primer Parcial · Tema 01 de 16** (Clase 1). 🔥 Salió en el parcial anterior (pregunta [1](../evaluacion/parcial-anterior-resuelto.md#iii1-diferencia-entre-innovación-tecnológica-y-creatividad)).
+> **Primer Parcial · Tema 01 de 13** (Clase 1). 🔥 Salió en el parcial anterior (pregunta [1](../evaluacion/parcial-anterior-resuelto.md#iii1-diferencia-entre-innovación-tecnológica-y-creatividad)).
 
 ---
 
@@ -162,7 +162,7 @@ La clase muestra cuatro ejemplos de tecnología:
 
 ## III. Tipos de innovación (versión Clase 1)
 
-En la Clase 1 se presentan tres tipos. Más adelante (módulos [12](12-innovacion-tecnologica-e-ia.md) y [17](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md)) la clasificación se amplía.
+En la Clase 1 se presentan tres tipos. Más adelante (módulos [12](12-innovacion-tecnologica-e-ia.md) y [16](../resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md)) la clasificación se amplía.
 
 ### III.A Incremental
 
@@ -292,7 +292,7 @@ La cátedra cierra con cuatro ideas que funcionan como resumen del módulo:
 - **→ [02 Impactos y desafíos](02-impactos-y-desafios.md):** qué efectos producen estas innovaciones en sociedad y empresas.
 - **→ [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md):** el caso extremo de la innovación radical.
 - **→ [12 Innovación tecnológica e IA](12-innovacion-tecnologica-e-ia.md):** la clasificación ampliada de tipos de innovación.
-- **→ [17 Proyectos y estrategia](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md):** cómo se gestiona la innovación como proyecto.
+- **→ [16 Proyectos y estrategia](../resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md):** cómo se gestiona la innovación como proyecto.
 
 ---
 

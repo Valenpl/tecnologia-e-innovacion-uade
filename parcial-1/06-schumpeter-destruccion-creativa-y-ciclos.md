@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Mario Barrios), diapositivas 14–18.
 > **Prerrequisitos:** [05 Curvas de la tecnología](05-curvas-de-la-tecnologia.md).
 > **Tiempo estimado:** 50 min.
-> **Primer Parcial · Tema 06 de 16** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [7](../evaluacion/parcial-anterior-resuelto.md#v7-el-competidor-disruptivo-por-qué-lo-inferior-se-vuelve-destrucción-creativa)).
+> **Primer Parcial · Tema 06 de 13** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [7](../evaluacion/parcial-anterior-resuelto.md#v7-el-competidor-disruptivo-por-qué-lo-inferior-se-vuelve-destrucción-creativa)).
 
 ---
 

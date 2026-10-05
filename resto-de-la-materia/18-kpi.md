@@ -1,9 +1,9 @@
 # 18 · KPI: indicadores clave de desempeño
 
 > **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Barrios), diapositivas 17–20; *KPI & OKR* (Ing. Mario Barrios), módulos 01–03 y Ejercicio 01.
-> **Prerrequisitos:** [17 Proyectos y estrategia](17-proyectos-y-estrategia-de-innovacion.md).
+> **Prerrequisitos:** [16 Proyectos y estrategia](16-proyectos-y-estrategia-de-innovacion.md).
 > **Tiempo estimado:** 90 min (tema largo y con cálculos).
-> **Resto de la materia · Tema 18** (no entra en el Primer Parcial).
+> **Resto de la materia · Tema 18** (KPI & OKR · Barrios). No entra en el Primer Parcial.
 
 ---
 
@@ -446,7 +446,7 @@ Para el contexto elegido definí: (1) el problema a medir, (2) el KPI con **fór
 - **→ [19 OKR](19-okr.md):** los Key Results son "KPI con contexto estratégico".
 - **← [08 BI](../parcial-1/08-business-intelligence.md):** herramientas de visualización.
 - **← [03 Disruptivas](../parcial-1/03-tecnologias-disruptivas.md):** paso 6 "medir y evaluar con KPIs".
-- **← [16 Lean Startup](../parcial-1/16-lean-startup-y-mvp.md):** fase "medición de resultados".
+- **← [17 Lean Startup](17-lean-startup-y-mvp.md):** fase "medición de resultados".
 
 ---
 
@@ -502,4 +502,4 @@ Desplazan el modelo de **control por actividad** a **autonomía por resultado**:
 
 ---
 
-[← 17 Proyectos de innovación y estrategia de innovación](17-proyectos-y-estrategia-de-innovacion.md) · [🏠 Índice](../README.md) · [Siguiente → 19 OKR](19-okr.md)
+[← 17 Lean Startup y MVP](17-lean-startup-y-mvp.md) · [🏠 Índice](../README.md) · [Siguiente → 19 OKR](19-okr.md)

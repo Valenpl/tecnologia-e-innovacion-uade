@@ -1,9 +1,9 @@
 # 14 · Innovación abierta (Open Innovation)
 
 > **Fuente en el material:** *Día 3 – Innovación Abierta* (basado en Henry Chesbrough), diapositivas 1–14 y 26–32.
-> **Prerrequisitos:** [07 Gestión de la innovación](07-gestion-de-la-innovacion.md) (tipo "Red" de Doblin).
+> **Prerrequisitos:** [07 Gestión de la innovación](../parcial-1/07-gestion-de-la-innovacion.md) (tipo "Red" de Doblin).
 > **Tiempo estimado:** 70 min.
-> **Primer Parcial · Tema 14 de 16** (Día 3).
+> **Resto de la materia · Tema 14** (Día 3). No entra en el Primer Parcial.
 
 ---
 
@@ -202,7 +202,7 @@ flowchart LR
 | **Ventaja competitiva** | **Ser el primero en descubrir** la tecnología asegura el dominio. | **Construir modelos de negocio superiores** es más rentable que descubrir la tecnología. |
 | **Filosofía de control** | **Control absoluto** del ciclo de vida del producto, de inicio a fin, interno. | **Orquestación de ecosistemas** abiertos, **distribuyendo riesgos y beneficios**. |
 
-> 💡 **La fila más profunda es "ventaja competitiva":** en el paradigma abierto **no gana quien inventa, gana quien tiene el mejor modelo de negocio** para aprovechar la tecnología (propia o ajena). Conecta con Doblin: **modelo de ingresos** y **red** (módulo [07](07-gestion-de-la-innovacion.md)).
+> 💡 **La fila más profunda es "ventaja competitiva":** en el paradigma abierto **no gana quien inventa, gana quien tiene el mejor modelo de negocio** para aprovechar la tecnología (propia o ajena). Conecta con Doblin: **modelo de ingresos** y **red** (módulo [07](../parcial-1/07-gestion-de-la-innovacion.md)).
 
 ---
 
@@ -263,7 +263,7 @@ flowchart LR
 | **Nest Labs** | Domótica e IoT | Termostatos y seguridad inteligente; **adquirida por Google** años después para su ecosistema Hogar. |
 | **Stripe** | Infraestructura fintech | La plataforma de pagos en línea más valorada y robusta del ecosistema digital. |
 
-> 💡 **Nest es el ejemplo perfecto del ciclo completo:** GV invierte (inbound vía CVC) → la startup crece → Google la **adquiere** e integra (inbound vía adquisición). Y Uber y Stripe conectan con los **unicornios** del módulo [04](04-empresas-unicornio.md).
+> 💡 **Nest es el ejemplo perfecto del ciclo completo:** GV invierte (inbound vía CVC) → la startup crece → Google la **adquiere** e integra (inbound vía adquisición). Y Uber y Stripe conectan con los **unicornios** del módulo [04](../parcial-1/04-empresas-unicornio.md).
 
 ---
 
@@ -291,9 +291,9 @@ flowchart LR
 
 ## 🔗 Conexiones
 
-- **← [07 Doblin](07-gestion-de-la-innovacion.md):** tipo "Red" y estructura en red.
-- **← [04 Unicornios](04-empresas-unicornio.md):** financiamiento por inversores.
-- **← [05 Curvas S](05-curvas-de-la-tecnologia.md):** el CVC permite detectar nuevas curvas a tiempo.
+- **← [07 Doblin](../parcial-1/07-gestion-de-la-innovacion.md):** tipo "Red" y estructura en red.
+- **← [04 Unicornios](../parcial-1/04-empresas-unicornio.md):** financiamiento por inversores.
+- **← [05 Curvas S](../parcial-1/05-curvas-de-la-tecnologia.md):** el CVC permite detectar nuevas curvas a tiempo.
 - **→ [15 VICA y VANI](15-entornos-vica-y-vani.md):** por qué la innovación abierta es la respuesta a un mundo caótico.
 
 ---
@@ -338,4 +338,4 @@ Es el conjunto de **inversiones financieras y estratégicas** que una gran empre
 
 ---
 
-[← 13 Design Thinking](13-design-thinking.md) · [🏠 Índice](../README.md) · [Siguiente → 15 De VICA a VANI](15-entornos-vica-y-vani.md)
+[← 13 Design Thinking](../parcial-1/13-design-thinking.md) · [🏠 Índice](../README.md) · [Siguiente → 15 De VICA a VANI](15-entornos-vica-y-vani.md)

@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Mario Barrios), diapositivas 2–4.
 > **Prerrequisitos:** [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md).
 > **Tiempo estimado:** 25 min.
-> **Primer Parcial · Tema 04 de 16** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [9](../evaluacion/parcial-anterior-resuelto.md#v9-crisis-de-datos-y-reputación-pública-el-valor-de-los-intangibles)).
+> **Primer Parcial · Tema 04 de 13** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [9](../evaluacion/parcial-anterior-resuelto.md#v9-crisis-de-datos-y-reputación-pública-el-valor-de-los-intangibles)).
 
 ---
 
@@ -87,7 +87,7 @@ Tres condiciones que tiene que tener tu definición:
 | 🚀 **Crecimiento acelerado** | Escalan muy rápido en usuarios, mercados y valuación. | Fase de crecimiento acelerado de la **curva S** (módulo [05](05-curvas-de-la-tecnologia.md)). |
 | 🧠 **Modelos de negocio innovadores** | La innovación suele estar en **cómo crean y capturan valor**, más que en un invento. | Innovación de **modelo de negocio** / **modelo de ingresos** (Doblin, módulo [07](07-gestion-de-la-innovacion.md)). |
 | 💻 **Uso intensivo de tecnología** | La tecnología es el núcleo del negocio, no un soporte. | Tecnologías disruptivas, datos (módulos 03–10). |
-| 💰 **Financiamiento a través de inversores** | Crecen con **capital de riesgo** (*venture capital*) en sucesivas rondas, no con ganancias propias. | **Corporate Venture Capital** (módulo [14](14-innovacion-abierta.md)). |
+| 💰 **Financiamiento a través de inversores** | Crecen con **capital de riesgo** (*venture capital*) en sucesivas rondas, no con ganancias propias. | **Corporate Venture Capital** (módulo [14](../resto-de-la-materia/14-innovacion-abierta.md)). |
 
 ### II.C Ejemplos de la cátedra
 
@@ -147,7 +147,7 @@ flowchart LR
 ## 🔗 Conexiones
 
 - **→ [05 Curvas de la tecnología](05-curvas-de-la-tecnologia.md):** el ciclo de expectativas de Gartner también habla de cómo la percepción sube y baja.
-- **→ [14 Innovación abierta](14-innovacion-abierta.md):** el *Corporate Venture Capital* (Google Ventures invirtió en Uber y Stripe) es una forma de financiar unicornios.
+- **→ [14 Innovación abierta](../resto-de-la-materia/14-innovacion-abierta.md):** el *Corporate Venture Capital* (Google Ventures invirtió en Uber y Stripe) es una forma de financiar unicornios.
 
 ---
 

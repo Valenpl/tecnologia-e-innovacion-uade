@@ -2,6 +2,15 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.05.8 — 2026-10-05
+
+**Motivo:** de **Innovación abierta en adelante no entra** en el Primer Parcial.
+
+### Cambiado
+- **Primer Parcial:** temas 01–13 (hasta Design Thinking).
+- **Resto de la materia:** temas 14–19 en orden de cursada: 14 Innovación abierta · 15 VICA/VANI · 16 Proyectos y estrategia · 17 Lean Startup y MVP · 18 KPI · 19 OKR (Proyectos vuelve antes que Lean Startup, que lo tiene como prerrequisito).
+- README, cabeceras y pies de los temas, guía del parcial (alcance), parcial anterior, evaluación y "Cómo estudiar" actualizados al nuevo alcance.
+
 ## v2026.10.05.7 — 2026-10-05
 
 **Motivo:** el índice mezclaba temas con material de evaluación y la "ruta" saltaba entre secciones de distintos archivos. Se pidió un **índice de temas en orden**, separado en **Primer Parcial / resto de la materia**, con la evaluación aparte.

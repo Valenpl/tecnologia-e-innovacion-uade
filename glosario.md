@@ -6,7 +6,7 @@
 |---|---|---|
 | **5 V de Big Data** | Volumen, Velocidad, Variedad, Veracidad y Valor (la más importante). | [10](parcial-1/10-big-data.md) |
 | **Abismo de desilusión** | Fase del Hype Cycle de Gartner donde caen las expectativas tras el pico. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
-| **Aceleradora corporativa** | Estructura interna que da mentoría, recursos e infraestructura a emprendedores a cambio de pilotar soluciones. | [14](parcial-1/14-innovacion-abierta.md) |
+| **Aceleradora corporativa** | Estructura interna que da mentoría, recursos e infraestructura a emprendedores a cambio de pilotar soluciones. | [14](resto-de-la-materia/14-innovacion-abierta.md) |
 | **Adoption Rate** | Usuarios activos / licencias contratadas. Meta > 75 %. | [18](resto-de-la-materia/18-kpi.md) |
 | **Adoptadores tempranos** | 13,5 % de la curva de adopción; visionarios. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
 | **Ambidestreza** | Mantener el negocio actual (explotar) mientras se desarrolla agresivamente el futuro (explorar). Exige recursos, liderazgo y estructura. | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
@@ -26,7 +26,7 @@
 | **Clasificación** | Técnica predictiva: asigna elementos a categorías predefinidas. | [09](parcial-1/09-data-mining.md) |
 | **Clustering** | Técnica descriptiva: agrupa datos sin etiquetas previas según similitud. | [09](parcial-1/09-data-mining.md) |
 | **Code Coverage** | Líneas testeadas / total × 100. Meta > 80 %. | [18](resto-de-la-materia/18-kpi.md) |
-| **Corporate Venture Capital (CVC)** | Cartera de inversiones de una gran empresa en múltiples startups simultáneamente. | [14](parcial-1/14-innovacion-abierta.md) |
+| **Corporate Venture Capital (CVC)** | Cartera de inversiones de una gran empresa en múltiples startups simultáneamente. | [14](resto-de-la-materia/14-innovacion-abierta.md) |
 | **Creatividad** | Capacidad de generar nuevas ideas y conceptos por medio de la creación, cambios y mejoras. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
 | **Cultura del miedo** | Caso Nokia: directivos que temen a la competencia y mandos medios que no comunican malas noticias → información distorsionada y decisiones lentas. | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **Curva de adopción** | Cómo distintos grupos adoptan una tecnología: 2,5 / 13,5 / 34 / 34 / 16 %. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
@@ -40,8 +40,8 @@
 | **Doblin (10 tipos)** | Configuración (4), Oferta (2), Experiencia (4). | [07](parcial-1/07-gestion-de-la-innovacion.md) |
 | **DORA metrics** | Deployment frequency, lead time, change failure rate, MTTR. | [18](resto-de-la-materia/18-kpi.md) |
 | **Ecosistema (plataforma)** | Competencia donde el valor del dispositivo depende de desarrolladores, apps, usuarios y socios: *ecosistema vs. ecosistema*. | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
-| **Embudo de desarrollo** | Modelo cerrado y secuencial que filtra ideas (Wheelwright & Clark, 1992). | [14](parcial-1/14-innovacion-abierta.md) |
-| **Estrategia de innovación** | Plan que vincula las mejoras novedosas con la estrategia comercial; hoja de ruta. | [17](resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md) |
+| **Embudo de desarrollo** | Modelo cerrado y secuencial que filtra ideas (Wheelwright & Clark, 1992). | [14](resto-de-la-materia/14-innovacion-abierta.md) |
+| **Estrategia de innovación** | Plan que vincula las mejoras novedosas con la estrategia comercial; hoja de ruta. | [16](resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md) |
 | **Explotar / Explorar** | Explotar: seguir mejorando el negocio actual (menor riesgo inmediato). Explorar: apostar por una nueva plataforma (posicionarse antes, más riesgo). | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **Gemelo digital** | Réplica virtual para simular escenarios antes de aplicarlos en la realidad. | [02](parcial-1/02-impactos-y-desafios.md) |
 | **Gestión de la Innovación 2.0** | Liderazgo, inversión/procesos, estructura en red, estilos de liderazgo, fracaso, trabajo en equipo. | [07](parcial-1/07-gestion-de-la-innovacion.md) |
@@ -49,32 +49,32 @@
 | **I+D+i** | Investigación + Desarrollo + innovación. | [12](parcial-1/12-innovacion-tecnologica-e-ia.md) |
 | **IA agéntica** | Sistemas que no solo sugieren sino que ejecutan flujos de trabajo completos. | [02](parcial-1/02-impactos-y-desafios.md) |
 | **IA estrecha / general** | Para una tarea específica (la actual) / que emularía la mente humana (teórica). | [12](parcial-1/12-innovacion-tecnologica-e-ia.md) |
-| **Inbound / Outbound** | Absorber conocimiento externo / monetizar afuera el conocimiento interno. | [14](parcial-1/14-innovacion-abierta.md) |
+| **Inbound / Outbound** | Absorber conocimiento externo / monetizar afuera el conocimiento interno. | [14](resto-de-la-materia/14-innovacion-abierta.md) |
 | **Innovación** | Aplicación práctica y exitosa de nuevas ideas tecnológicas para mejorar la eficiencia o crear oportunidades ("el para qué"). | [01](parcial-1/01-tecnologia-e-innovacion-fundamentos.md) |
-| **Innovación abierta** | Paradigma de Chesbrough (2003): el conocimiento entra y sale de la empresa. | [14](parcial-1/14-innovacion-abierta.md) |
-| **Innovación alineada** | Conectar las metas de innovación con los objetivos de negocio. | [17](resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md) |
-| **Innovación arquitectónica** | Reorganiza componentes existentes de forma innovadora. | [17](resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md) |
+| **Innovación abierta** | Paradigma de Chesbrough (2003): el conocimiento entra y sale de la empresa. | [14](resto-de-la-materia/14-innovacion-abierta.md) |
+| **Innovación alineada** | Conectar las metas de innovación con los objetivos de negocio. | [16](resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md) |
+| **Innovación arquitectónica** | Reorganiza componentes existentes de forma innovadora. | [16](resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md) |
 | **Innovación disruptiva** | Comienza en nichos y termina desplazando a los líderes. | [03](parcial-1/03-tecnologias-disruptivas.md), [12](parcial-1/12-innovacion-tecnologica-e-ia.md) |
 | **Innovación incremental** | Pequeñas mejoras continuas sobre lo existente. | [01](parcial-1/01-tecnologia-e-innovacion-fundamentos.md) |
 | **Innovación radical** | Cambios revolucionarios que crean mercados nuevos. | [01](parcial-1/01-tecnologia-e-innovacion-fundamentos.md) |
 | **Innovación tecnológica** | Proceso de crear, mejorar o aplicar nuevas tecnologías para productos, servicios o procesos más eficientes. | [12](parcial-1/12-innovacion-tecnologica-e-ia.md) |
-| **Iterar** | Repetir el ciclo de mejora sin cambiar el rumbo. | [16](parcial-1/16-lean-startup-y-mvp.md) |
-| **Joint venture** | Emprendimiento conjunto entre organizaciones que comparten inversión, riesgo y beneficio. | [14](parcial-1/14-innovacion-abierta.md) |
+| **Iterar** | Repetir el ciclo de mejora sin cambiar el rumbo. | [17](resto-de-la-materia/17-lean-startup-y-mvp.md) |
+| **Joint venture** | Emprendimiento conjunto entre organizaciones que comparten inversión, riesgo y beneficio. | [14](resto-de-la-materia/14-innovacion-abierta.md) |
 | **Kitchin / Juglar / Kondratiev** | Ciclos de ≈3, ≈10 y 40–60 años. | [06](parcial-1/06-schumpeter-destruccion-creativa-y-ciclos.md) |
 | **KPI** | Indicador cuantificable que evalúa cuán bien se alcanzan objetivos estratégicos en un período. | [18](resto-de-la-materia/18-kpi.md) |
 | **Lead Time** | Tiempo desde commit hasta producción. | [18](resto-de-la-materia/18-kpi.md) |
 | **Leading / Lagging** | KPI que predicen resultados (accionables) / que miden resultados ocurridos. | [18](resto-de-la-materia/18-kpi.md) |
-| **Lean Startup** | Metodología de Eric Ries para reducir riesgo y desperdicio con prototipos, experimentación y aprendizaje. | [16](parcial-1/16-lean-startup-y-mvp.md) |
+| **Lean Startup** | Metodología de Eric Ries para reducir riesgo y desperdicio con prototipos, experimentación y aprendizaje. | [17](resto-de-la-materia/17-lean-startup-y-mvp.md) |
 | **LTV / CAC** | Relación valor de vida del cliente / costo de adquirirlo; saludable ≥ 3:1. | [18](resto-de-la-materia/18-kpi.md) |
 | **Machine learning** | Subcampo de la IA: sistemas que aprenden de los datos. | [12](parcial-1/12-innovacion-tecnologica-e-ia.md) |
 | **Miopía temporal** | Concentración excesiva en la innovación de corto plazo en detrimento de la de mayor beneficio futuro (caso Nokia). | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **MTTR** | Tiempo medio de recuperación ante falla. | [18](resto-de-la-materia/18-kpi.md) |
-| **MVP** | Producto mínimo viable para probar hipótesis con usuarios reales. | [16](parcial-1/16-lean-startup-y-mvp.md) · [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
+| **MVP** | Producto mínimo viable para probar hipótesis con usuarios reales. | [17](resto-de-la-materia/17-lean-startup-y-mvp.md) · [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **NPS** | % promotores − % detractores. | [18](resto-de-la-materia/18-kpi.md) |
 | **OKR** | Objectives and Key Results: sistema que conecta metas aspiracionales con indicadores medibles. | [19](resto-de-la-materia/19-okr.md) |
-| **Pivotar** | Cambiar aspectos clave del negocio cuando el mercado no valida. | [16](parcial-1/16-lean-startup-y-mvp.md) |
+| **Pivotar** | Cambiar aspectos clave del negocio cuando el mercado no valida. | [17](resto-de-la-materia/17-lean-startup-y-mvp.md) |
 | **Proceso creativo** | Preparación, incubación, iluminación, verificación, adaptación y difusión. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
-| **Proyecto de innovación** | Esfuerzo planificado y estratégico para introducir cambios significativos que generen valor. | [17](resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md) |
+| **Proyecto de innovación** | Esfuerzo planificado y estratégico para introducir cambios significativos que generen valor. | [16](resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md) |
 | **Reglas de asociación** | Técnica de Data Mining: qué elementos aparecen juntos (cesta de compra). | [09](parcial-1/09-data-mining.md) |
 | **Regresión** | Técnica de Data Mining para predecir valores numéricos continuos. | [09](parcial-1/09-data-mining.md) |
 | **Resiliencia organizacional** | Capacidad de perder un negocio central y usar las capacidades restantes para construir una nueva posición (Nokia → redes). | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
@@ -82,15 +82,15 @@
 | **Self-Service BI** | Usuarios de negocio sin conocimientos técnicos consultan datos y crean informes. | [08](parcial-1/08-business-intelligence.md) |
 | **SLA** | Acuerdo de nivel de servicio; el KPI como compromiso contractual. | [18](resto-de-la-materia/18-kpi.md) |
 | **SMART** | Specific, Measurable, Achievable, Relevant, Time-bound (Doran, 1981). | [18](resto-de-la-materia/18-kpi.md) |
-| **Spin-off** | Empresa nueva que se desprende de otra para explotar una tecnología. | [14](parcial-1/14-innovacion-abierta.md) |
+| **Spin-off** | Empresa nueva que se desprende de otra para explotar una tecnología. | [14](resto-de-la-materia/14-innovacion-abierta.md) |
 | **Squad** | Equipo autónomo con su propio KPI (modelo Spotify). | [18](resto-de-la-materia/18-kpi.md) |
 | **Tecnología** | Conjunto de saberes, técnicas y herramientas que permiten transformar el entorno ("el cómo"). | [01](parcial-1/01-tecnologia-e-innovacion-fundamentos.md) |
 | **Tecnologías disruptivas** | Innovaciones que transforman radicalmente industrias y desplazan lo establecido con soluciones más accesibles. | [03](parcial-1/03-tecnologias-disruptivas.md) |
 | **Text mining** | Análisis de datos no estructurados (textos) y sentimiento. | [09](parcial-1/09-data-mining.md) |
 | **Time to Value (TTV)** | Días desde contrato hasta primer uso productivo. | [18](resto-de-la-materia/18-kpi.md) |
 | **Unicornio** | Startup tecnológica valuada en más de USD 1.000 M antes de cotizar o ser adquirida. | [04](parcial-1/04-empresas-unicornio.md) |
-| **VANI (BANI)** | Frágil, Ansioso, No lineal, Incomprensible (Jamais Cascio). | [15](parcial-1/15-entornos-vica-y-vani.md) |
-| **VICA (VUCA)** | Volátil, Incierto, Complejo, Ambiguo. | [15](parcial-1/15-entornos-vica-y-vani.md) |
+| **VANI (BANI)** | Frágil, Ansioso, No lineal, Incomprensible (Jamais Cascio). | [15](resto-de-la-materia/15-entornos-vica-y-vani.md) |
+| **VICA (VUCA)** | Volátil, Incierto, Complejo, Ambiguo. | [15](resto-de-la-materia/15-entornos-vica-y-vani.md) |
 
 ---
 

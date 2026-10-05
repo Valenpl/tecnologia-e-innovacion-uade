@@ -1,9 +1,9 @@
-# 16 · Lean Startup y MVP
+# 17 · Lean Startup y MVP
 
 > **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Mario Barrios), diapositivas 21–23.
-> **Prerrequisitos:** [13 Design Thinking](13-design-thinking.md). *(El tema 17, Proyectos y estrategia, da contexto, pero no hace falta para el MVP.)*
+> **Prerrequisitos:** [16 Proyectos y estrategia](16-proyectos-y-estrategia-de-innovacion.md), [13 Design Thinking](../parcial-1/13-design-thinking.md).
 > **Tiempo estimado:** 45 min.
-> **Primer Parcial · Tema 16 de 16.** De este tema **solo entra el MVP**: alcanza con §I y §IV. 🔥 Salió en el parcial anterior (pregunta [10](../evaluacion/parcial-anterior-resuelto.md#v10-el-mvp-contra-la-competencia)).
+> **Resto de la materia · Tema 17** (Proyecto de Innovación · Barrios). No entra en el Primer Parcial. Ojo: el **MVP** fue la pregunta 10 del [parcial anterior](../evaluacion/parcial-anterior-resuelto.md#v10-el-mvp-contra-la-competencia).
 
 ---
 
@@ -72,7 +72,7 @@ Tres mecanismos de la definición:
 
 > 💡 **Para entenderlo – "lean" = "esbelto, sin desperdicio":** el mayor desperdicio en innovación es **construir durante meses algo que nadie quiere**. Lean Startup invierte el orden: primero **probás** con lo mínimo, después **construís**.
 
-> 🔗 **Por qué existe:** responde directamente a la característica **"incertidumbre y riesgo"** de la innovación tecnológica y al problema **"alto costo y riesgo"** de innovar (módulo [12](12-innovacion-tecnologica-e-ia.md)).
+> 🔗 **Por qué existe:** responde directamente a la característica **"incertidumbre y riesgo"** de la innovación tecnológica y al problema **"alto costo y riesgo"** de innovar (módulo [12](../parcial-1/12-innovacion-tecnologica-e-ia.md)).
 
 > 📝 **Citar y explayarse:** La cátedra define Lean Startup como *"una metodología de gestión creada por Eric Ries para desarrollar negocios y productos de forma más eficiente"*, cuyo objetivo es *"reducir el riesgo y evitar el desperdicio de tiempo y dinero"*. Lo logra invirtiendo el orden tradicional: en lugar de construir durante meses un producto completo y recién después ver si alguien lo quiere, se lanza rápido una versión mínima (el **MVP**), se experimenta con **usuarios reales** y se aprende de los datos. Así, el error se descubre temprano y sale barato. Por eso responde directamente a la **incertidumbre y el riesgo** propios de la innovación tecnológica. Antes de programar un sistema de turnos para gimnasios, por ejemplo, se puede publicar una página con un formulario de demo y medir cuántos dueños se interesan.
 
@@ -181,7 +181,7 @@ flowchart LR
 
 ## VI. Lean Startup en proyectos de innovación
 
-Relación con los **elementos clave** de un proyecto de innovación (módulo [17](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md)):
+Relación con los **elementos clave** de un proyecto de innovación (módulo [16](16-proyectos-y-estrategia-de-innovacion.md)):
 
 | Elemento del proyecto | Aporte de Lean Startup |
 |---|---|
@@ -191,7 +191,7 @@ Relación con los **elementos clave** de un proyecto de innovación (módulo [17
 | Recursos y gestión | Reduce el **desperdicio** de tiempo y dinero; gestiona el riesgo. |
 | Generación de valor | Validación con el mercado; **pivotar** si no hay valor. |
 
-Y con la **Gestión 2.0** (módulo [07](07-gestion-de-la-innovacion.md)): Lean Startup **institucionaliza** el pilar "**está bien fracasar, iterar y resiliencia**".
+Y con la **Gestión 2.0** (módulo [07](../parcial-1/07-gestion-de-la-innovacion.md)): Lean Startup **institucionaliza** el pilar "**está bien fracasar, iterar y resiliencia**".
 
 ---
 
@@ -208,9 +208,9 @@ Y con la **Gestión 2.0** (módulo [07](07-gestion-de-la-innovacion.md)): Lean S
 
 ## 🔗 Conexiones
 
-- **← [17 Proyectos](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md):** pregunta "relacione Lean Startup con proyectos de innovación".
-- **← [13 Design Thinking](13-design-thinking.md).**
-- **→ [18 KPI](../resto-de-la-materia/18-kpi.md):** la fase "medición de resultados" necesita indicadores.
+- **← [16 Proyectos](16-proyectos-y-estrategia-de-innovacion.md):** pregunta "relacione Lean Startup con proyectos de innovación".
+- **← [13 Design Thinking](../parcial-1/13-design-thinking.md).**
+- **→ [18 KPI](18-kpi.md):** la fase "medición de resultados" necesita indicadores.
 - **← [15 VANI](15-entornos-vica-y-vani.md):** en un mundo no lineal, experimentar es mejor que planificar a 5 años.
 
 ---
@@ -249,4 +249,4 @@ Es el **Producto Mínimo Viable**: la versión más simple del producto que perm
 
 ---
 
-[← 15 De VICA a VANI](15-entornos-vica-y-vani.md) · [🏠 Índice](../README.md) · [Terminaste los temas del Primer Parcial → Evaluación](../evaluacion/README.md) · [Resto de la materia → 17 Proyectos de innovación y estrategia de innovación](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md)
+[← 16 Proyectos de innovación y estrategia de innovación](16-proyectos-y-estrategia-de-innovacion.md) · [🏠 Índice](../README.md) · [Siguiente → 18 KPI](18-kpi.md)

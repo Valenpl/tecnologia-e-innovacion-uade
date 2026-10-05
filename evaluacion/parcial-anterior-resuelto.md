@@ -1,8 +1,8 @@
 # Parcial anterior resuelto: caso Nokia vs. Apple
 
 > **Qué es:** el parcial que tomó la cátedra en la cursada anterior. Hay **alta probabilidad (7–8 sobre 10)** de que el Parcial 1 sea igual o muy parecido, así que este módulo tiene **las 10 preguntas resueltas** con el formato que pidió el profesor: **citar y explayarse**.
-> **Fuentes:** enunciado del parcial anterior ([casos/parcial-anterior-nokia.md](casos/parcial-anterior-nokia.md)) · caso Nokia de la cátedra ([casos/nokia-caso-catedra.md](casos/nokia-caso-catedra.md)) · módulos 01–16.
-> **Cuándo usarlo:** después de estudiar los temas 01–16, o pregunta por pregunta al terminar cada tema (ver la tabla de la sección VIII).
+> **Fuentes:** enunciado del parcial anterior ([casos/parcial-anterior-nokia.md](casos/parcial-anterior-nokia.md)) · caso Nokia de la cátedra ([casos/nokia-caso-catedra.md](casos/nokia-caso-catedra.md)) · temas del material.
+> **Cuándo usarlo:** después de estudiar los temas 01–13, o pregunta por pregunta al terminar cada tema (ver la tabla de la sección VIII).
 > **Prerrequisitos:** ninguno obligatorio: cada respuesta te dice de qué módulo sale, por si te falta base.
 
 ---
@@ -53,7 +53,7 @@ flowchart LR
         P7["7 Disrupción y<br/>destrucción creativa"] --> M09["03 · 05 · 06"]
         P8["8 Gestión 2.0"] --> M10b["07 · 11"]
         P9["9 Opinión pública"] --> M07["04 · 07"]
-        P10["10 MVP"] --> M17["16 · 11 · 13"]
+        P10["10 MVP"] --> M17["17 · 11 · 13"]
     end
 ```
 
@@ -415,7 +415,7 @@ flowchart TB
 
 ### V.10 El MVP contra la competencia
 
-**Qué pide:** (a) qué es un MVP y (b) cómo lo pudo usar Nokia para validar un teléfono táctil **sin esperar a tener el software perfecto**. → Módulos [16](../parcial-1/16-lean-startup-y-mvp.md), [11](../parcial-1/11-creatividad-y-proceso-creativo.md) y [Guía del Parcial 1](guia-del-parcial-1.md) (VI.1).
+**Qué pide:** (a) qué es un MVP y (b) cómo lo pudo usar Nokia para validar un teléfono táctil **sin esperar a tener el software perfecto**. → Módulos [17](../resto-de-la-materia/17-lean-startup-y-mvp.md), [11](../parcial-1/11-creatividad-y-proceso-creativo.md) y [Guía del Parcial 1](guia-del-parcial-1.md) (VI.1).
 
 **Qué dice la cátedra:**
 - 📌 Día 3, importancia del proceso creativo: *"Experimentación y Mejora: Fomenta un entorno de 'prueba y error' (MVP), permitiendo que la innovación tecnológica ocurra a través de prototipos y la mejora continua."*
@@ -531,7 +531,7 @@ Podés hacer cada pregunta **apenas terminás su tema**, o todas juntas al final
 | 7 | [03 Tecnologías disruptivas](../parcial-1/03-tecnologias-disruptivas.md) · [06 Schumpeter](../parcial-1/06-schumpeter-destruccion-creativa-y-ciclos.md) | [V.7](#v7-el-competidor-disruptivo-por-qué-lo-inferior-se-vuelve-destrucción-creativa) |
 | 8 | [07 Gestión de la innovación](../parcial-1/07-gestion-de-la-innovacion.md) | [V.8](#v8-gestión-de-la-innovación-20-por-qué-juntar-a-los-jefes-no-es-trabajar-interdisciplinariamente) |
 | 9 | [04 Empresas unicornio y el impacto de la opinión pública](../parcial-1/04-empresas-unicornio.md) | [V.9](#v9-crisis-de-datos-y-reputación-pública-el-valor-de-los-intangibles) |
-| 10 | [16 El método Lean Startup](../parcial-1/16-lean-startup-y-mvp.md) | [V.10](#v10-el-mvp-contra-la-competencia) |
+| 10 | [17 El método Lean Startup](../resto-de-la-materia/17-lean-startup-y-mvp.md) | [V.10](#v10-el-mvp-contra-la-competencia) |
 
 ---
 

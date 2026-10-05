@@ -8,7 +8,7 @@ Material de **estudio** de la materia **Tecnología e Innovación** (UADE, 2027 
 
 ## 📍 Temas del Primer Parcial
 
-Entra **todo hasta el Día 3** (temas 01–15) y el **MVP** (tema 16). El orden sigue las clases. La columna 🔥 marca los temas que salieron en el [parcial anterior](evaluacion/parcial-anterior-resuelto.md).
+Entra **hasta Design Thinking** (temas 01–13). El orden sigue las clases. La columna 🔥 marca los temas que salieron en el [parcial anterior](evaluacion/parcial-anterior-resuelto.md).
 
 | # | Tema | Qué vas a aprender | Clase | Tiempo | Parcial anterior |
 |---|---|---|---|---|---|
@@ -25,19 +25,19 @@ Entra **todo hasta el Día 3** (temas 01–15) y el **MVP** (tema 16). El orden 
 | 11 | [Creatividad y proceso creativo](parcial-1/11-creatividad-y-proceso-creativo.md) | Creatividad vs. innovación, etapas, 7 reglas, 7 técnicas (SCAMPER, morfológico, brainwriting…). *(Empieza en la Clase 2.)* | Clase 2 y Día 3 | 60 min | 🔥 pregunta 1 |
 | 12 | [Innovación tecnológica e IA](parcial-1/12-innovacion-tecnologica-e-ia.md) | Características, tipos, 10 problemas de innovar, Inteligencia Artificial. | Día 3 | 70 min | — |
 | 13 | [Design Thinking](parcial-1/13-design-thinking.md) | Las 5 etapas, características, beneficios, casos (Apple, Netflix, Airbnb, BBVA, IKEA). | Día 3 | 50 min | 🔥 pregunta 4 |
-| 14 | [Innovación abierta](parcial-1/14-innovacion-abierta.md) | Chesbrough, embudo cerrado vs. perforado, inbound/outbound, CVC, caso Google Ventures. | Día 3 | 70 min | — |
-| 15 | [De VICA a VANI](parcial-1/15-entornos-vica-y-vani.md) | Entornos VUCA y BANI, matriz de transición, innovación abierta como resiliencia. | Día 3 | 45 min | — |
-| 16 | [Lean Startup y MVP](parcial-1/16-lean-startup-y-mvp.md) | Para el Primer Parcial solo entra el **MVP** (§I y §IV): qué es, construir-medir-aprender, iterar y pivotar. | Proyecto de Innovación · Barrios | 45 min | 🔥 pregunta 10 |
 
-**Tiempo total:** ~14 h 35 min.
+**Tiempo total:** ~11 h 55 min.
 
 ---
 
-## ⏳ Resto de la materia (después del Primer Parcial)
+## ⏳ Resto de la materia (no entra en el Primer Parcial)
 
-| # | Tema | Qué vas a aprender | Fuente | Tiempo |
+| # | Tema | Qué vas a aprender | Clase / fuente | Tiempo |
 |---|---|---|---|---|
-| 17 | [Proyectos y estrategia de innovación](resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md) | Proyecto de innovación, tipos, estrategia de innovación, alineación, caso retail. | Proyecto de Innovación · Barrios | 60 min |
+| 14 | [Innovación abierta](resto-de-la-materia/14-innovacion-abierta.md) | Chesbrough, embudo cerrado vs. perforado, inbound/outbound, CVC, caso Google Ventures. | Día 3 | 70 min |
+| 15 | [De VICA a VANI](resto-de-la-materia/15-entornos-vica-y-vani.md) | Entornos VUCA y BANI, matriz de transición, innovación abierta como resiliencia. | Día 3 | 45 min |
+| 16 | [Proyectos y estrategia de innovación](resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md) | Proyecto de innovación, tipos, estrategia de innovación, alineación, caso retail. | Proyecto de Innovación · Barrios | 60 min |
+| 17 | [Lean Startup y MVP](resto-de-la-materia/17-lean-startup-y-mvp.md) | Eric Ries, las fases del método, MVP, construir-medir-aprender, iterar vs. pivotar. | Proyecto de Innovación · Barrios | 45 min |
 | 18 | [KPI](resto-de-la-materia/18-kpi.md) | Anatomía, SMART, leading/lagging, DORA, SaaS, casos Spotify y Mercado Libre, costo de no medir. | KPI & OKR · Barrios | 90 min |
 | 19 | [OKR](resto-de-la-materia/19-okr.md) | Estructura, KPI vs. OKR, cascada, 6 errores, pago contra hitos para freelancers. | KPI & OKR · Barrios | 70 min |
 
@@ -82,8 +82,8 @@ Cada actualización del material se registra en [CHANGELOG.md](CHANGELOG.md) y s
 .
 ├── README.md                     ← este índice
 ├── 00-como-estudiar-…md          ← método
-├── parcial-1/                    ← temas 01–16 (Primer Parcial)
-├── resto-de-la-materia/          ← temas 17–19
+├── parcial-1/                    ← temas 01–13 (Primer Parcial)
+├── resto-de-la-materia/          ← temas 14–19
 ├── evaluacion/                   ← guía del parcial, parcial anterior, preguntas integradoras
 │   └── casos/                    ← Nokia, NEXA, enunciado del parcial anterior
 ├── glosario.md

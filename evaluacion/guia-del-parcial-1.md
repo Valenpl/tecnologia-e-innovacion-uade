@@ -1,6 +1,6 @@
 # Guía del Parcial 1: alcance, foco y práctica
 
-> **Alcance:** entra **todo hasta el Día 3** (temas 01–15, más el MVP del tema 16). La lista puede ampliarse: si cambia, se actualiza la sección I y se registra en el [CHANGELOG](../CHANGELOG.md).
+> **Alcance:** entra **hasta Design Thinking** (temas 01–13). Innovación abierta, VICA/VANI y lo posterior **no entran**. La lista puede ampliarse: si cambia, se actualiza la sección I y se registra en el [CHANGELOG](../CHANGELOG.md).
 > **Fuentes de las prioridades:** apunte de cursada (marca "PONER EN PARCIAL" y resaltados), notas de clase (`#importante` y "Posibles preguntas"), el TP del caso NEXA y el **parcial anterior** (caso Nokia).
 >
 > 🚨 **Parcial anterior:** hay alta probabilidad (7–8/10) de que el Parcial 1 sea igual o muy parecido al de la cursada anterior. Está **resuelto pregunta por pregunta** en [Parcial anterior resuelto](parcial-anterior-resuelto.md).
@@ -31,9 +31,8 @@
 | ✅ Entra | **Clase 1** · Escandell | [01](../parcial-1/01-tecnologia-e-innovacion-fundamentos.md) · [02](../parcial-1/02-impactos-y-desafios.md) · [03](../parcial-1/03-tecnologias-disruptivas.md) |
 | ✅ Entra | **Clase 2** · Barrios | [04](../parcial-1/04-empresas-unicornio.md) · [05](../parcial-1/05-curvas-de-la-tecnologia.md) · [06](../parcial-1/06-schumpeter-destruccion-creativa-y-ciclos.md) · [07](../parcial-1/07-gestion-de-la-innovacion.md) |
 | ✅ Entra | **Clase 3** · Escandell (datos) | [08](../parcial-1/08-business-intelligence.md) · [09](../parcial-1/09-data-mining.md) · [10](../parcial-1/10-big-data.md) |
-| ✅ Entra | **Día 3** | [11](../parcial-1/11-creatividad-y-proceso-creativo.md) · [12](../parcial-1/12-innovacion-tecnologica-e-ia.md) · [13](../parcial-1/13-design-thinking.md) · [14](../parcial-1/14-innovacion-abierta.md) · [15](../parcial-1/15-entornos-vica-y-vani.md) |
-| ✅ Entra (concepto) | — | **MVP** (se desarrolla en [16](../parcial-1/16-lean-startup-y-mvp.md)): lo menciona el Día 3, está en las posibles preguntas y es la **pregunta 10 del parcial anterior**. Ver VI.1 y [Parcial anterior resuelto](parcial-anterior-resuelto.md) V.10. De Lean Startup alcanza con MVP, construir-medir-aprender, iterar y pivotar. |
-| ⏳ No entra | Proyecto de innovación · KPI & OKR | [17](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md) · [18](../resto-de-la-materia/18-kpi.md) · [19](../resto-de-la-materia/19-okr.md) |
+| ✅ Entra | **Día 3** (primera parte) | [11](../parcial-1/11-creatividad-y-proceso-creativo.md) · [12](../parcial-1/12-innovacion-tecnologica-e-ia.md) · [13](../parcial-1/13-design-thinking.md) |
+| ⏳ No entra | Día 3 (segunda parte) · Proyecto de innovación · KPI & OKR | [14](../resto-de-la-materia/14-innovacion-abierta.md) · [15](../resto-de-la-materia/15-entornos-vica-y-vani.md) · [16](../resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md) · [17](../resto-de-la-materia/17-lean-startup-y-mvp.md) · [18](../resto-de-la-materia/18-kpi.md) · [19](../resto-de-la-materia/19-okr.md) |
 
 > 💡 Si el alcance se amplía, alcanza con mover la fila de ⏳ a ✅, sumar el bloque a la sección II y registrar el cambio en el CHANGELOG.
 
@@ -41,7 +40,7 @@
 
 ## II. Orden y plan de estudio
 
-Estudiá los temas **en el orden del [índice](../README.md)**, del 01 al 16: siguen las clases (Clase 1 → Clase 2 → Clase 3 → Día 3) y terminan con el MVP. Cada tema cierra con su autoevaluación. Después, practicá con el [parcial anterior resuelto](parcial-anterior-resuelto.md), las secciones VI–VII de esta guía y el checklist VIII.
+Estudiá los temas **en el orden del [índice](../README.md)**, del 01 al 13: siguen las clases (Clase 1 → Clase 2 → Clase 3 → Día 3 hasta Design Thinking). Cada tema cierra con su autoevaluación. Después, practicá con el [parcial anterior resuelto](parcial-anterior-resuelto.md), las secciones VI–VII de esta guía y el checklist VIII.
 
 > ⚠️ **Si tenés poco tiempo:** leé el **esquema** y los bloques **📝** de cada módulo, priorizá lo marcado con 🔥 en la sección IV y hacé la práctica VI–VII. Es mejor cubrir todo el alcance con profundidad media que dejar un bloque entero sin ver.
 
@@ -81,8 +80,8 @@ Estudiá los temas **en el orden del [índice](../README.md)**, del 01 al 16: si
 | [11 Creatividad](../parcial-1/11-creatividad-y-proceso-creativo.md) | 🔥 posibles preguntas | **Etapas del proceso creativo** · creatividad vs. innovación · importancia (incluye el **MVP**) · técnicas. |
 | [12 Innovación tecnológica e IA](../parcial-1/12-innovacion-tecnologica-e-ia.md) | — | Definición (Día 3) · características · 10 problemas de innovar · IA (evolución y transversalidad). |
 | [13 Design Thinking](../parcial-1/13-design-thinking.md) | — | Definición · **5 etapas** y que es iterativo · deseable / factible / viable. |
-| [14 Innovación abierta](../parcial-1/14-innovacion-abierta.md) | — | Chesbrough · embudo cerrado vs. perforado · las 3 verdades · propiedad intelectual flexible · **CVC**. |
-| [15 VICA y VANI](../parcial-1/15-entornos-vica-y-vani.md) | — | Las 4 letras de cada uno · por qué VICA quedó corto · innovación abierta como resiliencia colectiva. |
+| [14 Innovación abierta](../resto-de-la-materia/14-innovacion-abierta.md) | — | Chesbrough · embudo cerrado vs. perforado · las 3 verdades · propiedad intelectual flexible · **CVC**. |
+| [15 VICA y VANI](../resto-de-la-materia/15-entornos-vica-y-vani.md) | — | Las 4 letras de cada uno · por qué VICA quedó corto · innovación abierta como resiliencia colectiva. |
 
 ---
 
@@ -100,7 +99,7 @@ Estudiá los temas **en el orden del [índice](../README.md)**, del 01 al 16: si
 8. **Big Data** – conjuntos de datos tan masivos, rápidos y complejos que las herramientas tradicionales no pueden procesarlos. **+ las 5 V.** → [10](../parcial-1/10-big-data.md)
 9. **Proceso creativo** – conjunto estructurado de fases (preparación, incubación, iluminación, verificación y difusión) para generar soluciones originales. → [11](../parcial-1/11-creatividad-y-proceso-creativo.md)
 10. **Design Thinking** – metodología centrada en el ser humano para resolver problemas complejos y fomentar la innovación. → [13](../parcial-1/13-design-thinking.md)
-11. **Innovación abierta / CVC** – el conocimiento útil está distribuido; la empresa coopera hacia adentro y hacia afuera, y el CVC es su cartera de inversiones en startups. → [14](../parcial-1/14-innovacion-abierta.md)
+11. **Innovación abierta / CVC** – el conocimiento útil está distribuido; la empresa coopera hacia adentro y hacia afuera, y el CVC es su cartera de inversiones en startups. → [14](../resto-de-la-materia/14-innovacion-abierta.md)
 
 ```mermaid
 flowchart LR
@@ -177,13 +176,13 @@ El TP **no cubre** la Clase 3 ni el Día 3. Para practicarlos con el mismo caso:
 **3. ¿Cómo podría NEXA usar la innovación abierta para responder a ORBIT?**
 <details><summary>Guía de respuesta</summary>
 
-Partí de la premisa de Chesbrough (*el conocimiento útil está distribuido*; ninguna empresa puede *monopolizar todo el talento*). **Inbound**: incorporar tecnología externa (asociarse con o invertir en startups de IA, licenciar modelos). **Outbound**: licenciar o separar tecnologías que NEXA no explota. **CVC**: una cartera de inversiones en varias startups para ver antes qué tecnologías despegan, en lugar de apostar todo a un solo laboratorio interno. Vinculalo con que NEXA dejó de ser un equipo interdisciplinario y se volvió una **isla tecnológica** ([14](../parcial-1/14-innovacion-abierta.md)).
+Partí de la premisa de Chesbrough (*el conocimiento útil está distribuido*; ninguna empresa puede *monopolizar todo el talento*). **Inbound**: incorporar tecnología externa (asociarse con o invertir en startups de IA, licenciar modelos). **Outbound**: licenciar o separar tecnologías que NEXA no explota. **CVC**: una cartera de inversiones en varias startups para ver antes qué tecnologías despegan, en lugar de apostar todo a un solo laboratorio interno. Vinculalo con que NEXA dejó de ser un equipo interdisciplinario y se volvió una **isla tecnológica** ([14](../resto-de-la-materia/14-innovacion-abierta.md)).
 </details>
 
 **4. ¿El entorno de NEXA se describe mejor como VICA o como VANI? Justificá con rasgos del caso.**
 <details><summary>Guía de respuesta</summary>
 
-Hay rasgos de ambos, pero el caso tiene elementos VANI: **frágil** (una empresa que crece en ingresos pierde valuación de golpe por una controversia), **no lineal** (un producto "demasiado básico" como ORBIT se vuelve amenaza; una investigación periodística, sin ninguna infracción comprobada, hace caer la valuación) y **ansioso** (presión trimestral, debates sin decisión). La respuesta VANI es la resiliencia mediante redes e innovación abierta, no solo la agilidad que propone VICA ([15](../parcial-1/15-entornos-vica-y-vani.md)).
+Hay rasgos de ambos, pero el caso tiene elementos VANI: **frágil** (una empresa que crece en ingresos pierde valuación de golpe por una controversia), **no lineal** (un producto "demasiado básico" como ORBIT se vuelve amenaza; una investigación periodística, sin ninguna infracción comprobada, hace caer la valuación) y **ansioso** (presión trimestral, debates sin decisión). La respuesta VANI es la resiliencia mediante redes e innovación abierta, no solo la agilidad que propone VICA ([15](../resto-de-la-materia/15-entornos-vica-y-vani.md)).
 </details>
 
 **5. El comité de NEXA necesita ideas para responder a ORBIT. Proponé cómo usar el proceso creativo y una técnica concreta.**
@@ -241,7 +240,7 @@ El examen de la cursada anterior está transcripto en [casos/parcial-anterior-no
 | 7 | Disrupción y destrucción creativa | [03](../parcial-1/03-tecnologias-disruptivas.md) · [06](../parcial-1/06-schumpeter-destruccion-creativa-y-ciclos.md) | V.7 |
 | 8 | Gestión 2.0 e interdisciplina | [07](../parcial-1/07-gestion-de-la-innovacion.md) | V.8 |
 | 9 | Opinión pública, desarrolladores y valuación | [04](../parcial-1/04-empresas-unicornio.md) | V.9 |
-| 10 | MVP | [16](../parcial-1/16-lean-startup-y-mvp.md) · VI.1 de esta guía | V.10 |
+| 10 | MVP | [17](../resto-de-la-materia/17-lean-startup-y-mvp.md) · VI.1 de esta guía | V.10 |
 
 > 💡 **Qué cambia en la estrategia:** las preguntas del parcial anterior pasan a ser **lo primero que se estudia**; el resto del temario (checklist VIII) queda como cobertura para el 20–30 % que puede variar.
 

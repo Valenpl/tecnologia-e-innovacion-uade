@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Día 3 – Innovación Abierta*, diapositivas 15–25.
 > **Prerrequisitos:** [14 Innovación abierta](14-innovacion-abierta.md).
 > **Tiempo estimado:** 45 min.
-> **Primer Parcial · Tema 15 de 16** (Día 3).
+> **Resto de la materia · Tema 15** (Día 3). No entra en el Primer Parcial.
 
 ---
 
@@ -139,7 +139,7 @@ VANI describe un mundo que **"ya no solo es inestable, sino que está roto"**, e
 - **Respuesta:** **intuición, colaboración y transparencia**. Abrirse al ecosistema permite usar la **"inteligencia colectiva"** de expertos, científicos y emprendedores para decodificar los cambios **en tiempo real**.
 - **Impacto en IA:** **inteligencia colectiva y abierta**.
 
-> 🔗 **Conexión crítica con los módulos de datos:** "Incomprensible" pone un **límite** a la cultura data-driven (BI, Big Data). No alcanza con tener más datos; hace falta **interpretarlos colectivamente**. Es la respuesta a la pregunta del módulo [08](08-business-intelligence.md): *¿puede una empresa depender demasiado de los datos?*
+> 🔗 **Conexión crítica con los módulos de datos:** "Incomprensible" pone un **límite** a la cultura data-driven (BI, Big Data). No alcanza con tener más datos; hace falta **interpretarlos colectivamente**. Es la respuesta a la pregunta del módulo [08](../parcial-1/08-business-intelligence.md): *¿puede una empresa depender demasiado de los datos?*
 
 ### III.D Resumen VANI
 
@@ -208,9 +208,9 @@ flowchart LR
 ## 🔗 Conexiones
 
 - **← [14 Innovación abierta](14-innovacion-abierta.md):** CVC, redes, co-creación.
-- **← [02 Desafíos](02-impactos-y-desafios.md):** ciberresiliencia (respuesta a la fragilidad).
-- **← [08](08-business-intelligence.md)–[10](10-big-data.md) Datos:** límite de "acumular más datos".
-- **→ [16 Lean Startup](16-lean-startup-y-mvp.md):** experimentar en lugar de planificar a 5 años.
+- **← [02 Desafíos](../parcial-1/02-impactos-y-desafios.md):** ciberresiliencia (respuesta a la fragilidad).
+- **← [08](../parcial-1/08-business-intelligence.md)–[10](../parcial-1/10-big-data.md) Datos:** límite de "acumular más datos".
+- **→ [17 Lean Startup](17-lean-startup-y-mvp.md):** experimentar en lugar de planificar a 5 años.
 
 ---
 
@@ -254,4 +254,4 @@ Que, ante un mundo **incomprensible**, la **Innovación Abierta** (no la Intelig
 
 ---
 
-[← 14 Innovación abierta](14-innovacion-abierta.md) · [🏠 Índice](../README.md) · [Siguiente → 16 El método Lean Startup](16-lean-startup-y-mvp.md)
+[← 14 Innovación abierta](14-innovacion-abierta.md) · [🏠 Índice](../README.md) · [Siguiente → 16 Proyectos de innovación y estrategia de innovación](16-proyectos-y-estrategia-de-innovacion.md)
