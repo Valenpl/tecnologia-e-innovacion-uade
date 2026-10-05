@@ -1,4 +1,4 @@
-# 21 · Preguntas integradoras (tipo parcial / final)
+# Preguntas integradoras (tipo parcial / final)
 
 > **Para qué sirve:** cada módulo tiene su autoevaluación. Acá las preguntas **cruzan varios temas**, que es como suelen venir los parciales a desarrollar. Hacelas **después** de estudiar todos los módulos.
 >
@@ -11,19 +11,19 @@
 ```mermaid
 flowchart TB
     T["01 Tecnología e innovación"] --> D["03 Disruptivas"]
-    D --> CS["08 Curva S"]
-    CS --> SCH["09 Schumpeter"]
-    D --> DAT["04-06 Datos: BI, DM, Big Data"]
+    D --> CS["05 Curva S"]
+    CS --> SCH["06 Schumpeter"]
+    D --> DAT["08-10 Datos: BI, DM, Big Data"]
     DAT --> IA["12 IA"]
     CR["11 Creatividad"] --> IT["12 Innovación tecnológica"]
     IT --> DT["13 Design Thinking"]
-    DT --> LS["17 Lean Startup"]
-    G["10 Gestión 2.0 y Doblin"] --> OI["14 Innovación abierta"]
+    DT --> LS["16 Lean Startup"]
+    G["07 Gestión 2.0 y Doblin"] --> OI["14 Innovación abierta"]
     OI --> VANI["15 VICA / VANI"]
-    PR["16 Proyectos y estrategia"] --> LS
+    PR["17 Proyectos y estrategia"] --> LS
     LS --> KPI["18 KPI"]
     KPI --> OKR["19 OKR"]
-    UNI["07 Unicornios"] --> OI
+    UNI["04 Unicornios"] --> OI
     CS --> OI
 ```
 
@@ -162,6 +162,4 @@ La tecnología —**aplicación del conocimiento científico para crear herramie
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 20 Glosario](20-glosario.md) · [🏠 Índice](README.md) · [Siguiente por clase → 22 Guía del Parcial 1](22-foco-de-parcial.md)
+[← Evaluación](README.md) · [🏠 Índice](../README.md)

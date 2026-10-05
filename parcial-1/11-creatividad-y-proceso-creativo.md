@@ -1,10 +1,9 @@
 # 11 · Creatividad y proceso creativo
 
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Barrios), diapositivas 26–27; *Día 3 – Innovación tecnológica, creatividad vs. innovación*, diapositivas 2–9 y 29.
-> **Prerrequisitos:** [10 Gestión de la innovación](10-gestion-de-la-innovacion.md).
+> **Prerrequisitos:** [07 Gestión de la innovación](07-gestion-de-la-innovacion.md).
 > **Tiempo estimado:** 60 min.
-> **Parcial 1:** ✅ entra (Clase 2 y Día 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 1 · Creatividad vs. innovación:** leé solo [§I](#i-creatividad) y [§II.C](#iic-etapas-del-proceso-creativo) → seguí en [23 · III.1](23-parcial-anterior-nokia.md#iii1-diferencia-entre-innovación-tecnológica-y-creatividad).
+> **Primer Parcial · Tema 11 de 16** (Clase 2 y Día 3). 🔥 Salió en el parcial anterior (pregunta [1](../evaluacion/parcial-anterior-resuelto.md#iii1-diferencia-entre-innovación-tecnológica-y-creatividad)).
 
 ---
 
@@ -275,10 +274,10 @@ Una combinación posible: **acero + pico deportivo + sensor** → "botella intel
 
 ## 🔗 Conexiones
 
-- **← [10 Gestión de la innovación](10-gestion-de-la-innovacion.md):** creatividad como cierre de la Clase 2.
+- **← [07 Gestión de la innovación](07-gestion-de-la-innovacion.md):** creatividad como cierre de la Clase 2.
 - **→ [12 Innovación tecnológica](12-innovacion-tecnologica-e-ia.md):** de la idea a la innovación.
 - **→ [13 Design Thinking](13-design-thinking.md):** metodología que estructura el proceso creativo centrado en el usuario.
-- **→ [17 Lean Startup](17-lean-startup.md):** prototipar y validar (MVP).
+- **→ [16 Lean Startup](16-lean-startup-y-mvp.md):** prototipar y validar (MVP).
 
 ---
 
@@ -316,6 +315,4 @@ Ejemplo: **S**ustituir la tela por material impermeable reciclado; **C**ombinar 
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 06 Big Data](06-big-data.md) · [🏠 Índice](README.md) · [Siguiente por clase → 12 Innovación tecnológica e Inteligencia Artificial](12-innovacion-tecnologica-e-ia.md)
+[← 10 Big Data](10-big-data.md) · [🏠 Índice](../README.md) · [Siguiente → 12 Innovación tecnológica e Inteligencia Artificial](12-innovacion-tecnologica-e-ia.md)

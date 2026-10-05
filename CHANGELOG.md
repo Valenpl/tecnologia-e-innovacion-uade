@@ -2,6 +2,18 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.05.7 — 2026-10-05
+
+**Motivo:** el índice mezclaba temas con material de evaluación y la "ruta" saltaba entre secciones de distintos archivos. Se pidió un **índice de temas en orden**, separado en **Primer Parcial / resto de la materia**, con la evaluación aparte.
+
+### Cambiado
+- **Temas renumerados en orden de cursada** y separados en carpetas: `parcial-1/` (temas 01–16: Clase 1 → Clase 2 → Clase 3 → Día 3 → MVP) y `resto-de-la-materia/` (temas 17–19: proyectos, KPI, OKR). Lean Startup pasa a ser el tema 16 porque el MVP entra en el parcial.
+- **Evaluación aparte** en `evaluacion/`: guía del Parcial 1, parcial anterior resuelto, preguntas integradoras y `casos/`.
+- **README:** índice simple con dos tablas (Primer Parcial / resto de la materia), tiempo por tema y marca 🔥 de los temas que salieron en el parcial anterior.
+- **Cada tema:** cabecera "Primer Parcial · Tema NN de 16" (o "Resto de la materia") y pie con anterior / siguiente en el orden del índice. El tema 16 lleva a la evaluación.
+- Se eliminó la "Ruta al Parcial 1" (recuadros, pasos y enlaces de salto).
+- `glosario.md` sin número; el plan del parcial anterior pasa a ser una tabla "qué tema responde cada pregunta".
+
 ## v2026.10.05.6 — 2026-10-05
 
 **Motivo:** los enlaces "Siguiente" seguían el orden numérico de los archivos y no la ruta al parcial.

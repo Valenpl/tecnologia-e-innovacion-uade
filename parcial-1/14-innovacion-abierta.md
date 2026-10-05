@@ -1,10 +1,9 @@
 # 14 · Innovación abierta (Open Innovation)
 
 > **Fuente en el material:** *Día 3 – Innovación Abierta* (basado en Henry Chesbrough), diapositivas 1–14 y 26–32.
-> **Prerrequisitos:** [10 Gestión de la innovación](10-gestion-de-la-innovacion.md) (tipo "Red" de Doblin).
+> **Prerrequisitos:** [07 Gestión de la innovación](07-gestion-de-la-innovacion.md) (tipo "Red" de Doblin).
 > **Tiempo estimado:** 70 min.
-> **Parcial 1:** ✅ entra (Día 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 15** (mañana): solo esquema y 📝 de [§II](#ii-el-fundamento-del-embudo-cerrado-al-embudo-perforado), [§III](#iii-dinámica-de-flujos-el-embudo-perforado) y [§IV](#iv-las-tres-verdades-del-nuevo-imperativo).
+> **Primer Parcial · Tema 14 de 16** (Día 3).
 
 ---
 
@@ -52,7 +51,7 @@
 
 ## 🧠 Mapa visual
 
-![Embudo cerrado vs. abierto](assets/embudo-cerrado-vs-abierto.svg)
+![Embudo cerrado vs. abierto](../assets/embudo-cerrado-vs-abierto.svg)
 
 ---
 
@@ -203,7 +202,7 @@ flowchart LR
 | **Ventaja competitiva** | **Ser el primero en descubrir** la tecnología asegura el dominio. | **Construir modelos de negocio superiores** es más rentable que descubrir la tecnología. |
 | **Filosofía de control** | **Control absoluto** del ciclo de vida del producto, de inicio a fin, interno. | **Orquestación de ecosistemas** abiertos, **distribuyendo riesgos y beneficios**. |
 
-> 💡 **La fila más profunda es "ventaja competitiva":** en el paradigma abierto **no gana quien inventa, gana quien tiene el mejor modelo de negocio** para aprovechar la tecnología (propia o ajena). Conecta con Doblin: **modelo de ingresos** y **red** (módulo [10](10-gestion-de-la-innovacion.md)).
+> 💡 **La fila más profunda es "ventaja competitiva":** en el paradigma abierto **no gana quien inventa, gana quien tiene el mejor modelo de negocio** para aprovechar la tecnología (propia o ajena). Conecta con Doblin: **modelo de ingresos** y **red** (módulo [07](07-gestion-de-la-innovacion.md)).
 
 ---
 
@@ -264,7 +263,7 @@ flowchart LR
 | **Nest Labs** | Domótica e IoT | Termostatos y seguridad inteligente; **adquirida por Google** años después para su ecosistema Hogar. |
 | **Stripe** | Infraestructura fintech | La plataforma de pagos en línea más valorada y robusta del ecosistema digital. |
 
-> 💡 **Nest es el ejemplo perfecto del ciclo completo:** GV invierte (inbound vía CVC) → la startup crece → Google la **adquiere** e integra (inbound vía adquisición). Y Uber y Stripe conectan con los **unicornios** del módulo [07](07-empresas-unicornio.md).
+> 💡 **Nest es el ejemplo perfecto del ciclo completo:** GV invierte (inbound vía CVC) → la startup crece → Google la **adquiere** e integra (inbound vía adquisición). Y Uber y Stripe conectan con los **unicornios** del módulo [04](04-empresas-unicornio.md).
 
 ---
 
@@ -292,9 +291,9 @@ flowchart LR
 
 ## 🔗 Conexiones
 
-- **← [10 Doblin](10-gestion-de-la-innovacion.md):** tipo "Red" y estructura en red.
-- **← [07 Unicornios](07-empresas-unicornio.md):** financiamiento por inversores.
-- **← [08 Curvas S](08-curvas-de-la-tecnologia.md):** el CVC permite detectar nuevas curvas a tiempo.
+- **← [07 Doblin](07-gestion-de-la-innovacion.md):** tipo "Red" y estructura en red.
+- **← [04 Unicornios](04-empresas-unicornio.md):** financiamiento por inversores.
+- **← [05 Curvas S](05-curvas-de-la-tecnologia.md):** el CVC permite detectar nuevas curvas a tiempo.
 - **→ [15 VICA y VANI](15-entornos-vica-y-vani.md):** por qué la innovación abierta es la respuesta a un mundo caótico.
 
 ---
@@ -339,6 +338,4 @@ Es el conjunto de **inversiones financieras y estratégicas** que una gran empre
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 13 Design Thinking](13-design-thinking.md) · [🏠 Índice](README.md) · [Siguiente por clase → 15 De VICA a VANI](15-entornos-vica-y-vani.md)
+[← 13 Design Thinking](13-design-thinking.md) · [🏠 Índice](../README.md) · [Siguiente → 15 De VICA a VANI](15-entornos-vica-y-vani.md)

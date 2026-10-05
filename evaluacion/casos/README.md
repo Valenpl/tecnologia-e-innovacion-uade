@@ -9,10 +9,10 @@ Casos de la materia en markdown, para practicar la **Parte B** del parcial (apli
 | [nexa-enunciado.md](nexa-enunciado.md) | Enunciado del **TP caso NEXA** con sus 15 preguntas. | `TP/TP sobre analisis del caso NEXA.docx` |
 | [nexa-respuestas-grupo5.md](nexa-respuestas-grupo5.md) | Respuestas del grupo a las preguntas 1–6 (curva S, Gartner, adopción, ORBIT, Schumpeter). | `TP/CasoNexa-Grupo5 (1).docx` |
 
-> 📍 **La resolución del parcial anterior está en [23 · Parcial anterior resuelto](../23-parcial-anterior-nokia.md).**
+> 📍 **La resolución del parcial anterior está en [Parcial anterior resuelto](../parcial-anterior-resuelto.md).**
 
 > 💡 Todas las conversiones de la carpeta `TP/` (incluidos los borradores) quedan también en `TP-md/`, fuera del repo.
 
 ---
 
-[🏠 Índice](../README.md)
+[← Evaluación](../README.md) · [🏠 Índice](../../README.md)

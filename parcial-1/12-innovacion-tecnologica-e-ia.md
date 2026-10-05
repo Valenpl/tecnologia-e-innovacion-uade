@@ -3,8 +3,7 @@
 > **Fuente en el material:** *Día 3 – Innovación tecnológica, creatividad vs. innovación*, diapositivas 10–29.
 > **Prerrequisitos:** [11 Creatividad](11-creatividad-y-proceso-creativo.md).
 > **Tiempo estimado:** 70 min.
-> **Parcial 1:** ✅ entra (Día 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** no está en la ruta (baja prioridad). Si te sobra tiempo, leé solo el esquema y los bloques 📝.
+> **Primer Parcial · Tema 12 de 16** (Día 3).
 
 ---
 
@@ -117,11 +116,11 @@ Compará con la definición de la Clase 1 (módulo [01](01-tecnologia-e-innovaci
 
 > 💡 **Para entenderlo – "rendimientos crecientes":** cuantas más personas usan una tecnología, más valiosa se vuelve (más datos para mejorarla, más desarrolladores, más compatibilidad). Ejemplo: un sistema de pagos con QR vale más cuantos más comercios y usuarios lo usan.
 >
-> ➕ **Contexto adicional:** esto se relaciona con los **efectos de red** y explica por qué, una vez superado el "abismo" de adopción (módulo [08](08-curvas-de-la-tecnologia.md)), la difusión se acelera.
+> ➕ **Contexto adicional:** esto se relaciona con los **efectos de red** y explica por qué, una vez superado el "abismo" de adopción (módulo [05](05-curvas-de-la-tecnologia.md)), la difusión se acelera.
 
 > 💡 **Para entenderlo – "I+D+i":** **I**nvestigación + **D**esarrollo + **i**nnovación. La "i" minúscula final remarca que **no alcanza con investigar y desarrollar**: hay que **llevarlo al mercado**.
 
-> 🔗 La característica 4 (**incertidumbre y riesgo**) es la razón de ser de **Lean Startup** (módulo [17](17-lean-startup.md)): reducir el riesgo experimentando antes de invertir fuerte.
+> 🔗 La característica 4 (**incertidumbre y riesgo**) es la razón de ser de **Lean Startup** (módulo [16](16-lean-startup-y-mvp.md)): reducir el riesgo experimentando antes de invertir fuerte.
 
 ### I.D Beneficios
 
@@ -334,9 +333,9 @@ La clase deja dos preguntas abiertas:
 ## 🔗 Conexiones
 
 - **← [01](01-tecnologia-e-innovacion-fundamentos.md) y [03](03-tecnologias-disruptivas.md):** tipos de innovación y disrupción.
-- **← [05](05-data-mining.md) y [06](06-big-data.md):** la IA se alimenta de datos.
+- **← [09](09-data-mining.md) y [10](10-big-data.md):** la IA se alimenta de datos.
 - **→ [13 Design Thinking](13-design-thinking.md):** respuesta al problema "no entender al usuario".
-- **→ [17 Lean Startup](17-lean-startup.md):** respuesta al problema "alto costo y riesgo".
+- **→ [16 Lean Startup](16-lean-startup-y-mvp.md):** respuesta al problema "alto costo y riesgo".
 
 ---
 
@@ -380,6 +379,4 @@ Por su **capacidad de evolución** (mejora con la experiencia y los datos) y su 
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 11 Creatividad y proceso creativo](11-creatividad-y-proceso-creativo.md) · [🏠 Índice](README.md) · [Siguiente por clase → 13 Design Thinking](13-design-thinking.md)
+[← 11 Creatividad y proceso creativo](11-creatividad-y-proceso-creativo.md) · [🏠 Índice](../README.md) · [Siguiente → 13 Design Thinking](13-design-thinking.md)

@@ -1,7 +1,7 @@
 # Caso NEXA · respuestas del Grupo 5 (preguntas 1–6)
 
 > **Fuente:** *CasoNexa-Grupo5 (1).docx* (versión extendida, carpeta TP), convertida con `markitdown`; se quitaron los datos de los integrantes. La versión final entregada (PDF) es un recorte de esta.
-> **Para qué sirve en el parcial:** son respuestas modelo de **curva S, Gartner, adopción, desplazamiento de tecnologías y Schumpeter** aplicadas a un caso, con evidencia textual. El mismo razonamiento se traslada a Nokia (ver [23](../23-parcial-anterior-nokia.md), VII).
+> **Para qué sirve en el parcial:** son respuestas modelo de **curva S, Gartner, adopción, desplazamiento de tecnologías y Schumpeter** aplicadas a un caso, con evidencia textual. El mismo razonamiento se traslada a Nokia (ver [Parcial anterior resuelto](../parcial-anterior-resuelto.md), VII).
 > Las figuras están en `TP/graficos/` (fuera del repo).
 
 ---

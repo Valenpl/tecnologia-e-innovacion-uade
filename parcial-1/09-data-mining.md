@@ -1,10 +1,9 @@
-# 05 · Data Mining (Minería de datos)
+# 09 · Data Mining (Minería de datos)
 
 > **Fuente en el material:** *Clase "Pinamar" 2026* (Prof. Gustavo E. Escandell), diapositivas 33–47.
-> **Prerrequisitos:** [04 Business Intelligence](04-business-intelligence.md).
+> **Prerrequisitos:** [08 Business Intelligence](08-business-intelligence.md).
 > **Tiempo estimado:** 60 min.
-> **Parcial 1:** ✅ entra (Clase 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 3 · BI y Data Mining:** leé solo [§II](#ii-definición) y [§III](#iii-objetivos) → seguí en [06 §VII](06-big-data.md#vii-big-data-vs-data-mining) · **Paso 15** (mañana): solo esquema y 📝 de [§VI](#vi-proceso-de-minería-de-datos).
+> **Primer Parcial · Tema 09 de 16** (Clase 3). 🔥 Salió en el parcial anterior (pregunta [3](../evaluacion/parcial-anterior-resuelto.md#iii3-business-intelligence-vs-data-mining)).
 
 ---
 
@@ -103,7 +102,7 @@ Desglose en esquema:
 
 ## III. Objetivos
 
-> 🔥 **Prioridad de parcial:** Data Mining quedó marcado como **#importante** en las notas del repaso previo al parcial, y en el apunte de cursada están **resaltados** los objetivos 2, 3 y 4, los usos 1–3 de *Para qué sirve* y las 3 *Características* (marcados con 🔥 abajo). Fijate que se repite el mismo núcleo en las tres listas: **predecir · segmentar · detectar fraude**. ⚠️ Estos mismos puntos aparecen también en la diapositiva de *Objetivos* de **Big Data**, donde en rigor están fuera de lugar: ver módulo [06](06-big-data.md), III.+.
+> 🔥 **Prioridad de parcial:** Data Mining quedó marcado como **#importante** en las notas del repaso previo al parcial, y en el apunte de cursada están **resaltados** los objetivos 2, 3 y 4, los usos 1–3 de *Para qué sirve* y las 3 *Características* (marcados con 🔥 abajo). Fijate que se repite el mismo núcleo en las tres listas: **predecir · segmentar · detectar fraude**. ⚠️ Estos mismos puntos aparecen también en la diapositiva de *Objetivos* de **Big Data**, donde en rigor están fuera de lugar: ver módulo [10](10-big-data.md), III.+.
 
 1. **Identificación de patrones y tendencias** – descubrir comportamientos, asociaciones o secuencias **ocultas** que no son evidentes a simple vista.
 2. 🔥 **Predicción de comportamientos (modelado predictivo)** – usar datos históricos para **pronosticar** tendencias futuras: demanda, riesgos financieros, **probabilidad de fuga de clientes**.
@@ -307,14 +306,14 @@ La cátedra plantea dos preguntas. Tené una respuesta argumentada:
 | Clasificación | Regresión | Predice **categoría** vs. predice **valor numérico continuo**. |
 | Limpieza | Reducción | Limpieza quita **errores, ruido y duplicados** (calidad). Reducción quita **variables irrelevantes** (foco). |
 | Data Mining | BI | DM **descubre patrones ocultos y predice** con algoritmos; BI **describe y diagnostica** con dashboards. |
-| Data Mining | Big Data | Big Data es la **base/infraestructura** de datos masivos; DM es el **análisis** que extrae valor (ver tabla en [06](06-big-data.md)). |
+| Data Mining | Big Data | Big Data es la **base/infraestructura** de datos masivos; DM es el **análisis** que extrae valor (ver tabla en [10](10-big-data.md)). |
 
 ---
 
 ## 🔗 Conexiones
 
-- **← [04 BI](04-business-intelligence.md):** la minería de datos es componente de BI.
-- **→ [06 Big Data](06-big-data.md):** de donde vienen los datos que se minan.
+- **← [08 BI](08-business-intelligence.md):** la minería de datos es componente de BI.
+- **→ [10 Big Data](10-big-data.md):** de donde vienen los datos que se minan.
 - **→ [12 IA](12-innovacion-tecnologica-e-ia.md):** el machine learning es el motor de varias técnicas.
 
 ---
@@ -359,6 +358,4 @@ No el algoritmo, que es una herramienta. Es responsable **la empresa** que decid
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 04 Business Intelligence](04-business-intelligence.md) · [🏠 Índice](README.md) · [Siguiente por clase → 06 Big Data](06-big-data.md)
+[← 08 Business Intelligence](08-business-intelligence.md) · [🏠 Índice](../README.md) · [Siguiente → 10 Big Data](10-big-data.md)

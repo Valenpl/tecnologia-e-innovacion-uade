@@ -3,8 +3,7 @@
 > **Fuente en el material:** *Tecnología e Innovación – CLASE 1* (Prof. Gustavo E. Escandell), diapositivas 15–26 y actividades 33–35.
 > **Prerrequisitos:** [01 Fundamentos](01-tecnologia-e-innovacion-fundamentos.md).
 > **Tiempo estimado:** 45 min.
-> **Parcial 1:** ✅ entra (Clase 1). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** no está en la ruta (baja prioridad). Si te sobra tiempo, leé solo el esquema y los bloques 📝.
+> **Primer Parcial · Tema 02 de 16** (Clase 1).
 
 ---
 
@@ -109,7 +108,7 @@ flowchart LR
     A & B & C --> ROI(["ROI significativo<br/>a LARGO plazo"])
 ```
 
-> ⚠️ Fijate en **"a largo plazo"**: la innovación rara vez paga en el corto plazo. Esto se conecta con la **Gestión de la innovación 2.0** (módulo [10](10-gestion-de-la-innovacion.md)), donde la cátedra dice que *el cortoplacismo va en detrimento de la innovación*.
+> ⚠️ Fijate en **"a largo plazo"**: la innovación rara vez paga en el corto plazo. Esto se conecta con la **Gestión de la innovación 2.0** (módulo [07](07-gestion-de-la-innovacion.md)), donde la cátedra dice que *el cortoplacismo va en detrimento de la innovación*.
 
 > 📝 **Citar y explayarse:** La cátedra afirma que invertir en innovación tecnológica *"fortalece la defensa contra amenazas externas, ayuda a abordar riesgos internos"* y mejora la eficiencia, lo que se traduce en *"un retorno de inversión significativo a largo plazo"*. La clave está en el **largo plazo**: la inversión tiene un costo inmediato (equipos, capacitación, cambio de procesos) y sus beneficios llegan después, en forma de menos incidentes, procesos más rápidos y mejor posición competitiva. Por eso las empresas cortoplacistas tienden a invertir de menos. Por ejemplo, implementar ciberseguridad proactiva cuesta hoy, pero evita una filtración de datos que podría costar mucho más en multas y reputación.
 
@@ -212,7 +211,7 @@ Son seis. Es una lista muy preguntable: aprendela con su "porqué".
 
 > 💡 **Para entenderlo – prevención vs. ciberresiliencia:** la prevención asume que podés evitar todos los ataques. La ciberresiliencia asume que **algún ataque va a pasar** y se prepara para **seguir operando y recuperarse rápido** (backups, planes de contingencia, monitoreo). Ojo: en V.D aparece "ciberseguridad **proactiva**" (detectar antes) y acá "ciber**resiliencia**" (recuperarse después). Son complementarias.
 
-> 🔗 El desafío 3 (resistencia al cambio) reaparece como "problema de innovar" en el módulo [12](12-innovacion-tecnologica-e-ia.md) y como tema de liderazgo en el [10](10-gestion-de-la-innovacion.md).
+> 🔗 El desafío 3 (resistencia al cambio) reaparece como "problema de innovar" en el módulo [12](12-innovacion-tecnologica-e-ia.md) y como tema de liderazgo en el [07](07-gestion-de-la-innovacion.md).
 
 ---
 
@@ -223,7 +222,7 @@ La Clase 1 propone dos consignas que conviene responder por escrito como prácti
 1. *¿Qué innovación tecnológica cambió sus vidas durante estos últimos 10 años? ¿Por qué ha sido importante para usted ese cambio? ¿Qué mejoras ha encontrado? Si pudiera mejorar, ¿qué haría?*
 2. *Elija una empresa que ha crecido durante los últimos años y detalle por qué ha crecido exponencialmente.*
 
-> 💡 **Cómo responder la 2 usando la materia:** elegí la empresa → identificá **qué tecnología** usa (II.A del módulo 01) → **qué tipo de innovación** hizo (incremental/radical/disruptiva, de modelo de negocio…) → **qué impacto** generó (sección I de este módulo) → si aplica, **qué uso de datos** hace (módulos 04–06).
+> 💡 **Cómo responder la 2 usando la materia:** elegí la empresa → identificá **qué tecnología** usa (II.A del módulo 01) → **qué tipo de innovación** hizo (incremental/radical/disruptiva, de modelo de negocio…) → **qué impacto** generó (sección I de este módulo) → si aplica, **qué uso de datos** hace (módulos 08–10).
 
 ---
 
@@ -242,7 +241,7 @@ La Clase 1 propone dos consignas que conviene responder por escrito como prácti
 
 - **← [01 Fundamentos](01-tecnologia-e-innovacion-fundamentos.md)**
 - **→ [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md):** las tecnologías que producen estos impactos.
-- **→ [04–06 Datos](04-business-intelligence.md):** la "cultura data-driven" se apoya en BI, Data Mining y Big Data.
+- **→ [08–06 Datos](08-business-intelligence.md):** la "cultura data-driven" se apoya en BI, Data Mining y Big Data.
 - **→ [15 VICA y VANI](15-entornos-vica-y-vani.md):** la ciberresiliencia es la respuesta a un mundo **frágil**.
 
 ---
@@ -292,6 +291,4 @@ Porque los beneficios de la innovación (defensa ante amenazas, gestión de ries
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 01 Tecnología e Innovación](01-tecnologia-e-innovacion-fundamentos.md) · [🏠 Índice](README.md) · [Siguiente por clase → 03 Tecnologías disruptivas](03-tecnologias-disruptivas.md)
+[← 01 Tecnología e Innovación](01-tecnologia-e-innovacion-fundamentos.md) · [🏠 Índice](../README.md) · [Siguiente → 03 Tecnologías disruptivas](03-tecnologias-disruptivas.md)

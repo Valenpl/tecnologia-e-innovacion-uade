@@ -1,10 +1,9 @@
-# 06 · Big Data
+# 10 · Big Data
 
 > **Fuente en el material:** *Clase "Pinamar" 2026* (Prof. Gustavo E. Escandell), diapositivas 48–64.
-> **Prerrequisitos:** [04 BI](04-business-intelligence.md) y [05 Data Mining](05-data-mining.md).
+> **Prerrequisitos:** [08 BI](08-business-intelligence.md) y [09 Data Mining](09-data-mining.md).
 > **Tiempo estimado:** 50 min.
-> **Parcial 1:** ✅ entra (Clase 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 2 · Big Data:** leé solo [§I](#i-definición) y [§VI](#vi-las-5-v) → seguí en [23 · III.2](23-parcial-anterior-nokia.md#iii2-qué-es-big-data-y-las-5-v) · **Paso 3 · BI y Data Mining:** leé solo [§VII](#vii-big-data-vs-data-mining) → seguí en [23 · III.3](23-parcial-anterior-nokia.md#iii3-business-intelligence-vs-data-mining).
+> **Primer Parcial · Tema 10 de 16** (Clase 3). 🔥 Salió en el parcial anterior (pregunta [2](../evaluacion/parcial-anterior-resuelto.md#iii2-qué-es-big-data-y-las-5-v)).
 
 ---
 
@@ -119,7 +118,7 @@ Fijate en los tres adjetivos: **masivos** (→ Volumen), **rápidos** (→ Veloc
 
 > 📝 **Citar y explayarse:** si te preguntan por los objetivos de Big Data, citá los de la cátedra (decisiones basadas en hechos, optimización, personalización, predicción, innovación, detección de fraude) y **explayate aclarando el rol de cada herramienta**: Big Data los **habilita**, porque permite recolectar y procesar datos masivos, veloces y variados; el **análisis** que los concreta —predecir, segmentar, detectar anomalías— lo hace **Data Mining**; y la decisión se comunica con **BI**. Mostrar esa distinción es lo que separa una respuesta que repite la diapositiva de una que la entiende.
 
-> 🔗 El **apunte de cursada** resalta en Data Mining justamente **predicción, segmentación y detección de fraude**: coinciden en buena parte con los objetivos de esta diapositiva. Ver módulo [05](05-data-mining.md), III.
+> 🔗 El **apunte de cursada** resalta en Data Mining justamente **predicción, segmentación y detección de fraude**: coinciden en buena parte con los objetivos de esta diapositiva. Ver módulo [09](09-data-mining.md), III.
 
 ## IV. Importancia
 
@@ -217,7 +216,7 @@ Tabla de la cátedra. Es muy probable que te pidan **comparar** ambos conceptos.
 
 ## VIII. Integración: BI + Data Mining + Big Data
 
-> ➕ **Contexto adicional (síntesis propia de los módulos 04–06):** las tres se usan juntas en un mismo "pipeline" de datos.
+> ➕ **Contexto adicional (síntesis propia de los módulos 08–10):** las tres se usan juntas en un mismo "pipeline" de datos.
 
 ```mermaid
 flowchart LR
@@ -247,7 +246,7 @@ flowchart LR
 > *"¿Las empresas deberían tener límites en la cantidad de datos que recolectan de los usuarios, aunque esos datos les permitan mejorar sus servicios?"*
 
 Esquema de respuesta:
-- **A favor de límites**: privacidad, riesgo de filtraciones (→ caída de reputación, ver módulo [07](07-empresas-unicornio.md) sobre opinión pública), uso para manipular, datos sensibles.
+- **A favor de límites**: privacidad, riesgo de filtraciones (→ caída de reputación, ver módulo [04](04-empresas-unicornio.md) sobre opinión pública), uso para manipular, datos sensibles.
 - **En contra de límites estrictos**: mejores servicios, prevención de fraude, avances en salud.
 - **Postura equilibrada**: recolectar **lo necesario** para un fin claro, con **consentimiento** y **seguridad** (gobernanza).
 
@@ -298,7 +297,7 @@ Esquema de respuesta:
 
 ## 🔗 Conexiones
 
-- **← [05 Data Mining](05-data-mining.md)**: Big Data es su base.
+- **← [09 Data Mining](09-data-mining.md)**: Big Data es su base.
 - **← [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md)**: Big Data aparece como tecnología disruptiva.
 - **→ [12 IA](12-innovacion-tecnologica-e-ia.md)**: la IA se basa en el procesamiento de grandes volúmenes de datos.
 - **→ [15 VANI](15-entornos-vica-y-vani.md)**: el límite de "acumular más datos" en un mundo incomprensible.
@@ -344,6 +343,4 @@ Falla el **Valor** (y posiblemente la **Veracidad**). Recomendaría definir preg
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 05 Data Mining](05-data-mining.md) · [🏠 Índice](README.md) · [Siguiente por clase → 11 Creatividad y proceso creativo](11-creatividad-y-proceso-creativo.md)
+[← 09 Data Mining](09-data-mining.md) · [🏠 Índice](../README.md) · [Siguiente → 11 Creatividad y proceso creativo](11-creatividad-y-proceso-creativo.md)

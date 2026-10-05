@@ -1,10 +1,9 @@
-# 09 · Schumpeter: destrucción creativa y ciclos económicos
+# 06 · Schumpeter: destrucción creativa y ciclos económicos
 
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Mario Barrios), diapositivas 14–18.
-> **Prerrequisitos:** [08 Curvas de la tecnología](08-curvas-de-la-tecnologia.md).
+> **Prerrequisitos:** [05 Curvas de la tecnología](05-curvas-de-la-tecnologia.md).
 > **Tiempo estimado:** 50 min.
-> **Parcial 1:** ✅ entra (Clase 2). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 8 · Destrucción creativa:** leé solo [§II](#ii-destrucción-creativa) → seguí en [23 · V.7](23-parcial-anterior-nokia.md#v7-el-competidor-disruptivo-por-qué-lo-inferior-se-vuelve-destrucción-creativa).
+> **Primer Parcial · Tema 06 de 16** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [7](../evaluacion/parcial-anterior-resuelto.md#v7-el-competidor-disruptivo-por-qué-lo-inferior-se-vuelve-destrucción-creativa)).
 
 ---
 
@@ -104,7 +103,7 @@ Lógica de la cita:
 
 La cátedra muestra un gráfico con el **PIB** en el eje vertical y los **años** en el horizontal, donde cada **innovación** lleva la economía a un **escalón superior**:
 
-![Destrucción creativa: saltos de nivel](assets/destruccion-creativa.svg)
+![Destrucción creativa: saltos de nivel](../assets/destruccion-creativa.svg)
 
 > 💡 La economía no crece en línea recta: crece **a saltos**, cada vez que una oleada de innovación reemplaza la forma vieja de producir por una más productiva.
 
@@ -144,7 +143,7 @@ Schumpeter identifica **cinco casos** de innovación (cinco formas de "nueva com
 
 La economía (medida por el **PIB**) no avanza de manera estable: **oscila**. La cátedra marca tres momentos:
 
-![Ciclos económicos e innovación](assets/ciclos-economicos.svg)
+![Ciclos económicos e innovación](../assets/ciclos-economicos.svg)
 
 | Fase | Qué pasa |
 |---|---|
@@ -168,7 +167,7 @@ En el gráfico de la cátedra, las líneas de **INNOVACIÓN** aparecen justo en 
 
 La cátedra presenta tres ciclos de **distinta duración**, que se superponen (uno dentro del otro) sobre una línea de tiempo de 0 a 60 años:
 
-![Kitchin, Juglar y Kondratiev](assets/ciclos-kitchin-juglar-kondratiev.svg)
+![Kitchin, Juglar y Kondratiev](../assets/ciclos-kitchin-juglar-kondratiev.svg)
 
 | Ciclo | Duración (marcada en la diapositiva) | ➕ Contexto adicional: qué lo explica |
 |---|---|---|
@@ -195,9 +194,9 @@ La cátedra presenta tres ciclos de **distinta duración**, que se superponen (u
 
 ## 🔗 Conexiones
 
-- **← [08 Curvas de la tecnología](08-curvas-de-la-tecnologia.md):** la curva S a nivel tecnología; los ciclos a nivel economía.
+- **← [05 Curvas de la tecnología](05-curvas-de-la-tecnologia.md):** la curva S a nivel tecnología; los ciclos a nivel economía.
 - **← [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md):** la disrupción es destrucción creativa en acción.
-- **→ [10 Gestión de la innovación](10-gestion-de-la-innovacion.md):** Doblin amplía los "tipos" de innovación de Schumpeter.
+- **→ [07 Gestión de la innovación](07-gestion-de-la-innovacion.md):** Doblin amplía los "tipos" de innovación de Schumpeter.
 
 ---
 
@@ -235,6 +234,4 @@ Porque **la aparición de uno o unos pocos emprendedores facilita la aparición 
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 08 Curvas de la tecnología](08-curvas-de-la-tecnologia.md) · [🏠 Índice](README.md) · [Siguiente por clase → 10 Gestión de la innovación](10-gestion-de-la-innovacion.md)
+[← 05 Curvas de la tecnología](05-curvas-de-la-tecnologia.md) · [🏠 Índice](../README.md) · [Siguiente → 07 Gestión de la innovación](07-gestion-de-la-innovacion.md)

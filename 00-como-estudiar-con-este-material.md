@@ -14,7 +14,7 @@
   - A. Bloques fijos de cada archivo
   - B. Convenciones visuales
 - **III. Cómo estudiar un módulo (paso a paso)**
-- **IV. Orden sugerido de la materia** (por clase, con el alcance del Parcial 1)
+- **IV. Orden de los temas** (Primer Parcial / resto de la materia)
 
 ---
 
@@ -79,7 +79,7 @@ Cada archivo `NN-tema.md` tiene siempre estos bloques, en este orden:
 - > 🧩 **Ejemplo** — caso concreto.
 - > ➕ **Contexto adicional** — información que **no está en las diapositivas** de la materia y que se agrega para entender mejor. Usala para comprender, pero en el parcial priorizá la versión de la cátedra.
 
-- > 🔥 **Prioridad de parcial** — marcado como importante en clase (notas de cursada, `#importante`) o como "PONER EN PARCIAL" / resaltado en el apunte de cursada. El resumen de todas las marcas está en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
+- > 🔥 **Prioridad de parcial** — marcado como importante en clase (notas de cursada, `#importante`) o como "PONER EN PARCIAL" / resaltado en el apunte de cursada. El resumen de todas las marcas está en [Guía del Parcial 1](evaluacion/guia-del-parcial-1.md).
 - **Negrita** = palabra clave que tiene que aparecer en tu respuesta.
 
 ---
@@ -106,37 +106,33 @@ flowchart LR
 
 ---
 
-## IV. Orden sugerido de la materia
+## IV. Orden de los temas
 
-> 🎯 **Para el Parcial 1 no uses este orden:** seguí la [Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá) del README, armada sobre el parcial anterior.
-
-Para estudiar la materia completa, estudiá en el **orden en que se dieron las clases**, no en el orden numérico de los archivos (que responde a cómo se armó el material). Para el **Parcial 1 entra todo hasta el Día 3**; el alcance actualizado y el plan de estudio están en [22 · Guía del Parcial 1](22-foco-de-parcial.md), y el **parcial anterior resuelto** en [23](23-parcial-anterior-nokia.md).
+Estudiá los temas **en orden, del 01 al 16**, con el [índice](README.md). Los números siguen las clases. Del 17 en adelante es el **resto de la materia**, que no entra en el Primer Parcial. Lo que es práctica (guía del parcial, parcial anterior resuelto, preguntas integradoras y casos) está aparte, en [evaluación](evaluacion/README.md).
 
 ```mermaid
 flowchart TB
-    subgraph P1["📍 PARCIAL 1 · entra todo hasta el Día 3"]
+    subgraph P1["📍 PRIMER PARCIAL · temas 01–16"]
         subgraph C1["Clase 1 · Escandell"]
-            M01["01 Tecnología<br/>e innovación"] --> M02["02 Impactos<br/>y desafíos"] --> M03["03 Tecnologías<br/>disruptivas"]
+            T01["01 Tecnología<br/>e innovación"] --> T02["02 Impactos<br/>y desafíos"] --> T03["03 Tecnologías<br/>disruptivas"]
         end
         subgraph C2["Clase 2 · Barrios"]
-            M07["07 Unicornios"] --> M08["08 Curvas"] --> M09["09 Schumpeter"] --> M10["10 Doblin y<br/>Gestión 2.0"]
+            T04["04 Unicornios"] --> T05["05 Curvas"] --> T06["06 Schumpeter"] --> T07["07 Doblin y<br/>Gestión 2.0"]
         end
         subgraph C3["Clase 3 · Escandell · datos"]
-            M04["04 BI"] --> M05["05 Data Mining"] --> M06["06 Big Data"]
+            T08["08 BI"] --> T09["09 Data Mining"] --> T10["10 Big Data"]
         end
         subgraph D3["Día 3"]
-            M11["11 Creatividad"] --> M12["12 Innovación<br/>tecnológica e IA"] --> M13["13 Design<br/>Thinking"] --> M14["14 Innovación<br/>abierta"] --> M15["15 VICA / VANI"]
+            T11["11 Creatividad"] --> T12["12 Innovación<br/>tecnológica e IA"] --> T13["13 Design<br/>Thinking"] --> T14["14 Innovación<br/>abierta"] --> T15["15 VICA / VANI"] --> T16["16 MVP"]
         end
         C1 --> C2 --> C3 --> D3
     end
-    subgraph POST["⏳ Después del Día 3"]
-        M16["16 Proyectos y<br/>estrategia"] --> M17["17 Lean Startup"] --> M18["18 KPI"] --> M19["19 OKR"]
+    subgraph POST["⏳ RESTO DE LA MATERIA · temas 17–19"]
+        T17["17 Proyectos y<br/>estrategia"] --> T18["18 KPI"] --> T19["19 OKR"]
     end
     P1 --> POST
 ```
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[🏠 Índice](README.md) · [Siguiente por clase → 01 Tecnología e Innovación](01-tecnologia-e-innovacion-fundamentos.md)
+[🏠 Índice](README.md) · [Empezar → 01 Tecnología e Innovación](parcial-1/01-tecnologia-e-innovacion-fundamentos.md)

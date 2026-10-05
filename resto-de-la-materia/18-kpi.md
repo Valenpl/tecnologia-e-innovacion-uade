@@ -1,10 +1,9 @@
 # 18 · KPI: indicadores clave de desempeño
 
 > **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Barrios), diapositivas 17–20; *KPI & OKR* (Ing. Mario Barrios), módulos 01–03 y Ejercicio 01.
-> **Prerrequisitos:** [16 Proyectos y estrategia](16-proyectos-y-estrategia-de-innovacion.md).
+> **Prerrequisitos:** [17 Proyectos y estrategia](17-proyectos-y-estrategia-de-innovacion.md).
 > **Tiempo estimado:** 90 min (tema largo y con cálculos).
-> **Parcial 1:** ⏳ todavía no entra (es posterior al Día 3).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** no entra en el Parcial 1; no lo estudies todavía.
+> **Resto de la materia · Tema 18** (no entra en el Primer Parcial).
 
 ---
 
@@ -294,7 +293,7 @@ flowchart LR
 | **BI** | **Google Looker Studio** | Visualización **gratuita**; conecta GA4, BigQuery, Sheets. |
 | **OKR** | **Lattice / Perdoo / Weekdone** | Gestión de OKR y **check-ins semanales**; integra con Slack. |
 
-> 🔗 Las herramientas de BI son las mismas del módulo [04](04-business-intelligence.md): BI es la **infraestructura de visualización** de los KPI.
+> 🔗 Las herramientas de BI son las mismas del módulo [08](../parcial-1/08-business-intelligence.md): BI es la **infraestructura de visualización** de los KPI.
 
 ---
 
@@ -317,7 +316,7 @@ flowchart LR
 
 > 📊 **Resultado:** de **20 deploys/año** a **más de 10 deploys/día**, manteniendo una tasa de incidentes **< 0,1 %**.
 
-> 🔗 Es un ejemplo de **estructura en red** (Gestión 2.0, módulo [10](10-gestion-de-la-innovacion.md)) y de innovación de **estructura** (Doblin).
+> 🔗 Es un ejemplo de **estructura en red** (Gestión 2.0, módulo [07](../parcial-1/07-gestion-de-la-innovacion.md)) y de innovación de **estructura** (Doblin).
 
 ### VIII.B Mercado Libre y las métricas DORA
 
@@ -445,9 +444,9 @@ Para el contexto elegido definí: (1) el problema a medir, (2) el KPI con **fór
 ## 🔗 Conexiones
 
 - **→ [19 OKR](19-okr.md):** los Key Results son "KPI con contexto estratégico".
-- **← [04 BI](04-business-intelligence.md):** herramientas de visualización.
-- **← [03 Disruptivas](03-tecnologias-disruptivas.md):** paso 6 "medir y evaluar con KPIs".
-- **← [17 Lean Startup](17-lean-startup.md):** fase "medición de resultados".
+- **← [08 BI](../parcial-1/08-business-intelligence.md):** herramientas de visualización.
+- **← [03 Disruptivas](../parcial-1/03-tecnologias-disruptivas.md):** paso 6 "medir y evaluar con KPIs".
+- **← [16 Lean Startup](../parcial-1/16-lean-startup-y-mvp.md):** fase "medición de resultados".
 
 ---
 
@@ -503,6 +502,4 @@ Desplazan el modelo de **control por actividad** a **autonomía por resultado**:
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 17 El método Lean Startup](17-lean-startup.md) · [🏠 Índice](README.md) · [Siguiente por clase → 19 OKR](19-okr.md)
+[← 17 Proyectos de innovación y estrategia de innovación](17-proyectos-y-estrategia-de-innovacion.md) · [🏠 Índice](../README.md) · [Siguiente → 19 OKR](19-okr.md)

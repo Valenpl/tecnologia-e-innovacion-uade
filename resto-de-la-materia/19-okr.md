@@ -1,10 +1,9 @@
 # 19 · OKR: Objectives and Key Results
 
-> **Fuente en el material:** *KPI & OKR* (Ing. Mario Barrios), módulo 04, Ejercicio 02 y cierre.
+> **Fuente en el material:** *KPI & OKR* (Ing. Mario Barrios), módulo 08, Ejercicio 02 y cierre.
 > **Prerrequisitos:** [18 KPI](18-kpi.md).
 > **Tiempo estimado:** 70 min.
-> **Parcial 1:** ⏳ todavía no entra (es posterior al Día 3).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** no entra en el Parcial 1; no lo estudies todavía.
+> **Resto de la materia · Tema 19** (no entra en el Primer Parcial).
 
 ---
 
@@ -351,8 +350,8 @@ La cátedra deja tres preguntas *"que deberían generar incomodidad productiva"*
 ## 🔗 Conexiones
 
 - **← [18 KPI](18-kpi.md).**
-- **← [10 Gestión 2.0](10-gestion-de-la-innovacion.md):** liderazgo visionario (Objective inspirador), autonomía.
-- **← [16 Estrategia](16-proyectos-y-estrategia-de-innovacion.md):** "dirección clara" y alineación.
+- **← [07 Gestión 2.0](../parcial-1/07-gestion-de-la-innovacion.md):** liderazgo visionario (Objective inspirador), autonomía.
+- **← [17 Estrategia](17-proyectos-y-estrategia-de-innovacion.md):** "dirección clara" y alineación.
 
 ---
 
@@ -402,6 +401,4 @@ Freelancer: claridad sobre qué se paga y cuándo, evidencia objetiva de valor, 
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 18 KPI](18-kpi.md) · [🏠 Índice](README.md) · [Siguiente por clase → 20 Glosario](20-glosario.md)
+[← 18 KPI](18-kpi.md) · [🏠 Índice](../README.md)

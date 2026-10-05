@@ -3,8 +3,7 @@
 > **Fuente en el material:** *Tecnología e Innovación – CLASE 1* (Prof. Gustavo E. Escandell, MRI Pinamar, marzo 2026), diapositivas 4–14 y 32.
 > **Prerrequisitos:** ninguno. Es la base de toda la materia.
 > **Tiempo estimado:** 45–60 min.
-> **Parcial 1:** ✅ entra (Clase 1). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 1 · Creatividad vs. innovación:** leé solo [§II](#ii-definiciones-base) → seguí en [11 §I](11-creatividad-y-proceso-creativo.md#i-creatividad) y [11 §II.C](11-creatividad-y-proceso-creativo.md#iic-etapas-del-proceso-creativo) · **Paso 15** (mañana): solo esquema y 📝 de [§I](#i-punto-de-partida-por-qué-la-tecnología-mejoró-la-vida-de-las-personas) y [§V](#v-relación-tecnología--innovación--negocios).
+> **Primer Parcial · Tema 01 de 16** (Clase 1). 🔥 Salió en el parcial anterior (pregunta [1](../evaluacion/parcial-anterior-resuelto.md#iii1-diferencia-entre-innovación-tecnológica-y-creatividad)).
 
 ---
 
@@ -92,7 +91,7 @@ La materia arranca con una pregunta abierta: **"La tecnología mejoró la vida d
 
 > 💡 **Para entenderlo:** la tecnología por sí sola es una herramienta. Mejora la vida **cuando alguien la aplica para resolver un problema real y genera valor**. Ese "aplicarla para generar valor" es, justamente, la **innovación**.
 
-> 🔥 **Prioridad de parcial:** en las notas de clase esta pregunta quedó marcada como **#importante**. Preparala como pregunta a desarrollar: **tecnología** (definición) → **innovación** (aplicación práctica y exitosa) → **impactos** (módulo [02](02-impactos-y-desafios.md)) → **desafíos** como contrapeso → conclusión. Tenés una respuesta modelo en [21 · Preguntas integradoras](21-preguntas-integradoras.md) (pregunta 11).
+> 🔥 **Prioridad de parcial:** en las notas de clase esta pregunta quedó marcada como **#importante**. Preparala como pregunta a desarrollar: **tecnología** (definición) → **innovación** (aplicación práctica y exitosa) → **impactos** (módulo [02](02-impactos-y-desafios.md)) → **desafíos** como contrapeso → conclusión. Tenés una respuesta modelo en [Preguntas integradoras](../evaluacion/preguntas-integradoras.md) (pregunta 11).
 
 ---
 
@@ -163,7 +162,7 @@ La clase muestra cuatro ejemplos de tecnología:
 
 ## III. Tipos de innovación (versión Clase 1)
 
-En la Clase 1 se presentan tres tipos. Más adelante (módulos [12](12-innovacion-tecnologica-e-ia.md) y [16](16-proyectos-y-estrategia-de-innovacion.md)) la clasificación se amplía.
+En la Clase 1 se presentan tres tipos. Más adelante (módulos [12](12-innovacion-tecnologica-e-ia.md) y [17](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md)) la clasificación se amplía.
 
 ### III.A Incremental
 
@@ -221,7 +220,7 @@ Desarmado en esquema, la importancia está en que:
 #### IV.B.4 Gestión y eficiencia
 - Mejoran la **gestión de proyectos**.
 - Permiten **colaboración en tiempo real**.
-- Habilitan la **toma de decisiones basada en datos** (esto conecta directamente con BI, Data Mining y Big Data → módulos 04–06).
+- Habilitan la **toma de decisiones basada en datos** (esto conecta directamente con BI, Data Mining y Big Data → módulos 08–10).
 
 ---
 
@@ -293,7 +292,7 @@ La cátedra cierra con cuatro ideas que funcionan como resumen del módulo:
 - **→ [02 Impactos y desafíos](02-impactos-y-desafios.md):** qué efectos producen estas innovaciones en sociedad y empresas.
 - **→ [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md):** el caso extremo de la innovación radical.
 - **→ [12 Innovación tecnológica e IA](12-innovacion-tecnologica-e-ia.md):** la clasificación ampliada de tipos de innovación.
-- **→ [16 Proyectos y estrategia](16-proyectos-y-estrategia-de-innovacion.md):** cómo se gestiona la innovación como proyecto.
+- **→ [17 Proyectos y estrategia](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md):** cómo se gestiona la innovación como proyecto.
 
 ---
 
@@ -343,6 +342,4 @@ Porque crea valor en el negocio de alojamiento **sin poseer inmuebles**: su valo
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 00 Cómo estudiar con este material](00-como-estudiar-con-este-material.md) · [🏠 Índice](README.md) · [Siguiente por clase → 02 Impactos y desafíos de la tecnología y la innovación](02-impactos-y-desafios.md)
+[← Cómo estudiar](../00-como-estudiar-con-este-material.md) · [🏠 Índice](../README.md) · [Siguiente → 02 Impactos y desafíos de la tecnología y la innovación](02-impactos-y-desafios.md)

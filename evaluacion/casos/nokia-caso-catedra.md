@@ -1,7 +1,7 @@
 # Caso Nokia · material de la cátedra
 
 > **Fuente:** documento de la cátedra *Caso_Nokia_Innovacion_1.docx* (carpeta TP), convertido a markdown con `markitdown` y limpiado (listas, flechas y dos tablas reconstruidas). Es la **versión larga** del caso que se usó en el [parcial anterior](parcial-anterior-nokia.md).
-> **Cómo usarlo:** leelo como fuente de argumentos para la Parte B. La resolución está en [23 · Parcial anterior resuelto](../23-parcial-anterior-nokia.md).
+> **Cómo usarlo:** leelo como fuente de argumentos para la Parte B. La resolución está en [Parcial anterior resuelto](../parcial-anterior-resuelto.md).
 
 ---
 

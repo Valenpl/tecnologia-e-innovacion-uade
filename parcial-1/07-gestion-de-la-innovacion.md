@@ -1,10 +1,9 @@
-# 10 · Gestión de la innovación: los 10 tipos de Doblin y la Gestión 2.0
+# 07 · Gestión de la innovación: los 10 tipos de Doblin y la Gestión 2.0
 
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Mario Barrios), diapositivas 19–25.
-> **Prerrequisitos:** [09 Schumpeter](09-schumpeter-destruccion-creativa-y-ciclos.md).
+> **Prerrequisitos:** [06 Schumpeter](06-schumpeter-destruccion-creativa-y-ciclos.md).
 > **Tiempo estimado:** 60 min.
-> **Parcial 1:** ✅ entra (Clase 2). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 5 · Doblin:** leé solo [§II](#ii-los-10-tipos-de-innovación-según-doblin) → seguí en [23 · III.5](23-parcial-anterior-nokia.md#iii5-los-10-tipos-de-innovación-de-doblin-las-3-categorías--explicar-una) · **Paso 9 · Gestión 2.0:** leé solo [§III.A](#iiia-gestión-de-la-innovación-20) → seguí en [23 · V.8](23-parcial-anterior-nokia.md#v8-gestión-de-la-innovación-20-por-qué-juntar-a-los-jefes-no-es-trabajar-interdisciplinariamente).
+> **Primer Parcial · Tema 07 de 16** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [5](../evaluacion/parcial-anterior-resuelto.md#iii5-los-10-tipos-de-innovación-de-doblin-las-3-categorías--explicar-una) y [8](../evaluacion/parcial-anterior-resuelto.md#v8-gestión-de-la-innovación-20-por-qué-juntar-a-los-jefes-no-es-trabajar-interdisciplinariamente)).
 
 ---
 
@@ -50,7 +49,7 @@
 
 ## 🧠 Mapa visual
 
-![Los 10 tipos de innovación según Doblin](assets/doblin-10-tipos.svg)
+![Los 10 tipos de innovación según Doblin](../assets/doblin-10-tipos.svg)
 
 ---
 
@@ -188,14 +187,14 @@ flowchart TB
 | Lento para aprobar ideas nuevas | Rápido para experimentar |
 | Silos por área | Colaboración transversal |
 
-> 🔗 La idea de **red** reaparece en innovación abierta: *"la innovación se trata de conectar nodos en una red"* (módulo [14](14-innovacion-abierta.md)), y en los **squads** de Spotify (módulo [18](18-kpi.md)).
+> 🔗 La idea de **red** reaparece en innovación abierta: *"la innovación se trata de conectar nodos en una red"* (módulo [14](14-innovacion-abierta.md)), y en los **squads** de Spotify (módulo [18](../resto-de-la-materia/18-kpi.md)).
 
 #### III.A.4 Estilos de liderazgo
 > 📌 *"Los **estilos rígidos** son reemplazados por los líderes que poseen comportamientos **de afiliación, colaborativos y visionarios**."*
 
 - **Afiliativo**: prioriza el vínculo y el clima del equipo.
 - **Colaborativo**: construye con el equipo, no impone.
-- **Visionario**: marca un rumbo inspirador (se conecta con el *Objective* de los OKR, módulo [19](19-okr.md)).
+- **Visionario**: marca un rumbo inspirador (se conecta con el *Objective* de los OKR, módulo [19](../resto-de-la-materia/19-okr.md)).
 
 #### III.A.5 Fracaso
 > 📌 *"**Está bien fracasar.** No hay posibilidad de lograr innovar si no se posee **capacidad de aceptar los fracasos y mejorar sobre ellos**. **Iterar y resiliencia**."*
@@ -242,10 +241,10 @@ La cátedra las presenta como el segundo pilar de la "mirada moderna". Aunque la
 
 ## 🔗 Conexiones
 
-- **← [09 Schumpeter](09-schumpeter-destruccion-creativa-y-ciclos.md):** primeros "tipos de innovación".
+- **← [06 Schumpeter](06-schumpeter-destruccion-creativa-y-ciclos.md):** primeros "tipos de innovación".
 - **→ [11 Creatividad](11-creatividad-y-proceso-creativo.md):** la creatividad es el punto de partida de la innovación.
 - **→ [14 Innovación abierta](14-innovacion-abierta.md):** el tipo "Red" llevado al extremo.
-- **→ [16 Proyectos y estrategia](16-proyectos-y-estrategia-de-innovacion.md):** "cultura" como componente clave.
+- **→ [17 Proyectos y estrategia](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md):** "cultura" como componente clave.
 
 ---
 
@@ -289,6 +288,4 @@ Porque una innovación en un tipo **impacta en otras funciones** de la empresa, 
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 09 Schumpeter](09-schumpeter-destruccion-creativa-y-ciclos.md) · [🏠 Índice](README.md) · [Siguiente por clase → 04 Business Intelligence](04-business-intelligence.md)
+[← 06 Schumpeter](06-schumpeter-destruccion-creativa-y-ciclos.md) · [🏠 Índice](../README.md) · [Siguiente → 08 Business Intelligence](08-business-intelligence.md)

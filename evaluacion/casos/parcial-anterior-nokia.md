@@ -1,7 +1,7 @@
 # Parcial anterior · Tecnología e Innovación (enunciado)
 
 > **Fuente:** examen tomado por la cátedra en la cursada anterior (transcripto). Probabilidad estimada de que el Parcial 1 sea igual o muy parecido: **7–8 sobre 10**.
-> **Resolución completa:** [23 · Parcial anterior resuelto](../23-parcial-anterior-nokia.md).
+> **Resolución completa:** [Parcial anterior resuelto](../parcial-anterior-resuelto.md).
 
 ---
 

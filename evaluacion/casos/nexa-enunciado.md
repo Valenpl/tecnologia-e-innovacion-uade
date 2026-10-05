@@ -1,7 +1,7 @@
 # Caso NEXA · enunciado del TP
 
 > **Fuente:** *TP sobre analisis del caso NEXA.docx* (carpeta TP), convertido con `markitdown`. Es el trabajo práctico de la cursada: aplica los mismos conceptos que el parcial (curva S, Gartner, adopción, Schumpeter, Doblin, Gestión 2.0, opinión pública).
-> **Respuestas del grupo (preguntas 1–6):** [nexa-respuestas-grupo5.md](nexa-respuestas-grupo5.md) · **Mapa por módulo:** [22 · Guía del Parcial 1](../22-foco-de-parcial.md), sección VII.
+> **Respuestas del grupo (preguntas 1–6):** [nexa-respuestas-grupo5.md](nexa-respuestas-grupo5.md) · **Mapa por módulo:** [Guía del Parcial 1](../guia-del-parcial-1.md), sección VII.
 
 ---
 

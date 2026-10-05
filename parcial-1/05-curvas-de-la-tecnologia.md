@@ -1,10 +1,9 @@
-# 08 · Curvas de la tecnología
+# 05 · Curvas de la tecnología
 
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Mario Barrios), diapositivas 5–13.
 > **Prerrequisitos:** [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md).
 > **Tiempo estimado:** 75 min (es uno de los temas más gráficos y preguntables).
-> **Parcial 1:** ✅ entra (Clase 2). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 7 · Curva S:** leé solo [§I.A](#ia-qué-explican), [§I.B](#ib-las-tres-fases) y [§I.C](#ic-el-salto-entre-curvas) → seguí en [03 §I](03-tecnologias-disruptivas.md#i-definición) y [03 §II](03-tecnologias-disruptivas.md#ii-características) · **Paso 15** (mañana): solo esquema y 📝 de [§II](#ii-ciclo-de-expectativas-tecnológicas-gartner) y [§III](#iii-curva-de-adopción-tecnológica).
+> **Primer Parcial · Tema 05 de 16** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [6](../evaluacion/parcial-anterior-resuelto.md#v6-la-curva-s-por-qué-cuidar-solo-la-tecnología-que-deja-plata-hoy-sentenció-a-nokia)).
 
 ---
 
@@ -97,7 +96,7 @@ El gráfico de la cátedra tiene:
 - **Eje vertical:** **desempeño del producto**.
 - **Eje horizontal:** **tiempo o esfuerzo de ingeniería** (inversión en I+D).
 
-![Curvas S de la tecnología](assets/curvas-s-christensen.svg)
+![Curvas S de la tecnología](../assets/curvas-s-christensen.svg)
 
 > 💡 **Para entenderlo:** la curva responde a la pregunta *"si sigo invirtiendo esfuerzo en esta tecnología, ¿cuánto mejora?"*. Al principio mejora poco, después mucho, y al final casi nada. Esa forma de "S" acostada es la que le da el nombre.
 
@@ -147,7 +146,7 @@ Este es el punto **más importante** del tema:
 
 La cátedra muestra una segunda versión de la curva S, ahora con **ventas** en el eje vertical, y las **etapas por las que avanza la tecnología**:
 
-![Ciclo de vida de una tecnología](assets/ciclo-vida-tecnologia.svg)
+![Ciclo de vida de una tecnología](../assets/ciclo-vida-tecnologia.svg)
 
 1. **Investigación de tecnología genérica** – conocimiento básico, sin producto todavía.
 2. **Investigación aplicada** – ese conocimiento se orienta a un uso concreto.
@@ -167,7 +166,7 @@ La cátedra muestra una segunda versión de la curva S, ahora con **ventas** en 
 - **Eje vertical:** **expectativas** (cuánto se habla y se espera de la tecnología).
 - **Eje horizontal:** **tiempo**.
 
-![Ciclo de expectativas de Gartner](assets/gartner-hype-cycle.svg)
+![Ciclo de expectativas de Gartner](../assets/gartner-hype-cycle.svg)
 
 > 💡 **La diferencia clave con la curva S:** la curva S mide **desempeño real**. El Hype Cycle mide **expectativas (percepción)**. Por eso puede tener un pico y una caída: las expectativas se exageran y después se corrigen, aunque la tecnología siga mejorando por debajo.
 
@@ -195,7 +194,7 @@ La versión detallada de la cátedra muestra los eventos de mercado a lo largo d
 
 > 🧩 **Ejemplo – la IA generativa:** después del lanzamiento masivo de chatbots (detonante) hubo un enorme pico de expectativas ("va a reemplazar todos los trabajos"); luego aparecieron las críticas por errores y costos (desilusión); hoy muchas empresas están en la pendiente de iluminación, encontrando casos de uso concretos y medibles. *(Ejemplo propio para ilustrar; no está en las diapositivas.)*
 
-> 🔗 **Conexión:** el pico de expectativas explica la sensibilidad de la valuación de los **unicornios** a la opinión pública (módulo [07](07-empresas-unicornio.md)).
+> 🔗 **Conexión:** el pico de expectativas explica la sensibilidad de la valuación de los **unicornios** a la opinión pública (módulo [04](04-empresas-unicornio.md)).
 
 > ⚠️ **Trampa de parcial:** el abismo de desilusión **no significa que la tecnología fracasó**. Muchas tecnologías pasan por el abismo y llegan a la meseta. Lo que cae son las **expectativas**, no necesariamente el desempeño.
 
@@ -209,7 +208,7 @@ La versión detallada de la cátedra muestra los eventos de mercado a lo largo d
 
 > 📌 *"La Curva de Adopción Tecnológica explica **cómo diferentes grupos adoptan una nueva tecnología con el tiempo**. Se divide en **cinco segmentos**: Innovadores, Adoptadores Tempranos, Mayoría Temprana, Mayoría Tardía y Rezagados. Este modelo ayuda a entender **la velocidad de adopción** y **las estrategias necesarias** para impulsar la difusión de una innovación en el mercado."*
 
-![Curva de adopción tecnológica](assets/adopcion-tecnologica.svg)
+![Curva de adopción tecnológica](../assets/adopcion-tecnologica.svg)
 
 ### III.B Los cinco segmentos
 
@@ -249,7 +248,7 @@ Además, la línea gris de **"Valor"** (percibido de la novedad) es alta al prin
 
 > 📌 *"El desarrollo de tecnologías sigue un **ciclo de vida que va desde la introducción hasta su retiro**. **Cada proyecto evoluciona mediante mejoras y revisiones**, aumentando su impacto y uso hasta alcanzar la madurez. Finalmente, cuando la tecnología **deja de ser competitiva**, se inicia su **declive y retiro** del mercado."*
 
-![Desarrollo de tecnologías](assets/desarrollo-tecnologias.svg)
+![Desarrollo de tecnologías](../assets/desarrollo-tecnologias.svg)
 
 ### IV.B Proyectos sucesivos y gobernanza del portafolio
 
@@ -266,7 +265,7 @@ Por encima de los proyectos aparecen los **programas** (A, B) y la **gobernanza 
 
 > 🧩 **Ejemplo de software:** v1.0 de una app (creación inicial) → v2 con más funciones → integraciones (adiciones) → parches y versiones menores (revisiones) → *end of life* y migración a un producto nuevo (retiro).
 
-> 🔗 Conecta con **proyectos de innovación** y **estrategia** (módulo [16](16-proyectos-y-estrategia-de-innovacion.md)): la estrategia define el portafolio.
+> 🔗 Conecta con **proyectos de innovación** y **estrategia** (módulo [17](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md)): la estrategia define el portafolio.
 
 > 📝 **Citar y explayarse:** Para la cátedra, el desarrollo de tecnologías *"sigue un ciclo de vida que va desde la introducción hasta su retiro"* y *"cada proyecto evoluciona mediante mejoras y revisiones"*. Esto implica que una tecnología no se construye en un solo proyecto: hay un proyecto de creación inicial, otros que agregan características durante el crecimiento, revisiones en la madurez y, finalmente, un proyecto de retiro cuando *"deja de ser competitiva"*. Por encima, los programas y la **gobernanza del portafolio** deciden en qué invertir según la etapa de cada tecnología. Una aplicación de software lo muestra bien: versión 1.0, versiones con nuevas funciones, parches de mantenimiento y, al final, el fin de soporte y la migración a un producto nuevo.
 
@@ -301,9 +300,9 @@ Esta tabla es **la clave para no mezclar** los modelos en el parcial:
 ## 🔗 Conexiones
 
 - **← [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md):** la disrupción es el inicio de una nueva curva S.
-- **← [07 Unicornios](07-empresas-unicornio.md):** expectativas y valuación.
-- **→ [09 Schumpeter](09-schumpeter-destruccion-creativa-y-ciclos.md):** a escala de toda la economía, las oleadas de innovación generan ciclos.
-- **→ [17 Lean Startup](17-lean-startup.md):** validar con early adopters antes de escalar.
+- **← [04 Unicornios](04-empresas-unicornio.md):** expectativas y valuación.
+- **→ [06 Schumpeter](06-schumpeter-destruccion-creativa-y-ciclos.md):** a escala de toda la economía, las oleadas de innovación generan ciclos.
+- **→ [16 Lean Startup](16-lean-startup-y-mvp.md):** validar con early adopters antes de escalar.
 
 ---
 
@@ -347,6 +346,4 @@ El ciclo va de **introducción** (proyecto de creación inicial) a **crecimiento
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 07 Empresas unicornio y el impacto de la opinión pública](07-empresas-unicornio.md) · [🏠 Índice](README.md) · [Siguiente por clase → 09 Schumpeter](09-schumpeter-destruccion-creativa-y-ciclos.md)
+[← 04 Empresas unicornio y el impacto de la opinión pública](04-empresas-unicornio.md) · [🏠 Índice](../README.md) · [Siguiente → 06 Schumpeter](06-schumpeter-destruccion-creativa-y-ciclos.md)

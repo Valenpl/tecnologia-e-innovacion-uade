@@ -1,8 +1,8 @@
-# 23 · Parcial anterior resuelto: caso Nokia vs. Apple
+# Parcial anterior resuelto: caso Nokia vs. Apple
 
 > **Qué es:** el parcial que tomó la cátedra en la cursada anterior. Hay **alta probabilidad (7–8 sobre 10)** de que el Parcial 1 sea igual o muy parecido, así que este módulo tiene **las 10 preguntas resueltas** con el formato que pidió el profesor: **citar y explayarse**.
-> **Fuentes:** enunciado del parcial anterior ([casos/parcial-anterior-nokia.md](casos/parcial-anterior-nokia.md)) · caso Nokia de la cátedra ([casos/nokia-caso-catedra.md](casos/nokia-caso-catedra.md)) · módulos 01–17.
-> **Tiempo estimado:** 4 h hoy + 1 h 30 mañana. **El orden de estudio está en la [Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)** del README: este módulo es la "parte de resolver" de cada paso.
+> **Fuentes:** enunciado del parcial anterior ([casos/parcial-anterior-nokia.md](casos/parcial-anterior-nokia.md)) · caso Nokia de la cátedra ([casos/nokia-caso-catedra.md](casos/nokia-caso-catedra.md)) · módulos 01–16.
+> **Cuándo usarlo:** después de estudiar los temas 01–16, o pregunta por pregunta al terminar cada tema (ver la tabla de la sección VIII).
 > **Prerrequisitos:** ninguno obligatorio: cada respuesta te dice de qué módulo sale, por si te falta base.
 
 ---
@@ -32,7 +32,7 @@
   10. MVP: cómo pudo validar Nokia un teléfono táctil
 - **VI. Si cambian las preguntas: variantes con el mismo caso**
 - **VII. Si cambian el caso: Kodak, BlackBerry o NEXA**
-- **VIII. Plan de estudio: 4 h hoy + repaso mañana**
+- **VIII. Qué tema responde cada pregunta**
 - **IX. Simulacro y checklist**
 
 ---
@@ -43,17 +43,17 @@
 flowchart LR
     subgraph A["Parte A · Teoría"]
         P1["1 Creatividad vs<br/>innovación"] --> M11["11 · 01"]
-        P2["2 Big Data + 5V"] --> M06["06"]
-        P3["3 BI vs Data Mining"] --> M04["04 · 05"]
+        P2["2 Big Data + 5V"] --> M06["10"]
+        P3["3 BI vs Data Mining"] --> M04["08 · 09"]
         P4["4 Design Thinking"] --> M13["13"]
-        P5["5 Doblin"] --> M10a["10"]
+        P5["5 Doblin"] --> M10a["07"]
     end
     subgraph B["Parte B · Caso Nokia"]
-        P6["6 Curva S"] --> M08["08 · 03"]
-        P7["7 Disrupción y<br/>destrucción creativa"] --> M09["03 · 08 · 09"]
-        P8["8 Gestión 2.0"] --> M10b["10 · 11"]
-        P9["9 Opinión pública"] --> M07["07 · 10"]
-        P10["10 MVP"] --> M17["17 · 11 · 13"]
+        P6["6 Curva S"] --> M08["05 · 03"]
+        P7["7 Disrupción y<br/>destrucción creativa"] --> M09["03 · 05 · 06"]
+        P8["8 Gestión 2.0"] --> M10b["07 · 11"]
+        P9["9 Opinión pública"] --> M07["04 · 07"]
+        P10["10 MVP"] --> M17["16 · 11 · 13"]
     end
 ```
 
@@ -94,7 +94,6 @@ flowchart LR
 
 > ⚠️ **El error más común en preguntas de caso:** contar el caso de nuevo sin usar el concepto, o explicar el concepto sin tocar el caso. La nota está en **el puente** entre los dos.
 
-> 🎯 **Ruta · Paso 0 ✓** → **Paso 1 · Creatividad vs. innovación:** leé [01 §II](01-tecnologia-e-innovacion-fundamentos.md#ii-definiciones-base), [11 §I](11-creatividad-y-proceso-creativo.md#i-creatividad) y [11 §II.C](11-creatividad-y-proceso-creativo.md#iic-etapas-del-proceso-creativo); después volvé acá a [III.1](#iii1-diferencia-entre-innovación-tecnológica-y-creatividad).
 
 ---
 
@@ -102,7 +101,7 @@ flowchart LR
 
 ### III.1 Diferencia entre innovación tecnológica y creatividad
 
-**Qué pide:** dos definiciones **y** la diferencia entre ellas. → Módulos [11](11-creatividad-y-proceso-creativo.md) y [01](01-tecnologia-e-innovacion-fundamentos.md).
+**Qué pide:** dos definiciones **y** la diferencia entre ellas. → Módulos [11](../parcial-1/11-creatividad-y-proceso-creativo.md) y [01](../parcial-1/01-tecnologia-e-innovacion-fundamentos.md).
 
 **Qué dice la cátedra:**
 - 📌 Creatividad: *"capacidad de generar nuevas ideas, conceptos por medio de la creación, cambios y mejoras"* (Clase 2) · *"el acto de generar ideas originales"* (Día 3).
@@ -124,13 +123,12 @@ flowchart LR
 
 > ⚠️ **Trampas:** (1) No digas que son sinónimos ni que la innovación "es más creativa". (2) La innovación **no** exige un invento nuevo: también es *"mejorar o aplicar"* tecnologías existentes (Uber no inventó el GPS). (3) Que una idea sea muy original no la vuelve innovación si nadie la usa.
 
-> 🎯 **Ruta · Paso 1 ✓** → **Paso 2 · Big Data:** leé [06 §I](06-big-data.md#i-definición) y [06 §VI](06-big-data.md#vi-las-5-v); después volvé acá a [III.2](#iii2-qué-es-big-data-y-las-5-v).
 
 ---
 
 ### III.2 Qué es Big Data y las 5 V
 
-**Qué pide:** definición + las 5 V, cada una definida. → Módulo [06](06-big-data.md).
+**Qué pide:** definición + las 5 V, cada una definida. → Módulo [10](../parcial-1/10-big-data.md).
 
 > 📌 *"El Big Data (o macrodatos) se refiere a conjuntos de datos tan masivos, rápidos y complejos que las herramientas tradicionales no pueden procesarlos. Estas tecnologías permiten recopilar, gestionar y analizar grandes volúmenes de información (estructurada y no estructurada) para identificar patrones, comportamientos y tendencias útiles."*
 
@@ -146,15 +144,14 @@ flowchart LR
 
 **🧠 Esqueleto:** definición (*masivos, rápidos y complejos* + *herramientas tradicionales no pueden*) · Volumen–Velocidad–Variedad–Veracidad–**Valor** (la más importante) · 4 = desafío técnico, 1 = propósito · ejemplo.
 
-> ⚠️ **Trampas:** (1) Big Data **no es "muchos datos"** a secas: sin velocidad, variedad o la imposibilidad de procesarlo con herramientas tradicionales, es una base de datos grande. (2) La V más importante es **Valor**, no Volumen. (3) Si te piden *objetivos* de Big Data, recordá la lectura crítica: el análisis que predice y segmenta es Data Mining; Big Data lo **habilita** ([06](06-big-data.md), III.+).
+> ⚠️ **Trampas:** (1) Big Data **no es "muchos datos"** a secas: sin velocidad, variedad o la imposibilidad de procesarlo con herramientas tradicionales, es una base de datos grande. (2) La V más importante es **Valor**, no Volumen. (3) Si te piden *objetivos* de Big Data, recordá la lectura crítica: el análisis que predice y segmenta es Data Mining; Big Data lo **habilita** ([10](../parcial-1/10-big-data.md), III.+).
 
-> 🎯 **Ruta · Paso 2 ✓** → **Paso 3 · BI y Data Mining:** leé [04 §I](04-business-intelligence.md#i-definición), [04 §II](04-business-intelligence.md#ii-aspectos-clave), [05 §II](05-data-mining.md#ii-definición), [05 §III](05-data-mining.md#iii-objetivos) y [06 §VII](06-big-data.md#vii-big-data-vs-data-mining); después volvé acá a [III.3](#iii3-business-intelligence-vs-data-mining).
 
 ---
 
 ### III.3 Business Intelligence vs. Data Mining
 
-**Qué pide:** las dos definiciones **y** la diferencia. Es la pregunta donde más fácil se pierde puntaje si solo definís. → Módulos [04](04-business-intelligence.md) y [05](05-data-mining.md).
+**Qué pide:** las dos definiciones **y** la diferencia. Es la pregunta donde más fácil se pierde puntaje si solo definís. → Módulos [08](../parcial-1/08-business-intelligence.md) y [09](../parcial-1/09-data-mining.md).
 
 **Qué dice la cátedra:**
 - 📌 BI: *"el conjunto de tecnologías, procesos y herramientas que transforman datos brutos en información significativa y accionable. Permite a las empresas analizar datos históricos y actuales para tomar decisiones estratégicas fundamentadas, optimizar el rendimiento y detectar tendencias."*
@@ -183,13 +180,12 @@ flowchart LR
 
 > ⚠️ **Trampas:** (1) No digas que el BI "no analiza": analiza, pero de forma **descriptiva y de diagnóstico**. (2) No los presentes como rivales: el DM es **parte** del BI. (3) La palabra que tiene que aparecer para DM es **"ocultos"**; para BI, **"accionable"**.
 
-> 🎯 **Ruta · Paso 3 ✓** → **Paso 4 · Design Thinking:** leé [13 §I](13-design-thinking.md#i-definición) y [13 §II](13-design-thinking.md#ii-etapas); después volvé acá a [III.4](#iii4-design-thinking-qué-es--al-menos-3-etapas).
 
 ---
 
 ### III.4 Design Thinking: qué es + al menos 3 etapas
 
-**Qué pide:** definición + mínimo 3 etapas. **Nombrá las 5**: es más seguro y cuesta poco. → Módulo [13](13-design-thinking.md).
+**Qué pide:** definición + mínimo 3 etapas. **Nombrá las 5**: es más seguro y cuesta poco. → Módulo [13](../parcial-1/13-design-thinking.md).
 
 > 📌 *"El Design Thinking es una metodología centrada en el ser humano para resolver problemas complejos y fomentar la innovación, integrando necesidades de los usuarios, tecnología y requisitos de negocio."*
 
@@ -207,13 +203,12 @@ flowchart LR
 
 > ⚠️ **Trampas:** (1) **No es lineal**: decilo explícitamente. (2) Empatizar (recolectar comprensión) ≠ Definir (sintetizar el problema). (3) No arranca por la tecnología: arranca por la persona. (4) Si solo nombrás las etapas sin decir qué se hace en cada una, la respuesta queda pobre.
 
-> 🎯 **Ruta · Paso 4 ✓** → **Paso 5 · Doblin:** leé [10 §II](10-gestion-de-la-innovacion.md#ii-los-10-tipos-de-innovación-según-doblin); después volvé acá a [III.5](#iii5-los-10-tipos-de-innovación-de-doblin-las-3-categorías--explicar-una).
 
 ---
 
 ### III.5 Los 10 tipos de innovación de Doblin: las 3 categorías + explicar una
 
-**Qué pide:** las **tres categorías** y **explicar una** (no hace falta explicar las tres, pero sí nombrar sus tipos ayuda). → Módulo [10](10-gestion-de-la-innovacion.md).
+**Qué pide:** las **tres categorías** y **explicar una** (no hace falta explicar las tres, pero sí nombrar sus tipos ayuda). → Módulo [07](../parcial-1/07-gestion-de-la-innovacion.md).
 
 > 📌 *"Los tipos ubicados a la izquierda están enfocados en aspectos internos y más alejados del cliente. Este tipo de innovación [el del medio] está enfocada en el producto o servicio principal del negocio. Finalmente, a la derecha se encuentran los tipos más visibles y evidentes para los usuarios finales."*
 
@@ -235,7 +230,6 @@ flowchart LR
 
 > ⚠️ **Trampas:** (1) **Red** (alianzas con otros, externo) ≠ **Estructura** (organización interna). (2) **Sistema de producto** es la Oferta, no la Experiencia. (3) El enunciado pide "explique **una**": elegí la que mejor sepas, pero nombrá las tres.
 
-> 🎯 **Ruta · Paso 5 ✓** → ☕ **Pausa de 10'.** Después, **Paso 6 · El caso:** seguí en [IV](#iv-el-caso-nokia-en-5-minutos).
 
 ---
 
@@ -281,7 +275,6 @@ Usalo como **argumento extra** en cualquier pregunta de la Parte B:
 
 > 📝 *"Nokia no perdió por falta de tecnología ni de talento, sino porque su éxito la llevó a proteger la tecnología que le daba ingresos (la curva madura del hardware y Symbian) mientras el valor migraba hacia el software y el ecosistema. Su estructura en silos, la presión por resultados de corto plazo y una cultura que no dejaba subir las malas noticias le impidieron saltar a tiempo a la nueva curva."*
 
-> 🎯 **Ruta · Paso 6 ✓** → **Paso 7 · Curva S:** leé [08 §I.A](08-curvas-de-la-tecnologia.md#ia-qué-explican), [08 §I.B](08-curvas-de-la-tecnologia.md#ib-las-tres-fases), [08 §I.C](08-curvas-de-la-tecnologia.md#ic-el-salto-entre-curvas), [03 §I](03-tecnologias-disruptivas.md#i-definición) y [03 §II](03-tecnologias-disruptivas.md#ii-características); después volvé acá a [V.6](#v6-la-curva-s-por-qué-cuidar-solo-la-tecnología-que-deja-plata-hoy-sentenció-a-nokia).
 
 ---
 
@@ -289,7 +282,7 @@ Usalo como **argumento extra** en cualquier pregunta de la Parte B:
 
 ### V.6 La curva S: por qué "cuidar solo la tecnología que deja plata hoy" sentenció a Nokia
 
-**Qué pide:** usar la curva S para explicar por qué exprimir Symbian fue fatal. → Módulos [08](08-curvas-de-la-tecnologia.md) y [03](03-tecnologias-disruptivas.md).
+**Qué pide:** usar la curva S para explicar por qué exprimir Symbian fue fatal. → Módulos [05](../parcial-1/05-curvas-de-la-tecnologia.md) y [03](../parcial-1/03-tecnologias-disruptivas.md).
 
 **Concepto:**
 - 📌 *"Las Curvas de la Tecnología de Clayton Christensen explican cómo las tecnologías evolucionan y cómo nuevas innovaciones pueden desplazar a las tecnologías existentes."*
@@ -297,7 +290,7 @@ Usalo como **argumento extra** en cualquier pregunta de la Parte B:
 - 📌 *"Una nueva tecnología emerge antes de que la anterior se vuelva completamente obsoleta, iniciando así una nueva curva en 'S'."*
 - Clase 2: para no quedar desplazada, la empresa debe invertir en **I+D+i** y **saltar a la curva siguiente**.
 
-![Curvas S de Christensen](assets/curvas-s-christensen.svg)
+![Curvas S de Christensen](../assets/curvas-s-christensen.svg)
 
 **Evidencia del caso:**
 
@@ -325,13 +318,12 @@ flowchart LR
 
 > ➕ **Para sumar (versión larga):** la cátedra plantea **tres curvas**: teléfono tradicional (Nokia domina) → smartphone (Apple y Android aceleran) → plataformas y ecosistemas (el valor se desplaza del dispositivo al ecosistema). Y deja la pregunta: *"¿En qué momento debería una empresa comenzar a invertir seriamente en la próxima curva?"* → **antes de que la saturación aparezca en los ingresos**.
 
-> 🎯 **Ruta · Paso 7 ✓** → **Paso 8 · Destrucción creativa:** leé [09 §II](09-schumpeter-destruccion-creativa-y-ciclos.md#ii-destrucción-creativa); después volvé acá a [V.7](#v7-el-competidor-disruptivo-por-qué-lo-inferior-se-vuelve-destrucción-creativa).
 
 ---
 
 ### V.7 El competidor disruptivo: por qué lo "inferior" se vuelve destrucción creativa
 
-**Qué pide:** explicar por qué algo que parece de "baja calidad" para el líder termina siendo **destrucción creativa** (Schumpeter). → Módulos [03](03-tecnologias-disruptivas.md), [08](08-curvas-de-la-tecnologia.md) y [09](09-schumpeter-destruccion-creativa-y-ciclos.md).
+**Qué pide:** explicar por qué algo que parece de "baja calidad" para el líder termina siendo **destrucción creativa** (Schumpeter). → Módulos [03](../parcial-1/03-tecnologias-disruptivas.md), [05](../parcial-1/05-curvas-de-la-tecnologia.md) y [06](../parcial-1/06-schumpeter-destruccion-creativa-y-ciclos.md).
 
 **Conceptos:**
 - 📌 Tecnologías disruptivas: *"innovaciones que transforman radicalmente industrias, mercados y comportamientos sociales, desplazando sistemas o productos establecidos"*; ofrecen *"soluciones más accesibles, eficientes o sencillas que, con el tiempo, redefinen los estándares del mercado"*.
@@ -356,13 +348,12 @@ flowchart LR
 
 > ➕ **Contexto adicional:** en la teoría estricta de Christensen se discute si el iPhone fue una disrupción "desde abajo" (entró caro y por arriba). Para el parcial, seguí el marco de la cátedra: es una tecnología que **cambió el paradigma** y se juzgó inferior con los atributos del líder.
 
-> 🎯 **Ruta · Paso 8 ✓** → **Paso 9 · Gestión 2.0:** leé [10 §III.A](10-gestion-de-la-innovacion.md#iiia-gestión-de-la-innovación-20); después volvé acá a [V.8](#v8-gestión-de-la-innovación-20-por-qué-juntar-a-los-jefes-no-es-trabajar-interdisciplinariamente).
 
 ---
 
 ### V.8 Gestión de la innovación 2.0: por qué juntar a los jefes no es trabajar interdisciplinariamente
 
-**Qué pide:** dos cosas: (a) por qué una reunión de jefes **no** es interdisciplina, y (b) cómo la Gestión 2.0 **rompe los silos**. → Módulos [10](10-gestion-de-la-innovacion.md) y [11](11-creatividad-y-proceso-creativo.md).
+**Qué pide:** dos cosas: (a) por qué una reunión de jefes **no** es interdisciplina, y (b) cómo la Gestión 2.0 **rompe los silos**. → Módulos [07](../parcial-1/07-gestion-de-la-innovacion.md) y [11](../parcial-1/11-creatividad-y-proceso-creativo.md).
 
 **Qué dice la cátedra:**
 - 📌 *"Los equipos poseen características interdisciplinarias. **No es realizar algo con varios sectores**, es la **capacidad de un diseño y trabajo colaborativo entre ellos**."*
@@ -386,15 +377,14 @@ flowchart LR
 
 > ⚠️ **Trampas:** (1) Respondé las **dos partes**: el "por qué no" y el "cómo". (2) "Multidisciplinario" (varias disciplinas juntas) no es lo mismo que "interdisciplinario" (disciplinas integradas en un diseño común). (3) No te quedes en "hay que comunicarse mejor": nombrá los **pilares** de la Gestión 2.0.
 
-> ➕ **Para sumar (versión larga):** la **cultura del miedo** de Nokia (los mandos medios no comunicaban malas noticias) muestra por qué la interdisciplina necesita **seguridad para hablar**. Una técnica de la cátedra que ayuda: el **brainwriting**, útil para *"evitar la censura en equipos jerárquicos"* ([11](11-creatividad-y-proceso-creativo.md)).
+> ➕ **Para sumar (versión larga):** la **cultura del miedo** de Nokia (los mandos medios no comunicaban malas noticias) muestra por qué la interdisciplina necesita **seguridad para hablar**. Una técnica de la cátedra que ayuda: el **brainwriting**, útil para *"evitar la censura en equipos jerárquicos"* ([11](../parcial-1/11-creatividad-y-proceso-creativo.md)).
 
-> 🎯 **Ruta · Paso 9 ✓** → **Paso 10 · Opinión pública:** leé [07 §II.A](07-empresas-unicornio.md#iia-definición) y [07 §III](07-empresas-unicornio.md#iii-el-impacto-de-la-opinión-pública-en-la-valuación); después volvé acá a [V.9](#v9-crisis-de-datos-y-reputación-pública-el-valor-de-los-intangibles).
 
 ---
 
 ### V.9 Crisis de datos y reputación pública: el valor de los intangibles
 
-**Qué pide:** cómo afectaron a Nokia la **opinión pública** y la **percepción de los desarrolladores** cuando su software se volvió obsoleto. → Módulos [07](07-empresas-unicornio.md) y [10](10-gestion-de-la-innovacion.md).
+**Qué pide:** cómo afectaron a Nokia la **opinión pública** y la **percepción de los desarrolladores** cuando su software se volvió obsoleto. → Módulos [04](../parcial-1/04-empresas-unicornio.md) y [07](../parcial-1/07-gestion-de-la-innovacion.md).
 
 **Qué dice la cátedra:**
 - 📌 *"La percepción pública puede hacer que el valor de una empresa unicornio suba o caiga rápidamente."*
@@ -420,13 +410,12 @@ flowchart TB
 
 > ➕ **Contexto adicional:** el círculo de desarrolladores y usuarios se conoce como **efecto de red**: una plataforma vale más cuantos más participantes tiene de cada lado. Si lo usás, aclaralo como concepto adicional.
 
-> 🎯 **Ruta · Paso 10 ✓** → **Paso 11 · MVP:** leé [22 §VI.1](22-foco-de-parcial.md#vi1-qué-es-un-mvp), [17 §I](17-lean-startup.md#i-definición-y-objetivo) y [17 §IV](17-lean-startup.md#iv-conceptos-clave); después volvé acá a [V.10](#v10-el-mvp-contra-la-competencia).
 
 ---
 
 ### V.10 El MVP contra la competencia
 
-**Qué pide:** (a) qué es un MVP y (b) cómo lo pudo usar Nokia para validar un teléfono táctil **sin esperar a tener el software perfecto**. → Módulos [17](17-lean-startup.md), [11](11-creatividad-y-proceso-creativo.md) y [22](22-foco-de-parcial.md) (VI.1).
+**Qué pide:** (a) qué es un MVP y (b) cómo lo pudo usar Nokia para validar un teléfono táctil **sin esperar a tener el software perfecto**. → Módulos [16](../parcial-1/16-lean-startup-y-mvp.md), [11](../parcial-1/11-creatividad-y-proceso-creativo.md) y [Guía del Parcial 1](guia-del-parcial-1.md) (VI.1).
 
 **Qué dice la cátedra:**
 - 📌 Día 3, importancia del proceso creativo: *"Experimentación y Mejora: Fomenta un entorno de 'prueba y error' (MVP), permitiendo que la innovación tecnológica ocurra a través de prototipos y la mejora continua."*
@@ -449,7 +438,6 @@ flowchart LR
 
 > ⚠️ **Trampas:** (1) Un MVP **no** es un prototipo de laboratorio: tiene que probarse con **usuarios reales**. (2) Tampoco es la versión final "barata". (3) Respondé **las dos partes**: definición **y** aplicación concreta a Nokia, paso a paso. (4) Mencioná **iterar** y **pivotar**: muestran que entendés que el MVP es un ciclo, no un lanzamiento único.
 
-> 🎯 **Ruta · Paso 11 ✓** → **Paso 12 · Simulacro:** seguí en [IX](#ix-simulacro-y-checklist).
 
 ---
 
@@ -466,13 +454,13 @@ Planteá las tres alternativas de la cátedra con ventaja y problema: **Explotar
 **VI.2 Ciclo de Gartner aplicado al smartphone.**
 <details><summary>Guía de respuesta</summary>
 
-Citá la definición ([08](08-curvas-de-la-tecnologia.md)) y aclará que el eje vertical son las **expectativas**, no el rendimiento. El iPhone generó un **pico de expectativas** enorme; el riesgo para Nokia era leer las críticas iniciales (batería, fragilidad) como un **abismo de desilusión** definitivo. La pregunta estratégica que propone la cátedra no es "¿el smartphone funcionará?" sino *"¿qué velocidad de adopción tendrá y qué tan rápido cambiará las reglas de competencia?"*. Conclusión: ni el entusiasmo ni la decepción reflejan el valor real; hay que evaluar con evidencia de uso (→ MVP).
+Citá la definición ([05](../parcial-1/05-curvas-de-la-tecnologia.md)) y aclará que el eje vertical son las **expectativas**, no el rendimiento. El iPhone generó un **pico de expectativas** enorme; el riesgo para Nokia era leer las críticas iniciales (batería, fragilidad) como un **abismo de desilusión** definitivo. La pregunta estratégica que propone la cátedra no es "¿el smartphone funcionará?" sino *"¿qué velocidad de adopción tendrá y qué tan rápido cambiará las reglas de competencia?"*. Conclusión: ni el entusiasmo ni la decepción reflejan el valor real; hay que evaluar con evidencia de uso (→ MVP).
 </details>
 
 **VI.3 Curva de adopción del smartphone.**
 <details><summary>Guía de respuesta</summary>
 
-Los cinco grupos con sus % ([08](08-curvas-de-la-tecnologia.md)). Los **innovadores y adoptadores tempranos** aceptaron pantalla táctil, navegación web y apps aunque fallaran; el momento crítico es cuando la tecnología *"deja de ser una innovación de nicho y comienza a convertirse en el nuevo estándar del mercado"*, es decir, el paso a la **mayoría temprana**, que valora la comodidad y la experiencia de uso. Nokia tenía que detectar ese momento; al seguir mirando a sus clientes masivos (mayoría tardía y rezagados, fieles al teclado) llegó tarde.
+Los cinco grupos con sus % ([05](../parcial-1/05-curvas-de-la-tecnologia.md)). Los **innovadores y adoptadores tempranos** aceptaron pantalla táctil, navegación web y apps aunque fallaran; el momento crítico es cuando la tecnología *"deja de ser una innovación de nicho y comienza a convertirse en el nuevo estándar del mercado"*, es decir, el paso a la **mayoría temprana**, que valora la comodidad y la experiencia de uso. Nokia tenía que detectar ese momento; al seguir mirando a sus clientes masivos (mayoría tardía y rezagados, fieles al teclado) llegó tarde.
 </details>
 
 **VI.4 Doblin aplicado a Nokia: ¿qué tipos de innovación necesitaba?**
@@ -502,7 +490,7 @@ Nokia diseñaba desde la **ingeniería** (durabilidad, costo, volumen); el Desig
 **VI.8 Creatividad y proceso creativo en Nokia.**
 <details><summary>Guía de respuesta</summary>
 
-Usá la diferencia creatividad / innovación (III.1): Nokia tuvo la idea y el prototipo (preparación, incubación, iluminación), pero no pasó por la **verificación con usuarios** ni por la **adaptación y difusión**, que son las etapas que convierten la creatividad en innovación. Citá las 5 etapas ([22](22-foco-de-parcial.md), VI.2).
+Usá la diferencia creatividad / innovación (III.1): Nokia tuvo la idea y el prototipo (preparación, incubación, iluminación), pero no pasó por la **verificación con usuarios** ni por la **adaptación y difusión**, que son las etapas que convierten la creatividad en innovación. Citá las 5 etapas ([Guía del Parcial 1](guia-del-parcial-1.md), VI.2).
 </details>
 
 ---
@@ -525,20 +513,25 @@ Los conceptos son los mismos; solo cambia la evidencia. La cátedra misma mencio
 
 > ➕ **BlackBerry** (por si aparece): líder con teclado físico y foco en correo corporativo; subestimó la pantalla táctil y las apps de consumo. Mismo análisis que Nokia.
 
-> 🎯 **Ruta · Paso 14 ✓** → **Paso 15 · Resto del temario:** solo esquema y bloques 📝 de [08 §II](08-curvas-de-la-tecnologia.md#ii-ciclo-de-expectativas-tecnológicas-gartner), [08 §III](08-curvas-de-la-tecnologia.md#iii-curva-de-adopción-tecnológica), [05 §VI](05-data-mining.md#vi-proceso-de-minería-de-datos), [14 §II](14-innovacion-abierta.md#ii-el-fundamento-del-embudo-cerrado-al-embudo-perforado), [14 §III](14-innovacion-abierta.md#iii-dinámica-de-flujos-el-embudo-perforado), [14 §IV](14-innovacion-abierta.md#iv-las-tres-verdades-del-nuevo-imperativo), [15 §II](15-entornos-vica-y-vani.md#ii-vica-vuca-gestión-del-cambio), [15 §III](15-entornos-vica-y-vani.md#iii-vani-bani-gestión-del-caos), [01 §I](01-tecnologia-e-innovacion-fundamentos.md#i-punto-de-partida-por-qué-la-tecnología-mejoró-la-vida-de-las-personas) y [01 §V](01-tecnologia-e-innovacion-fundamentos.md#v-relación-tecnología--innovación--negocios). Después, **Paso 16:** [Conceptos que se confunden](#-conceptos-que-se-confunden-en-este-examen).
 
 ---
 
-## VIII. Plan de estudio: 4 h hoy + repaso mañana
+## VIII. Qué tema responde cada pregunta
 
-El plan está integrado en la **[🎯 Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)** del README: 16 pasos en orden, cada uno con qué leer del módulo, qué pregunta de este módulo resolver y un checkpoint.
+Podés hacer cada pregunta **apenas terminás su tema**, o todas juntas al final como simulacro (IX).
 
-| Día | Pasos | Qué cubre |
+| Pregunta | Tema(s) | Resolución |
 |---|---|---|
-| **Hoy** (≈ 3 h 35 + margen) | 0–12 | Objetivo → teoría (preguntas 1–5) → pausa → caso (preguntas 6–10) → simulacro. |
-| **Mañana a la mañana** (1 h 30) | 13–16 | Esqueletos de memoria → variantes del caso (VI–VII) → resto del temario → trampas. |
-
-> ⚠️ **No te quedes solo con las 10 preguntas.** Aunque la probabilidad de que se repita sea alta, el 20–30 % restante puede cambiar una o dos preguntas. El paso 15 de la ruta cubre ese margen.
+| 1 | [01 Tecnología e Innovación](../parcial-1/01-tecnologia-e-innovacion-fundamentos.md) · [11 Creatividad y proceso creativo](../parcial-1/11-creatividad-y-proceso-creativo.md) | [III.1](#iii1-diferencia-entre-innovación-tecnológica-y-creatividad) |
+| 2 | [10 Big Data](../parcial-1/10-big-data.md) | [III.2](#iii2-qué-es-big-data-y-las-5-v) |
+| 3 | [08 Business Intelligence](../parcial-1/08-business-intelligence.md) · [09 Data Mining](../parcial-1/09-data-mining.md) | [III.3](#iii3-business-intelligence-vs-data-mining) |
+| 4 | [13 Design Thinking](../parcial-1/13-design-thinking.md) | [III.4](#iii4-design-thinking-qué-es--al-menos-3-etapas) |
+| 5 | [07 Gestión de la innovación](../parcial-1/07-gestion-de-la-innovacion.md) | [III.5](#iii5-los-10-tipos-de-innovación-de-doblin-las-3-categorías--explicar-una) |
+| 6 | [05 Curvas de la tecnología](../parcial-1/05-curvas-de-la-tecnologia.md) | [V.6](#v6-la-curva-s-por-qué-cuidar-solo-la-tecnología-que-deja-plata-hoy-sentenció-a-nokia) |
+| 7 | [03 Tecnologías disruptivas](../parcial-1/03-tecnologias-disruptivas.md) · [06 Schumpeter](../parcial-1/06-schumpeter-destruccion-creativa-y-ciclos.md) | [V.7](#v7-el-competidor-disruptivo-por-qué-lo-inferior-se-vuelve-destrucción-creativa) |
+| 8 | [07 Gestión de la innovación](../parcial-1/07-gestion-de-la-innovacion.md) | [V.8](#v8-gestión-de-la-innovación-20-por-qué-juntar-a-los-jefes-no-es-trabajar-interdisciplinariamente) |
+| 9 | [04 Empresas unicornio y el impacto de la opinión pública](../parcial-1/04-empresas-unicornio.md) | [V.9](#v9-crisis-de-datos-y-reputación-pública-el-valor-de-los-intangibles) |
+| 10 | [16 El método Lean Startup](../parcial-1/16-lean-startup-y-mvp.md) | [V.10](#v10-el-mvp-contra-la-competencia) |
 
 ---
 
@@ -559,7 +552,6 @@ El plan está integrado en la **[🎯 Ruta al Parcial 1](README.md#-ruta-al-parc
 - [ ] Puedo responder *"¿Qué habría hecho usted en 2007?"* con explotar / explorar / **ambidestreza**.
 - [ ] Puedo trasladar el análisis a **Kodak** o **NEXA** sin preparación previa.
 
-> 🎯 **Ruta · Paso 12 ✓ · Día 1 terminado.** Mañana: **Paso 13** esqueletos de III y V de memoria → **Paso 14** [VI](#vi-si-cambian-las-preguntas-variantes-con-el-mismo-caso) y [VII](#vii-si-cambian-el-caso-kodak-blackberry-o-nexa) → **Paso 15** resto del temario ([ver ruta](README.md#-ruta-al-parcial-1-empezá-acá)) → **Paso 16** [Conceptos que se confunden](#-conceptos-que-se-confunden-en-este-examen) y checklist de la [22](22-foco-de-parcial.md#viii-checklist-de-repaso-final).
 
 ---
 
@@ -581,12 +573,10 @@ El plan está integrado en la **[🎯 Ruta al Parcial 1](README.md#-ruta-al-parc
 
 ## 🔗 Conexiones
 
-- **← [22 Guía del Parcial 1](22-foco-de-parcial.md):** alcance, prioridades y checklist de todo el temario.
-- **← [21 Preguntas integradoras](21-preguntas-integradoras.md):** más práctica cruzando temas.
+- **← [Guía del Parcial 1](guia-del-parcial-1.md):** alcance, prioridades y checklist de todo el temario.
+- **← [Preguntas integradoras](preguntas-integradoras.md):** más práctica cruzando temas.
 - **↔ [casos/](casos/README.md):** enunciado del parcial anterior, caso Nokia de la cátedra y caso NEXA.
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 22 Guía del Parcial 1](22-foco-de-parcial.md) · [🏠 Índice](README.md)
+[← Evaluación](README.md) · [🏠 Índice](../README.md)

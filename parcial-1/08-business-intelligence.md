@@ -1,10 +1,9 @@
-# 04 · Business Intelligence (BI)
+# 08 · Business Intelligence (BI)
 
 > **Fuente en el material:** *Clase "Pinamar" 2026* (Prof. Gustavo E. Escandell), diapositivas 20–32.
 > **Prerrequisitos:** [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md).
 > **Tiempo estimado:** 50 min.
-> **Parcial 1:** ✅ entra (Clase 3). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 3 · BI y Data Mining:** leé solo [§I](#i-definición) y [§II](#ii-aspectos-clave) → seguí en [05 §II](05-data-mining.md#ii-definición) y [05 §III](05-data-mining.md#iii-objetivos).
+> **Primer Parcial · Tema 08 de 16** (Clase 3). 🔥 Salió en el parcial anterior (pregunta [3](../evaluacion/parcial-anterior-resuelto.md#iii3-business-intelligence-vs-data-mining)).
 
 ---
 
@@ -13,7 +12,7 @@
 1. Definir **Business Intelligence** y explicar su **proceso** (recolectar → almacenar → analizar → visualizar).
 2. Explicar **para qué sirve**, sus **funciones**, **importancia**, **características** y **ventajas**.
 3. Reconocer los **principales programas** de BI y en qué se destaca cada uno.
-4. Distinguir BI de Data Mining y Big Data (se completa en los módulos 05 y 06).
+4. Distinguir BI de Data Mining y Big Data (se completa en los módulos 09 y 06).
 5. Discutir los **riesgos** de decidir con datos incompletos o mal analizados.
 
 ---
@@ -76,7 +75,7 @@ Palabras clave para la respuesta de parcial:
 
 > 📝 **Citar y explayarse:** La cátedra define el Business Intelligence como *"el conjunto de tecnologías, procesos y herramientas que transforman datos brutos en información significativa y accionable"*. Que sea un **conjunto** significa que no es un software puntual sino una forma de trabajar con los datos que combina herramientas (como Power BI), procesos (recolectar, almacenar, analizar, visualizar) y personas que deciden. Su aporte es convertir datos sueltos en información **accionable**, es decir, que indica qué hacer; y lo hace mirando datos **históricos y actuales** para tomar *"decisiones estratégicas fundamentadas"* en lugar de intuiciones. Por ejemplo, una cadena de supermercados que ve en un dashboard que una sucursal cae en ventas mientras las demás suben puede investigar la causa y actuar a tiempo.
 
-> 🔥 **Síntesis de clase (Clase 3, notas de cursada):** BI es el **uso de dashboards, Big Data y Data Mining para la toma de decisiones** basada en el análisis de información y la **predicción de patrones**. Es decir: BI **integra** a los otros dos temas del bloque (🔗 módulo [06](06-big-data.md), sección VIII).
+> 🔥 **Síntesis de clase (Clase 3, notas de cursada):** BI es el **uso de dashboards, Big Data y Data Mining para la toma de decisiones** basada en el análisis de información y la **predicción de patrones**. Es decir: BI **integra** a los otros dos temas del bloque (🔗 módulo [10](10-big-data.md), sección VIII).
 
 > 💡 **Para entenderlo – la escalera dato → decisión:**
 > - **Dato**: "Sucursal 4 vendió $2.300.000 en marzo."
@@ -97,7 +96,7 @@ Palabras clave para la respuesta de parcial:
 | 3 | **Componentes** | **Tableros de control (dashboards)**, **informes**, **minería de datos** y **analítica descriptiva**. |
 | 4 | **Herramientas comunes** | Microsoft **Power BI**, **Tableau**, **Qlik**, **Looker** (Google Cloud). |
 
-> 🔗 Fijate que la **minería de datos** aparece como **componente** de BI. Por eso BI y Data Mining están emparentados (módulo [05](05-data-mining.md)).
+> 🔗 Fijate que la **minería de datos** aparece como **componente** de BI. Por eso BI y Data Mining están emparentados (módulo [09](09-data-mining.md)).
 
 ---
 
@@ -211,7 +210,7 @@ Asegura la **privacidad** de los datos y garantiza que la información sea **con
 | **Looker Studio** (ex Google Data Studio) | Opción **gratuita**, excelente para dashboards interactivos y reportes web. |
 | **Datapine** | Intuitivo, con funciones **predictivas y de IA**. |
 
-> 🔗 En el módulo de KPI ([18](18-kpi.md)) vuelven a aparecer **Tableau / Power BI** y **Google Looker Studio** como herramientas para medir KPI.
+> 🔗 En el módulo de KPI ([18](../resto-de-la-materia/18-kpi.md)) vuelven a aparecer **Tableau / Power BI** y **Google Looker Studio** como herramientas para medir KPI.
 
 ## IX. Empresas que usan BI
 
@@ -226,7 +225,7 @@ La cátedra menciona: **BBVA, Grupo Bimbo, Coca-Cola, Sodimac, Inka Crops**, ent
 La clase plantea dos preguntas de debate. Conviene tener una postura argumentada:
 
 1. **¿Qué pasaría si los datos están incompletos o mal analizados?**
-   - Las decisiones "basadas en datos" serían **decisiones equivocadas con apariencia de rigor**. Un dashboard prolijo no garantiza datos correctos (por eso existen la característica de **gobernanza** y la V de **Veracidad** en Big Data → módulo [06](06-big-data.md)).
+   - Las decisiones "basadas en datos" serían **decisiones equivocadas con apariencia de rigor**. Un dashboard prolijo no garantiza datos correctos (por eso existen la característica de **gobernanza** y la V de **Veracidad** en Big Data → módulo [10](10-big-data.md)).
 2. **¿Puede una empresa depender demasiado de los datos?**
    - Sí: los datos describen **el pasado** (BI es descriptivo/diagnóstico). En contextos de cambio brusco, la experiencia, la intuición y el criterio siguen siendo necesarios. (Se conecta con el entorno **VANI**, donde la cátedra dice que *"acumular más datos ya no funciona"* → módulo [15](15-entornos-vica-y-vani.md)).
 
@@ -245,8 +244,8 @@ La clase plantea dos preguntas de debate. Conviene tener una postura argumentada
 
 ## 🔗 Conexiones
 
-- **→ [05 Data Mining](05-data-mining.md) y [06 Big Data](06-big-data.md):** completan la tríada de datos.
-- **→ [18 KPI](18-kpi.md):** BI es la infraestructura que **mide y muestra** los KPI.
+- **→ [09 Data Mining](09-data-mining.md) y [10 Big Data](10-big-data.md):** completan la tríada de datos.
+- **→ [18 KPI](../resto-de-la-materia/18-kpi.md):** BI es la infraestructura que **mide y muestra** los KPI.
 - **← [02 Impactos](02-impactos-y-desafios.md):** "cultura data-driven".
 
 ---
@@ -285,6 +284,4 @@ Los datos pueden estar **incompletos o mal analizados**, y un dashboard prolijo 
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 10 Gestión de la innovación](10-gestion-de-la-innovacion.md) · [🏠 Índice](README.md) · [Siguiente por clase → 05 Data Mining](05-data-mining.md)
+[← 07 Gestión de la innovación](07-gestion-de-la-innovacion.md) · [🏠 Índice](../README.md) · [Siguiente → 09 Data Mining](09-data-mining.md)

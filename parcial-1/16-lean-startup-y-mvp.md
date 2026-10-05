@@ -1,10 +1,9 @@
-# 17 · El método Lean Startup
+# 16 · Lean Startup y MVP
 
 > **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Mario Barrios), diapositivas 21–23.
-> **Prerrequisitos:** [16 Proyectos y estrategia](16-proyectos-y-estrategia-de-innovacion.md), [13 Design Thinking](13-design-thinking.md).
+> **Prerrequisitos:** [13 Design Thinking](13-design-thinking.md). *(El tema 17, Proyectos y estrategia, da contexto, pero no hace falta para el MVP.)*
 > **Tiempo estimado:** 45 min.
-> **Parcial 1:** ⏳ todavía no entra (es posterior al Día 3), **salvo el concepto de MVP**, que el Día 3 menciona: ver [22 · Guía del Parcial 1](22-foco-de-parcial.md).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 11 · MVP:** leé solo [§I](#i-definición-y-objetivo) y [§IV](#iv-conceptos-clave) → seguí en [23 · V.10](23-parcial-anterior-nokia.md#v10-el-mvp-contra-la-competencia).
+> **Primer Parcial · Tema 16 de 16.** De este tema **solo entra el MVP**: alcanza con §I y §IV. 🔥 Salió en el parcial anterior (pregunta [10](../evaluacion/parcial-anterior-resuelto.md#v10-el-mvp-contra-la-competencia)).
 
 ---
 
@@ -182,7 +181,7 @@ flowchart LR
 
 ## VI. Lean Startup en proyectos de innovación
 
-Relación con los **elementos clave** de un proyecto de innovación (módulo [16](16-proyectos-y-estrategia-de-innovacion.md)):
+Relación con los **elementos clave** de un proyecto de innovación (módulo [17](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md)):
 
 | Elemento del proyecto | Aporte de Lean Startup |
 |---|---|
@@ -192,7 +191,7 @@ Relación con los **elementos clave** de un proyecto de innovación (módulo [16
 | Recursos y gestión | Reduce el **desperdicio** de tiempo y dinero; gestiona el riesgo. |
 | Generación de valor | Validación con el mercado; **pivotar** si no hay valor. |
 
-Y con la **Gestión 2.0** (módulo [10](10-gestion-de-la-innovacion.md)): Lean Startup **institucionaliza** el pilar "**está bien fracasar, iterar y resiliencia**".
+Y con la **Gestión 2.0** (módulo [07](07-gestion-de-la-innovacion.md)): Lean Startup **institucionaliza** el pilar "**está bien fracasar, iterar y resiliencia**".
 
 ---
 
@@ -209,9 +208,9 @@ Y con la **Gestión 2.0** (módulo [10](10-gestion-de-la-innovacion.md)): Lean S
 
 ## 🔗 Conexiones
 
-- **← [16 Proyectos](16-proyectos-y-estrategia-de-innovacion.md):** pregunta "relacione Lean Startup con proyectos de innovación".
+- **← [17 Proyectos](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md):** pregunta "relacione Lean Startup con proyectos de innovación".
 - **← [13 Design Thinking](13-design-thinking.md).**
-- **→ [18 KPI](18-kpi.md):** la fase "medición de resultados" necesita indicadores.
+- **→ [18 KPI](../resto-de-la-materia/18-kpi.md):** la fase "medición de resultados" necesita indicadores.
 - **← [15 VANI](15-entornos-vica-y-vani.md):** en un mundo no lineal, experimentar es mejor que planificar a 5 años.
 
 ---
@@ -250,6 +249,4 @@ Es el **Producto Mínimo Viable**: la versión más simple del producto que perm
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 16 Proyectos de innovación y estrategia de innovación](16-proyectos-y-estrategia-de-innovacion.md) · [🏠 Índice](README.md) · [Siguiente por clase → 18 KPI](18-kpi.md)
+[← 15 De VICA a VANI](15-entornos-vica-y-vani.md) · [🏠 Índice](../README.md) · [Terminaste los temas del Primer Parcial → Evaluación](../evaluacion/README.md) · [Resto de la materia → 17 Proyectos de innovación y estrategia de innovación](../resto-de-la-materia/17-proyectos-y-estrategia-de-innovacion.md)

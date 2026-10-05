@@ -1,10 +1,9 @@
-# 07 · Empresas unicornio y el impacto de la opinión pública
+# 04 · Empresas unicornio y el impacto de la opinión pública
 
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Mario Barrios), diapositivas 2–4.
 > **Prerrequisitos:** [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md).
 > **Tiempo estimado:** 25 min.
-> **Parcial 1:** ✅ entra (Clase 2). Orden de estudio y alcance en [22 · Guía del Parcial 1](22-foco-de-parcial.md).
-> 🎯 **[Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá):** **Paso 10 · Opinión pública:** leé solo [§II.A](#iia-definición) y [§III](#iii-el-impacto-de-la-opinión-pública-en-la-valuación) → seguí en [23 · V.9](23-parcial-anterior-nokia.md#v9-crisis-de-datos-y-reputación-pública-el-valor-de-los-intangibles).
+> **Primer Parcial · Tema 04 de 16** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [9](../evaluacion/parcial-anterior-resuelto.md#v9-crisis-de-datos-y-reputación-pública-el-valor-de-los-intangibles)).
 
 ---
 
@@ -85,9 +84,9 @@ Tres condiciones que tiene que tener tu definición:
 
 | Característica | Qué significa | Cómo se conecta con la materia |
 |---|---|---|
-| 🚀 **Crecimiento acelerado** | Escalan muy rápido en usuarios, mercados y valuación. | Fase de crecimiento acelerado de la **curva S** (módulo [08](08-curvas-de-la-tecnologia.md)). |
-| 🧠 **Modelos de negocio innovadores** | La innovación suele estar en **cómo crean y capturan valor**, más que en un invento. | Innovación de **modelo de negocio** / **modelo de ingresos** (Doblin, módulo [10](10-gestion-de-la-innovacion.md)). |
-| 💻 **Uso intensivo de tecnología** | La tecnología es el núcleo del negocio, no un soporte. | Tecnologías disruptivas, datos (módulos 03–06). |
+| 🚀 **Crecimiento acelerado** | Escalan muy rápido en usuarios, mercados y valuación. | Fase de crecimiento acelerado de la **curva S** (módulo [05](05-curvas-de-la-tecnologia.md)). |
+| 🧠 **Modelos de negocio innovadores** | La innovación suele estar en **cómo crean y capturan valor**, más que en un invento. | Innovación de **modelo de negocio** / **modelo de ingresos** (Doblin, módulo [07](07-gestion-de-la-innovacion.md)). |
+| 💻 **Uso intensivo de tecnología** | La tecnología es el núcleo del negocio, no un soporte. | Tecnologías disruptivas, datos (módulos 03–10). |
 | 💰 **Financiamiento a través de inversores** | Crecen con **capital de riesgo** (*venture capital*) en sucesivas rondas, no con ganancias propias. | **Corporate Venture Capital** (módulo [14](14-innovacion-abierta.md)). |
 
 ### II.C Ejemplos de la cátedra
@@ -129,7 +128,7 @@ flowchart LR
     A["Portada positiva<br/>'Persona del Año'<br/>innovación y éxito ↑"] -->|"escándalos de privacidad,<br/>acusaciones de monopolio,<br/>presión regulatoria"| B["Portada negativa<br/>'¿Borrar Facebook?'<br/>crisis de reputación ↓"]
 ```
 
-> 🔗 **Conexión clave:** este caso une el factor **regulación y privacidad** con lo visto en Data Mining y Big Data: el uso de datos personales sin límites claros **es un riesgo de negocio**, no solo ético (módulos [05](05-data-mining.md) y [06](06-big-data.md)).
+> 🔗 **Conexión clave:** este caso une el factor **regulación y privacidad** con lo visto en Data Mining y Big Data: el uso de datos personales sin límites claros **es un riesgo de negocio**, no solo ético (módulos [09](09-data-mining.md) y [10](10-big-data.md)).
 
 > 📝 **Citar y explayarse:** La cátedra plantea que *"la percepción pública puede hacer que el valor de una empresa unicornio suba o caiga rápidamente"*. Esto ocurre porque su valor depende de la **confianza** de inversores y usuarios en lo que la empresa va a lograr, y no de resultados consolidados: un escándalo o una filtración de datos erosionan esa confianza, mientras que un lanzamiento exitoso la refuerza. El caso de Facebook lo muestra: Mark Zuckerberg pasó de las portadas como *"Rey de la Tecnología"* a ser señalado *"por temas de privacidad y monopolio"*, y ese cambio de percepción afectó el valor de la empresa. La conclusión es que, en estas empresas, la **reputación es un activo** tan importante como la tecnología.
 
@@ -147,7 +146,7 @@ flowchart LR
 
 ## 🔗 Conexiones
 
-- **→ [08 Curvas de la tecnología](08-curvas-de-la-tecnologia.md):** el ciclo de expectativas de Gartner también habla de cómo la percepción sube y baja.
+- **→ [05 Curvas de la tecnología](05-curvas-de-la-tecnologia.md):** el ciclo de expectativas de Gartner también habla de cómo la percepción sube y baja.
 - **→ [14 Innovación abierta](14-innovacion-abierta.md):** el *Corporate Venture Capital* (Google Ventures invirtió en Uber y Stripe) es una forma de financiar unicornios.
 
 ---
@@ -180,6 +179,4 @@ Porque su valoración se basa en **expectativas de crecimiento futuro** y en la 
 
 ---
 
-🎯 [Volver a la Ruta al Parcial 1](README.md#-ruta-al-parcial-1-empezá-acá)
-
-[← 03 Tecnologías disruptivas](03-tecnologias-disruptivas.md) · [🏠 Índice](README.md) · [Siguiente por clase → 08 Curvas de la tecnología](08-curvas-de-la-tecnologia.md)
+[← 03 Tecnologías disruptivas](03-tecnologias-disruptivas.md) · [🏠 Índice](../README.md) · [Siguiente → 05 Curvas de la tecnología](05-curvas-de-la-tecnologia.md)
