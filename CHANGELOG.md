@@ -2,6 +2,17 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.07.10 — 2026-10-07
+
+**Motivo:** se pidió sacar del tema 20 la parte del MVP de la clase pre-parcial; para Lean Startup alcanza con la definición y explayarse.
+
+### Quitado
+- **Tema 20 · Lean Startup:** sección *El MVP en la clase pre-parcial* (3 características, cuándo no es un MVP, MVP vs. MUP y el ejemplo de la patineta). La definición de MVP sigue en *Conceptos clave* y en la fase 5.
+- **Glosario:** entrada MUP.
+
+### Cambiado
+- **README:** descripción del tema 20.
+
 ## v2026.10.07.9 — 2026-10-07
 
 **Motivo:** con dos días para estudiar, se pidió sacar de los temas 15–22 lo que no viene de la cátedra o se repite. Se mantienen definiciones, tipos y clasificaciones, citas, párrafos para explayarse, "Conceptos que se confunden" y autoevaluación.

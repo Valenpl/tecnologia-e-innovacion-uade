@@ -13,7 +13,7 @@
 2. Conocer a su creador, **Eric Ries**.
 3. Describir las **diez fases** del método en orden.
 4. Explicar los conceptos de **Producto Mínimo Viable (MVP)**, **validación**, **iteración** y **pivotar**.
-5. Relacionar Lean Startup con los **proyectos de innovación** y entender el **MVP** según la clase pre-parcial.
+5. Relacionar Lean Startup con los **proyectos de innovación**.
 
 ---
 
@@ -38,7 +38,6 @@
     10. Decisión de pivotar
 - **IV. Conceptos clave**: MVP, hipótesis, pivotar, iterar
 - **V. Lean Startup en proyectos de innovación**
-- **VI. El MVP en la clase pre-parcial**
 
 ---
 
@@ -169,32 +168,6 @@ Relación con los **elementos clave** de un proyecto de innovación (módulo [19
 | Generación de valor | Validación con el mercado; **pivotar** si no hay valor. |
 
 Y con la **Gestión 2.0** (módulo [07](../parcial-1/07-gestion-de-la-innovacion.md)): Lean Startup **institucionaliza** el pilar "**está bien fracasar, iterar y resiliencia**".
-
----
-
-## VI. El MVP en la clase pre-parcial
-
-La *Clase 4 pre-parcial* (Barrios, diapositivas 34–37) volvió sobre el MVP con tres ideas más.
-
-> 📌 *"Un MVP permite **probar escenarios reales de uso con los clientes**. Con este fin, se **evita la costosa investigación de mercado** y el posterior desarrollo de productos; en su lugar, se implementa un **producto de construcción rápida** con un **conjunto mínimo de características** para **probar las suposiciones** sobre los requisitos del cliente."*
-
-**Las tres características necesarias** (el MVP está en la intersección):
-
-| Característica | Qué significa |
-|---|---|
-| **Producto** | Algo que pueda ser realmente **comercializable** y con características **escalables**. |
-| **Viable** | Un producto que sea **factible de crear**. |
-| **Mínimo** | Las **funcionalidades más requeridas** por el público objetivo. |
-
-**Cuándo NO estamos construyendo un MVP:**
-
-1. Si estamos **2 años** construyéndolo.
-2. Si queremos lanzar en la primera versión **"todas" las funcionalidades** pensadas.
-3. Si cuando ideamos el producto **no tenemos la viabilidad técnica o económica** de construirlo.
-
-**MVP vs. MUP (*Minimal Usable Product*):** la clase cita a **Tobias Mayer**: el problema del término MVP es que la gente se queda atrapada en el significado de *"viable"* (muchos creen que significa "hacer dinero" o "apto para producción"). Prefiere **MUP**: lo que se quiere son **comentarios rápidos**, y para eso el incremento del producto debe ser **utilizable y realmente utilizado por usuarios reales**. En la pirámide **funcional → confiable → usable → diseño empático**, el MVP **no** es construir solo la base funcional ("not this"), sino **una porción delgada de todas las capas** ("true MVP").
-
-> 💡 **Ejemplo clásico:** si el producto es un auto, el MVP no es una rueda (solo la capa funcional, no sirve para nada), sino una patineta: mínima, pero **ya resuelve el trabajo** de moverse y el usuario puede opinar.
 
 ---
 
