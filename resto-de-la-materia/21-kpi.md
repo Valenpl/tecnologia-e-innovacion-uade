@@ -2,7 +2,7 @@
 
 > **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Barrios), diapositivas 17–20; *KPI & OKR* (Ing. Mario Barrios), módulos 01–03 y Ejercicio 01.
 > **Prerrequisitos:** [19 Proyectos y estrategia](19-proyectos-y-estrategia-de-innovacion.md).
-> **Tiempo estimado:** 90 min (tema largo y con cálculos).
+> **Tiempo estimado:** 75 min (tema con cálculos).
 > **Resto de la materia · Tema 21** (KPI & OKR · Barrios). No entra en el Primer Parcial.
 
 ---
@@ -15,7 +15,7 @@
 4. Distinguir KPI **leading** (adelantados) y **lagging** (rezagados).
 5. Conocer los KPI típicos de **desarrollo de software (DORA)**, **implementación en cliente** y **comercialización (SaaS)**, con sus fórmulas y metas.
 6. Conocer las **herramientas** para medir KPI.
-7. Analizar los **casos Spotify y Mercado Libre**.
+7. Analizar el **caso Mercado Libre**.
 8. Calcular el **costo de no medir** (caso TechSolve) y detectar sus supuestos.
 9. Explicar cómo los KPI **transforman el modelo de trabajo** (pago por hitos, SLA, compensación variable).
 
@@ -41,9 +41,7 @@
   - C. Implementación en cliente
   - D. Comercialización de software (SaaS)
 - **VII. Herramientas para medir KPI**
-- **VIII. Casos reales**
-  - A. Spotify y el modelo squad
-  - B. Mercado Libre y las métricas DORA
+- **VIII. Caso real: Mercado Libre y las métricas DORA**
 - **IX. El costo de no medir: caso TechSolve**
 - **X. KPI y la transformación del modelo de trabajo**
 - **XI. Ejercicio: construí tu primer KPI**
@@ -236,11 +234,6 @@ flowchart LR
 | **Servicio al cliente** | Tasa de retención, **Net Promoter Score (NPS)**, tiempo de respuesta. |
 | **Finanzas** | Margen de utilidad neta, flujo de caja, **EBITDA**. |
 
-> ➕ **Contexto adicional – fórmulas útiles:**
-> - **ROI** = (Ganancia − Inversión) / Inversión × 100.
-> - **EBITDA** = ganancias antes de intereses, impuestos, depreciaciones y amortizaciones.
-> - **CLV/LTV** ≈ ingreso promedio por cliente × margen × tiempo de permanencia.
-
 ### VI.B Desarrollo de software (DORA)
 
 > Fuente citada por la cátedra: **DORA Metrics — Forsgren, Humble & Kim (2018). *Accelerate*. IT Revolution Press.**
@@ -306,7 +299,6 @@ flowchart LR
 > - **CAC** = (30.000 + 20.000) / 100 = **USD 500**.
 > - **LTV** (simplificado, sin margen) = 50 × 24 = **USD 1.200**.
 > - **LTV/CAC** = 1.200 / 500 = **2,4** → **por debajo de 3:1** → el negocio todavía no es saludable: hay que bajar CAC o aumentar retención/precio.
-> - ➕ **CAC Payback** = CAC / ingreso mensual por cliente = 500 / 50 = **10 meses** → dentro de lo recomendado (< 12).
 
 > 💡 **SQL** = *Sales Qualified Lead*: un potencial cliente que ventas ya calificó como oportunidad real.
 
@@ -317,41 +309,13 @@ flowchart LR
 | Ámbito | Herramienta | Qué mide |
 |---|---|---|
 | **DEV** | **Jira + Confluence** | Velocidad de sprint, defect rate, lead time; dashboards por equipo. |
-| **DEV** | **SonarQube** | Code coverage, tech debt ratio, code smells; integra con CI/CD. |
-| **OPS** | **Datadog / New Relic** | MTTR, uptime, error rate, latencia; **monitoreo en tiempo real**. |
-| **OPS** | **PagerDuty** | MTTD, MTTR, incidentes; integra con Slack y GitHub. |
-| **BIZ** | **Mixpanel / Amplitude** | DAU/MAU, retention, funnels de conversión, adopción de features. |
-| **BIZ** | **HubSpot / Salesforce** | CAC, pipeline velocity, churn, MRR; CRM con dashboards comerciales. |
 | **BI** | **Tableau / Power BI** | **Dashboards ejecutivos** cruzando múltiples fuentes. |
-| **BI** | **Google Looker Studio** | Visualización **gratuita**; conecta GA4, BigQuery, Sheets. |
-| **OKR** | **Lattice / Perdoo / Weekdone** | Gestión de OKR y **check-ins semanales**; integra con Slack. |
 
 > 🔗 Las herramientas de BI son las mismas del módulo [08](../parcial-1/08-business-intelligence.md): BI es la **infraestructura de visualización** de los KPI.
 
 ---
 
-## VIII. Casos reales
-
-### VIII.A Spotify y el modelo squad
-
-> Fuente citada: **Kniberg & Ivarsson (2012). *Scaling Agile @ Spotify*.**
-
-- Organizó sus equipos en **squads autónomos**, **cada uno con sus propios KPI** alineados a misiones específicas.
-- Escaló de **30 a más de 500 desarrolladores sin perder velocidad** de entrega.
-- **Cada squad tenía *ownership* de un KPI primario.** Si el número caía, **el squad actuaba sin esperar aprobación externa**.
-
-| Squad / área | KPI clave |
-|---|---|
-| **Discovery** | *Stream-from-recommendation rate* = streams iniciados desde recomendación / total streams |
-| **Infrastructure** | P99 latency / deployment frequency |
-| **Growth** | Monthly Active Users (MAU) |
-| **Monetization** | Free-to-Premium conversion rate |
-
-> 📊 **Resultado:** de **20 deploys/año** a **más de 10 deploys/día**, manteniendo una tasa de incidentes **< 0,1 %**.
-
-> 🔗 Es un ejemplo de **estructura en red** (Gestión 2.0, módulo [07](../parcial-1/07-gestion-de-la-innovacion.md)) y de innovación de **estructura** (Doblin).
-
-### VIII.B Mercado Libre y las métricas DORA
+## VIII. Caso real: Mercado Libre y las métricas DORA
 
 > Fuente citada: **MeLi Engineering Blog / DORA Report LATAM 2023.**
 
@@ -409,31 +373,23 @@ flowchart LR
     A --> R(["Retorno ≈ 40–48 veces<br/>lo invertido"])
 ```
 
-> ➕ *Contexto adicional:* la cátedra también cita a **Gartner (2020), *Measuring and Managing the Cost of Poor-Quality Software***, como fuente sobre el costo de la mala calidad de software.
-
 ---
 
 ## X. KPI y la transformación del modelo de trabajo
 
 > 📌 *"Los KPI **no solo miden: cambian cómo se organiza el trabajo**. Cuando el equipo ve los mismos indicadores en tiempo real, el modelo se desplaza de **'control por actividad'** a **'autonomía por resultado'**."*
 
-**Efectos en el equipo:**
-- **Trabajo por objetivos**: el equipo **decide cómo alcanzar el KPI**, no solo ejecuta tareas.
-- **Reducción de micromanagement**: *"el número habla"* sin reportes manuales.
-- **Cultura de mejora continua**: cada sprint review es oportunidad de ajustar.
-- **Responsabilidad distribuida**: cada squad es **dueño de su métrica**.
-
-> 📝 **Citar y explayarse:** La cátedra afirma que *"los KPI no solo miden: cambian cómo se organiza el trabajo"*: cuando el equipo ve los mismos indicadores en tiempo real, se pasa del *"control por actividad"* a la *"autonomía por resultado"*. Esto significa que ya no hace falta supervisar cada tarea, porque el equipo sabe qué resultado tiene que lograr y decide cómo alcanzarlo. Se reduce el micromanagement, ya que *"el número habla"*, y las conversaciones pasan de "qué hiciste" a "cómo movemos el indicador". Un equipo de soporte que ve su tiempo de respuesta en un tablero compartido, por ejemplo, puede reorganizar sus turnos por su cuenta sin esperar instrucciones.
+**Efectos en el equipo:** trabaja **por objetivos** (decide cómo alcanzar el KPI), baja el **micromanagement** (*"el número habla"*), se instala la **mejora continua** y la **responsabilidad se distribuye** (cada squad es dueño de su métrica).
 
 **Modelos habilitados por KPI claros:**
 
 | Modelo | Cómo funciona |
 |---|---|
-| **Pago contra hitos (freelance)** | El KPI define el hito: *"Módulo con cobertura > 80 % y 0 bugs críticos = release 2 = pago 30 %"*. **Claridad total para ambas partes.** |
-| **Performance-based compensation** | Parte del **salario variable atado a KPI del equipo**. Alinea incentivos con resultados en startups. |
-| **SLA contractual** | El KPI se convierte en **compromiso legal**: *uptime > 99,9 %, MTTR < 4 h*. **Incumplir tiene costo directo.** |
+| **Pago contra hitos (freelance)** | El KPI define el hito: *"cobertura > 80 % y 0 bugs críticos = release 2 = pago 30 %"*. |
+| **Performance-based compensation** | Parte del **salario variable atado a KPI del equipo**. |
+| **SLA contractual** | El KPI se vuelve **compromiso legal** (*uptime > 99,9 %, MTTR < 4 h*): **incumplir tiene costo directo**. |
 
-> 💡 **Para vos como freelancer:** definir con el cliente KPI verificables (cobertura, bugs críticos, tiempo de respuesta) **protege a ambos**: vos cobrás por resultados demostrables y el cliente sabe exactamente qué paga. Se profundiza con OKR en el módulo [22](22-okr.md).
+> 📝 **Citar y explayarse:** La cátedra afirma que *"los KPI no solo miden: cambian cómo se organiza el trabajo"*: con los mismos indicadores a la vista de todos, se pasa del *"control por actividad"* a la *"autonomía por resultado"*. El equipo sabe qué resultado tiene que lograr y decide cómo alcanzarlo, y los KPI claros habilitan el pago contra hitos, la compensación variable y los SLA contractuales. Se profundiza con OKR en el módulo [22](22-okr.md).
 
 ---
 
