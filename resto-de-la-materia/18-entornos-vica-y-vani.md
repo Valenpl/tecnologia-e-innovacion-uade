@@ -1,9 +1,9 @@
-# 15 · De VICA a VANI: liderazgo e innovación en entornos de caos
+# 18 · De VICA a VANI: liderazgo e innovación en entornos de caos
 
 > **Fuente en el material:** *Día 3 – Innovación Abierta*, diapositivas 15–25.
-> **Prerrequisitos:** [14 Innovación abierta](14-innovacion-abierta.md).
+> **Prerrequisitos:** [17 Innovación abierta](17-innovacion-abierta.md).
 > **Tiempo estimado:** 45 min.
-> **Resto de la materia · Tema 15** (Día 3). No entra en el Primer Parcial.
+> **Resto de la materia · Tema 18** (Día 3). No entra en el Primer Parcial.
 
 ---
 
@@ -207,10 +207,10 @@ flowchart LR
 
 ## 🔗 Conexiones
 
-- **← [14 Innovación abierta](14-innovacion-abierta.md):** CVC, redes, co-creación.
+- **← [17 Innovación abierta](17-innovacion-abierta.md):** CVC, redes, co-creación.
 - **← [02 Desafíos](../parcial-1/02-impactos-y-desafios.md):** ciberresiliencia (respuesta a la fragilidad).
 - **← [08](../parcial-1/08-business-intelligence.md)–[10](../parcial-1/10-big-data.md) Datos:** límite de "acumular más datos".
-- **→ [17 Lean Startup](17-lean-startup-y-mvp.md):** experimentar en lugar de planificar a 5 años.
+- **→ [20 Lean Startup](20-lean-startup-y-mvp.md):** experimentar en lugar de planificar a 5 años.
 
 ---
 
@@ -254,4 +254,4 @@ Que, ante un mundo **incomprensible**, la **Innovación Abierta** (no la Intelig
 
 ---
 
-[← 14 Innovación abierta](14-innovacion-abierta.md) · [🏠 Índice](../README.md) · [Siguiente → 16 Proyectos de innovación y estrategia de innovación](16-proyectos-y-estrategia-de-innovacion.md)
+[← 17 Innovación abierta](17-innovacion-abierta.md) · [🏠 Índice](../README.md) · [Siguiente → 19 Proyectos de innovación y estrategia de innovación](19-proyectos-y-estrategia-de-innovacion.md)

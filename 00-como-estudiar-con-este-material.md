@@ -108,11 +108,11 @@ flowchart LR
 
 ## IV. Orden de los temas
 
-Estudiá los temas **en orden** con el [índice](README.md). Los números siguen las clases. Del **01 al 13** es el **Primer Parcial**; del **14 en adelante** es el **resto de la materia**. Lo que es práctica (guía del parcial, parcial anterior resuelto, preguntas integradoras y casos) está aparte, en [evaluación](evaluacion/README.md).
+Estudiá los temas **en orden** con el [índice](README.md). Los números siguen las clases. Del **01 al 14** es el **Primer Parcial**; del **15 en adelante** es el **resto de la materia**. Lo que es práctica (guía del parcial, parcial anterior resuelto, preguntas integradoras y casos) está aparte, en [evaluación](evaluacion/README.md).
 
 ```mermaid
 flowchart TB
-    subgraph P1["📍 PRIMER PARCIAL · temas 01–13"]
+    subgraph P1["📍 PRIMER PARCIAL · temas 01–14"]
         subgraph C1["Clase 1 · Escandell"]
             T01["01 Tecnología<br/>e innovación"] --> T02["02 Impactos<br/>y desafíos"] --> T03["03 Tecnologías<br/>disruptivas"]
         end
@@ -125,10 +125,13 @@ flowchart TB
         subgraph D3["Día 3 · primera parte"]
             T11["11 Creatividad"] --> T12["12 Innovación<br/>tecnológica e IA"] --> T13["13 Design<br/>Thinking"]
         end
-        C1 --> C2 --> C3 --> D3
+        subgraph C4["Clase 4 · Barrios"]
+            T14["14 Propuesta de valor<br/>y Canvas"]
+        end
+        C1 --> C2 --> C3 --> D3 --> C4
     end
-    subgraph POST["⏳ RESTO DE LA MATERIA · temas 14–19"]
-        T14["14 Innovación<br/>abierta"] --> T15["15 VICA / VANI"] --> T16["16 Proyectos y<br/>estrategia"] --> T17["17 Lean Startup<br/>y MVP"] --> T18["18 KPI"] --> T19["19 OKR"]
+    subgraph POST["⏳ RESTO DE LA MATERIA · temas 15–22"]
+        T15["15 Estrategias<br/>comerciales"] --> T16["16 Service Design<br/>y cultura fail"] --> T17["17 Innovación<br/>abierta"] --> T18["18 VICA / VANI"] --> T19["19 Proyectos y<br/>estrategia"] --> T20["20 Lean Startup<br/>y MVP"] --> T21["21 KPI"] --> T22["22 OKR"]
     end
     P1 --> POST
 ```

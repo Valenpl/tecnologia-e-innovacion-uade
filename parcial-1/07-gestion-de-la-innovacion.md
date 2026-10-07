@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Mario Barrios), diapositivas 19–25.
 > **Prerrequisitos:** [06 Schumpeter](06-schumpeter-destruccion-creativa-y-ciclos.md).
 > **Tiempo estimado:** 60 min.
-> **Primer Parcial · Tema 07 de 13** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [5](../evaluacion/parcial-anterior-resuelto.md#iii5-los-10-tipos-de-innovación-de-doblin-las-3-categorías--explicar-una) y [8](../evaluacion/parcial-anterior-resuelto.md#v8-gestión-de-la-innovación-20-por-qué-juntar-a-los-jefes-no-es-trabajar-interdisciplinariamente)).
+> **Primer Parcial · Tema 07 de 14** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [5](../evaluacion/parcial-anterior-resuelto.md#iii5-los-10-tipos-de-innovación-de-doblin-las-3-categorías--explicar-una) y [8](../evaluacion/parcial-anterior-resuelto.md#v8-gestión-de-la-innovación-20-por-qué-juntar-a-los-jefes-no-es-trabajar-interdisciplinariamente)).
 
 ---
 
@@ -187,14 +187,14 @@ flowchart TB
 | Lento para aprobar ideas nuevas | Rápido para experimentar |
 | Silos por área | Colaboración transversal |
 
-> 🔗 La idea de **red** reaparece en innovación abierta: *"la innovación se trata de conectar nodos en una red"* (módulo [14](../resto-de-la-materia/14-innovacion-abierta.md)), y en los **squads** de Spotify (módulo [18](../resto-de-la-materia/18-kpi.md)).
+> 🔗 La idea de **red** reaparece en innovación abierta: *"la innovación se trata de conectar nodos en una red"* (módulo [17](../resto-de-la-materia/17-innovacion-abierta.md)), y en los **squads** de Spotify (módulo [21](../resto-de-la-materia/21-kpi.md)).
 
 #### III.A.4 Estilos de liderazgo
 > 📌 *"Los **estilos rígidos** son reemplazados por los líderes que poseen comportamientos **de afiliación, colaborativos y visionarios**."*
 
 - **Afiliativo**: prioriza el vínculo y el clima del equipo.
 - **Colaborativo**: construye con el equipo, no impone.
-- **Visionario**: marca un rumbo inspirador (se conecta con el *Objective* de los OKR, módulo [19](../resto-de-la-materia/19-okr.md)).
+- **Visionario**: marca un rumbo inspirador (se conecta con el *Objective* de los OKR, módulo [22](../resto-de-la-materia/22-okr.md)).
 
 #### III.A.5 Fracaso
 > 📌 *"**Está bien fracasar.** No hay posibilidad de lograr innovar si no se posee **capacidad de aceptar los fracasos y mejorar sobre ellos**. **Iterar y resiliencia**."*
@@ -243,8 +243,8 @@ La cátedra las presenta como el segundo pilar de la "mirada moderna". Aunque la
 
 - **← [06 Schumpeter](06-schumpeter-destruccion-creativa-y-ciclos.md):** primeros "tipos de innovación".
 - **→ [11 Creatividad](11-creatividad-y-proceso-creativo.md):** la creatividad es el punto de partida de la innovación.
-- **→ [14 Innovación abierta](../resto-de-la-materia/14-innovacion-abierta.md):** el tipo "Red" llevado al extremo.
-- **→ [16 Proyectos y estrategia](../resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md):** "cultura" como componente clave.
+- **→ [17 Innovación abierta](../resto-de-la-materia/17-innovacion-abierta.md):** el tipo "Red" llevado al extremo.
+- **→ [19 Proyectos y estrategia](../resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md):** "cultura" como componente clave.
 
 ---
 

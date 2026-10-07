@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Mario Barrios), diapositivas 5–13.
 > **Prerrequisitos:** [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md).
 > **Tiempo estimado:** 75 min (es uno de los temas más gráficos y preguntables).
-> **Primer Parcial · Tema 05 de 13** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [6](../evaluacion/parcial-anterior-resuelto.md#v6-la-curva-s-por-qué-cuidar-solo-la-tecnología-que-deja-plata-hoy-sentenció-a-nokia)).
+> **Primer Parcial · Tema 05 de 14** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [6](../evaluacion/parcial-anterior-resuelto.md#v6-la-curva-s-por-qué-cuidar-solo-la-tecnología-que-deja-plata-hoy-sentenció-a-nokia)).
 
 ---
 
@@ -265,7 +265,7 @@ Por encima de los proyectos aparecen los **programas** (A, B) y la **gobernanza 
 
 > 🧩 **Ejemplo de software:** v1.0 de una app (creación inicial) → v2 con más funciones → integraciones (adiciones) → parches y versiones menores (revisiones) → *end of life* y migración a un producto nuevo (retiro).
 
-> 🔗 Conecta con **proyectos de innovación** y **estrategia** (módulo [16](../resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md)): la estrategia define el portafolio.
+> 🔗 Conecta con **proyectos de innovación** y **estrategia** (módulo [19](../resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md)): la estrategia define el portafolio.
 
 > 📝 **Citar y explayarse:** Para la cátedra, el desarrollo de tecnologías *"sigue un ciclo de vida que va desde la introducción hasta su retiro"* y *"cada proyecto evoluciona mediante mejoras y revisiones"*. Esto implica que una tecnología no se construye en un solo proyecto: hay un proyecto de creación inicial, otros que agregan características durante el crecimiento, revisiones en la madurez y, finalmente, un proyecto de retiro cuando *"deja de ser competitiva"*. Por encima, los programas y la **gobernanza del portafolio** deciden en qué invertir según la etapa de cada tecnología. Una aplicación de software lo muestra bien: versión 1.0, versiones con nuevas funciones, parches de mantenimiento y, al final, el fin de soporte y la migración a un producto nuevo.
 
@@ -302,7 +302,7 @@ Esta tabla es **la clave para no mezclar** los modelos en el parcial:
 - **← [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md):** la disrupción es el inicio de una nueva curva S.
 - **← [04 Unicornios](04-empresas-unicornio.md):** expectativas y valuación.
 - **→ [06 Schumpeter](06-schumpeter-destruccion-creativa-y-ciclos.md):** a escala de toda la economía, las oleadas de innovación generan ciclos.
-- **→ [17 Lean Startup](../resto-de-la-materia/17-lean-startup-y-mvp.md):** validar con early adopters antes de escalar.
+- **→ [20 Lean Startup](../resto-de-la-materia/20-lean-startup-y-mvp.md):** validar con early adopters antes de escalar.
 
 ---
 

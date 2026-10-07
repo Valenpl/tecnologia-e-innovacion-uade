@@ -8,7 +8,7 @@ Material de **estudio** de la materia **Tecnología e Innovación** (UADE, 2027 
 
 ## 📍 Temas del Primer Parcial
 
-Entra **hasta Design Thinking** (temas 01–13). El orden sigue las clases. La columna 🔥 marca los temas que salieron en el [parcial anterior](evaluacion/parcial-anterior-resuelto.md).
+Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El orden sigue las clases. La columna 🔥 marca los temas que salieron en el [parcial anterior](evaluacion/parcial-anterior-resuelto.md).
 
 | # | Tema | Qué vas a aprender | Clase | Tiempo | Parcial anterior |
 |---|---|---|---|---|---|
@@ -24,15 +24,10 @@ Entra **hasta Design Thinking** (temas 01–13). El orden sigue las clases. La c
 | 10 | [Big Data](parcial-1/10-big-data.md) | Las 5 V, Big Data vs. Data Mining (y la diapositiva que los mezcla), integración BI + DM + BD. | Clase 3 | 50 min | 🔥 pregunta 2 |
 | 11 | [Creatividad y proceso creativo](parcial-1/11-creatividad-y-proceso-creativo.md) | Creatividad vs. innovación, etapas, 7 reglas, 7 técnicas (SCAMPER, morfológico, brainwriting…). *(Empieza en la Clase 2.)* | Clase 2 y Día 3 | 60 min | 🔥 pregunta 1 |
 | 12 | [Innovación tecnológica e IA](parcial-1/12-innovacion-tecnologica-e-ia.md) | Características, tipos, 10 problemas de innovar, Inteligencia Artificial. | Día 3 | 70 min | — |
-| 13 | [Design Thinking](parcial-1/13-design-thinking.md) | Las 5 etapas, características, beneficios, casos (Apple, Netflix, Airbnb, BBVA, IKEA). | Día 3 | 50 min | 🔥 pregunta 4 |
+| 13 | [Design Thinking](parcial-1/13-design-thinking.md) | Las 5 etapas, características, beneficios, casos (Apple, Netflix, Airbnb, BBVA, IKEA); principios y mentalidades (clase pre-parcial). | Día 3 | 55 min | 🔥 pregunta 4 |
+| 14 | [Propuesta de valor, segmentación y Business Model Canvas](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) | Kawasaki, propuesta de valor, Maslow y los 30 elementos de valor, Canvas de Propuesta de Valor (caso NEXA), buyer persona, tipos de competidores, matriz de competitividad, los 9 bloques del BMC. | Clase 4 | 75 min | — |
 
-**Tiempo total:** ~11 h 55 min.
-
----
-
-## 📍 Temas del Segundo Parcial
-
-> 🚧 **En preparación.** Los temas se van a cargar en la [carpeta del Segundo Parcial](parcial-2/README.md) a partir de las presentaciones de clase.
+**Tiempo total:** ~13 h 15 min.
 
 ---
 
@@ -40,12 +35,14 @@ Entra **hasta Design Thinking** (temas 01–13). El orden sigue las clases. La c
 
 | # | Tema | Qué vas a aprender | Clase / fuente | Tiempo |
 |---|---|---|---|---|
-| 14 | [Innovación abierta](resto-de-la-materia/14-innovacion-abierta.md) | Chesbrough, embudo cerrado vs. perforado, inbound/outbound, CVC, caso Google Ventures. | Día 3 | 70 min |
-| 15 | [De VICA a VANI](resto-de-la-materia/15-entornos-vica-y-vani.md) | Entornos VUCA y BANI, matriz de transición, innovación abierta como resiliencia. | Día 3 | 45 min |
-| 16 | [Proyectos y estrategia de innovación](resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md) | Proyecto de innovación, tipos, estrategia de innovación, alineación, caso retail. | Proyecto de Innovación · Barrios | 60 min |
-| 17 | [Lean Startup y MVP](resto-de-la-materia/17-lean-startup-y-mvp.md) | Eric Ries, las fases del método, MVP, construir-medir-aprender, iterar vs. pivotar. | Proyecto de Innovación · Barrios | 45 min |
-| 18 | [KPI](resto-de-la-materia/18-kpi.md) | Anatomía, SMART, leading/lagging, DORA, SaaS, casos Spotify y Mercado Libre, costo de no medir. | KPI & OKR · Barrios | 90 min |
-| 19 | [OKR](resto-de-la-materia/19-okr.md) | Estructura, KPI vs. OKR, cascada, 6 errores, pago contra hitos para freelancers. | KPI & OKR · Barrios | 70 min |
+| 15 | [Estrategias comerciales, Matriz de Ansoff y Océano Azul](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) | Integración, intensivas, diversificación y defensivas (cuándo usar cada una), ciclo del negocio, casos (Nike, Tesla, Apple…), Ansoff, océano rojo vs. azul, matriz de las cuatro acciones. | Clase 4 pre-parcial · Barrios | 70 min |
+| 16 | [Service Design, Design Sprint y cultura fail](resto-de-la-materia/16-service-design-y-cultura-fail.md) | Design Sprint en 5 días, definición y pilares del diseño de servicios, frontstage/backstage, principios 2010 vs. 2017, 4 actividades, Journey Map y Blueprint, cultura fail. | Clase 4 pre-parcial · Barrios | 70 min |
+| 17 | [Innovación abierta](resto-de-la-materia/17-innovacion-abierta.md) | Chesbrough, embudo cerrado vs. perforado, inbound/outbound, CVC, caso Google Ventures. | Día 3 | 70 min |
+| 18 | [De VICA a VANI](resto-de-la-materia/18-entornos-vica-y-vani.md) | Entornos VUCA y BANI, matriz de transición, innovación abierta como resiliencia. | Día 3 | 45 min |
+| 19 | [Proyectos y estrategia de innovación](resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md) | Proyecto de innovación, tipos, estrategia de innovación, alineación, caso retail. | Proyecto de Innovación · Barrios | 60 min |
+| 20 | [Lean Startup y MVP](resto-de-la-materia/20-lean-startup-y-mvp.md) | Eric Ries, las fases del método, MVP (sus 3 características y el MUP), construir-medir-aprender, iterar vs. pivotar. | Proyecto de Innovación · Barrios | 45 min |
+| 21 | [KPI](resto-de-la-materia/21-kpi.md) | Anatomía, SMART, leading/lagging, DORA, SaaS, casos Spotify y Mercado Libre, costo de no medir. | KPI & OKR · Barrios | 90 min |
+| 22 | [OKR](resto-de-la-materia/22-okr.md) | Estructura, KPI vs. OKR, cascada, 6 errores, pago contra hitos para freelancers. | KPI & OKR · Barrios | 70 min |
 
 ---
 
@@ -88,9 +85,8 @@ Cada actualización del material se registra en [CHANGELOG.md](CHANGELOG.md) y s
 .
 ├── README.md                     ← este índice
 ├── 00-como-estudiar-…md          ← método
-├── parcial-1/                    ← temas 01–13 (Primer Parcial)
-├── parcial-2/                    ← Segundo Parcial (en preparación)
-├── resto-de-la-materia/          ← temas 14–19
+├── parcial-1/                    ← temas 01–14 (Primer Parcial)
+├── resto-de-la-materia/          ← temas 15–22
 ├── evaluacion/                   ← guía del parcial, parcial anterior, preguntas integradoras
 │   └── casos/                    ← Nokia, NEXA, enunciado del parcial anterior
 ├── glosario.md
