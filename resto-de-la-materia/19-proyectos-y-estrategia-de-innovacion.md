@@ -1,9 +1,9 @@
-# 16 · Proyectos de innovación y estrategia de innovación
+# 19 · Proyectos de innovación y estrategia de innovación
 
 > **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Mario Barrios), diapositivas 1–16, 24–26.
 > **Prerrequisitos:** [07 Gestión de la innovación](../parcial-1/07-gestion-de-la-innovacion.md), [12 Innovación tecnológica](../parcial-1/12-innovacion-tecnologica-e-ia.md).
 > **Tiempo estimado:** 60 min.
-> **Resto de la materia · Tema 16** (Proyecto de Innovación · Barrios). No entra en el Primer Parcial.
+> **Resto de la materia · Tema 19** (Proyecto de Innovación · Barrios). No entra en el Primer Parcial.
 
 ---
 
@@ -109,7 +109,7 @@ Seis elementos. La forma más fácil de recordarlos es como **seis preguntas**:
 | 5 | **Recursos y gestión** | **¿Con qué?** | Recursos **humanos y materiales**; **gestión de riesgos** eficiente. |
 | 6 | **Generación de valor** | **¿Para qué?** | Cambios **significativos, medibles y sostenibles** en el sector o mercado. |
 
-> 🔗 La nota del docente en esa diapositiva dice **"Embudo"**: el elemento 2 (*funnel de innovación*) es el embudo de desarrollo del módulo [14](14-innovacion-abierta.md). El elemento 3 conecta con la **Gestión 2.0** ([07](../parcial-1/07-gestion-de-la-innovacion.md)); el 4 con **Design Thinking** ([13](../parcial-1/13-design-thinking.md)) y **Lean Startup** ([17](17-lean-startup-y-mvp.md)); el 6 con **KPI** ([18](18-kpi.md)).
+> 🔗 La nota del docente en esa diapositiva dice **"Embudo"**: el elemento 2 (*funnel de innovación*) es el embudo de desarrollo del módulo [17](17-innovacion-abierta.md). El elemento 3 conecta con la **Gestión 2.0** ([07](../parcial-1/07-gestion-de-la-innovacion.md)); el 4 con **Design Thinking** ([13](../parcial-1/13-design-thinking.md)) y **Lean Startup** ([20](20-lean-startup-y-mvp.md)); el 6 con **KPI** ([21](21-kpi.md)).
 
 ### II.E Puntos clave
 
@@ -326,9 +326,9 @@ flowchart LR
 
 ## 🔗 Conexiones
 
-- **→ [17 Lean Startup](17-lean-startup-y-mvp.md):** metodología de experimentación y validación.
-- **→ [18 KPI](18-kpi.md):** "cómo se medirá el éxito".
-- **← [14 Innovación abierta](14-innovacion-abierta.md):** proyectos abiertos, P&G.
+- **→ [20 Lean Startup](20-lean-startup-y-mvp.md):** metodología de experimentación y validación.
+- **→ [21 KPI](21-kpi.md):** "cómo se medirá el éxito".
+- **← [17 Innovación abierta](17-innovacion-abierta.md):** proyectos abiertos, P&G.
 - **← [07 Doblin](../parcial-1/07-gestion-de-la-innovacion.md):** clasificar la innovación del caso práctico.
 
 ---
@@ -376,13 +376,13 @@ Apple: su objetivo de negocio es la **fidelización** y su estrategia de innovac
 **7. ¿Qué indicadores se pueden usar para medir innovación?**
 <details><summary>Ver respuesta</summary>
 
-KPIs como: % de ingresos por productos nuevos, tasa de conversión, crecimiento de ingresos, CAC, ROI, retención de clientes, NPS, time to market. Deben ser **SMART** (ver módulo [18](18-kpi.md)).
+KPIs como: % de ingresos por productos nuevos, tasa de conversión, crecimiento de ingresos, CAC, ROI, retención de clientes, NPS, time to market. Deben ser **SMART** (ver módulo [21](21-kpi.md)).
 </details>
 
 **8. Relacione Lean Startup con proyectos de innovación.**
 <details><summary>Ver respuesta</summary>
 
-Lean Startup es una **praxis** para el elemento "**experimentación y validación**": reduce el **riesgo** (característica de la innovación) mediante MVP, medición y aprendizaje antes de invertir de lleno, y permite **pivotar** si el mercado no valida la idea (ver módulo [17](17-lean-startup-y-mvp.md)).
+Lean Startup es una **praxis** para el elemento "**experimentación y validación**": reduce el **riesgo** (característica de la innovación) mediante MVP, medición y aprendizaje antes de invertir de lleno, y permite **pivotar** si el mercado no valida la idea (ver módulo [20](20-lean-startup-y-mvp.md)).
 </details>
 
 **9. Desarrolle el concepto de ventaja competitiva.**
@@ -399,4 +399,4 @@ Respuesta abierta. Ejemplo: Google Glass (primera versión de consumo): tecnolog
 
 ---
 
-[← 15 De VICA a VANI](15-entornos-vica-y-vani.md) · [🏠 Índice](../README.md) · [Siguiente → 17 Lean Startup y MVP](17-lean-startup-y-mvp.md)
+[← 18 De VICA a VANI](18-entornos-vica-y-vani.md) · [🏠 Índice](../README.md) · [Siguiente → 20 Lean Startup y MVP](20-lean-startup-y-mvp.md)

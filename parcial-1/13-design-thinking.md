@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Día 3 – Innovación tecnológica, creatividad vs. innovación*, diapositivas 30–37.
 > **Prerrequisitos:** [11 Creatividad](11-creatividad-y-proceso-creativo.md) y [12 Innovación tecnológica](12-innovacion-tecnologica-e-ia.md).
 > **Tiempo estimado:** 50 min.
-> **Primer Parcial · Tema 13 de 13** (Día 3). 🔥 Salió en el parcial anterior (pregunta [4](../evaluacion/parcial-anterior-resuelto.md#iii4-design-thinking-qué-es--al-menos-3-etapas)).
+> **Primer Parcial · Tema 13 de 14** (Día 3). 🔥 Salió en el parcial anterior (pregunta [4](../evaluacion/parcial-anterior-resuelto.md#iii4-design-thinking-qué-es--al-menos-3-etapas)).
 
 ---
 
@@ -32,6 +32,7 @@
 - **VI. Empresas que lo utilizan**
 - **VII. Por qué lo utilizaron** (4 razones)
 - **VIII. Caso aplicado paso a paso**
+- **IX. Lo que agregó la clase pre-parcial** (principios, mentalidades, entender–explorar–materializar, restricciones)
 
 ---
 
@@ -172,7 +173,37 @@ flowchart LR
 | **4. Prototipar** | Hacés un prototipo en Figma de "reserva por QR" + una planilla compartida simulando la disponibilidad (barato y rápido). |
 | **5. Testear** | 15 estudiantes lo prueban una semana. Feedback: el QR funciona, pero no quieren instalar otra app → **volvés a idear**: bot de WhatsApp. Iterás. |
 
-> 🔗 Fijate que el paso 5 de este caso se parece mucho a **Lean Startup** (MVP → medir → aprender → pivotar). Las diferencias se ven en el módulo [17](../resto-de-la-materia/17-lean-startup-y-mvp.md).
+> 🔗 Fijate que el paso 5 de este caso se parece mucho a **Lean Startup** (MVP → medir → aprender → pivotar). Las diferencias se ven en el módulo [20](../resto-de-la-materia/20-lean-startup-y-mvp.md).
+
+---
+
+## IX. Lo que agregó la clase pre-parcial
+
+La *Clase 4 pre-parcial – Estrategias, procesos y cultura* (Barrios, diapositivas 38–55) repasó Design Thinking y sumó cuatro ideas.
+
+**1. Principios:** centrado en las personas · trabajo en equipo colaborativo · aprender haciendo · abrazar la experimentación · entender patrones, relaciones y sistemas · visualizar y mostrar.
+
+**2. El cambio de foco:** de una innovación **centrada en el producto** a una **centrada en las personas**.
+
+**3. Mentalidades, habilidades y pensamiento:**
+
+| Dimensión | Qué incluye |
+|---|---|
+| **Mentalidades y actitudes** | Empatía, adaptabilidad, coraje, mentalidad de principiante, resiliencia emocional, mente abierta. |
+| **Habilidades: métodos y herramientas** | Reformulación, ideación, prototipado iterativo, creación de sentido, facilitación, co-creación, colaboración. |
+| **Nuevas formas de pensar** | Pensamiento divergente, síntesis, pensamiento sistémico, inteligencia emocional, pensamiento visual, imaginación. |
+
+**4. Las fases agrupadas en tres momentos:**
+
+| Momento | Fases | Qué se busca (cátedra) |
+|---|---|---|
+| **Entender** · inspiración | Empatizar · Definir | Entender cómo piensan, sus necesidades y lo que es realmente importante para los usuarios · sintetizar la información construyendo un punto de partida desde un dolor significativo para el usuario. |
+| **Explorar** · ideación | Idear · Prototipar | Generar muchas ideas, siendo disruptivo e innovador y construyendo en equipo · desarrollar prototipos rápidos y sencillos que permitan recibir retroalimentación sobre la propuesta. |
+| **Materializar** · implementación | Testear | Simulando un contexto real, comprender mejor al usuario y con su retroalimentación mejorar la propuesta. |
+
+**Restricciones:** **factibilidad** (lo que es posible funcionalmente en el futuro próximo), **viabilidad** (lo que es probable que pase a formar parte de un modelo de negocio sostenible) y **deseabilidad** (lo que tiene sentido para las personas).
+
+> 🔗 La misma clase presentó el **Design Sprint** (Design Thinking en cinco días) y el **Service Design** (Design Thinking aplicado a servicios completos): ver tema [16](../resto-de-la-materia/16-service-design-y-cultura-fail.md).
 
 ---
 
@@ -184,7 +215,7 @@ flowchart LR
 | Prototipar | Producto final | El prototipo es **rápido, barato y tangible**, hecho para **aprender**, no para vender. |
 | Design Thinking | Proceso lineal | Es **iterativo**: desde testear se vuelve a cualquier etapa. |
 | Design Thinking | "Diseño gráfico" | Es una **metodología de resolución de problemas**, no de estética. |
-| Design Thinking | Lean Startup | DT pone el foco en **entender el problema y al usuario**; Lean Startup en **validar un modelo de negocio con métricas** (ver tema 17). Se complementan. |
+| Design Thinking | Lean Startup | DT pone el foco en **entender el problema y al usuario**; Lean Startup en **validar un modelo de negocio con métricas** (ver tema 20). Se complementan. |
 
 ---
 
@@ -193,8 +224,9 @@ flowchart LR
 - **← [11 Creatividad](11-creatividad-y-proceso-creativo.md):** reglas (foco en usuario, iteración, interdisciplina).
 - **← [12 Innovación tecnológica](12-innovacion-tecnologica-e-ia.md):** problema n.º 1 de innovar.
 - **← [07 Gestión 2.0](07-gestion-de-la-innovacion.md):** fracaso aceptado, trabajo interdisciplinario.
-- **→ [16 Proyectos](../resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md):** DT es la metodología de "experimentación y validación".
-- **→ [17 Lean Startup](../resto-de-la-materia/17-lean-startup-y-mvp.md)**.
+- **→ [14 Propuesta de valor](14-propuesta-de-valor-segmentacion-y-canvas.md):** empatizar = construir el perfil del cliente.
+- **→ [19 Proyectos](../resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md):** DT es la metodología de "experimentación y validación".
+- **→ [20 Lean Startup](../resto-de-la-materia/20-lean-startup-y-mvp.md)**.
 
 ---
 
@@ -232,4 +264,4 @@ Centrado en el usuario (empatía); colaborativo y multidisciplinario; iterativo 
 
 ---
 
-[← 12 Innovación tecnológica e Inteligencia Artificial](12-innovacion-tecnologica-e-ia.md) · [🏠 Índice](../README.md) · [Terminaste los temas del Primer Parcial → Evaluación](../evaluacion/README.md) · [Resto de la materia → 14 Innovación abierta](../resto-de-la-materia/14-innovacion-abierta.md)
+[← 12 Innovación tecnológica e Inteligencia Artificial](12-innovacion-tecnologica-e-ia.md) · [🏠 Índice](../README.md) · [Siguiente → 14 Propuesta de valor, segmentación y Business Model Canvas](14-propuesta-de-valor-segmentacion-y-canvas.md)

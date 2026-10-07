@@ -1,9 +1,9 @@
-# 14 · Innovación abierta (Open Innovation)
+# 17 · Innovación abierta (Open Innovation)
 
 > **Fuente en el material:** *Día 3 – Innovación Abierta* (basado en Henry Chesbrough), diapositivas 1–14 y 26–32.
 > **Prerrequisitos:** [07 Gestión de la innovación](../parcial-1/07-gestion-de-la-innovacion.md) (tipo "Red" de Doblin).
 > **Tiempo estimado:** 70 min.
-> **Resto de la materia · Tema 14** (Día 3). No entra en el Primer Parcial.
+> **Resto de la materia · Tema 17** (Día 3). No entra en el Primer Parcial.
 
 ---
 
@@ -157,7 +157,7 @@ flowchart LR
 - Hoy la tecnología y la demanda cambian a una velocidad tal que **si desarrollás todo adentro, llegás tarde** al mercado.
 - Abrirse al exterior **no es una moda: es una regla de supervivencia**.
 
-> 📝 **Citar y explayarse:** La cátedra resume el nuevo imperativo diciendo que *"las empresas ya no pueden sobrevivir siendo islas tecnológicas"* y que *"el éxito depende de cooperar con el mundo exterior"*. La razón es la velocidad: antes un producto podía sostener a una empresa durante años, pero hoy la tecnología y la demanda cambian tan rápido que desarrollar todo internamente implica **llegar tarde** al mercado. Cooperar permite usar tecnologías ajenas sin inventarlas y, a la vez, obtener ingresos de las propias que no se usan, por ejemplo licenciándolas. No es una moda sino una **condición de supervivencia**, sobre todo en entornos inestables como los que describe el modelo VANI (módulo [15](15-entornos-vica-y-vani.md)).
+> 📝 **Citar y explayarse:** La cátedra resume el nuevo imperativo diciendo que *"las empresas ya no pueden sobrevivir siendo islas tecnológicas"* y que *"el éxito depende de cooperar con el mundo exterior"*. La razón es la velocidad: antes un producto podía sostener a una empresa durante años, pero hoy la tecnología y la demanda cambian tan rápido que desarrollar todo internamente implica **llegar tarde** al mercado. Cooperar permite usar tecnologías ajenas sin inventarlas y, a la vez, obtener ingresos de las propias que no se usan, por ejemplo licenciándolas. No es una moda sino una **condición de supervivencia**, sobre todo en entornos inestables como los que describe el modelo VANI (módulo [18](18-entornos-vica-y-vani.md)).
 
 ### IV.2 No tenés que inventarlo todo para usarlo ("crear… tecnología")
 - Las corporaciones sufrían el síndrome **"No fue inventado aquí"** (*Not Invented Here*): si sus ingenieros no lo habían creado, lo rechazaban.
@@ -225,7 +225,7 @@ flowchart LR
 - En lugar de poner todo el presupuesto de innovación en **un solo laboratorio interno** (modelo cerrado) o **una sola idea**, la corporación **distribuye su capital** comprando **pequeñas participaciones en 10, 20 o 30 startups**.
 - *"Es, literalmente, **crear un fondo de inversión propio dentro de la compañía**."*
 
-> 💡 **Por qué funciona:** es una **cartera de apuestas**. La mayoría de las startups fracasará, pero alcanza con que una o dos sean enormes. Además, la empresa **ve antes que nadie** qué tecnologías están despegando (las nuevas curvas S). Esto será clave en el entorno **No Lineal** del módulo [15](15-entornos-vica-y-vani.md).
+> 💡 **Por qué funciona:** es una **cartera de apuestas**. La mayoría de las startups fracasará, pero alcanza con que una o dos sean enormes. Además, la empresa **ve antes que nadie** qué tecnologías están despegando (las nuevas curvas S). Esto será clave en el entorno **No Lineal** del módulo [18](18-entornos-vica-y-vani.md).
 
 > 📝 **Citar y explayarse:** La cátedra define una cartera de Corporate Venture Capital como *"el conjunto de inversiones financieras y estratégicas que realiza una gran empresa en múltiples startups tecnológicas de forma simultánea"*; es, literalmente, *"crear un fondo de inversión propio dentro de la compañía"*. Su lógica es la de una **cartera de apuestas**: en lugar de concentrar el presupuesto en un laboratorio interno o en una sola idea, la empresa reparte pequeñas participaciones entre muchas startups, sabiendo que la mayoría fracasará pero que alcanza con que una o dos tengan éxito. Además de la rentabilidad, le da una ventaja estratégica: ve antes que nadie qué tecnologías están despegando. Google Ventures, el brazo inversor de Alphabet, es el caso que analiza la cátedra.
 
@@ -294,7 +294,7 @@ flowchart LR
 - **← [07 Doblin](../parcial-1/07-gestion-de-la-innovacion.md):** tipo "Red" y estructura en red.
 - **← [04 Unicornios](../parcial-1/04-empresas-unicornio.md):** financiamiento por inversores.
 - **← [05 Curvas S](../parcial-1/05-curvas-de-la-tecnologia.md):** el CVC permite detectar nuevas curvas a tiempo.
-- **→ [15 VICA y VANI](15-entornos-vica-y-vani.md):** por qué la innovación abierta es la respuesta a un mundo caótico.
+- **→ [18 VICA y VANI](18-entornos-vica-y-vani.md):** por qué la innovación abierta es la respuesta a un mundo caótico.
 
 ---
 
@@ -338,4 +338,4 @@ Es el conjunto de **inversiones financieras y estratégicas** que una gran empre
 
 ---
 
-[← 13 Design Thinking](../parcial-1/13-design-thinking.md) · [🏠 Índice](../README.md) · [Siguiente → 15 De VICA a VANI](15-entornos-vica-y-vani.md)
+[← 16 Service Design, Design Sprint y cultura fail](16-service-design-y-cultura-fail.md) · [🏠 Índice](../README.md) · [Siguiente → 18 De VICA a VANI](18-entornos-vica-y-vani.md)

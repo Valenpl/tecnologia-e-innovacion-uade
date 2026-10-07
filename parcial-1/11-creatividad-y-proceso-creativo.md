@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Barrios), diapositivas 26–27; *Día 3 – Innovación tecnológica, creatividad vs. innovación*, diapositivas 2–9 y 29.
 > **Prerrequisitos:** [07 Gestión de la innovación](07-gestion-de-la-innovacion.md).
 > **Tiempo estimado:** 60 min.
-> **Primer Parcial · Tema 11 de 13** (Clase 2 y Día 3). 🔥 Salió en el parcial anterior (pregunta [1](../evaluacion/parcial-anterior-resuelto.md#iii1-diferencia-entre-innovación-tecnológica-y-creatividad)).
+> **Primer Parcial · Tema 11 de 14** (Clase 2 y Día 3). 🔥 Salió en el parcial anterior (pregunta [1](../evaluacion/parcial-anterior-resuelto.md#iii1-diferencia-entre-innovación-tecnológica-y-creatividad)).
 
 ---
 
@@ -277,7 +277,7 @@ Una combinación posible: **acero + pico deportivo + sensor** → "botella intel
 - **← [07 Gestión de la innovación](07-gestion-de-la-innovacion.md):** creatividad como cierre de la Clase 2.
 - **→ [12 Innovación tecnológica](12-innovacion-tecnologica-e-ia.md):** de la idea a la innovación.
 - **→ [13 Design Thinking](13-design-thinking.md):** metodología que estructura el proceso creativo centrado en el usuario.
-- **→ [17 Lean Startup](../resto-de-la-materia/17-lean-startup-y-mvp.md):** prototipar y validar (MVP).
+- **→ [20 Lean Startup](../resto-de-la-materia/20-lean-startup-y-mvp.md):** prototipar y validar (MVP).
 
 ---
 

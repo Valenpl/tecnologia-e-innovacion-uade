@@ -3,7 +3,7 @@
 > **Fuente en el material:** *Tecnología e Innovación – CLASE 1* (Prof. Gustavo E. Escandell), diapositivas 15–26 y actividades 33–35.
 > **Prerrequisitos:** [01 Fundamentos](01-tecnologia-e-innovacion-fundamentos.md).
 > **Tiempo estimado:** 45 min.
-> **Primer Parcial · Tema 02 de 13** (Clase 1).
+> **Primer Parcial · Tema 02 de 14** (Clase 1).
 
 ---
 
@@ -242,7 +242,7 @@ La Clase 1 propone dos consignas que conviene responder por escrito como prácti
 - **← [01 Fundamentos](01-tecnologia-e-innovacion-fundamentos.md)**
 - **→ [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md):** las tecnologías que producen estos impactos.
 - **→ [08–06 Datos](08-business-intelligence.md):** la "cultura data-driven" se apoya en BI, Data Mining y Big Data.
-- **→ [15 VICA y VANI](../resto-de-la-materia/15-entornos-vica-y-vani.md):** la ciberresiliencia es la respuesta a un mundo **frágil**.
+- **→ [18 VICA y VANI](../resto-de-la-materia/18-entornos-vica-y-vani.md):** la ciberresiliencia es la respuesta a un mundo **frágil**.
 
 ---
 

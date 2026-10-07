@@ -3,7 +3,7 @@
 > **Fuente en el material:** *CLASE 1* (Prof. Escandell), diapositivas 27–31, y *Clase "Pinamar" 2026* (Prof. Escandell), diapositivas 5–19.
 > **Prerrequisitos:** [01](01-tecnologia-e-innovacion-fundamentos.md) y [02](02-impactos-y-desafios.md).
 > **Tiempo estimado:** 60 min.
-> **Primer Parcial · Tema 03 de 13** (Clase 1). 🔥 Salió en el parcial anterior (pregunta [7](../evaluacion/parcial-anterior-resuelto.md#v7-el-competidor-disruptivo-por-qué-lo-inferior-se-vuelve-destrucción-creativa)).
+> **Primer Parcial · Tema 03 de 14** (Clase 1). 🔥 Salió en el parcial anterior (pregunta [7](../evaluacion/parcial-anterior-resuelto.md#v7-el-competidor-disruptivo-por-qué-lo-inferior-se-vuelve-destrucción-creativa)).
 
 ---
 
@@ -207,12 +207,12 @@ flowchart TD
 | Paso | Qué se hace | Detalle de la cátedra |
 |---|---|---|
 | **1. Identificar oportunidades** | Detectar **áreas donde la tecnología puede tener impacto significativo**. | Mejora de procesos internos, nuevos productos/servicios, experiencia del cliente. |
-| **2. Investigar y explorar** | Mantenerse actualizado sobre **tendencias emergentes**. | Asistir a conferencias, grupos de discusión, **colaborar con startups** (→ innovación abierta, módulo [14](../resto-de-la-materia/14-innovacion-abierta.md)). |
+| **2. Investigar y explorar** | Mantenerse actualizado sobre **tendencias emergentes**. | Asistir a conferencias, grupos de discusión, **colaborar con startups** (→ innovación abierta, módulo [17](../resto-de-la-materia/17-innovacion-abierta.md)). |
 | **3. Establecer objetivos claros** | Definir qué se quiere lograr. | Objetivos **medibles y alineados con la estrategia** general (→ SMART, KPI, OKR). |
 | **4. Desarrollar un plan de acción** | Plan detallado. | Selección de tecnologías, **plazos, recursos y responsabilidades**. |
 | **5. Capacitar al personal** | Formación y desarrollo profesional. | Para que puedan **usar y aprovechar** las nuevas tecnologías (ataca el desafío de la resistencia al cambio). |
-| **6. Medir y evaluar** | Seguimiento constante. | **Métricas y KPIs** para medir el éxito; ajustar la estrategia (→ módulo [18](../resto-de-la-materia/18-kpi.md)). |
-| **7. Iterar y mejorar** | Mejora continua. | *"La innovación disruptiva es un proceso continuo"*: ser flexible y estar dispuesto a **reinventarse**. Apoyarse en **metodologías ágiles**; *si el producto no se puede mejorar, hay que **pivotar*** (→ Lean Startup, módulo [17](../resto-de-la-materia/17-lean-startup-y-mvp.md)). |
+| **6. Medir y evaluar** | Seguimiento constante. | **Métricas y KPIs** para medir el éxito; ajustar la estrategia (→ módulo [21](../resto-de-la-materia/21-kpi.md)). |
+| **7. Iterar y mejorar** | Mejora continua. | *"La innovación disruptiva es un proceso continuo"*: ser flexible y estar dispuesto a **reinventarse**. Apoyarse en **metodologías ágiles**; *si el producto no se puede mejorar, hay que **pivotar*** (→ Lean Startup, módulo [20](../resto-de-la-materia/20-lean-startup-y-mvp.md)). |
 
 > 🔗 Fijate cómo este proceso **anticipa** temas de la segunda mitad de la materia: objetivos medibles (KPI/OKR), iterar (Lean Startup, Design Thinking), colaborar con startups (innovación abierta).
 
@@ -224,7 +224,7 @@ flowchart TD
 - **D** (desarrollo) → convertir ese conocimiento en productos o procesos concretos.
 - **i** (innovación) → introducirlos en el mercado y que generen valor (🔗 *"una tecnología que no se utiliza no es innovación"*, módulo [01](01-tecnologia-e-innovacion-fundamentos.md)).
 
-> 💡 **Para entenderlo:** la empresa que solo explota su tecnología actual queda atrapada en la **fase de saturación** de su curva S. Invertir en I+D+i le permite **saltar a la curva siguiente** antes de que otro lo haga por ella (módulo [05](05-curvas-de-la-tecnologia.md), I.C). Otra vía es no hacerlo todo adentro: **colaborar con startups** e **innovación abierta** (paso 2 de arriba y módulo [14](../resto-de-la-materia/14-innovacion-abierta.md)).
+> 💡 **Para entenderlo:** la empresa que solo explota su tecnología actual queda atrapada en la **fase de saturación** de su curva S. Invertir en I+D+i le permite **saltar a la curva siguiente** antes de que otro lo haga por ella (módulo [05](05-curvas-de-la-tecnologia.md), I.C). Otra vía es no hacerlo todo adentro: **colaborar con startups** e **innovación abierta** (paso 2 de arriba y módulo [17](../resto-de-la-materia/17-innovacion-abierta.md)).
 
 > ⚠️ **Ojo:** la nota de clase sobre este punto es breve. Si te lo preguntan, respondé con **I+D / I+D+i** como eje y fundamentalo con la curva S; el 💡 es elaboración para entenderlo.
 
@@ -283,7 +283,7 @@ La Clase 1 muestra ejemplos (Uber, Netflix, entre otros) y pregunta *"¿Alguna o
 - **→ [05 Curvas de la tecnología](05-curvas-de-la-tecnologia.md):** la curva S explica *por qué* una nueva tecnología desplaza a la vieja.
 - **→ [06 Schumpeter](06-schumpeter-destruccion-creativa-y-ciclos.md):** la disrupción es una forma de **destrucción creativa**.
 - **→ [08–06 Datos](08-business-intelligence.md):** Big Data es, a la vez, tecnología disruptiva y base de BI y Data Mining.
-- **→ [18 KPI](../resto-de-la-materia/18-kpi.md):** paso 6 de la implementación.
+- **→ [21 KPI](../resto-de-la-materia/21-kpi.md):** paso 6 de la implementación.
 
 ---
 

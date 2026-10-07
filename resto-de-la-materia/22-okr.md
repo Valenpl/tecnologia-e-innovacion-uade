@@ -1,9 +1,9 @@
-# 19 · OKR: Objectives and Key Results
+# 22 · OKR: Objectives and Key Results
 
 > **Fuente en el material:** *KPI & OKR* (Ing. Mario Barrios), módulo 08, Ejercicio 02 y cierre.
-> **Prerrequisitos:** [18 KPI](18-kpi.md).
+> **Prerrequisitos:** [21 KPI](21-kpi.md).
 > **Tiempo estimado:** 70 min.
-> **Resto de la materia · Tema 19** (KPI & OKR · Barrios). No entra en el Primer Parcial.
+> **Resto de la materia · Tema 22** (KPI & OKR · Barrios). No entra en el Primer Parcial.
 
 ---
 
@@ -349,9 +349,9 @@ La cátedra deja tres preguntas *"que deberían generar incomodidad productiva"*
 
 ## 🔗 Conexiones
 
-- **← [18 KPI](18-kpi.md).**
+- **← [21 KPI](21-kpi.md).**
 - **← [07 Gestión 2.0](../parcial-1/07-gestion-de-la-innovacion.md):** liderazgo visionario (Objective inspirador), autonomía.
-- **← [16 Estrategia](16-proyectos-y-estrategia-de-innovacion.md):** "dirección clara" y alineación.
+- **← [19 Estrategia](19-proyectos-y-estrategia-de-innovacion.md):** "dirección clara" y alineación.
 
 ---
 
@@ -401,4 +401,4 @@ Freelancer: claridad sobre qué se paga y cuándo, evidencia objetiva de valor, 
 
 ---
 
-[← 18 KPI](18-kpi.md) · [🏠 Índice](../README.md)
+[← 21 KPI](21-kpi.md) · [🏠 Índice](../README.md)

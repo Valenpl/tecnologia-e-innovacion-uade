@@ -1,9 +1,9 @@
-# 18 · KPI: indicadores clave de desempeño
+# 21 · KPI: indicadores clave de desempeño
 
 > **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Barrios), diapositivas 17–20; *KPI & OKR* (Ing. Mario Barrios), módulos 01–03 y Ejercicio 01.
-> **Prerrequisitos:** [16 Proyectos y estrategia](16-proyectos-y-estrategia-de-innovacion.md).
+> **Prerrequisitos:** [19 Proyectos y estrategia](19-proyectos-y-estrategia-de-innovacion.md).
 > **Tiempo estimado:** 90 min (tema largo y con cálculos).
-> **Resto de la materia · Tema 18** (KPI & OKR · Barrios). No entra en el Primer Parcial.
+> **Resto de la materia · Tema 21** (KPI & OKR · Barrios). No entra en el Primer Parcial.
 
 ---
 
@@ -400,7 +400,7 @@ flowchart LR
 | **Performance-based compensation** | Parte del **salario variable atado a KPI del equipo**. Alinea incentivos con resultados en startups. |
 | **SLA contractual** | El KPI se convierte en **compromiso legal**: *uptime > 99,9 %, MTTR < 4 h*. **Incumplir tiene costo directo.** |
 
-> 💡 **Para vos como freelancer:** definir con el cliente KPI verificables (cobertura, bugs críticos, tiempo de respuesta) **protege a ambos**: vos cobrás por resultados demostrables y el cliente sabe exactamente qué paga. Se profundiza con OKR en el módulo [19](19-okr.md).
+> 💡 **Para vos como freelancer:** definir con el cliente KPI verificables (cobertura, bugs críticos, tiempo de respuesta) **protege a ambos**: vos cobrás por resultados demostrables y el cliente sabe exactamente qué paga. Se profundiza con OKR en el módulo [22](22-okr.md).
 
 ---
 
@@ -443,10 +443,10 @@ Para el contexto elegido definí: (1) el problema a medir, (2) el KPI con **fór
 
 ## 🔗 Conexiones
 
-- **→ [19 OKR](19-okr.md):** los Key Results son "KPI con contexto estratégico".
+- **→ [22 OKR](22-okr.md):** los Key Results son "KPI con contexto estratégico".
 - **← [08 BI](../parcial-1/08-business-intelligence.md):** herramientas de visualización.
 - **← [03 Disruptivas](../parcial-1/03-tecnologias-disruptivas.md):** paso 6 "medir y evaluar con KPIs".
-- **← [17 Lean Startup](17-lean-startup-y-mvp.md):** fase "medición de resultados".
+- **← [20 Lean Startup](20-lean-startup-y-mvp.md):** fase "medición de resultados".
 
 ---
 
@@ -502,4 +502,4 @@ Desplazan el modelo de **control por actividad** a **autonomía por resultado**:
 
 ---
 
-[← 17 Lean Startup y MVP](17-lean-startup-y-mvp.md) · [🏠 Índice](../README.md) · [Siguiente → 19 OKR](19-okr.md)
+[← 20 Lean Startup y MVP](20-lean-startup-y-mvp.md) · [🏠 Índice](../README.md) · [Siguiente → 22 OKR](22-okr.md)

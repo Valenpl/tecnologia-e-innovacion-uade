@@ -2,6 +2,23 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.07 — 2026-10-07
+
+**Motivo:** se compararon las presentaciones de clase con el material. Faltaban la clase de **Propuesta de valor, segmentación y CANVAS** (entra en el Primer Parcial) y los temas de la **clase pre-parcial** que no estaban en ningún lado (van al resto de la materia).
+
+### Agregado
+- **Tema 14 · Propuesta de valor, segmentación y Business Model Canvas** (`parcial-1/`): Kawasaki, propuesta de valor, B2C/B2B, Maslow, los 30 elementos de valor (Bain) y los 11 de Osterwalder, Canvas de Propuesta de Valor con el caso NEXA (fit y misfit), plantilla para redactarla, buyer persona, validación, tipos de competidores, matriz de competitividad y los 9 bloques del BMC con sus preguntas.
+- **Tema 15 · Estrategias comerciales, Matriz de Ansoff y Océano Azul** (`resto-de-la-materia/`): integración, intensivas, diversificación y defensivas con cuándo usar cada una, ciclo del negocio, casos financieros (Nike, Verizon, Ford, Tesla, Amazon, Apple), Ansoff, océano rojo vs. azul, innovación en valor y matriz de las cuatro acciones.
+- **Tema 16 · Service Design, Design Sprint y cultura fail** (`resto-de-la-materia/`).
+- **Tema 13:** sección IX con lo que sumó la clase pre-parcial (principios, mentalidades, entender–explorar–materializar, restricciones).
+- **Tema 20:** sección VII con el MVP de la clase pre-parcial (3 características, cuándo no es un MVP, MUP).
+- **Glosario:** 25 términos nuevos.
+
+### Cambiado
+- **Primer Parcial:** temas 01–14 (hasta Propuesta de valor y Business Model Canvas).
+- **Resto de la materia renumerado:** 15 Estrategias · 16 Service Design · 17 Innovación abierta · 18 VICA/VANI · 19 Proyectos · 20 Lean Startup · 21 KPI · 22 OKR. Los temas de la clase pre-parcial van primero porque esa clase fue antes que Innovación abierta.
+- README, "Cómo estudiar", guía del parcial (alcance, prioridades, citas y checklist), parcial anterior, preguntas integradoras, cabeceras, pies y enlaces actualizados a la nueva numeración.
+
 ## v2026.10.05.8 — 2026-10-05
 
 **Motivo:** de **Innovación abierta en adelante no entra** en el Primer Parcial.
