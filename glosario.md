@@ -98,7 +98,6 @@
 | **Misfit** | Desajuste o falta de encaje entre la propuesta de valor y el perfil del cliente. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **MTTR** | Tiempo medio de recuperación ante falla. | [21](resto-de-la-materia/21-kpi.md) |
 | **Múltiplo EBITDA** | Valorar la empresa comparando sus ratios (valor de la compañía / parámetro financiero u operativo) con empresas comparables que cotizan en bolsa. | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
-| **MUP (Minimal Usable Product)** | Alternativa al MVP (Tobias Mayer): un incremento utilizable y usado por usuarios reales. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) |
 | **MVP** | Producto mínimo viable para probar hipótesis con usuarios reales. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) · [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **NPS** | % promotores − % detractores. | [21](resto-de-la-materia/21-kpi.md) |
 | **Océano azul / océano rojo** | Espacio de mercado nuevo sin competencia / mercado existente donde se compite (Kim y Mauborgne). | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
