@@ -30,6 +30,12 @@ Entra **hasta Design Thinking** (temas 01–13). El orden sigue las clases. La c
 
 ---
 
+## 📍 Temas del Segundo Parcial
+
+> 🚧 **En preparación.** Los temas se van a cargar en la [carpeta del Segundo Parcial](parcial-2/README.md) a partir de las presentaciones de clase.
+
+---
+
 ## ⏳ Resto de la materia (no entra en el Primer Parcial)
 
 | # | Tema | Qué vas a aprender | Clase / fuente | Tiempo |
@@ -83,6 +89,7 @@ Cada actualización del material se registra en [CHANGELOG.md](CHANGELOG.md) y s
 ├── README.md                     ← este índice
 ├── 00-como-estudiar-…md          ← método
 ├── parcial-1/                    ← temas 01–13 (Primer Parcial)
+├── parcial-2/                    ← Segundo Parcial (en preparación)
 ├── resto-de-la-materia/          ← temas 14–19
 ├── evaluacion/                   ← guía del parcial, parcial anterior, preguntas integradoras
 │   └── casos/                    ← Nokia, NEXA, enunciado del parcial anterior

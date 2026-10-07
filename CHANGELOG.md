@@ -2,6 +2,14 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.07 — 2026-10-07
+
+**Motivo:** se pidió una carpeta para el material del **Segundo Parcial**.
+
+### Agregado
+- Carpeta `parcial-2/` con un README provisorio ("en preparación"), a completar con los temas a partir de las presentaciones.
+- **README:** sección "Temas del Segundo Parcial" y la carpeta en la estructura del repo.
+
 ## v2026.10.05.8 — 2026-10-05
 
 **Motivo:** de **Innovación abierta en adelante no entra** en el Primer Parcial.
