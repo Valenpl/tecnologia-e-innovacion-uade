@@ -2,6 +2,19 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.07.7 — 2026-10-07
+
+**Motivo:** se pidió sacar los ejercicios y el PESTEL del tema 23, y poner los aspectos a tener en cuenta de Bottom-Up y Top-Down.
+
+### Cambiado
+- **Tema 23 · Análisis de mercado:**
+  - Se quitaron los ejercicios resueltos (camisas y vinos).
+  - **Aspectos a tener en cuenta · Top-Down:** pasos del cálculo y características de la diapositiva 34 (más fácil y rápido, datos de terceros, cálculo por demografía).
+  - **Aspectos a tener en cuenta · Bottom-Up:** volumen, valores, per cápita, precio por unidad, share en volumen y en valores, ganancia de share y market share.
+  - Se quitó la sección **Análisis PESTEL** (y su objetivo, su pregunta de autoevaluación y su entrada en el glosario). El tema pasa a llamarse *TAM, SAM, SOM y Porter*.
+  - Tiempo estimado: 45 min.
+- **README:** título, descripción y tiempo del tema 23 actualizados.
+
 ## v2026.10.07.6 — 2026-10-07
 
 **Motivo:** se agregó la presentación *Análisis de Mercado y Competencia / Tamaño de mercado TAM SAM SOM* (Barrios), que no estaba cubierta en ningún tema.
