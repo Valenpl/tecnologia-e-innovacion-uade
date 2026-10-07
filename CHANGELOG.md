@@ -2,6 +2,18 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.07.8 — 2026-10-07
+
+**Motivo:** se agregó la presentación *MRI Análisis Financiero y Estrategias de Salida* (Barrios), que no estaba cubierta en ningún tema. El profesor puso el foco en las etapas de la inversión; el resto va resumido.
+
+### Agregado
+- **Tema 24 · Análisis financiero y estrategias de salida** (`resto-de-la-materia/`): evolución de una empresa y cadena de financiamiento (valle de la muerte, capital semilla, capital de riesgo, oferta pública, mercado de capitales), las 8 **etapas de la inversión** con su párrafo para citar, VAN, TIR, CAPM con riesgo país, estrategias de salida (motivos, fusión, pasos de la venta) y valoración por múltiplo EBITDA y Crunchbase.
+- **Glosario:** capital semilla / capital de riesgo, CAPM, estrategia de salida, etapas de la inversión, fusión, múltiplo EBITDA, TIR, valle de la muerte, VAN.
+
+### Cambiado
+- **README** y **Cómo estudiar:** tema 24 agregado al índice y al mapa; el resto de la materia pasa a ser temas 15–24.
+- **Tema 23 · Análisis de mercado:** el pie ahora enlaza al tema 24.
+
 ## v2026.10.07.7 — 2026-10-07
 
 **Motivo:** se pidió sacar los ejercicios y el PESTEL del tema 23, y poner los aspectos a tener en cuenta de Bottom-Up y Top-Down.
