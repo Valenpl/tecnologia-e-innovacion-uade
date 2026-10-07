@@ -2,7 +2,7 @@
 
 > **Fuente en el material:** *Clase 4 pre-parcial – Estrategias, procesos y cultura* (Ing. Mario Barrios; las diapositivas de diversificación citan al Mg. Ezequiel Pietracupa), diapositivas 1–24 y 26–29.
 > **Prerrequisitos:** [05 Curvas de la tecnología](../parcial-1/05-curvas-de-la-tecnologia.md) (curva S) y [14 Propuesta de valor](../parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md).
-> **Tiempo estimado:** 70 min.
+> **Tiempo estimado:** 60 min.
 > **Resto de la materia · Tema 15** (Clase 4 pre-parcial · Barrios). No entra en el Primer Parcial.
 
 ---
@@ -12,9 +12,8 @@
 1. Nombrar las **cuatro familias de estrategias comerciales** (integración, intensivas, diversificación y defensivas) y sus **11 variantes**.
 2. Explicar **qué es** cada estrategia y **cuándo conviene** usarla.
 3. Relacionar la estrategia con la **etapa del ciclo de vida** del producto o negocio.
-4. Leer los **casos financieros** de la clase (Nike, Verizon, Ford, Tesla, Amazon, Apple) en clave de estrategia.
-5. Usar la **Matriz de Ansoff** para ubicar las estrategias intensivas y la diversificación.
-6. Explicar la **Estrategia del Océano Azul** (Kim y Mauborgne), la **innovación en valor** y la **matriz de las cuatro acciones**.
+4. Usar la **Matriz de Ansoff** para ubicar las estrategias intensivas y la diversificación.
+5. Explicar la **Estrategia del Océano Azul** (Kim y Mauborgne), la **innovación en valor** y la **matriz de las cuatro acciones**.
 
 ---
 
@@ -37,9 +36,8 @@
   2. Enajenación
   3. Liquidación
 - **VI. Uso de la estrategia según el ciclo del negocio**
-- **VII. Casos**
-- **VIII. Matriz de Ansoff**
-- **IX. Estrategia del Océano Azul**
+- **VII. Matriz de Ansoff**
+- **VIII. Estrategia del Océano Azul**
   - A. Océano rojo vs. océano azul
   - B. Innovación en valor
   - C. Matriz de las cuatro acciones
@@ -93,8 +91,6 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 - Cuando la empresa compite en una **industria que crece con rapidez** (las estrategias de integración disminuyen la capacidad de diversificarse en una industria en declinación).
 - Cuando la empresa cuenta con **capital y recursos humanos** para dirigir la nueva empresa proveedora de sus propias materias primas.
 
-> 🧩 Tesla fabrica sus propias baterías en sus *gigafactories* en vez de depender solo de proveedores.
-
 ### 2. Integración hacia delante
 
 > 📌 *"**Obtención de la propiedad o aumento del control sobre distribuidores** o vendedores minoristas."*
@@ -106,8 +102,6 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 - Cuando la empresa compite en una **industria en crecimiento** que se espera que siga creciendo con rapidez.
 - Cuando la empresa cuenta con el **capital y los recursos humanos** para dirigir la nueva empresa de distribución.
 
-> 🧩 Apple abre sus propias **Apple Stores** y Nike vende directo en su tienda online (*direct-to-consumer*).
-
 ### 3. Integración horizontal
 
 > 📌 *"**Búsqueda de la propiedad o del aumento del control sobre los competidores**."*
@@ -118,8 +112,6 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 - Cuando compite en una **industria en crecimiento**.
 - Cuando el incremento de las **economías de escala** da mayores ventajas competitivas.
 - Cuando los **competidores titubean** por falta de habilidad gerencial o por necesitar recursos que la empresa posee. *(Ojo: no sería adecuada si el rendimiento de los competidores fuera deficiente por razones de la industria.)*
-
-> 🧩 Facebook compra **Instagram** y **WhatsApp**.
 
 ---
 
@@ -193,8 +185,6 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 
 > ⚠️ **Concéntrica vs. conglomerado (diferencia clave de la cátedra):** la concéntrica se basa en la **semejanza de mercados, productos o tecnología**; la de conglomerado se basa más en **consideraciones sobre las utilidades** (financieras).
 
-> 🧩 **Concéntrica:** una marca de zapatillas que lanza ropa deportiva (mismo cliente, misma marca, mismos canales). **Conglomerado:** Samsung, que además de electrónica tiene astilleros y seguros (negocios sin relación entre sí).
-
 ---
 
 ## V. Estrategias defensivas
@@ -249,38 +239,11 @@ flowchart LR
     D --> F["📉 Cosechar<br/>(harvesting)"]
 ```
 
-> ➕ **Lectura sugerida (no está en la diapositiva):** en las primeras etapas pesan las estrategias **intensivas** (penetración y desarrollo de mercado); en la **optimización** aparecen la **integración** y el **desarrollo de producto**; al llegar a la madurez la empresa elige entre **reinventarse** (desarrollo de producto, diversificación) o **cosechar** el negocio actual, y si declina, las **defensivas**.
-
 > 🔗 Es la **curva S** de Christensen (tema [05](../parcial-1/05-curvas-de-la-tecnologia.md)) aplicada al negocio: "reinventar" es saltar a la curva siguiente; "cosechar" es quedarse en la curva vieja.
 
 ---
 
-## VII. Casos
-
-La clase muestra los resultados de seis empresas (US$ millones, 2016–2021). La diapositiva no indica qué estrategia siguió cada una: el análisis es parte del ejercicio.
-
-| Empresa | Ingresos 2016 | Ingresos 2021 | CAGR ingresos | Margen bruto 2021 | EBITDA 2021 (% ingresos) |
-|---|---|---|---|---|---|
-| **Nike** | 32.376 | 44.538 | **7 %** | 45 % | 16 % |
-| **Verizon** | 125.980 | 133.613 | **1 %** | 58 % | 36 % |
-| **Ford** | 151.800 | 136.341 | **−2 %** | 16 % | 3 % (−3 % en 2020) |
-| **Tesla** | 7.000 | 46.848 | **46 %** | 23 % | 10 % (−9 % en 2016) |
-| **Amazon** | 135.987 | 469.822 | **28 %** | 42 % | 5 % |
-| **Apple** | 215.639 | 365.817 | **11 %** | 42 % | 30 % |
-
-> ➕ **CAGR** (*Compound Annual Growth Rate*): tasa de crecimiento anual compuesta, el crecimiento promedio por año del período.
-
-> ➕ **Una lectura posible (propia, no de la cátedra):**
-> - **Tesla:** crecimiento explosivo y EBITDA que pasa de negativo a positivo → etapa de **desarrollo de mercado**; integración **hacia atrás** (baterías) y **hacia delante** (venta directa sin concesionarias).
-> - **Amazon:** crece 28 % anual con margen EBITDA bajo → **penetración** agresiva y **diversificación** (AWS, logística propia).
-> - **Apple:** crece con márgenes altos → **desarrollo de producto** (nuevas versiones y servicios) e integración hacia delante (Apple Stores).
-> - **Nike:** crecimiento estable → **desarrollo de mercado** e integración hacia delante (venta directa).
-> - **Verizon:** ingresos planos y margen alto → negocio maduro en etapa de **cosecha**.
-> - **Ford:** ingresos en caída y márgenes muy bajos → señales para **defensivas** (recorte) o para **reinventarse** (autos eléctricos).
-
----
-
-## VIII. Matriz de Ansoff
+## VII. Matriz de Ansoff
 
 Cruza **mercado** (presente o nuevo) con **producto** (presente o nuevo). Ordena las tres estrategias **intensivas** y la **diversificación**:
 
@@ -295,7 +258,7 @@ Cruza **mercado** (presente o nuevo) con **producto** (presente o nuevo). Ordena
 
 ---
 
-## IX. Estrategia del Océano Azul
+## VIII. Estrategia del Océano Azul
 
 **W. Chan Kim y Renée Mauborgne.**
 

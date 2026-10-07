@@ -130,8 +130,6 @@ Seis elementos. La forma más fácil de recordarlos es como **seis preguntas**:
 | **Cultura y talento** | Ambiente creativo, ágil y colaborativo; **retención de talento**. |
 | **Impacto social y sostenibilidad** | Calidad de vida, **reducción de brechas sociales**, uso responsable de recursos. |
 
-> ➕ **Contexto adicional:** en Argentina existe la **Ley de Economía del Conocimiento** (Ley 27.506), que otorga beneficios fiscales a empresas que realizan actividades de software, I+D, etc. Es un ejemplo de "ventajas económicas y fiscales".
-
 ---
 
 ## III. Tipos de proyectos de innovación
@@ -170,8 +168,6 @@ flowchart TB
 | **Arquitectónica** | **Reorganiza componentes existentes de formas innovadoras** para aportar valor de manera diferente. | El walkman: componentes conocidos (casete, auriculares, motor) combinados en un formato portátil. *(ejemplo propio)* |
 
 > 💡 **La arquitectónica es la "nueva" de esta lista** (no apareció en módulos anteriores). Clave: **no inventa componentes**, **cambia cómo se conectan**.
->
-> ➕ *Contexto adicional:* el concepto proviene de **Henderson y Clark (1990)**.
 
 ### III.B Según el área de aplicación
 
@@ -182,8 +178,6 @@ flowchart TB
 | **Modelo de negocio** | Cambios en **cómo la empresa crea, entrega y captura valor**. | **Plataformas tipo Amazon**. |
 | **Organizacional** | Nuevas **estructuras, prácticas o métodos de trabajo interno**. | — |
 | **Marketing** | Cambios en el **diseño, envasado, posicionamiento o promoción**. | — |
-
-> ➕ **Contexto adicional:** estas cuatro áreas clásicas (producto, proceso, organizacional, marketing) son las del **Manual de Oslo** (OCDE).
 
 ### III.C Otros enfoques
 
@@ -226,14 +220,12 @@ flowchart TB
 
 ### V.C Tipos de estrategia
 
-| Tipo | Postura (cátedra) | Descripción | Ejemplo |
-|---|---|---|---|
-| **Ofensiva** | **Liderar** | Ser el primero, invertir fuerte en I+D para marcar el rumbo del mercado. | Tesla con el auto eléctrico. |
-| **Defensiva** | **Adaptarse** | Esperar a que el líder abra el mercado y responder con mejoras. | Automotrices tradicionales lanzando eléctricos después. |
-| **Imitativa** | (copiar/seguir) | Reproducir innovaciones probadas, con menor costo y riesgo. | Marcas que lanzan versiones similares a un producto exitoso. |
-| **Disruptiva** | (romper el mercado) | Cambiar las reglas, a menudo desde nichos. | Netflix contra los videoclubes. |
-
-> *(Los ejemplos son ilustrativos; la cátedra solo enumera los tipos con la aclaración "ofensiva (liderar), defensiva (adaptarse)".)*
+| Tipo | Postura (cátedra) |
+|---|---|
+| **Ofensiva** | **Liderar** |
+| **Defensiva** | **Adaptarse** |
+| **Imitativa** | — |
+| **Disruptiva** | — |
 
 ### V.D Importancia
 
@@ -253,21 +245,6 @@ flowchart TB
 - Innovaciones que el cliente **no necesita** (falta de enfoque de valor).
 - Imposibilidad de **medir** el éxito (sin dirección clara no hay KPI).
 - Frustración del equipo y pérdida de cultura innovadora.
-
-```mermaid
-flowchart LR
-    subgraph SIN["❌ Sin alineación"]
-        a1["Idea 1"] --> x1["¿valor?"]
-        a2["Idea 2"] --> x2["¿valor?"]
-        a3["Idea 3"] --> x3["¿valor?"]
-    end
-    subgraph CON["✅ Con alineación"]
-        O(["Objetivo de negocio"]) --> b1["Proyecto A"]
-        O --> b2["Proyecto B"]
-        b1 --> K["KPI comunes"]
-        b2 --> K
-    end
-```
 
 > 📝 **Citar y explayarse:** Según la nota del docente, la innovación alineada *"no es un producto ni una herramienta"* sino *"un concepto de gestión empresarial"* que consiste en *"conectar las metas de innovación de una organización con sus objetivos de negocio generales"*. La idea es que innovar no es valioso en sí mismo: lo es cuando contribuye a lo que la empresa necesita lograr. Innovar sin alineación produce proyectos que no generan valor, dispersión de recursos, soluciones que el cliente no necesita e imposibilidad de medir el éxito. Con alineación, cada proyecto se justifica por el objetivo de negocio al que aporta y se mide con indicadores comunes. Si el objetivo de una cadena de retail es recuperar clientes, una app de fidelización está alineada; un proyecto de realidad virtual sin relación con ese objetivo, probablemente no.
 
@@ -289,26 +266,6 @@ flowchart LR
 ## VII. Caso práctico: retail que pierde clientes
 
 > *"Una empresa de retail pierde clientes porque la competencia vende online."* Consignas: **definir estrategia**, **proponer 1 innovación**, **explicar por qué está alineada**.
-
-**Resolución modelo** (usando el formato A–F):
-
-**A) Qué pide:** formular una estrategia de innovación, proponer una innovación concreta y justificar la alineación con el objetivo de negocio.
-
-**B) Conceptos que aplican:** estrategia de innovación (alineación comercial, enfoque de valor, tipos de estrategia, dirección clara), tipos de proyecto (modelo de negocio / canal), innovación alineada, KPI.
-
-**C) Resolución paso a paso:**
-1. **Objetivo de negocio:** recuperar clientes y participación de mercado.
-2. **Diagnóstico:** el problema no es el producto sino el **canal** (los clientes compran online).
-3. **Tipo de estrategia:** **defensiva (adaptarse)** — el mercado online ya existe; la empresa debe responder. A mediano plazo podría volverse ofensiva diferenciándose.
-4. **Innovación propuesta:** **modelo omnicanal "comprá online y retirá en tienda en 2 horas"** (*click & collect*) + e-commerce propio. Es una innovación de **canal / modelo de negocio** (Doblin: Canal + Servicio).
-5. **Por qué está alineada:** ataca **directamente la causa** de la pérdida de clientes (falta de canal online) y **aprovecha un activo que la competencia online no tiene**: las **tiendas físicas** cercanas (retiro rápido, cambios en el local).
-6. **Cómo se mide (dirección clara):** KPIs — % de ventas online, tasa de recompra, tasa de conversión del sitio, clientes recuperados.
-
-**D) Explicación intuitiva:** si tus clientes se fueron a internet, no alcanza con bajar precios en la tienda: tenés que estar donde ellos compran, pero usando lo que solo vos tenés.
-
-**E) Respuesta final:** *Estrategia defensiva de adaptación al canal digital, alineada al objetivo de recuperar clientes. Innovación: modelo omnicanal con e-commerce propio y retiro en tienda en 2 horas. Está alineada porque responde a la causa del problema (canal), crea valor para el cliente (rapidez + tienda cercana) y aprovecha los activos actuales. Se medirá con % de ventas online, conversión y tasa de recompra.*
-
-**F) Errores comunes:** proponer una innovación "linda" pero que no ataca la causa (ej. renovar la decoración del local); no explicitar el tipo de estrategia; no decir cómo se mide.
 
 ---
 

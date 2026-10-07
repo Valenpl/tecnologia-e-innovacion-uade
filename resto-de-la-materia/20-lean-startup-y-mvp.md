@@ -13,7 +13,7 @@
 2. Conocer a su creador, **Eric Ries**.
 3. Describir las **diez fases** del método en orden.
 4. Explicar los conceptos de **Producto Mínimo Viable (MVP)**, **validación**, **iteración** y **pivotar**.
-5. Relacionar Lean Startup con **proyectos de innovación**, **Design Thinking** y **KPI**.
+5. Relacionar Lean Startup con los **proyectos de innovación** y entender el **MVP** según la clase pre-parcial.
 
 ---
 
@@ -37,8 +37,8 @@
     9. Iteración
     10. Decisión de pivotar
 - **IV. Conceptos clave**: MVP, hipótesis, pivotar, iterar
-- **V. Lean Startup vs. Design Thinking**
-- **VI. Lean Startup en proyectos de innovación**
+- **V. Lean Startup en proyectos de innovación**
+- **VI. El MVP en la clase pre-parcial**
 
 ---
 
@@ -141,45 +141,22 @@ flowchart LR
 
 ## IV. Conceptos clave
 
-| Concepto | Significado | 🧩 Ejemplo |
-|---|---|---|
-| **Hipótesis** | Suposición sobre el cliente o el negocio que **todavía no está probada**. | "Los dueños de gimnasios pagarían USD 30/mes por un sistema de turnos online." |
-| **MVP (Producto Mínimo Viable)** | La versión **más simple** del producto que permite **probar la hipótesis con usuarios reales**. | Una landing page con un formulario de "reservá tu demo" antes de programar el sistema. |
-| **Medir** | Recolectar datos del uso real (no opiniones). | 40 visitas, 12 dejaron su mail, 3 pidieron demo. |
-| **Validación** | El mercado confirma (o no) la hipótesis. | 3 gimnasios aceptan pagar → hipótesis validada parcialmente. |
-| **Iterar** | Mejorar **sin cambiar el rumbo**. | Agregar recordatorios por WhatsApp porque lo pidieron. |
-| **Pivotar** | **Cambiar aspectos clave** del negocio. | Los gimnasios no pagan, pero los consultorios médicos sí → cambiar de segmento. |
+| Concepto | Significado |
+|---|---|
+| **Hipótesis** | Suposición sobre el cliente o el negocio que **todavía no está probada**. |
+| **MVP (Producto Mínimo Viable)** | La versión **más simple** del producto que permite **probar la hipótesis con usuarios reales**. |
+| **Medir** | Recolectar datos del uso real (no opiniones). |
+| **Validación** | El mercado confirma (o no) la hipótesis. |
+| **Iterar** | Mejorar **sin cambiar el rumbo**. |
+| **Pivotar** | **Cambiar aspectos clave** del negocio. |
 
 > ⚠️ **Iterar vs. pivotar (clásico):** iterar = **ajustar** el producto manteniendo la estrategia. Pivotar = **cambiar algo fundamental** (segmento de cliente, problema, modelo de ingresos, canal). Pivotar **no es fracasar**: es usar lo aprendido para reorientarse.
-
-> 🧩 **Ejemplos famosos de pivote (contexto adicional):** Slack nació como herramienta interna de un estudio de videojuegos; Instagram empezó como una app de check-in (Burbn) y pivotó a fotos.
 
 > 📝 **Citar y explayarse:** Según la nota del docente, en Lean Startup se distinguen etapas que van *"desde la detección de la necesidad del cliente"* hasta *"la creación del producto e incluso el cambio de estrategia cuando sea necesario"*. Primero se entiende el problema, después se diseña la solución y se construye un MVP según hipótesis, luego se mide y se valida con el mercado y, por último, se decide: **iterar** —mejorar sin cambiar el rumbo— o **pivotar** —*"cambiar aspectos clave del negocio"* cuando el producto no cumple lo que demanda el mercado—. Pivotar no es fracasar, sino usar lo aprendido para reorientarse. Instagram es el ejemplo clásico: empezó como una app de check-in y pivotó hacia las fotos al ver que era lo que los usuarios realmente usaban.
 
 ---
 
-## V. Lean Startup vs. Design Thinking
-
-> ➕ **Contexto adicional (síntesis comparativa):** ambas metodologías aparecen en la materia y comparten prototipado e iteración, pero tienen focos distintos.
-
-| | **Design Thinking** | **Lean Startup** |
-|---|---|---|
-| **Pregunta central** | ¿Cuál es el **problema real** del usuario? | ¿Este **producto/negocio** funciona en el mercado? |
-| **Punto de partida** | Empatía con las personas | Hipótesis de negocio |
-| **Herramienta clave** | Prototipo para **entender** | MVP para **medir** |
-| **Evidencia** | Feedback cualitativo de usuarios | **Métricas** de uso real |
-| **Decisión típica** | Volver a una etapa anterior | Iterar o **pivotar** |
-
-```mermaid
-flowchart LR
-    DT["DESIGN THINKING<br/>¿qué problema resolver?"] --> LS["LEAN STARTUP<br/>¿la solución es un negocio viable?"] --> KPI["KPI / OKR<br/>¿estamos logrando los resultados?"]
-```
-
-> 💡 **Se complementan:** Design Thinking te ayuda a **encontrar el problema correcto**; Lean Startup a **validar que la solución es un negocio**; los KPI a **medir** el éxito una vez en marcha.
-
----
-
-## VI. Lean Startup en proyectos de innovación
+## V. Lean Startup en proyectos de innovación
 
 Relación con los **elementos clave** de un proyecto de innovación (módulo [19](19-proyectos-y-estrategia-de-innovacion.md)):
 
@@ -195,7 +172,7 @@ Y con la **Gestión 2.0** (módulo [07](../parcial-1/07-gestion-de-la-innovacion
 
 ---
 
-## VII. El MVP en la clase pre-parcial
+## VI. El MVP en la clase pre-parcial
 
 La *Clase 4 pre-parcial* (Barrios, diapositivas 34–37) volvió sobre el MVP con tres ideas más.
 

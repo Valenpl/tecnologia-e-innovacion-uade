@@ -27,7 +27,7 @@ Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El o
 | 13 | [Design Thinking](parcial-1/13-design-thinking.md) | Las 5 etapas, características, beneficios, casos (Apple, Netflix, Airbnb, BBVA, IKEA); principios y mentalidades (clase pre-parcial). | Día 3 | 55 min | 🔥 pregunta 4 |
 | 14 | [Propuesta de valor, segmentación y Business Model Canvas](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) | Kawasaki, propuesta de valor, Maslow y los 30 elementos de valor, Canvas de Propuesta de Valor (caso NEXA), buyer persona, tipos de competidores, matriz de competitividad, los 9 bloques del BMC. | Clase 4 | 75 min | — |
 
-**Tiempo total:** ~13 h 15 min.
+**Tiempo total:** ~13 h 05 min.
 
 ---
 
@@ -35,7 +35,7 @@ Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El o
 
 | # | Tema | Qué vas a aprender | Clase / fuente | Tiempo |
 |---|---|---|---|---|
-| 15 | [Estrategias comerciales, Matriz de Ansoff y Océano Azul](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) | Integración, intensivas, diversificación y defensivas (cuándo usar cada una), ciclo del negocio, casos (Nike, Tesla, Apple…), Ansoff, océano rojo vs. azul, matriz de las cuatro acciones. | Clase 4 pre-parcial · Barrios | 70 min |
+| 15 | [Estrategias comerciales, Matriz de Ansoff y Océano Azul](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) | Integración, intensivas, diversificación y defensivas (cuándo usar cada una), ciclo del negocio, Ansoff, océano rojo vs. azul, matriz de las cuatro acciones. | Clase 4 pre-parcial · Barrios | 60 min |
 | 16 | [Service Design, Design Sprint y cultura fail](resto-de-la-materia/16-service-design-y-cultura-fail.md) | Design Sprint en 5 días, definición y pilares del diseño de servicios, frontstage/backstage, principios 2010 vs. 2017, 4 actividades, Journey Map y Blueprint, cultura fail. | Clase 4 pre-parcial · Barrios | 70 min |
 | 17 | [Innovación abierta](resto-de-la-materia/17-innovacion-abierta.md) | Chesbrough, embudo cerrado vs. perforado, inbound/outbound, CVC, caso Google Ventures. | Día 3 | 70 min |
 | 18 | [De VICA a VANI](resto-de-la-materia/18-entornos-vica-y-vani.md) | Entornos VUCA y BANI, matriz de transición, innovación abierta como resiliencia. | Día 3 | 45 min |

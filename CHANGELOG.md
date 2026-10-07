@@ -2,6 +2,23 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.07.9 — 2026-10-07
+
+**Motivo:** con dos días para estudiar, se pidió sacar de los temas 15–22 lo que no viene de la cátedra o se repite. Se mantienen definiciones, tipos y clasificaciones, citas, párrafos para explayarse, "Conceptos que se confunden" y autoevaluación.
+
+### Quitado
+- **Tema 15 · Estrategias comerciales:** sección *Casos* (tabla financiera de Nike, Verizon, Ford, Tesla, Amazon y Apple y su lectura propia, con su objetivo), lectura sugerida del ciclo del negocio y ejemplos propios (Tesla, Apple/Nike, Facebook, Samsung). Tiempo estimado: 60 min.
+- **Tema 16 · Service Design:** *Caso aplicado paso a paso* (inscripción a materias, ejemplo propio) y el dato de Jake Knapp.
+- **Tema 17 · Innovación abierta:** recuadros de contexto adicional (definición formal, modo acoplado). Sectores y casos de Google Ventures resumidos en dos líneas.
+- **Tema 18 · VICA y VANI:** tabla *Resumen VANI* (repetía las cuatro letras) y la correspondencia VICA ↔ VANI (ayuda de memoria propia).
+- **Tema 19 · Proyectos:** resolución modelo del caso retail (queda la consigna), columnas de descripción y ejemplo de los tipos de estrategia, Ley 27.506, Henderson y Clark, Manual de Oslo y diagrama con/sin alineación.
+- **Tema 20 · Lean Startup:** sección *Lean Startup vs. Design Thinking*, columna de ejemplos de *Conceptos clave* y ejemplos de pivote (Slack, Instagram).
+- **Tema 21 · KPI:** verificación y "trampa" de los números de TechSolve (queda la tabla de la cátedra), resoluciones modelo del ejercicio, recuadros *Calculá* y de contexto adicional (métricas de vanidad, DORA oficiales, escala NPS).
+- **Tema 22 · OKR:** cálculo de minutos de uptime, ejemplo de Fiverr, próximos pasos y bibliografía del cierre.
+
+### Cambiado
+- **README:** descripción y tiempo del tema 15.
+
 ## v2026.10.07.8 — 2026-10-07
 
 **Motivo:** se agregó la presentación *MRI Análisis Financiero y Estrategias de Salida* (Barrios), que no estaba cubierta en ningún tema. El profesor puso el foco en las etapas de la inversión; el resto va resumido.
