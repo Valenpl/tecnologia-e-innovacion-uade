@@ -43,6 +43,7 @@ Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El o
 | 20 | [Lean Startup y MVP](resto-de-la-materia/20-lean-startup-y-mvp.md) | Eric Ries, las fases del método, MVP (sus 3 características y el MUP), construir-medir-aprender, iterar vs. pivotar. | Proyecto de Innovación · Barrios | 45 min |
 | 21 | [KPI](resto-de-la-materia/21-kpi.md) | Anatomía, SMART, leading/lagging, DORA, SaaS, caso Mercado Libre, costo de no medir. | KPI & OKR · Barrios | 75 min |
 | 22 | [OKR](resto-de-la-materia/22-okr.md) | Estructura, KPI vs. OKR, cascada, 6 errores, pago contra hitos para freelancers. | KPI & OKR · Barrios | 55 min |
+| 23 | [Análisis de mercado: TAM, SAM, SOM, Porter y PESTEL](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) | Mercado (oferta y demanda, estructuras, mercado meta), TAM/SAM/SOM, Top-Down vs. Bottom-Up, market share con ejercicios resueltos, 5 Fuerzas de Porter, PESTEL. | Análisis de Mercado y Competencia · Barrios | 70 min |
 
 ---
 
@@ -86,7 +87,7 @@ Cada actualización del material se registra en [CHANGELOG.md](CHANGELOG.md) y s
 ├── README.md                     ← este índice
 ├── 00-como-estudiar-…md          ← método
 ├── parcial-1/                    ← temas 01–14 (Primer Parcial)
-├── resto-de-la-materia/          ← temas 15–22
+├── resto-de-la-materia/          ← temas 15–23
 ├── evaluacion/                   ← guía del parcial, parcial anterior, preguntas integradoras
 │   └── casos/                    ← Nokia, NEXA, enunciado del parcial anterior
 ├── glosario.md
