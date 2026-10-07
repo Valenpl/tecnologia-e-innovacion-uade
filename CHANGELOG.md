@@ -2,6 +2,13 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.07.2 — 2026-10-07
+
+**Motivo:** se pidió más información en la parte de **métrica vs. KPI** del tema 21.
+
+### Cambiado
+- **Tema 21 · KPI, sección I.B (Métrica vs. KPI):** definición de cada uno, diagrama "todo KPI es una métrica, pero no al revés", comparación punto por punto, paso a paso para convertir una métrica en KPI (caso tienda online), ejemplos por área (software, calidad, soporte, SaaS, NPS), por qué depende del objetivo, errores típicos, métricas de vanidad (contexto adicional, Lean Startup) y párrafo para citar y explayarse.
+
 ## v2026.10.07 — 2026-10-07
 
 **Motivo:** se compararon las presentaciones de clase con el material. Faltaban la clase de **Propuesta de valor, segmentación y CANVAS** (entra en el Primer Parcial) y los temas de la **clase pre-parcial** que no estaban en ningún lado (van al resto de la materia).
