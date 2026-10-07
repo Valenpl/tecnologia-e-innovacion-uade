@@ -2,6 +2,19 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.07.4 — 2026-10-07
+
+**Motivo:** se pidió recortar el tema 21 para estudiarlo en 2 días, sacando relleno y redundancias sin tocar lo principal.
+
+### Cambiado
+- **Tema 21 · KPI:**
+  - **Herramientas:** quedan 2 (Jira + Confluence y Tableau / Power BI).
+  - **Casos reales:** queda solo **Mercado Libre y las métricas DORA**; se quitó Spotify.
+  - **KPI y la transformación del modelo de trabajo:** resumido (efectos en una línea, tabla de modelos más corta, párrafo para citar más breve; se quitó el recuadro del freelancer).
+  - Se quitaron recuadros de contexto adicional que no son de la cátedra: fórmulas útiles (ROI, EBITDA, CLV), CAC Payback del caso integrador y la cita a Gartner.
+  - Tiempo estimado: 75 min.
+- **README:** descripción y tiempo del tema 21 actualizados.
+
 ## v2026.10.07.3 — 2026-10-07
 
 **Motivo:** se pidió dejar en métrica vs. KPI solo lo que sale del material de la cátedra.
