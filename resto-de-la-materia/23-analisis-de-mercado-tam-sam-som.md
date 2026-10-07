@@ -2,7 +2,7 @@
 
 > **Fuente en el material:** *Tecnología e Innovación – Tamaño de mercado TAM SAM SOM* / *Análisis de Mercado y Competencia* (Ing. Mario Barrios, 2026), diapositivas 1–44.
 > **Prerrequisitos:** [14 Propuesta de valor y segmentación](../parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md), [15 Estrategias comerciales](15-estrategias-comerciales-y-oceano-azul.md).
-> **Tiempo estimado:** 70 min (tema con cálculos).
+> **Tiempo estimado:** 55 min.
 > **Resto de la materia · Tema 23** (Análisis de Mercado y Competencia · Barrios). No entra en el Primer Parcial.
 
 ---
@@ -13,7 +13,7 @@
 2. Distinguir **competencia perfecta, oligopolio y monopolio**.
 3. Definir **TAM, SAM y SOM** y explicar para qué sirven.
 4. Diferenciar los enfoques **Top-Down** y **Bottom-Up** para estimar el tamaño de un mercado.
-5. **Calcular** volumen, facturación, precio promedio y **market share** (ejercicios de la cátedra).
+5. Explicar los **aspectos a tener en cuenta** de cada enfoque: volumen, valores, per cápita, precio y **market share**.
 6. Analizar una industria con las **5 Fuerzas de Porter**.
 7. Analizar el entorno con **PESTEL**.
 
@@ -31,8 +31,8 @@
   - C. Ejemplos de la cátedra (biotecnología)
 - **III. Cómo se dimensiona un mercado**
   - A. Top-Down vs. Bottom-Up
-  - B. Conceptos del Bottom-Up (volumen, valores, per cápita, share)
-  - C. Ejercicios resueltos
+  - B. Aspectos a tener en cuenta · Top-Down
+  - C. Aspectos a tener en cuenta · Bottom-Up
 - **IV. Las 5 Fuerzas de Porter**
 - **V. Análisis PESTEL**
 
@@ -151,66 +151,37 @@ flowchart LR
 | **Top-Down** | De lo **macro a lo micro** | 1. Mercado total → 2. División por segmentos (%) → 3. Divisiones regionales → 4. Divisiones por país |
 | **Bottom-Up** | De lo **micro a lo macro** | 1. Ingresos de la empresa en el mercado → 2. Ingresos de los principales competidores → 3. Cuota de mercado del vendedor → 4. Tamaño total del mercado |
 
-**Pasos para el cálculo Top-Down** (diapositiva 21):
+### III.B Aspectos a tener en cuenta · Top-Down
+
+**Pasos para el cálculo** (diapositiva 21):
 1. Identificar el **mercado** y los **segmentos** de audiencia.
 2. Estimar el **TAM**: **clientes potenciales × ingreso promedio**.
 3. **Filtrar** para calcular el **SAM**.
 4. **Filtrar** adicionalmente para calcular el **SOM**.
 
-### III.B Conceptos del Bottom-Up
+**Características** (diapositiva 34):
+- Es el **método más fácil y rápido**.
+- Los **datos salen de fuentes de terceros**.
+- El **cálculo se basa en datos demográficos**.
 
-Ejemplo de la cátedra (diapositiva 27): **250.000 consumidores × 4 comprimidos per cápita = 1 millón de comprimidos**.
+> ⚠️ La diapositiva 34 está dañada: compara el Top-Down con otros dos métodos (uno *"el mejor para pymes/empresas, con mejor precisión"* y otro *"el mejor para startups/scaleups, con precisión limitada"*), pero sus títulos no se leen. Del Top-Down solo se lee lo de arriba.
 
-> ⚠️ La diapositiva también dice "ventas: 500 millones de pesos" y "precio: $0,50/comprimido", que no cierran entre sí (1.000.000 × $0,50 = $500.000). Lo que importa es la lógica: **volumen = consumidores × per cápita** y **facturación = volumen × precio**.
+### III.C Aspectos a tener en cuenta · Bottom-Up 🔥
 
-| Concepto | Definición de la cátedra |
+**Cómo se dimensiona** (diapositiva 27): se arma desde el consumo. Ejemplo de la cátedra: **250.000 consumidores × 4 comprimidos per cápita = 1 millón de comprimidos** (volumen); la **facturación** es ese volumen × el precio.
+
+> ⚠️ La diapositiva dice "ventas: 500 millones de pesos" y "precio: $0,50/comprimido", que no cierran entre sí (1.000.000 × $0,50 = $500.000). Lo que importa es la lógica: **volumen = consumidores × per cápita** y **facturación = volumen × precio**.
+
+| Aspecto | Definición de la cátedra |
 |---|---|
 | **Mercado en volumen** | Total de litros, kg, unidades, etc. |
 | **Mercado en valores** | Facturación total = **volumen × precio promedio** de cada player. |
 | **Per cápita** | **Volumen total ÷ población.** |
 | **Precio por unidad** | **Facturación total ÷ volumen total.** |
-| **Share en volumen** | Volumen de una marca/empresa **÷ total del mercado**. |
-| **Share en valores** | Facturación de una marca/empresa **÷ facturación de la industria**. |
+| **Share en volumen** | Volumen de una marca/empresa **vs. el total del mercado**. |
+| **Share en valores** | Facturación de una marca/empresa **vs. la facturación de la industria**. |
 | **Ganancia de share** | Se gana share cuando **el % de crecimiento de las ventas propias es mayor que el % de crecimiento de la industria**. |
-
-> 📌 *"El **market share** es un **mejor indicador de performance que el volumen interno** porque **me compara vs. el mercado**."*
-
-### III.C Ejercicios resueltos (datos de la cátedra)
-
-**Ejercicio 1 · Mercado de camisas**
-
-| Marca | Unidades (año 1) | Precio | Ventas | Share unidades | Share ventas |
-|---|---|---|---|---|---|
-| A | 580.000 | $100 | $58.000.000 | 32,15 % | 32,27 % |
-| B | 750.000 | $58 | $43.500.000 | 41,57 % | 24,21 % |
-| C | 474.000 | $165 | $78.210.000 | 26,27 % | 43,52 % |
-| **Total** | **1.804.000** | | **$179.710.000** | 100 % | 100 % |
-
-**Año 2** (A +10 %, B +2 %, C 0 %; precios +5 %):
-
-| Marca | Unidades | Precio | Ventas | Share unidades |
-|---|---|---|---|---|
-| A | 638.000 | $105 | $66.990.000 | 33,99 % |
-| B | 765.000 | $60,90 | $46.588.500 | 40,76 % |
-| C | 474.000 | $173,25 | $82.120.500 | 25,25 % |
-| **Total** | **1.877.000** (+4,05 %) | | **$195.699.000** (+8,90 %) | 100 % |
-
-> 💡 **Lectura:** el mercado creció 4,05 % en volumen. **A gana share** (creció 10 %, más que la industria); **B y C pierden** (2 % y 0 %, menos que la industria). B es líder en unidades pero C lo es en facturación: por eso conviene mirar **share en volumen y en valores**.
-
-**Ejercicio 2 · Mercado de vinos**
-
-| Empresa / marca | Litros | Precio x litro | Ventas | Share litros | Share ventas |
-|---|---|---|---|---|---|
-| Marca x | 800.000 | $50 | $40.000.000 | 21,05 % | 11,49 % |
-| Marca xx | 700.000 | $140 | $98.000.000 | 18,42 % | 28,14 % |
-| **Empresa A** | **1.500.000** | **$92,00** (promedio) | **$138.000.000** | **39,47 %** | **39,63 %** |
-| Marca Y | 950.000 | $35 | $33.250.000 | 25,00 % | 9,55 % |
-| Marca YY | 650.000 | $100 | $65.000.000 | 17,11 % | 18,66 % |
-| Marca YYY | 700.000 | $160 | $112.000.000 | 18,42 % | 32,16 % |
-| **Empresa B** | **2.300.000** | **$91,41** (promedio) | **$210.250.000** | **60,53 %** | **60,37 %** |
-| **Mercado** | **3.800.000** | $91,64 | **$348.250.000** | 100 % | 100 % |
-
-> ⚠️ **Precio promedio por empresa = facturación ÷ litros**, no el promedio simple de los precios de sus marcas.
+| **Market share** | *"Es un **mejor indicador de performance que el volumen interno** porque **me compara vs. el mercado**."* |
 
 ---
 
