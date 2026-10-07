@@ -1,8 +1,8 @@
-# 23 · Análisis de mercado y competencia: TAM, SAM, SOM, Porter y PESTEL
+# 23 · Análisis de mercado y competencia: TAM, SAM, SOM y Porter
 
-> **Fuente en el material:** *Tecnología e Innovación – Tamaño de mercado TAM SAM SOM* / *Análisis de Mercado y Competencia* (Ing. Mario Barrios, 2026), diapositivas 1–44.
+> **Fuente en el material:** *Tecnología e Innovación – Tamaño de mercado TAM SAM SOM* / *Análisis de Mercado y Competencia* (Ing. Mario Barrios, 2026), diapositivas 1–41.
 > **Prerrequisitos:** [14 Propuesta de valor y segmentación](../parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md), [15 Estrategias comerciales](15-estrategias-comerciales-y-oceano-azul.md).
-> **Tiempo estimado:** 55 min.
+> **Tiempo estimado:** 45 min.
 > **Resto de la materia · Tema 23** (Análisis de Mercado y Competencia · Barrios). No entra en el Primer Parcial.
 
 ---
@@ -15,7 +15,6 @@
 4. Diferenciar los enfoques **Top-Down** y **Bottom-Up** para estimar el tamaño de un mercado.
 5. Explicar los **aspectos a tener en cuenta** de cada enfoque: volumen, valores, per cápita, precio y **market share**.
 6. Analizar una industria con las **5 Fuerzas de Porter**.
-7. Analizar el entorno con **PESTEL**.
 
 ---
 
@@ -34,7 +33,6 @@
   - B. Aspectos a tener en cuenta · Top-Down
   - C. Aspectos a tener en cuenta · Bottom-Up
 - **IV. Las 5 Fuerzas de Porter**
-- **V. Análisis PESTEL**
 
 ---
 
@@ -45,7 +43,6 @@ flowchart TB
     M["🌍 MERCADO<br/>economía: oferta + demanda<br/>marketing: mercado meta"]
     M --> T["📏 ¿Cuánto mide?<br/>TAM ⊃ SAM ⊃ SOM<br/>Top-Down · Bottom-Up"]
     M --> C["⚔️ ¿Qué tan competido es?<br/>5 Fuerzas de Porter"]
-    M --> E["🌐 ¿Qué lo afecta desde afuera?<br/>PESTEL"]
 ```
 
 ---
@@ -213,32 +210,10 @@ Alrededor de las fuerzas actúan los **factores ambientales** (tecnológicos, ec
 
 ---
 
-## V. Análisis PESTEL 🔥
-
-El **PESTEL** responde **6 preguntas clave** sobre el entorno externo del negocio:
-
-| Factor | Pregunta |
-|---|---|
-| **P · Político** | ¿Qué factores políticos probablemente afectarán el negocio? |
-| **E · Económico** | ¿Qué factores económicos afectarán el negocio? |
-| **S · Sociológico** | ¿Qué aspectos culturales pueden afectar el negocio? |
-| **T · Tecnológico** | ¿Qué cambios tecnológicos pueden afectar el negocio? |
-| **E · Ecológico / Ambiental** | ¿Qué consideraciones ambientales pueden afectar el negocio? |
-| **L · Legal** | ¿Qué legislación actual e inminente afectará el negocio? |
-
-> ⚠️ En la diapositiva 43 las letras de **Legal** y **Ambiental** aparecen cruzadas (Legal "E", Ambiental "L"). Lo correcto: **E = Ecológico/Ambiental, L = Legal**. La cátedra lo llama **PESTEL** o **PESTLE**: es lo mismo.
-
-**PESTEL en el tiempo** (diapositiva 44, Aguilera-Luque 2011): se lista cada factor por categoría, se marca su **influencia sobre los otros factores** (de muy fuerte negativa a muy fuerte positiva) y su **impacto futuro** a **12 meses, 1–3 años y 3–5 años**, en una escala de **−2 (muy desfavorable) a +2 (muy favorable)**.
-
-> 💡 **Porter mira la industria** (competidores, clientes, proveedores, entrantes, sustitutos). **PESTEL mira el macroentorno** (lo que ninguna empresa controla).
-
----
-
 ## 🔗 Conexiones
 
 - **← [14 Propuesta de valor y segmentación](../parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md):** el mercado meta es el segmento elegido; tipos de competidores y matriz de competitividad.
 - **← [15 Estrategias comerciales](15-estrategias-comerciales-y-oceano-azul.md):** ciclo del negocio, Ansoff (nuevos mercados), océano rojo (rivalidad alta).
-- **← [18 VICA y VANI](18-entornos-vica-y-vani.md):** el entorno externo que analiza PESTEL.
 - **← [20 Lean Startup](20-lean-startup-y-mvp.md):** validar la oportunidad de mercado antes de invertir.
 
 ---
@@ -281,13 +256,7 @@ Competencia perfecta: muchísimos productores, producto homogéneo, sin control 
 (1) **Rivalidad competitiva**: muchos competidores de igual tamaño. (2) **Potenciales entrantes**: poco capital necesario para competir. (3) **Poder de los clientes**: productos no diferenciados. (4) **Poder de los proveedores**: pocos proveedores dominan la industria. (5) **Sustitutos**: sustitutos más baratos o convenientes.
 </details>
 
-**7. ¿Qué analiza el PESTEL y en qué se diferencia de Porter?**
-<details><summary>Ver respuesta</summary>
-
-PESTEL analiza el **entorno externo** con 6 factores: Político, Económico, Sociológico, Tecnológico, Ecológico/Ambiental y Legal. Porter analiza la **intensidad competitiva de la industria** (rivalidad, entrantes, clientes, proveedores, sustitutos).
-</details>
-
-**8. En la demanda Qd = a − bP, ¿qué representan "a" y "b"?**
+**7. En la demanda Qd = a − bP, ¿qué representan "a" y "b"?**
 <details><summary>Ver respuesta</summary>
 
 **a**: demanda potencial máxima cuando el precio es cero; reúne los factores ajenos al precio (modas, gustos, ingresos, población). **b**: sensibilidad de la demanda al precio, cuántas unidades cae la cantidad demandada por cada peso que sube el precio (signo negativo por la Ley de la Demanda).

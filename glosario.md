@@ -98,7 +98,6 @@
 | **Océano azul / océano rojo** | Espacio de mercado nuevo sin competencia / mercado existente donde se compite (Kim y Mauborgne). | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **OKR** | Objectives and Key Results: sistema que conecta metas aspiracionales con indicadores medibles. | [22](resto-de-la-materia/22-okr.md) |
 | **Penetración de mercado** | Estrategia intensiva: más participación con los productos actuales vía marketing. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
-| **PESTEL** | Análisis del entorno externo: Político, Económico, Sociológico, Tecnológico, Ecológico/Ambiental y Legal. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **Pivotar** | Cambiar aspectos clave del negocio cuando el mercado no valida. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) |
 | **Proceso creativo** | Preparación, incubación, iluminación, verificación, adaptación y difusión. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
 | **Propuesta de valor** | Razón por la que los clientes eligen tu solución en lugar de la competencia. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
