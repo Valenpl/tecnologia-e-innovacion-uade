@@ -1,15 +1,15 @@
 # 22 · OKR: Objectives and Key Results
 
-> **Fuente en el material:** *KPI & OKR* (Ing. Mario Barrios), módulo 08, Ejercicio 02 y cierre.
+> **Fuente en el material:** *KPI & OKR* (Ing. Mario Barrios), módulo 08 y cierre.
 > **Prerrequisitos:** [21 KPI](21-kpi.md).
-> **Tiempo estimado:** 70 min.
+> **Tiempo estimado:** 55 min.
 > **Resto de la materia · Tema 22** (KPI & OKR · Barrios). No entra en el Primer Parcial.
 
 ---
 
 ## 🎯 Objetivos de aprendizaje
 
-1. Definir **OKR** y conocer su **origen** (Intel → Google → mundo tech).
+1. Definir **OKR**.
 2. Explicar su **estructura**: Objective, Key Results e Iniciativas, y la **regla de oro**.
 3. **Diferenciar KPI y OKR** y explicar por qué son **complementarios**.
 4. **Escribir** buenos Objectives (test del lunes) y buenos Key Results (verificables por un tercero).
@@ -24,8 +24,7 @@
 
 - **I. Qué son los OKR**
   - A. Definición
-  - B. Origen y adopción
-  - C. ¿Por qué OKR y no solo KPI?
+  - B. ¿Por qué OKR y no solo KPI?
 - **II. Estructura de un OKR**
   1. Objective (O)
   2. Key Results (KR)
@@ -41,8 +40,7 @@
 - **VIII. Errores frecuentes** (6)
 - **IX. OKR en el trabajo freelance y por proyectos**
 - **X. El sistema completo: KPI + OKR + Iniciativas**
-- **XI. Ejercicio: tu primer OKR completo**
-- **XII. Cierre: preguntas para llevarse**
+- **XI. Cierre: preguntas para llevarse**
 
 ---
 
@@ -70,21 +68,7 @@ flowchart TB
 
 > 📌 *"OKR (**Objectives and Key Results**) es un **sistema de gestión de objetivos** que **conecta metas aspiracionales con indicadores medibles de progreso**, para **alinear a toda la organización** en torno a lo que realmente importa."*
 
-### I.B Origen y adopción
-
-```mermaid
-flowchart LR
-    A["Intel<br/>años 70<br/>Andy Grove"] --> B["Google<br/>desde 1999<br/>John Doerr"] --> C["Mundo tech<br/>Spotify, Airbnb,<br/>LinkedIn, Netflix"]
-    B -.-> D["Libro 'Measure What Matters'<br/>John Doerr, 2018"]
-```
-
-- **Desarrollado por Andy Grove en Intel (años 70)**.
-- **Popularizado por Google desde 1999** de la mano de **John Doerr**.
-- Doerr lo documentó en ***Measure What Matters*** (**2018**).
-- **Larry Page** atribuyó parte del crecimiento de Google a implementar OKR en sus primeros años.
-- Hoy lo usan **Spotify, Airbnb, LinkedIn, Netflix** y la mayoría de las tecnológicas a escala global.
-
-### I.C ¿Por qué OKR y no solo KPI?
+### I.B ¿Por qué OKR y no solo KPI?
 
 > 📌 *"Los KPI **miden el estado de un proceso**. Los OKR **establecen hacia dónde va la organización y cómo lo sabe**. Son **complementarios, no excluyentes**. Un OKR incluye KR que son, en esencia, **KPI de progreso con contexto estratégico**."*
 
@@ -218,16 +202,14 @@ flowchart TB
 
 ## VIII. Errores frecuentes al implementar OKR
 
-| # | Error | Explicación |
+| # | Error | En una línea |
 |---|---|---|
-| 01 | **Demasiados OKR** | Más de **3–4 objetivos por trimestre** fragmenta el foco. *"Si todo es prioridad, nada lo es."* |
-| 02 | **KR como lista de tareas** | *"Hacer 5 reuniones"* es una **iniciativa**, no un KR. **Un KR mide un resultado, no una actividad.** |
-| 03 | **OKR sin check-in** | Definir en enero y revisar en diciembre es **planificación, no gestión**. **Sin revisión semanal, el OKR muere.** |
-| 04 | **KR fáciles de alcanzar** | **Google recomienda alcanzar el 60–70 % de los KR.** Si siempre llegás al 100 %, **no son aspiracionales**. |
-| 05 | **Objetivos sin dueño** | Cada OKR necesita **un responsable visible (un nombre, no un área)**. Sin responsable es *"un buen deseo colectivo"*. |
-| 06 | **OKR desconectados de la estrategia** | Si no podés **trazar la línea desde tu OKR hasta la visión de la empresa**, algo está mal. *"El alineamiento es no negociable."* |
-
-> 💡 **Error 04 explicado:** a diferencia de un KPI operativo (donde querés cumplir el 100 %, ej. uptime), los OKR son **aspiracionales**: si siempre cumplís todo, estás apuntando bajo. Lograr un 70 % de una meta ambiciosa suele valer más que un 100 % de una meta cómoda.
+| 01 | **Demasiados OKR** | Más de **3–4 por trimestre** fragmenta el foco. |
+| 02 | **KR como lista de tareas** | Un KR mide un **resultado**, no una actividad. |
+| 03 | **OKR sin check-in** | Sin **revisión semanal**, el OKR muere. |
+| 04 | **KR fáciles de alcanzar** | Google recomienda alcanzar el **60–70 %**: los OKR son **aspiracionales**. |
+| 05 | **Objetivos sin dueño** | Cada OKR necesita **un responsable con nombre**. |
+| 06 | **OKR desconectados de la estrategia** | Tiene que poder trazarse la línea hasta la **visión de la empresa**. |
 
 ---
 
@@ -296,29 +278,7 @@ flowchart LR
 
 ---
 
-## XI. Ejercicio: tu primer OKR completo
-
-**Parte A – Individual (10 min):** escribí 1 Objective aspiracional (**sin números**), 2 KR medibles y verificables, 2 iniciativas concretas, y qué herramienta usarías para medir cada KR.
-
-**Parte B – Grupal (12 min, grupos de 3):** cada uno presenta su OKR en 2 min; el grupo evalúa: *¿el Objective tiene números? ¿los KR son verificables?*; eligen el más sólido.
-
-**Pregunta disparadora:** *¿Cómo cambiaría tu OKR si el pago del proyecto dependiera de que los KR se cumplan?*
-
-**Resolución modelo (contexto: estudiante cursando la materia):**
-
-| Componente | Contenido |
-|---|---|
-| **Objective** | *"Dominar Tecnología e Innovación al punto de poder explicarla sin apuntes."* |
-| **KR1** | Nota ≥ 8 en el parcial. *(Herramienta: campus virtual.)* |
-| **KR2** | Reconstruir de memoria el esquema de los 19 módulos con ≥ 80 % de los subtemas, antes del parcial. *(Herramienta: checklist propia comparando con este repo.)* |
-| **Iniciativa 1** | Estudiar 2 módulos por semana con el método de outlining. |
-| **Iniciativa 2** | Resolver todas las autoevaluaciones y el módulo de preguntas integradoras. |
-
-> 💡 **Respuesta a la pregunta disparadora:** si el pago dependiera de los KR, los harías **todavía más verificables** (sin margen de interpretación), **acordarías la línea de base** con el cliente y evitarías KR que dependan de factores que no controlás.
-
----
-
-## XII. Cierre: preguntas para llevarse
+## XI. Cierre: preguntas para llevarse
 
 La cátedra deja tres preguntas *"que deberían generar incomodidad productiva"*:
 
@@ -357,10 +317,10 @@ La cátedra deja tres preguntas *"que deberían generar incomodidad productiva"*
 
 ## ✍️ Autoevaluación
 
-**1. Defina OKR, su origen y su estructura.**
+**1. Defina OKR y su estructura.**
 <details><summary>Ver respuesta</summary>
 
-**Sistema de gestión de objetivos** que conecta **metas aspiracionales con indicadores medibles de progreso** para alinear a la organización. Desarrollado por **Andy Grove en Intel (años 70)**, popularizado por **Google desde 1999** con **John Doerr** (*Measure What Matters*, 2018). Estructura: **Objective** (qué queremos alcanzar; aspiracional, cualitativo, sin números), **Key Results** (cómo sabemos que lo logramos; cuantitativos, verificables, 2 a 5 por objetivo) e **Iniciativas** (acciones concretas que mueven los KR; se abandonan si no los mueven). Regla de oro: si se cumplen todos los KR, el Objective debería estar logrado.
+**Sistema de gestión de objetivos** que conecta **metas aspiracionales con indicadores medibles de progreso** para alinear a la organización. Estructura: **Objective** (qué queremos alcanzar; aspiracional, cualitativo, sin números), **Key Results** (cómo sabemos que lo logramos; cuantitativos, verificables, 2 a 5 por objetivo) e **Iniciativas** (acciones concretas que mueven los KR; se abandonan si no los mueven). Regla de oro: si se cumplen todos los KR, el Objective debería estar logrado.
 </details>
 
 **2. Compare KPI y OKR en cuatro aspectos.**
