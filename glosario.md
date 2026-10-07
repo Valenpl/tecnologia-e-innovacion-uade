@@ -25,6 +25,8 @@
 | **Buyer persona** | Perfil del cliente ideal: datos demográficos, comportamiento y hábitos, dolores y necesidades. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **CAC** | Costo de adquisición de cliente = (marketing + ventas) / nuevos clientes. | [21](resto-de-la-materia/21-kpi.md) |
 | **Canvas de Propuesta de Valor** | Mapa de valor (productos, creadores de alegrías, aliviadores de frustraciones) frente al perfil del cliente (trabajos, alegrías, frustraciones). | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
+| **Capital semilla / capital de riesgo** | Financiamiento de la etapa de inicio (4 F, crowdfunding, fondos semilla, ángeles) / de la etapa de crecimiento (fondos privados). | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
+| **CAPM** | Modelo que relaciona el riesgo sistemático con el rendimiento esperado de un activo. Versión de la cátedra: R = Rf + Riesgo país + β × (Rm − Rf). | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
 | **Cascada de OKR** | Definir OKR en la empresa y bajarlos a equipos como contribución real. | [22](resto-de-la-materia/22-okr.md) |
 | **Change Failure Rate** | % de releases que requieren rollback o hotfix. Métrica DORA. | [21](resto-de-la-materia/21-kpi.md) |
 | **Churn** | Clientes perdidos / total al inicio × 100. | [21](resto-de-la-materia/21-kpi.md) |
@@ -56,7 +58,10 @@
 | **Embudo de desarrollo** | Modelo cerrado y secuencial que filtra ideas (Wheelwright & Clark, 1992). | [17](resto-de-la-materia/17-innovacion-abierta.md) |
 | **Enajenación** | Estrategia defensiva: venta de una división o parte de la empresa. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **Estrategia de innovación** | Plan que vincula las mejoras novedosas con la estrategia comercial; hoja de ruta. | [19](resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md) |
+| **Estrategia de salida (exit)** | Plan de acción para cuando llegue el día de salir del negocio; formas: fusión o venta. Elegir el momento idóneo maximiza el valor. | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
+| **Etapas de la inversión** | Inversión inicial → empezar a funcionar → desarrollo temprano → expansión → rentable con escasa liquidez → crecimiento rápido hacia la liquidez → puente → liquidez o salida. | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
 | **Explotar / Explorar** | Explotar: seguir mejorando el negocio actual (menor riesgo inmediato). Explorar: apostar por una nueva plataforma (posicionarse antes, más riesgo). | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
+| **Fusión** | Acuerdo de dos o más sociedades jurídicamente independientes para juntar sus patrimonios y formar una nueva sociedad (vertical u horizontal). | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
 | **Gemelo digital** | Réplica virtual para simular escenarios antes de aplicarlos en la realidad. | [02](parcial-1/02-impactos-y-desafios.md) |
 | **Gestión de la Innovación 2.0** | Liderazgo, inversión/procesos, estructura en red, estilos de liderazgo, fracaso, trabajo en equipo. | [07](parcial-1/07-gestion-de-la-innovacion.md) |
 | **Hype Cycle (Gartner)** | Ciclo de expectativas: detonante, pico, abismo, pendiente, meseta. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
@@ -92,6 +97,7 @@
 | **Miopía temporal** | Concentración excesiva en la innovación de corto plazo en detrimento de la de mayor beneficio futuro (caso Nokia). | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **Misfit** | Desajuste o falta de encaje entre la propuesta de valor y el perfil del cliente. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **MTTR** | Tiempo medio de recuperación ante falla. | [21](resto-de-la-materia/21-kpi.md) |
+| **Múltiplo EBITDA** | Valorar la empresa comparando sus ratios (valor de la compañía / parámetro financiero u operativo) con empresas comparables que cotizan en bolsa. | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
 | **MUP (Minimal Usable Product)** | Alternativa al MVP (Tobias Mayer): un incremento utilizable y usado por usuarios reales. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) |
 | **MVP** | Producto mínimo viable para probar hipótesis con usuarios reales. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) · [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **NPS** | % promotores − % detractores. | [21](resto-de-la-materia/21-kpi.md) |
@@ -119,7 +125,10 @@
 | **Tecnologías disruptivas** | Innovaciones que transforman radicalmente industrias y desplazan lo establecido con soluciones más accesibles. | [03](parcial-1/03-tecnologias-disruptivas.md) |
 | **Text mining** | Análisis de datos no estructurados (textos) y sentimiento. | [09](parcial-1/09-data-mining.md) |
 | **Time to Value (TTV)** | Días desde contrato hasta primer uso productivo. | [21](resto-de-la-materia/21-kpi.md) |
+| **TIR** | Tasa de descuento que hace el VAN igual a cero. | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
 | **Unicornio** | Startup tecnológica valuada en más de USD 1.000 M antes de cotizar o ser adquirida. | [04](parcial-1/04-empresas-unicornio.md) |
+| **Valle de la muerte** | Tramo inicial en que la empresa tiene resultados negativos, antes de llegar al punto de equilibrio. | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
+| **VAN** | Cuánto más dinero, traído a hoy, da un proyecto que una inversión alternativa de riesgo comparable. | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
 | **VANI (BANI)** | Frágil, Ansioso, No lineal, Incomprensible (Jamais Cascio). | [18](resto-de-la-materia/18-entornos-vica-y-vani.md) |
 | **VICA (VUCA)** | Volátil, Incierto, Complejo, Ambiguo. | [18](resto-de-la-materia/18-entornos-vica-y-vani.md) |
 

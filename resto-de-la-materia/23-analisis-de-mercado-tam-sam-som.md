@@ -264,4 +264,4 @@ Competencia perfecta: muchísimos productores, producto homogéneo, sin control 
 
 ---
 
-[← 22 OKR](22-okr.md) · [🏠 Índice](../README.md)
+[← 22 OKR](22-okr.md) · [🏠 Índice](../README.md) · [Siguiente → 24 Análisis financiero y estrategias de salida](24-analisis-financiero-y-estrategias-de-salida.md)
