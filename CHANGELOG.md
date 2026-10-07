@@ -2,6 +2,13 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.07.11 — 2026-10-07
+
+**Motivo:** se agregó la tabla comparativa KPI vs. OKR que mostró la cátedra (va a ser pregunta del final).
+
+### Agregado
+- **Tema 22 · OKR:** *Tabla comparativa de la cátedra: KPI vs. OKR* en la sección III (definición, qué responde, enfoque principal, frecuencia de revisión, nivel de éxito exigido y flexibilidad), transcripta tal cual.
+
 ## v2026.10.07.10 — 2026-10-07
 
 **Motivo:** se pidió sacar del tema 20 la parte del MVP de la clase pre-parcial, lo de Eric Ries y lo que no viene de la cátedra; para Lean Startup alcanza con la definición y explayarse.
