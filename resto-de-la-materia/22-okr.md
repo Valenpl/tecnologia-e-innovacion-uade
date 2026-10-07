@@ -85,8 +85,6 @@ flowchart TB
 > 📌 **Regla de oro:** *"**Si se cumplen todos los KR, el Objective debería estar logrado.** Si no, los KR están mal elegidos."*
 
 > 💡 **Nota del docente sobre "Uptime > 99,95 % en Q3":** significa que **durante el tercer trimestre** el sistema debe estar **activo y funcionando correctamente al menos el 99,95 % del tiempo total**.
->
-> ➕ *Contexto adicional – calculá cuánta caída permite:* un trimestre ≈ 92 días × 24 h × 60 min = 132.480 min. El 0,05 % de caída permitida = 132.480 × 0,0005 ≈ **66 minutos en todo el trimestre**.
 
 > ⚠️ **Iniciativa ≠ KR:** la iniciativa es **lo que hacés** (actividad); el KR es **lo que lográs** (resultado). Si una iniciativa no mueve el KR, **se abandona** — el KR no.
 
@@ -235,13 +233,6 @@ flowchart LR
 
 > 💡 ***Scope creep*** = cuando el cliente va agregando pedidos fuera del alcance acordado sin ajustar precio ni plazos. Si los hitos están atados a KR verificables, cualquier pedido nuevo queda claramente "fuera" del contrato.
 
-> 🧩 **Aplicación a un sitio web para un cliente de Fiverr:**
-> - **O:** "Lanzar un sitio que convierta visitas en consultas para el negocio del cliente."
-> - **KR1:** sitio en producción con Lighthouse Performance ≥ 90 (hito 1, 40 %).
-> - **KR2:** formulario de contacto con tasa de envío exitoso del 100 % en pruebas y ≥ 2 % de conversión en el primer mes (hito 2, 40 %).
-> - **KR3:** 0 bugs críticos reportados en 30 días post-lanzamiento (hito 3, 20 %).
-> *(Ejemplo propio, no de la cátedra.)*
-
 ---
 
 ## X. El sistema completo: KPI + OKR + Iniciativas
@@ -285,13 +276,6 @@ La cátedra deja tres preguntas *"que deberían generar incomodidad productiva"*
 1. **¿Cuál es el KPI más importante de tu proyecto actual y quién es su responsable?** → *Si no podés responder en 5 segundos, probablemente no esté definido.*
 2. **¿Qué decisión de esta semana tomarías diferente si tuvieras los datos correctos frente a vos?** → *Los KPI no son para reportar, son para decidir.*
 3. **Si tu siguiente cliente te pregunta "¿cómo vamos a medir el éxito?", ¿qué respondés?** → *La respuesta define si es un proyecto o una relación estratégica.*
-
-**Próximos pasos sugeridos por la cátedra:**
-1. Identificá **2 KPI** de tu proyecto o práctica profesional con **fórmula, meta, frecuencia y responsable** (*"si no podés completar esos cuatro campos, el KPI no existe todavía"*).
-2. Escribí **1 OKR completo** para el próximo trimestre: **1 Objective + 3 KR + 3 iniciativas**.
-3. Explorá una herramienta de medición (**Google Looker Studio** y **Weekdone** tienen planes gratuitos) y levantá un dashboard mínimo.
-
-**Bibliografía citada por la cátedra:** Doerr (2018) *Measure What Matters*; Forsgren, Humble & Kim (2018) *Accelerate*; Doran (1981) *There's a S.M.A.R.T. way to write management's goals and objectives*; Kniberg & Ivarsson (2012) *Scaling Agile @ Spotify*. Recursos: whatmatters.com · dora.dev.
 
 ---
 

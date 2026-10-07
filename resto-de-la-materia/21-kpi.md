@@ -16,7 +16,7 @@
 5. Conocer los KPI típicos de **desarrollo de software (DORA)**, **implementación en cliente** y **comercialización (SaaS)**, con sus fórmulas y metas.
 6. Conocer las **herramientas** para medir KPI.
 7. Analizar el **caso Mercado Libre**.
-8. Calcular el **costo de no medir** (caso TechSolve) y detectar sus supuestos.
+8. Explicar el **costo de no medir** con el caso TechSolve.
 9. Explicar cómo los KPI **transforman el modelo de trabajo** (pago por hitos, SLA, compensación variable).
 
 ---
@@ -133,8 +133,6 @@ flowchart LR
 | "Tiempo de resolución de bugs" como dato en un tablero. | **Tiempo de resolución de bugs críticos** < 4 h (línea de base 11,5 h), semanal, Tech Lead. |
 | Bugs en producción. | **Defect Rate** < 0,1 bugs por feature (hoy 0,4), semanal, Tech Lead. |
 
-> ➕ **Contexto adicional – métricas de vanidad:** en *Lean Startup*, Eric Ries llama **métricas de vanidad** (*vanity metrics*) a los números que **siempre suben y hacen quedar bien**, pero no ayudan a decidir: usuarios registrados acumulados, descargas totales, "me gusta". Las opone a las **métricas accionables**, que muestran causa y efecto (por ejemplo, conversión o retención por cohorte). Un buen KPI casi nunca es una métrica de vanidad. Ver [20 Lean Startup](20-lean-startup-y-mvp.md).
-
 > 📝 **Citar y explayarse:** Para la cátedra *"la palabra clave es 'Key': no toda métrica es un KPI"*. Una **métrica** es cualquier dato cuantificable, como *"tuvimos 10.000 visitas al sitio"*: **informa** qué pasó, pero no dice si eso es bueno o malo. Un **KPI** es una métrica elegida porque mide el avance hacia un **objetivo estratégico**, y por eso tiene **meta, responsable y frecuencia**: *"la tasa de conversión es 3,2 % vs. meta del 5 %"* **orienta decisiones**, porque muestra una brecha y obliga a actuar. Todo KPI es una métrica, pero no toda métrica es un KPI: *"sin meta, no hay KPI: es solo una métrica"*.
 
 ### I.C Las 5 condiciones de un KPI
@@ -247,10 +245,6 @@ flowchart LR
 | **MTTR** | **Tiempo promedio de recuperación** ante falla | **< 2 horas** | **Resiliencia** operacional |
 | **Tech Debt Ratio** | **Tiempo de remediación / Tiempo de desarrollo** | **< 5 %** | **Salud** del codebase |
 
-> 🧩 **Calculá:** en un sprint se encontraron 40 bugs en total, 3 de ellos en producción. *Defect Escape Rate* = 3 / 40 × 100 = **7,5 %** → **no cumple** la meta (< 5 %).
-
-> ➕ **Contexto adicional:** las cuatro **métricas DORA** "oficiales" son **Deployment Frequency, Lead Time for Changes, Change Failure Rate y MTTR** (las que aparecen en el caso Mercado Libre). Code coverage y tech debt ratio son KPI de ingeniería complementarios.
-
 ### VI.C Implementación en cliente
 
 | KPI | Fórmula | Meta | Impacto directo |
@@ -262,10 +256,6 @@ flowchart LR
 | **Tasa de reentrenamiento** | **Tickets por uso incorrecto / Total tickets** | **< 10 %** | **Costo de soporte** |
 
 > 📊 *"Un cliente que adopta rápido tiene una probabilidad de renovación del **87 %** vs. **43 %** de quienes tardan más de 60 días."* — Gainsight Customer Success Benchmark 2023 (citado por la cátedra).
-
-> 🧩 **Calculá el NPS:** de 200 encuestados, 110 son promotores, 50 pasivos y 40 detractores. %P = 55 %, %D = 20 % → **NPS = 55 − 20 = +35** → no llega a la meta (> +40).
->
-> ➕ *Contexto adicional:* en la encuesta NPS ("¿qué tan probable es que nos recomiendes?", 0 a 10), **promotores** = 9–10, **pasivos** = 7–8, **detractores** = 0–6. El NPS va de −100 a +100.
 
 ### VI.D Comercialización de software (SaaS)
 
@@ -294,11 +284,6 @@ flowchart LR
 | LTV/CAC mínimo viable | **3 : 1** |
 | NPS promedio industria tech | **+35** |
 | CAC Payback Period recomendado | **< 12 meses** |
-
-> 🧩 **Calculá (caso integrador):** una SaaS gastó USD 30.000 en marketing y USD 20.000 en ventas en el trimestre y consiguió 100 clientes nuevos. Cada cliente paga USD 50/mes y se queda en promedio 24 meses.
-> - **CAC** = (30.000 + 20.000) / 100 = **USD 500**.
-> - **LTV** (simplificado, sin margen) = 50 × 24 = **USD 1.200**.
-> - **LTV/CAC** = 1.200 / 500 = **2,4** → **por debajo de 3:1** → el negocio todavía no es saludable: hay que bajar CAC o aumentar retención/precio.
 
 > 💡 **SQL** = *Sales Qualified Lead*: un potencial cliente que ventas ya calificó como oportunidad real.
 
@@ -354,25 +339,6 @@ flowchart LR
 | Churn | **1 cliente perdido** (12 meses) = **USD 24.000** | **+15 % de renovación**, cliente retenido |
 | **Total** | **Costo adicional: USD 59.000+** | **Ahorro neto estimado: USD 57.800** |
 
-### Verificación de los números (paso a paso)
-
-1. **Costo sin KPI** = 27.000 (retrabajo) + 8.000 (SLA) + 24.000 (churn) = **USD 59.000** ✔️
-2. **Ahorro neto según la diapositiva** = 59.000 − 1.200 (inversión) = **USD 57.800**.
-
-> ⚠️ **Trampa del ejercicio (detectala en el parcial):** el ahorro de USD 57.800 **supone que se evita el 100 % del costo**, incluidos los 18 días de retrabajo. Pero la misma diapositiva dice que con KPI se evitan **solo 12 de 18 días** (USD 18.000), es decir, **quedan 6 días de retrabajo** (6 × 6 × 250 = USD 9.000).
->
-> Con ese dato, el cálculo consistente sería:
-> - Ahorro bruto = 18.000 (retrabajo evitado) + 8.000 (SLA) + 24.000 (churn) = **USD 50.000**
-> - Ahorro neto = 50.000 − 1.200 = **USD 48.800**
->
-> Ambos resultados muestran lo mismo: **medir cuesta muy poco (USD 1.200) frente a lo que cuesta no medir (≈ USD 50.000–59.000)**. Si te lo preguntan, mostrá el cálculo y **explicitá el supuesto** que usás.
-
-```mermaid
-flowchart LR
-    I["Inversión en KPI<br/>USD 1.200"] --> A["Ahorro bruto<br/>USD 50.000 – 59.000"]
-    A --> R(["Retorno ≈ 40–48 veces<br/>lo invertido"])
-```
-
 ---
 
 ## X. KPI y la transformación del modelo de trabajo
@@ -401,18 +367,6 @@ Consigna de la cátedra (8 min individual + 10 min en común). Elegí un context
 - **Opción C – Producto propio:** lanzaron una **app de gestión de turnos**; quieren saber **si crece**.
 
 Para el contexto elegido definí: (1) el problema a medir, (2) el KPI con **fórmula exacta**, (3) la **meta**, (4) **frecuencia** y **responsable**.
-
-**Resoluciones modelo:**
-
-| | Opción A (API de pagos) | Opción B (CRM no adoptado) | Opción C (app de turnos) |
-|---|---|---|---|
-| **Problema** | Muchos bugs llegan a producción | Los usuarios no usan el CRM | No sabemos si la app crece |
-| **KPI y fórmula** | **Defect Escape Rate** = bugs en prod / total bugs × 100 | **Adoption Rate** = usuarios activos semanales / licencias contratadas × 100 | **Crecimiento de MAU** = (MAU mes actual − MAU mes anterior) / MAU mes anterior × 100 |
-| **Línea de base** | 18 % | 30 % | — (primer mes) |
-| **Meta** | < 5 % en 2 meses | > 75 % en 60 días | ≥ 15 % mensual durante el Q |
-| **Frecuencia** | Semanal (por sprint) | Semanal | Mensual |
-| **Responsable** | Tech Lead / QA Lead | Implementation Manager / Customer Success | Product Manager |
-| **Leading complementario** | Code coverage > 80 % | Usuarios que completaron la capacitación | Tasa de activación (usuarios que reservan su 1er turno) |
 
 ---
 
@@ -471,10 +425,10 @@ Churn = 18 / 400 × 100 = **4,5 %**. El benchmark saludable para SMB es **< 3 %*
 %P = 150/300 = 50 %; %D = 60/300 = 20 %. **NPS = 50 − 20 = +30**. **No cumple** la meta de > +40 (y está debajo del promedio tech de +35).
 </details>
 
-**6. En el caso TechSolve, ¿cómo se obtiene el ahorro neto de USD 57.800 y qué supuesto implica?**
+**6. En el caso TechSolve, ¿cómo se obtiene el ahorro neto de USD 57.800?**
 <details><summary>Ver respuesta</summary>
 
-Costo sin KPI = 27.000 (retrabajo: 6 devs × 18 días × USD 250) + 8.000 (SLA) + 24.000 (churn) = 59.000. Ahorro neto = 59.000 − 1.200 (inversión) = **57.800**. Supone que se evita **todo** el costo, pero la diapositiva indica que solo se evitan **12 de 18 días** de retrabajo (USD 18.000). Con ese dato, el ahorro neto sería 18.000 + 8.000 + 24.000 − 1.200 = **USD 48.800**. En ambos casos, medir es muchísimo más barato que no medir.
+Costo sin KPI = 27.000 (retrabajo: 6 devs × 18 días × USD 250) + 8.000 (SLA) + 24.000 (churn) = 59.000. Ahorro neto = 59.000 − 1.200 (inversión) = **57.800**. Medir cuesta muy poco frente a lo que cuesta no medir.
 </details>
 
 **7. ¿Qué aprendió Mercado Libre al medir el Change Failure Rate por equipo?**

@@ -38,7 +38,6 @@
     2. Ansioso (*Anxious*)
     3. No lineal (*Nonlinear*)
     4. Incomprensible (*Incomprehensible*)
-  - D. Respuesta: resiliencia, empatía, contexto, intuición
 - **IV. Matriz de transición estratégica VICA → VANI**
 - **V. Conclusión: innovación abierta como resiliencia colectiva**
 
@@ -140,26 +139,6 @@ VANI describe un mundo que **"ya no solo es inestable, sino que está roto"**, e
 - **Impacto en IA:** **inteligencia colectiva y abierta**.
 
 > 🔗 **Conexión crítica con los módulos de datos:** "Incomprensible" pone un **límite** a la cultura data-driven (BI, Big Data). No alcanza con tener más datos; hace falta **interpretarlos colectivamente**. Es la respuesta a la pregunta del módulo [08](../parcial-1/08-business-intelligence.md): *¿puede una empresa depender demasiado de los datos?*
-
-### III.D Resumen VANI
-
-| Letra | Definición corta | Respuesta | Impacto en Innovación Abierta |
-|---|---|---|---|
-| **Frágil** | Parece sólido pero **colapsa** rápido | **Resiliencia y redundancia** | Resiliencia compartida en red |
-| **Ansioso** | Incertidumbre que genera **parálisis o miedo** | **Empatía, transparencia, agilidad** | Confianza y empatía en el ecosistema |
-| **No lineal** | Causas pequeñas → **efectos desproporcionados** | **Contexto y flexibilidad** | Apuestas diversificadas (CVC) |
-| **Incomprensible** | Los datos lógicos **ya no explican** la realidad | **Intuición, colaboración, transparencia** | Inteligencia colectiva y abierta |
-
-> 💡 **Correspondencia aproximada VICA ↔ VANI** (para recordar mejor, no es textual de la cátedra):
->
-> | VICA | → | VANI |
-> |---|---|---|
-> | Volátil | → | **Frágil** (ya no oscila: se rompe) |
-> | Incierto | → | **Ansioso** (la incertidumbre se vuelve emocional) |
-> | Complejo | → | **No lineal** (ya no hay causa-efecto) |
-> | Ambiguo | → | **Incomprensible** (ya ni con datos se entiende) |
->
-> ⚠️ Es solo una **ayuda de memoria**, no una equivalencia oficial: en el parcial definí cada letra con la definición de la cátedra.
 
 ---
 

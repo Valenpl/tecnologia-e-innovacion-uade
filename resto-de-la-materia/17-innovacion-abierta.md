@@ -64,8 +64,6 @@
 
 > 💡 **Leé bien el título del libro**: tiene tres partes —"**nuevo imperativo**", "**crear**… tecnología", "**beneficiarse** de la tecnología"— que son exactamente las **tres verdades** de la sección IV.
 
-> ➕ **Contexto adicional – definición formal:** Chesbrough define la innovación abierta como *el uso de flujos de conocimiento hacia adentro y hacia afuera para acelerar la innovación interna y expandir los mercados para el uso externo de la innovación*.
-
 ---
 
 ## II. El fundamento: del embudo cerrado al embudo perforado
@@ -143,8 +141,6 @@ flowchart LR
 > - **Joint venture**: empresa o proyecto conjunto entre dos o más organizaciones que comparten inversión, riesgo y beneficios.
 > - **Licencia**: permiso para que otro use tu patente a cambio de un pago (regalías).
 > - **Costo hundido**: dinero ya gastado que no se recupera (ej. la investigación que terminó en un cajón).
-
-> ➕ **Contexto adicional:** Chesbrough también describe un tercer modo, el **acoplado** (*coupled*), que combina inbound y outbound en alianzas de co-creación. Se corresponde con los "ecosistemas de co-creación" de la sección VI.
 
 ---
 
@@ -245,25 +241,10 @@ flowchart LR
 | **Independencia operativa** | Busca retornos **de forma agnóstica**: invierte en proyectos con potencial de disrupción **aunque no estén alineados hoy con los productos de Google**. |
 | **El "Google Edge"** | Más allá del capital, aporta **soporte humano y técnico**: acceso directo a **ingenieros, científicos de datos, diseñadores UX y expertos en marketing** de Google. |
 
-### VIII.C Sectores clave de su cartera
+### VIII.C Cartera y casos de éxito
 
-| Sector | Foco |
-|---|---|
-| **Salud y ciencias de la vida** | Biotecnología, telemedicina, **edición genética**, desarrollo de fármacos con IA. |
-| **IA y computación** | Infraestructura de software, **ciberseguridad avanzada**, **modelos de lenguaje masivos**. |
-| **Consumo y finanzas** | E-commerce, apps móviles masivas, **fintech**. |
-| **Clima y energía (CleanTech)** | **Descarbonización**, energías limpias, sostenibilidad. |
-
-### VIII.D Casos de éxito históricos
-
-| Startup | Sector | Rol de GV |
-|---|---|---|
-| **Uber** | Movilidad y logística | Capital crítico en etapas iniciales para su **escalabilidad global**. |
-| **Slack** | Comunicación corporativa | Software colaborativo que **redefinió el flujo de trabajo** en las empresas. |
-| **Nest Labs** | Domótica e IoT | Termostatos y seguridad inteligente; **adquirida por Google** años después para su ecosistema Hogar. |
-| **Stripe** | Infraestructura fintech | La plataforma de pagos en línea más valorada y robusta del ecosistema digital. |
-
-> 💡 **Nest es el ejemplo perfecto del ciclo completo:** GV invierte (inbound vía CVC) → la startup crece → Google la **adquiere** e integra (inbound vía adquisición). Y Uber y Stripe conectan con los **unicornios** del módulo [04](../parcial-1/04-empresas-unicornio.md).
+- **Sectores clave:** salud y ciencias de la vida, IA y computación, consumo y finanzas (fintech), y clima y energía (CleanTech).
+- **Casos de éxito históricos:** **Uber**, **Slack**, **Nest Labs** (adquirida después por Google) y **Stripe**.
 
 ---
 

@@ -40,7 +40,6 @@
   3. Co-creación y prototipado de servicios
 - **VI. Beneficios**
 - **VII. Cultura fail**
-- **VIII. Caso aplicado paso a paso**
 
 ---
 
@@ -75,8 +74,6 @@ Metodología para pasar **de un desafío a aprendizajes en una semana** (cinco d
 | Miércoles | **Decide** (decidir) | Valorizar entre las distintas opciones y **seleccionar una** entre ellas. |
 | Jueves | **Prototype** (prototipar) | Crear un **prototipo realista** de la solución. |
 | Viernes | **Test** (testear) | Probar con **usuarios reales** la solución creada y **medir las respuestas**. |
-
-> ➕ **Contexto adicional:** el Design Sprint fue creado por **Jake Knapp** en **Google Ventures** (el fondo de CVC del tema [17](17-innovacion-abierta.md)). Es una versión **comprimida en una semana** del Design Thinking.
 
 > 🔗 Las fases se parecen a las del Design Thinking (tema [13](../parcial-1/13-design-thinking.md)): Map ≈ empatizar y definir, Sketch ≈ idear, Decide ≈ converger, Prototype ≈ prototipar, Test ≈ testear.
 
@@ -234,21 +231,6 @@ Conecta de forma **síncrona** el viaje del cliente con **todo el motor interno*
 > 📝 **Citar y explayarse:** La cátedra resume la cultura fail en la idea de que *"debemos aprender al fallar"* y en que *"probar y fallar es el primer eslabón de una cadena que termina en probar y no fallar"*. Significa que el error no es el opuesto del éxito sino un **paso necesario** para llegar a él: una organización que castiga el fracaso logra que nadie se arriesgue, y sin riesgo no hay innovación. Por eso propone no premiar solo el éxito, dar un **contexto seguro para experimentar** y **compartir** lo que falló para que otros no repitan el error. Por ejemplo, un equipo que prueba un piloto de atención por chatbot y fracasa aporta igual valor si documenta por qué falló: el siguiente intento parte de ese aprendizaje.
 
 > 🔗 Es el pilar de **aceptar el fracaso** de la **Gestión 2.0** (tema [07](../parcial-1/07-gestion-de-la-innovacion.md)), el *fail fast* de [Design Thinking](../parcial-1/13-design-thinking.md) y el "iterar vs. pivotar" de [Lean Startup](20-lean-startup-y-mvp.md).
-
----
-
-## VIII. Caso aplicado paso a paso
-
-> 🧩 **Servicio:** la inscripción a materias de una universidad. Los alumnos se quejan de que es lenta y confusa.
-
-| Paso | Aplicación |
-|---|---|
-| **1. Investigación** | Observar el día de inscripción, entrevistar a alumnos y al personal de bedelía. Insight: el sistema web funciona, pero las **correlatividades** se cargan a mano en bedelía y llegan tarde (backstage roto). |
-| **2. Journey Map** | Antes: el alumno no sabe a qué puede anotarse (dolor). Durante: el sistema rechaza materias sin explicar por qué (dolor). Después: tiene que ir a bedelía a reclamar (dolor). |
-| **3. Blueprint** | Frontstage: web de inscripción y mostrador de bedelía. Backstage: carga manual de notas y correlatividades. Soporte: base de datos académica sin conexión automática con las actas. |
-| **4. Ideación (co-creación)** | Taller con alumnos, bedeles y sistemas: conectar actas con la base de datos, mostrar por qué no se puede cursar una materia, simulador de inscripción previo. |
-| **5. Prototipado** | Roleplaying del día de inscripción con el simulador en papel; mockup de la pantalla con el motivo del rechazo. |
-| **6. Implementación** | Piloto en una carrera, capacitación a bedelía, KPI: reclamos por inscripción y tiempo promedio de inscripción. |
 
 ---
 
