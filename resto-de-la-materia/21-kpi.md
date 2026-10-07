@@ -122,60 +122,22 @@ flowchart LR
         m3["tickets abiertos"]
         subgraph KPI["KPI: las pocas que son 'Key'"]
             k1["tasa de conversión<br/>meta 5 %"]
-            k2["lead time for changes<br/>meta < 1 día"]
+            k2["resolución de bugs críticos<br/>meta < 4 h"]
         end
     end
 ```
 
-#### Comparación punto por punto
+#### Ejemplos de la cátedra: de métrica a KPI
 
-| Criterio | **Métrica** | **KPI** |
-|---|---|---|
-| **Pregunta que responde** | ¿Qué pasó? ¿Cuánto? | ¿Estamos cumpliendo el **objetivo**? |
-| **Vínculo con la estrategia** | Puede no tener ninguno. | **Siempre** ligado a un objetivo de negocio. |
-| **Meta (target)** | No tiene: es un valor suelto. | Tiene meta: *"sin meta, no hay KPI"*. |
-| **Responsable** | Nadie es dueño del número. | Hay un **dueño** que responde por él. |
-| **Frecuencia / período** | Se registra cuando se puede. | Se revisa con **frecuencia definida** (semanal, mensual…). |
-| **Cantidad** | Muchas (cientos en un tablero). | **Pocas**: si todo es clave, nada es clave. |
-| **Qué dispara** | Nada por sí sola: **informa**. | Una **decisión o acción** cuando se desvía de la meta. |
-| **Para quién** | Equipo operativo, análisis de detalle. | Responsables y dirección, para **decidir**. |
-
-#### Cómo una métrica se convierte en KPI
-
-Se toma la métrica y se le agregan, en orden, los elementos de la [anatomía](#ii-anatomía-de-un-kpi-bien-construido):
-
-| Paso | Qué se agrega | Ejemplo (tienda online) |
-|---|---|---|
-| 0 · Métrica suelta | — | *"Tuvimos 10.000 visitas."* |
-| 1 · Objetivo | ¿Para qué importa? | Aumentar las **ventas online**. |
-| 2 · Nombre + fórmula | Qué se mide de verdad | **Tasa de conversión = compras / visitas × 100**. |
-| 3 · Línea de base | Desde dónde se parte | Hoy: **3,2 %** (320 compras / 10.000 visitas). |
-| 4 · Meta | Cuánto es éxito | **5 %** al cierre del trimestre. |
-| 5 · Frecuencia + responsable | Cada cuánto y quién | **Semanal**; líder de e-commerce. |
-
-> 🧩 **Resultado:** *"Tasa de conversión: 3,2 % vs. meta del 5 % para el Q4, revisada cada semana por el líder de e-commerce."* Las 10.000 visitas no desaparecen: pasan a ser un **dato de entrada** de la fórmula del KPI.
-
-#### Más ejemplos: de métrica a KPI
-
-| Área | Métrica (informa) | KPI (orienta decisiones) |
-|---|---|---|
-| **Desarrollo de software** | *"Hicimos 40 commits esta semana."* | **Lead time for changes** < 1 día (hoy 3 días), semanal, Tech Lead. |
-| **Calidad** | *"Se reportaron 25 bugs este mes."* | **Defect Rate** < 0,1 bugs por feature (hoy 0,4), semanal, Tech Lead. |
-| **Soporte** | *"Recibimos 300 tickets."* | **Tiempo de resolución de bugs críticos** < 4 h (hoy 11,5 h), semanal, Tech Lead. |
-| **SaaS** | *"Tenemos 1.200 usuarios registrados."* | **Churn mensual** < 2 % (hoy 4 %), mensual, líder de Customer Success. |
-| **Experiencia del cliente** | *"Respondieron 500 encuestas."* | **NPS** de +20 a +40 en el Q2, por encuesta post-compra, líder de Customer Success. |
-
-> 📌 **Depende del objetivo:** la misma métrica puede ser KPI en una empresa y no en otra. Para un **diario online que vive de la publicidad**, las visitas *sí* pueden ser un KPI (con meta y responsable), porque son su negocio. Para una **tienda online**, en cambio, lo que importa es cuántas visitas **compran**. Lo que convierte una métrica en KPI no es el número en sí, sino **su vínculo con el objetivo**.
-
-> ⚠️ **Errores típicos:**
-> - **Llamar KPI a cualquier número del tablero.** Si no tiene meta, responsable y frecuencia, es una métrica (*"un KPI sin meta es una observación"*).
-> - **Tener demasiados KPI.** Con 40 "indicadores clave" nadie sabe cuál mirar; se diluye la "K".
-> - **Medir lo fácil en vez de lo importante.** Contar commits es fácil; medir si el software llega rápido y sin fallas a producción es lo que importa.
-> - **Medir sin decidir.** Si el número se desvía de la meta y nadie hace nada, el KPI funciona como una métrica más.
+| Métrica (informa) | KPI (orienta decisiones) |
+|---|---|
+| *"Tuvimos 10.000 visitas al sitio."* | **Tasa de conversión** 3,2 % vs. meta del 5 %. |
+| "Tiempo de resolución de bugs" como dato en un tablero. | **Tiempo de resolución de bugs críticos** < 4 h (línea de base 11,5 h), semanal, Tech Lead. |
+| Bugs en producción. | **Defect Rate** < 0,1 bugs por feature (hoy 0,4), semanal, Tech Lead. |
 
 > ➕ **Contexto adicional – métricas de vanidad:** en *Lean Startup*, Eric Ries llama **métricas de vanidad** (*vanity metrics*) a los números que **siempre suben y hacen quedar bien**, pero no ayudan a decidir: usuarios registrados acumulados, descargas totales, "me gusta". Las opone a las **métricas accionables**, que muestran causa y efecto (por ejemplo, conversión o retención por cohorte). Un buen KPI casi nunca es una métrica de vanidad. Ver [20 Lean Startup](20-lean-startup-y-mvp.md).
 
-> 📝 **Citar y explayarse:** Para la cátedra *"la palabra clave es 'Key': no toda métrica es un KPI"*. Una **métrica** es cualquier dato cuantificable, como *"tuvimos 10.000 visitas al sitio"*: **informa** qué pasó, pero no dice si eso es bueno o malo. Un **KPI** es una métrica elegida porque mide el avance hacia un **objetivo estratégico**, y por eso tiene **meta, responsable y frecuencia**: *"la tasa de conversión es 3,2 % vs. meta del 5 %"* **orienta decisiones**, porque muestra una brecha y obliga a actuar. Todo KPI es una métrica, pero no al revés, y la misma métrica puede ser KPI en un contexto y no en otro: las visitas son clave para un diario que vive de la publicidad, pero no para una tienda que necesita ventas. Por eso conviene tener **pocos KPI**: si todo es clave, nada es clave.
+> 📝 **Citar y explayarse:** Para la cátedra *"la palabra clave es 'Key': no toda métrica es un KPI"*. Una **métrica** es cualquier dato cuantificable, como *"tuvimos 10.000 visitas al sitio"*: **informa** qué pasó, pero no dice si eso es bueno o malo. Un **KPI** es una métrica elegida porque mide el avance hacia un **objetivo estratégico**, y por eso tiene **meta, responsable y frecuencia**: *"la tasa de conversión es 3,2 % vs. meta del 5 %"* **orienta decisiones**, porque muestra una brecha y obliga a actuar. Todo KPI es una métrica, pero no toda métrica es un KPI: *"sin meta, no hay KPI: es solo una métrica"*.
 
 ### I.C Las 5 condiciones de un KPI
 

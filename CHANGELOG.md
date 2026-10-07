@@ -2,6 +2,13 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.07.3 — 2026-10-07
+
+**Motivo:** se pidió dejar en métrica vs. KPI solo lo que sale del material de la cátedra.
+
+### Quitado
+- **Tema 21 · KPI, sección I.B:** el paso a paso para convertir una métrica en KPI, la comparación punto por punto, el ejemplo del diario online, los errores típicos y los ejemplos con metas inventadas. Los ejemplos que quedan son los de la cátedra.
+
 ## v2026.10.07.2 — 2026-10-07
 
 **Motivo:** se pidió más información en la parte de **métrica vs. KPI** del tema 21.
