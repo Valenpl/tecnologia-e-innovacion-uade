@@ -100,6 +100,19 @@ flowchart TB
 | **Puede existir sin un objetivo aspiracional** | **Siempre parte de un objetivo aspiracional** |
 | Ej: uptime mensual, NPS, churn rate | Ej: *"Ser el equipo más ágil de la empresa"* |
 
+### Tabla comparativa de la cátedra: KPI vs. OKR 🔥
+
+> Va a ser pregunta del final.
+
+| Característica | **KPI** (*Key Performance Indicator*) | **OKR** (*Objectives and Key Results*) |
+|---|---|---|
+| **Definición** | Indicador cuantitativo que mide la eficiencia y salud de un proceso en marcha. | **Metodología de gestión ágil** para alinear equipos hacia metas ambiciosas. |
+| **¿Qué responde?** | *¿Cómo lo estamos haciendo hoy? ¿A qué ritmo avanzamos?* | *¿Hacia dónde queremos ir (O) y cómo mediremos el éxito (KR)?* |
+| **Enfoque principal** | **El Viaje (Monitoreo).** Controlar las variables críticas del día a día. | **La Estrategia (Crecimiento).** Impulsar la innovación y resolver problemas en equipo. |
+| **Frecuencia de revisión** | Alta (diaria o semanal). | Media (trimestral con *check-ins* semanales). |
+| **Nivel de éxito exigido** | **100 % de cumplimiento.** Es el estándar mínimo operativo aceptable. | **60 % – 70 % de cumplimiento.** Al ser metas muy agresivas (*stretch goals*), el 100 % es raro. |
+| **Flexibilidad** | **Baja.** La métrica es fija (ej. "Tasa de conversión") para poder comparar el histórico. | **Alta.** Se redefinen, cambian o eliminan por completo cada 90 días según el mercado. |
+
 > 📌 *"**Los KPI te dicen cómo estás. Los OKR te dicen adónde querés ir.** Un KR bien definido dentro de un OKR es **un KPI con contexto estratégico**."*
 
 > 💡 **Analogía:** los KPI son el **tablero del auto** (velocidad, temperatura, combustible: siempre encendido). El OKR es **el destino del viaje** de este trimestre y los hitos que te dicen si estás llegando.
