@@ -361,4 +361,4 @@ Freelancer: claridad sobre qué se paga y cuándo, evidencia objetiva de valor, 
 
 ---
 
-[← 21 KPI](21-kpi.md) · [🏠 Índice](../README.md)
+[← 21 KPI](21-kpi.md) · [🏠 Índice](../README.md) · [Siguiente → 23 Análisis de mercado: TAM, SAM, SOM](23-analisis-de-mercado-tam-sam-som.md)

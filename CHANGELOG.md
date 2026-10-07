@@ -2,6 +2,18 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.07.6 — 2026-10-07
+
+**Motivo:** se agregó la presentación *Análisis de Mercado y Competencia / Tamaño de mercado TAM SAM SOM* (Barrios), que no estaba cubierta en ningún tema.
+
+### Agregado
+- **Tema 23 · Análisis de mercado: TAM, SAM, SOM, Porter y PESTEL** (`resto-de-la-materia/`): mercado desde la economía (oferta, demanda, Qd = a − bP, equilibrio) y desde el marketing (mercado meta), competencia perfecta vs. oligopolio vs. monopolio, TAM/SAM/SOM con los ejemplos de biotecnología de la cátedra, Top-Down vs. Bottom-Up, volumen, valores, per cápita y market share, los dos ejercicios de la cátedra resueltos (camisas y vinos), 5 Fuerzas de Porter con su herramienta de intensidad competitiva, y PESTEL.
+- **Glosario:** 5 Fuerzas de Porter, Bottom-Up / Top-Down, estructuras de mercado, market share, mercado meta, PESTEL, TAM / SAM / SOM.
+
+### Cambiado
+- **README** y **Cómo estudiar:** tema 23 agregado al índice y al mapa; el resto de la materia pasa a ser temas 15–23.
+- **Tema 22 · OKR:** el pie ahora enlaza al tema 23.
+
 ## v2026.10.07.5 — 2026-10-07
 
 **Motivo:** se pidió recortar el tema 22 (OKR) igual que el 21.

@@ -4,6 +4,7 @@
 
 | Término | Definición breve | Módulo |
 |---|---|---|
+| **5 Fuerzas de Porter** | Modelo para analizar la intensidad competitiva de una industria: rivalidad, potenciales entrantes, poder de clientes, poder de proveedores y sustitutos. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **5 V de Big Data** | Volumen, Velocidad, Variedad, Veracidad y Valor (la más importante). | [10](parcial-1/10-big-data.md) |
 | **Abismo de desilusión** | Fase del Hype Cycle de Gartner donde caen las expectativas tras el pico. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
 | **Aceleradora corporativa** | Estructura interna que da mentoría, recursos e infraestructura a emprendedores a cambio de pilotar soluciones. | [17](resto-de-la-materia/17-innovacion-abierta.md) |
@@ -17,6 +18,7 @@
 | **Backstage / Frontstage** | Lo oculto que sostiene el servicio / lo que el cliente ve y experimenta; los separa la línea de visibilidad. | [16](resto-de-la-materia/16-service-design-y-cultura-fail.md) |
 | **Big Data** | Datos tan masivos, rápidos y complejos que las herramientas tradicionales no pueden procesarlos. | [10](parcial-1/10-big-data.md) |
 | **Biomimética** | Técnica creativa: imitar estructuras y procesos naturales. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
+| **Bottom-Up / Top-Down** | Dimensionar un mercado de lo micro a lo macro (ingresos propios y de competidores → tamaño total) / de lo macro a lo micro (mercado total → segmentos → regiones → países). | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **Brainwriting** | Generación de ideas escrita e individual antes de compartir; evita la censura en equipos jerárquicos. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
 | **Business Intelligence (BI)** | Conjunto de tecnologías, procesos y herramientas que transforman datos brutos en información accionable. | [08](parcial-1/08-business-intelligence.md) |
 | **Business Model Canvas (BMC)** | Lienzo de Osterwalder que muestra en una imagen cómo genera valor el negocio, en 9 bloques. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
@@ -32,6 +34,7 @@
 | **Clustering** | Técnica descriptiva: agrupa datos sin etiquetas previas según similitud. | [09](parcial-1/09-data-mining.md) |
 | **Code Coverage** | Líneas testeadas / total × 100. Meta > 80 %. | [21](resto-de-la-materia/21-kpi.md) |
 | **Competencia directa / indirecta / sustituta / latente** | Producto similar al mismo público / mismo problema de otra manera / alternativa distinta que reemplaza / todavía no está pero puede entrar. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
+| **Competencia perfecta / oligopolio / monopolio** | Estructuras de mercado: muchísimos productores sin control del precio / pocos productores grandes / un solo productor con control total. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **Corporate Venture Capital (CVC)** | Cartera de inversiones de una gran empresa en múltiples startups simultáneamente. | [17](resto-de-la-materia/17-innovacion-abierta.md) |
 | **Creatividad** | Capacidad de generar nuevas ideas y conceptos por medio de la creación, cambios y mejoras. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
 | **Cultura del miedo** | Caso Nokia: directivos que temen a la competencia y mandos medios que no comunican malas noticias → información distorsionada y decisiones lentas. | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
@@ -81,9 +84,11 @@
 | **Liquidación** | Estrategia defensiva: venta de los activos de la empresa, en partes, por su valor tangible. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **LTV / CAC** | Relación valor de vida del cliente / costo de adquirirlo; saludable ≥ 3:1. | [21](resto-de-la-materia/21-kpi.md) |
 | **Machine learning** | Subcampo de la IA: sistemas que aprenden de los datos. | [12](parcial-1/12-innovacion-tecnologica-e-ia.md) |
+| **Market share** | Participación de una marca o empresa sobre el total del mercado, en volumen o en valores. Se gana share creciendo más que la industria. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **Matriz de Ansoff** | Mercado × producto: penetración, desarrollo de mercado, desarrollo de producto, diversificación. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **Matriz de competitividad** | Compara tu negocio con 3–5 competidores puntuando criterios clave (ej.: 1–5). | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **Matriz de las cuatro acciones** | Eliminar, reducir, incrementar y crear (Océano Azul). | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
+| **Mercado meta** | Segmento de mercado que la empresa decide captar, satisfacer y/o servir con su programa de marketing para obtener un beneficio. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **Miopía temporal** | Concentración excesiva en la innovación de corto plazo en detrimento de la de mayor beneficio futuro (caso Nokia). | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **Misfit** | Desajuste o falta de encaje entre la propuesta de valor y el perfil del cliente. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **MTTR** | Tiempo medio de recuperación ante falla. | [21](resto-de-la-materia/21-kpi.md) |
@@ -93,6 +98,7 @@
 | **Océano azul / océano rojo** | Espacio de mercado nuevo sin competencia / mercado existente donde se compite (Kim y Mauborgne). | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **OKR** | Objectives and Key Results: sistema que conecta metas aspiracionales con indicadores medibles. | [22](resto-de-la-materia/22-okr.md) |
 | **Penetración de mercado** | Estrategia intensiva: más participación con los productos actuales vía marketing. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
+| **PESTEL** | Análisis del entorno externo: Político, Económico, Sociológico, Tecnológico, Ecológico/Ambiental y Legal. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **Pivotar** | Cambiar aspectos clave del negocio cuando el mercado no valida. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) |
 | **Proceso creativo** | Preparación, incubación, iluminación, verificación, adaptación y difusión. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
 | **Propuesta de valor** | Razón por la que los clientes eligen tu solución en lugar de la competencia. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
@@ -109,6 +115,7 @@
 | **SMART** | Specific, Measurable, Achievable, Relevant, Time-bound (Doran, 1981). | [21](resto-de-la-materia/21-kpi.md) |
 | **Spin-off** | Empresa nueva que se desprende de otra para explotar una tecnología. | [17](resto-de-la-materia/17-innovacion-abierta.md) |
 | **Squad** | Equipo autónomo con su propio KPI (modelo Spotify). | [21](resto-de-la-materia/21-kpi.md) |
+| **TAM / SAM / SOM** | Mercado total disponible / parte accesible y relevante para el negocio / parte que el negocio puede captar razonablemente. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **Tecnología** | Conjunto de saberes, técnicas y herramientas que permiten transformar el entorno ("el cómo"). | [01](parcial-1/01-tecnologia-e-innovacion-fundamentos.md) |
 | **Tecnologías disruptivas** | Innovaciones que transforman radicalmente industrias y desplazan lo establecido con soluciones más accesibles. | [03](parcial-1/03-tecnologias-disruptivas.md) |
 | **Text mining** | Análisis de datos no estructurados (textos) y sentimiento. | [09](parcial-1/09-data-mining.md) |
