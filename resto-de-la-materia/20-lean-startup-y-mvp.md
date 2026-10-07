@@ -10,18 +10,15 @@
 ## 🎯 Objetivos de aprendizaje
 
 1. Definir **Lean Startup** y su **objetivo**.
-2. Conocer a su creador, **Eric Ries**.
-3. Describir las **diez fases** del método en orden.
-4. Explicar los conceptos de **Producto Mínimo Viable (MVP)**, **validación**, **iteración** y **pivotar**.
-5. Relacionar Lean Startup con los **proyectos de innovación**.
+2. Describir las **diez fases** del método en orden.
+3. Explicar los conceptos de **Producto Mínimo Viable (MVP)**, **validación**, **iteración** y **pivotar**.
 
 ---
 
 ## 🗺️ Esquema del tema
 
 - **I. Definición y objetivo**
-- **II. Eric Ries**
-- **III. Las fases del método**
+- **II. Las fases del método**
   - A. Entender el problema
     1. Necesidad del cliente
     2. Detección de oportunidad
@@ -36,8 +33,7 @@
   - D. Decidir
     9. Iteración
     10. Decisión de pivotar
-- **IV. Conceptos clave**: MVP, hipótesis, pivotar, iterar
-- **V. Lean Startup en proyectos de innovación**
+- **III. Conceptos clave**: MVP, hipótesis, pivotar, iterar
 
 ---
 
@@ -77,68 +73,51 @@ Tres mecanismos de la definición:
 
 ---
 
-## II. Eric Ries
-
-- **Emprendedor de Silicon Valley**, nacido en **1979**.
-- **Autor reconocido del movimiento Lean Startup**, una estrategia empresarial para **reducir el riesgo al lanzar proyectos innovadores**.
-- En **2001** se trasladó a Silicon Valley, donde trabajó como **ingeniero de software**.
-
-> ➕ **Contexto adicional:** su libro ***The Lean Startup*** se publicó en **2011**. Ries se inspiró en el *lean manufacturing* de Toyota (eliminar desperdicio) y en el *customer development* de Steve Blank.
-
----
-
-## III. Las fases del método
+## II. Las fases del método
 
 > 📌 *Nota del docente:* *"En la aplicación del método Lean Startup se distinguen varias etapas, **desde la detección de la necesidad del cliente** a la **creación del producto** e incluso **el cambio de estrategia cuando sea necesario**."*
 
-### III.A Entender el problema
+### II.A Entender el problema
 
-#### III.A.1 Necesidad del cliente
+#### II.A.1 Necesidad del cliente
 **Estudio y análisis del público** para detectar los **problemas** con el producto o servicio. Se **definen las necesidades del usuario** en función de la información obtenida.
 
-#### III.A.2 Detección de oportunidad
+#### II.A.2 Detección de oportunidad
 Con las necesidades definidas, se detecta **la oportunidad de negocio** que solventará los problemas del usuario.
 
-### III.B Diseñar la solución
+### II.B Diseñar la solución
 
-#### III.B.3 Ideación de soluciones
+#### II.B.3 Ideación de soluciones
 Estudio de **ideas y posibilidades** sobre cómo abordar el problema existente en el mercado.
 
-#### III.B.4 Priorización de la solución
+#### II.B.4 Priorización de la solución
 Tras el análisis, se **elige una solución** y se **prioriza su desarrollo** con el objetivo de conseguir un **producto mínimo viable**.
 
-#### III.B.5 Construcción del MVP según hipótesis
+#### II.B.5 Construcción del MVP según hipótesis
 Desarrollo del producto y sus características **atendiendo al aprendizaje** extraído del análisis previo. El MVP se construye para **poner a prueba hipótesis**.
 
-### III.C Aprender del mercado
+### II.C Aprender del mercado
 
-#### III.C.6 Medición de resultados
+#### II.C.6 Medición de resultados
 Tras lanzar el producto mínimo **para testearlo**, se **recopila y analiza el feedback** de los usuarios. Luego **se adapta el producto**, mejorando sus características.
 
-#### III.C.7 Aprendizaje de errores y detección de fortalezas
+#### II.C.7 Aprendizaje de errores y detección de fortalezas
 El análisis continuo de todas las fases aporta información sobre **fallos a evitar** y **aspectos positivos** a incluir en otros desarrollos.
 
-#### III.C.8 Validación
+#### II.C.8 Validación
 Al llegar al producto final, se **decide si cumple con las expectativas del mercado**, en función de los análisis obtenidos.
 
-### III.D Decidir
+### II.D Decidir
 
-#### III.D.9 Iteración
+#### II.D.9 Iteración
 **Repetir el proceso de mejora tantas veces como sea necesario** para afinar el producto final.
 
-#### III.D.10 Decisión de pivotar
+#### II.D.10 Decisión de pivotar
 Si, cumplidas estas etapas, el producto **no cumple los objetivos que demanda el mercado**, lo más conveniente es **pivotar**: **cambiar aspectos clave del negocio** para que encaje en el mercado.
-
-> ➕ **Contexto adicional – el ciclo Construir → Medir → Aprender:** en el libro de Ries, las fases 5–8 se resumen en un bucle continuo: **Construir** (MVP) → **Medir** (datos de uso) → **Aprender** (validar o refutar la hipótesis) → volver a construir. El objetivo es **recorrer el bucle lo más rápido posible**.
-
-```mermaid
-flowchart LR
-    I(("Ideas")) --> B["CONSTRUIR"] --> P(("Producto / MVP")) --> M["MEDIR"] --> D(("Datos")) --> L["APRENDER"] --> I
-```
 
 ---
 
-## IV. Conceptos clave
+## III. Conceptos clave
 
 | Concepto | Significado |
 |---|---|
@@ -152,22 +131,6 @@ flowchart LR
 > ⚠️ **Iterar vs. pivotar (clásico):** iterar = **ajustar** el producto manteniendo la estrategia. Pivotar = **cambiar algo fundamental** (segmento de cliente, problema, modelo de ingresos, canal). Pivotar **no es fracasar**: es usar lo aprendido para reorientarse.
 
 > 📝 **Citar y explayarse:** Según la nota del docente, en Lean Startup se distinguen etapas que van *"desde la detección de la necesidad del cliente"* hasta *"la creación del producto e incluso el cambio de estrategia cuando sea necesario"*. Primero se entiende el problema, después se diseña la solución y se construye un MVP según hipótesis, luego se mide y se valida con el mercado y, por último, se decide: **iterar** —mejorar sin cambiar el rumbo— o **pivotar** —*"cambiar aspectos clave del negocio"* cuando el producto no cumple lo que demanda el mercado—. Pivotar no es fracasar, sino usar lo aprendido para reorientarse. Instagram es el ejemplo clásico: empezó como una app de check-in y pivotó hacia las fotos al ver que era lo que los usuarios realmente usaban.
-
----
-
-## V. Lean Startup en proyectos de innovación
-
-Relación con los **elementos clave** de un proyecto de innovación (módulo [19](19-proyectos-y-estrategia-de-innovacion.md)):
-
-| Elemento del proyecto | Aporte de Lean Startup |
-|---|---|
-| Idea y propósito | Fases 1–2: necesidad del cliente y oportunidad. |
-| Planificación | Fases 3–4: ideación y priorización. |
-| **Experimentación y validación** | Fases 5–8: **MVP, medición, aprendizaje, validación** (el aporte central). |
-| Recursos y gestión | Reduce el **desperdicio** de tiempo y dinero; gestiona el riesgo. |
-| Generación de valor | Validación con el mercado; **pivotar** si no hay valor. |
-
-Y con la **Gestión 2.0** (módulo [07](../parcial-1/07-gestion-de-la-innovacion.md)): Lean Startup **institucionaliza** el pilar "**está bien fracasar, iterar y resiliencia**".
 
 ---
 
@@ -196,7 +159,7 @@ Y con la **Gestión 2.0** (módulo [07](../parcial-1/07-gestion-de-la-innovacion
 **1. Defina Lean Startup y su objetivo. ¿Quién lo creó?**
 <details><summary>Ver respuesta</summary>
 
-Es una **metodología de gestión** creada por **Eric Ries** (emprendedor de Silicon Valley, n. 1979, ingeniero de software) para **desarrollar negocios y productos de forma más eficiente**. Su objetivo es **reducir el riesgo y evitar el desperdicio de tiempo y dinero** mediante el lanzamiento rápido de prototipos, la experimentación con usuarios reales y el aprendizaje continuo.
+Es una **metodología de gestión** creada por **Eric Ries** para **desarrollar negocios y productos de forma más eficiente**. Su objetivo es **reducir el riesgo y evitar el desperdicio de tiempo y dinero** mediante el lanzamiento rápido de prototipos, la experimentación con usuarios reales y el aprendizaje continuo.
 </details>
 
 **2. Enumere las fases del método en orden.**

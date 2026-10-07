@@ -40,7 +40,7 @@ Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El o
 | 17 | [Innovación abierta](resto-de-la-materia/17-innovacion-abierta.md) | Chesbrough, embudo cerrado vs. perforado, inbound/outbound, CVC, caso Google Ventures. | Día 3 | 70 min |
 | 18 | [De VICA a VANI](resto-de-la-materia/18-entornos-vica-y-vani.md) | Entornos VUCA y BANI, matriz de transición, innovación abierta como resiliencia. | Día 3 | 45 min |
 | 19 | [Proyectos y estrategia de innovación](resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md) | Proyecto de innovación, tipos, estrategia de innovación, alineación, caso retail. | Proyecto de Innovación · Barrios | 60 min |
-| 20 | [Lean Startup y MVP](resto-de-la-materia/20-lean-startup-y-mvp.md) | Eric Ries, las fases del método, MVP, construir-medir-aprender, iterar vs. pivotar. | Proyecto de Innovación · Barrios | 45 min |
+| 20 | [Lean Startup y MVP](resto-de-la-materia/20-lean-startup-y-mvp.md) | Definición y objetivo, las fases del método, MVP, iterar vs. pivotar. | Proyecto de Innovación · Barrios | 45 min |
 | 21 | [KPI](resto-de-la-materia/21-kpi.md) | Anatomía, SMART, leading/lagging, DORA, SaaS, caso Mercado Libre, costo de no medir. | KPI & OKR · Barrios | 75 min |
 | 22 | [OKR](resto-de-la-materia/22-okr.md) | Estructura, KPI vs. OKR, cascada, 6 errores, pago contra hitos para freelancers. | KPI & OKR · Barrios | 55 min |
 | 23 | [Análisis de mercado: TAM, SAM, SOM y Porter](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) | Mercado (oferta y demanda, estructuras, mercado meta), TAM/SAM/SOM, Top-Down vs. Bottom-Up y sus aspectos a tener en cuenta (volumen, valores, market share), 5 Fuerzas de Porter. | Análisis de Mercado y Competencia · Barrios | 45 min |

@@ -4,10 +4,11 @@ Historial de cambios del material. Cada versión tiene un **tag de git con la fe
 
 ## v2026.10.07.10 — 2026-10-07
 
-**Motivo:** se pidió sacar del tema 20 la parte del MVP de la clase pre-parcial; para Lean Startup alcanza con la definición y explayarse.
+**Motivo:** se pidió sacar del tema 20 la parte del MVP de la clase pre-parcial, lo de Eric Ries y lo que no viene de la cátedra; para Lean Startup alcanza con la definición y explayarse.
 
 ### Quitado
 - **Tema 20 · Lean Startup:** sección *El MVP en la clase pre-parcial* (3 características, cuándo no es un MVP, MVP vs. MUP y el ejemplo de la patineta). La definición de MVP sigue en *Conceptos clave* y en la fase 5.
+- **Tema 20 · Lean Startup:** sección *Eric Ries* (con el recuadro del libro, Toyota y Steve Blank), el recuadro y diagrama del ciclo Construir → Medir → Aprender, y la sección *Lean Startup en proyectos de innovación* (tabla propia). Sus objetivos y entradas del esquema también.
 - **Glosario:** entrada MUP.
 
 ### Cambiado
