@@ -2,6 +2,18 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.07.5 — 2026-10-07
+
+**Motivo:** se pidió recortar el tema 22 (OKR) igual que el 21.
+
+### Cambiado
+- **Tema 22 · OKR:**
+  - Se quitó **Origen y adopción** (Intel, Google, Doerr) y su mención en objetivos y autoevaluación.
+  - Se quitó el **Ejercicio: tu primer OKR completo**; el cierre pasa a ser la sección XI.
+  - **Errores frecuentes:** quedan los 6, con una línea cada uno.
+  - Tiempo estimado: 55 min.
+- **README:** tiempo del tema 22 actualizado.
+
 ## v2026.10.07.4 — 2026-10-07
 
 **Motivo:** se pidió recortar el tema 21 para estudiarlo en 2 días, sacando relleno y redundancias sin tocar lo principal.

@@ -42,7 +42,7 @@ Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El o
 | 19 | [Proyectos y estrategia de innovación](resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md) | Proyecto de innovación, tipos, estrategia de innovación, alineación, caso retail. | Proyecto de Innovación · Barrios | 60 min |
 | 20 | [Lean Startup y MVP](resto-de-la-materia/20-lean-startup-y-mvp.md) | Eric Ries, las fases del método, MVP (sus 3 características y el MUP), construir-medir-aprender, iterar vs. pivotar. | Proyecto de Innovación · Barrios | 45 min |
 | 21 | [KPI](resto-de-la-materia/21-kpi.md) | Anatomía, SMART, leading/lagging, DORA, SaaS, caso Mercado Libre, costo de no medir. | KPI & OKR · Barrios | 75 min |
-| 22 | [OKR](resto-de-la-materia/22-okr.md) | Estructura, KPI vs. OKR, cascada, 6 errores, pago contra hitos para freelancers. | KPI & OKR · Barrios | 70 min |
+| 22 | [OKR](resto-de-la-materia/22-okr.md) | Estructura, KPI vs. OKR, cascada, 6 errores, pago contra hitos para freelancers. | KPI & OKR · Barrios | 55 min |
 
 ---
 
