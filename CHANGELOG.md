@@ -8,7 +8,7 @@ Historial de cambios del material. Cada versión tiene un **tag de git con la fe
 
 ### Agregado
 - **Tema 25 · Metodologías ágiles y Scrum:** qué es ágil (el problema del columpio, cascada vs. ágil, mantra, cambio cultural, modelos ágiles), Manifiesto Ágil (4 valores y 12 principios), Scrum (pilares, principios, organización, flujo de trabajo, fases y proceso, conclusión del trabajo) y roles (Product Owner, Scrum Master, Development Team).
-- **Tema 26 · Planificación estratégica:** matrices para la toma de decisiones, los 8 pasos de la planificación estratégica (con la secuencia de Kotter que aparece en la misma diapositiva) y la Matriz de Ansoff. No se incluyen la Matriz de McKinsey, las 7 S, PESTEL, Porter ni el resto de las matrices, que no entran.
+- **Tema 26 · Planificación estratégica:** matrices para la toma de decisiones, los 8 pasos de la planificación estratégica (misión, visión, análisis externo, análisis interno, objetivos estratégicos, estrategias, ejecución y evaluación) y la Matriz de Ansoff. No se incluyen la Matriz de McKinsey, las 7 S, PESTEL, Porter ni el resto de las matrices, que no entran.
 - **Glosario:** 8 pasos de la planificación estratégica, Agilidad, Daily Standup, Development Team, Manifiesto Ágil, Product Backlog / Sprint Backlog, Product Owner, Scrum, Scrum Master y Sprint.
 
 ### Cambiado

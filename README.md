@@ -46,7 +46,7 @@ Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El o
 | 23 | [Análisis de mercado: TAM, SAM y SOM](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) | Mercado (oferta y demanda, estructuras, mercado meta), TAM/SAM/SOM, Top-Down vs. Bottom-Up y sus aspectos a tener en cuenta (volumen, valores, market share). | Análisis de Mercado y Competencia · Barrios | 35 min |
 | 24 | [Análisis financiero y estrategias de salida](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) | **Etapas de la inversión** y cadena de financiamiento (valle de la muerte, capital semilla, capital de riesgo), VAN, TIR, CAPM con riesgo país, estrategias de salida (fusión, venta) y valoración por múltiplo EBITDA. | MRI Análisis Financiero y Estrategias de Salida · Barrios | 35 min |
 | 25 | [Metodologías ágiles y Scrum](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) | Qué es ágil (adaptación al cambio), Manifiesto (4 valores y 12 principios), Scrum: pilares, principios, organización, flujo de trabajo, fases y roles (Product Owner, Scrum Master, Development Team). | MRI Metodologías Ágiles · Barrios | 45 min |
-| 26 | [Planificación estratégica: 8 pasos y Ansoff](resto-de-la-materia/26-planificacion-estrategica.md) | Matrices para la toma de decisiones, los 8 pasos de la planificación estratégica (y la secuencia de Kotter), Matriz de Ansoff. | Matrices para la toma de decisiones · Barrios | 20 min |
+| 26 | [Planificación estratégica: 8 pasos y Ansoff](resto-de-la-materia/26-planificacion-estrategica.md) | Matrices para la toma de decisiones, los 8 pasos de la planificación estratégica (misión → evaluación), Matriz de Ansoff. | Matrices para la toma de decisiones · Barrios | 20 min |
 
 ---
 

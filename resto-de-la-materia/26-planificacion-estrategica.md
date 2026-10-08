@@ -50,13 +50,7 @@ La diapositiva muestra un **ciclo de 8 pasos**:
 
 Es un **ciclo**: después de la evaluación se vuelve a empezar.
 
-En la misma diapositiva, el texto describe la **secuencia propuesta por Kotter**:
-
-> 📌 *"Secuencia propuesta por **Kotter** que incluye: establecer un **sentido de urgencia**, formar una **coalición poderosa**, **crear una visión**, **comunicar la visión**, **empoderar a otros** para actuar sobre la visión, planificar y generar **victorias a corto plazo**, **consolidar mejoras** y producir aún más cambio y, finalmente, **institucionalizar nuevos enfoques**."*
-
-> ⚠️ La diapositiva tiene **las dos listas**: el gráfico muestra los 8 pasos de la planificación estratégica (misión → evaluación) y el texto, los 8 pasos de Kotter. Conviene saber las dos y aclarar cuál estás nombrando.
-
-> 📝 **Citar y explayarse:** La planificación estratégica se organiza en **8 pasos** que forman un ciclo: definir la **misión** y la **visión**, hacer el **análisis externo** e **interno**, fijar **objetivos estratégicos**, elegir las **estrategias**, **ejecutarlas** y **evaluar** los resultados para volver a empezar. La cátedra presenta junto a ese ciclo la secuencia de **Kotter**, que pone el foco en cómo lograr el cambio en la organización: generar **urgencia**, armar una **coalición**, crear y **comunicar la visión**, **empoderar** a otros, conseguir **victorias a corto plazo**, **consolidar** las mejoras e **institucionalizar** los nuevos enfoques.
+> 📝 **Citar y explayarse:** La planificación estratégica se organiza en **8 pasos** que forman un ciclo: definir la **misión** y la **visión**, hacer el **análisis externo** e **interno**, fijar **objetivos estratégicos**, elegir las **estrategias**, **ejecutarlas** y **evaluar** los resultados para volver a empezar.
 
 ---
 
@@ -84,7 +78,7 @@ Una herramienta de análisis estratégico para tomar decisiones empresariales. R
 **2. Enumere los 8 pasos de la planificación estratégica.**
 <details><summary>Ver respuesta</summary>
 
-1. Misión, 2. Visión, 3. Análisis externo, 4. Análisis interno, 5. Objetivos estratégicos, 6. Estrategias, 7. Ejecución, 8. Evaluación (y vuelta a empezar). La diapositiva también menciona la secuencia de Kotter: urgencia, coalición, crear la visión, comunicarla, empoderar, victorias a corto plazo, consolidar mejoras e institucionalizar nuevos enfoques.
+1. Misión, 2. Visión, 3. Análisis externo, 4. Análisis interno, 5. Objetivos estratégicos, 6. Estrategias, 7. Ejecución, 8. Evaluación (y vuelta a empezar).
 </details>
 
 **3. Dibuje la Matriz de Ansoff y explique para qué sirve.**
