@@ -27,7 +27,7 @@ Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El o
 | 13 | [Design Thinking](parcial-1/13-design-thinking.md) | Las 5 etapas, características, beneficios, casos (Apple, Netflix, Airbnb, BBVA, IKEA); principios y mentalidades (clase pre-parcial). | Día 3 | 55 min | 🔥 pregunta 4 |
 | 14 | [Propuesta de valor, segmentación y Business Model Canvas](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) | Kawasaki, propuesta de valor, Maslow y los 30 elementos de valor, Canvas de Propuesta de Valor (caso NEXA), buyer persona, tipos de competidores, matriz de competitividad, los 9 bloques del BMC. | Clase 4 | 75 min | — |
 
-**Tiempo total:** ~11 h 40 min.
+**Tiempo total:** ~12 h 45 min.
 
 ---
 
@@ -45,6 +45,8 @@ Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El o
 | 22 | [OKR](resto-de-la-materia/22-okr.md) | Estructura, KPI vs. OKR (tabla de la cátedra), cascada, 6 errores, sistema KPI + OKR + iniciativas. | KPI & OKR · Barrios | 45 min |
 | 23 | [Análisis de mercado: TAM, SAM y SOM](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) | Mercado (oferta y demanda, estructuras, mercado meta), TAM/SAM/SOM, Top-Down vs. Bottom-Up y sus aspectos a tener en cuenta (volumen, valores, market share). | Análisis de Mercado y Competencia · Barrios | 35 min |
 | 24 | [Análisis financiero y estrategias de salida](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) | **Etapas de la inversión** y cadena de financiamiento (valle de la muerte, capital semilla, capital de riesgo), VAN, TIR, CAPM con riesgo país, estrategias de salida (fusión, venta) y valoración por múltiplo EBITDA. | MRI Análisis Financiero y Estrategias de Salida · Barrios | 35 min |
+| 25 | [Metodologías ágiles y Scrum](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) | Qué es ágil (adaptación al cambio), Manifiesto (4 valores y 12 principios), Scrum: pilares, principios, organización, flujo de trabajo, fases y roles (Product Owner, Scrum Master, Development Team). | MRI Metodologías Ágiles · Barrios | 45 min |
+| 26 | [Planificación estratégica: 8 pasos y Ansoff](resto-de-la-materia/26-planificacion-estrategica.md) | Matrices para la toma de decisiones, los 8 pasos de la planificación estratégica (y la secuencia de Kotter), Matriz de Ansoff. | Matrices para la toma de decisiones · Barrios | 20 min |
 
 ---
 
@@ -88,7 +90,7 @@ Cada actualización del material se registra en [CHANGELOG.md](CHANGELOG.md) y s
 ├── README.md                     ← este índice
 ├── 00-como-estudiar-…md          ← método
 ├── parcial-1/                    ← temas 01–14 (Primer Parcial)
-├── resto-de-la-materia/          ← temas 15–24
+├── resto-de-la-materia/          ← temas 15–26
 ├── evaluacion/                   ← guía del parcial, parcial anterior, preguntas integradoras
 │   └── casos/                    ← Nokia, NEXA, enunciado del parcial anterior
 ├── glosario.md
