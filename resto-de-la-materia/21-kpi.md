@@ -2,7 +2,7 @@
 
 > **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Barrios), diapositivas 17–20; *KPI & OKR* (Ing. Mario Barrios), módulos 01–03 y Ejercicio 01.
 > **Prerrequisitos:** [19 Proyectos y estrategia](19-proyectos-y-estrategia-de-innovacion.md).
-> **Tiempo estimado:** 75 min (tema con cálculos).
+> **Tiempo estimado:** 45 min.
 > **Resto de la materia · Tema 21** (KPI & OKR · Barrios). No entra en el Primer Parcial.
 
 ---
@@ -13,11 +13,8 @@
 2. Construir un KPI completo con su **anatomía** (nombre + fórmula, meta, frecuencia + responsable, línea de base).
 3. Aplicar el **framework SMART**.
 4. Distinguir KPI **leading** (adelantados) y **lagging** (rezagados).
-5. Conocer los KPI típicos de **desarrollo de software (DORA)**, **implementación en cliente** y **comercialización (SaaS)**, con sus fórmulas y metas.
-6. Conocer las **herramientas** para medir KPI.
-7. Analizar el **caso Mercado Libre**.
-8. Explicar el **costo de no medir** con el caso TechSolve.
-9. Explicar cómo los KPI **transforman el modelo de trabajo** (pago por hitos, SLA, compensación variable).
+5. Conocer las **herramientas** para medir KPI.
+6. Analizar el **caso Mercado Libre**.
 
 ---
 
@@ -35,16 +32,8 @@
 - **III. Framework SMART**
 - **IV. Tipos de KPI: leading vs. lagging**
 - **V. Pasos para implementar KPIs**
-- **VI. KPI por área**
-  - A. Áreas de negocio (ventas, marketing, servicio, finanzas)
-  - B. Desarrollo de software (DORA)
-  - C. Implementación en cliente
-  - D. Comercialización de software (SaaS)
-- **VII. Herramientas para medir KPI**
-- **VIII. Caso real: Mercado Libre y las métricas DORA**
-- **IX. El costo de no medir: caso TechSolve**
-- **X. KPI y la transformación del modelo de trabajo**
-- **XI. Ejercicio: construí tu primer KPI**
+- **VI. Herramientas para medir KPI**
+- **VII. Caso real: Mercado Libre y las métricas DORA**
 
 ---
 
@@ -67,14 +56,7 @@ mindmap
       Leading adelantados
       Lagging rezagados
     SMART
-    Por área
-      DORA software
-      Implementación cliente
-      SaaS comercial
-    Usos
-      Pago por hitos
-      SLA
-      Compensación variable
+    Caso Mercado Libre
 ```
 
 ---
@@ -88,8 +70,6 @@ mindmap
 > 📌 **Versión "Proyectos de innovación":** *"Los KPIs (**Key Performance Indicators** o Indicadores Clave de Desempeño) son **métricas cuantificables** utilizadas para **evaluar el éxito, la eficiencia y el progreso** de una organización, equipo o campaña **hacia sus objetivos estratégicos**. Actúan como un **'GPS' empresarial**, facilitando la **toma de decisiones basada en datos** para **corregir el rumbo** si es necesario."*
 
 > 📌 **Versión "KPI & OKR":** *"Un Key Performance Indicator es un **indicador cuantificable** que permite evaluar **qué tan bien** una organización, equipo o proceso **está alcanzando sus objetivos estratégicos** en un **período de tiempo definido**."*
-
-> 💡 **La metáfora del GPS:** el GPS no maneja por vos; te dice **dónde estás respecto de adónde querés ir** y te avisa si te desviaste. Eso hace un KPI.
 
 > 📝 **Citar y explayarse:** La cátedra define un KPI como *"un indicador cuantificable que permite evaluar qué tan bien una organización, equipo o proceso está alcanzando sus objetivos estratégicos en un período de tiempo definido"*, y lo compara con un *"GPS empresarial"*. La comparación es precisa: el KPI no hace el trabajo, pero muestra **dónde estás respecto de adónde querés llegar** y permite *"corregir el rumbo"* con decisiones basadas en datos. Por eso un KPI no es cualquier número: tiene que estar ligado a un **objetivo estratégico** y a un **período**. "Tiempo promedio de resolución de bugs críticos", por ejemplo, es un KPI si la empresa se propuso mejorar la calidad del servicio y lo revisa cada semana.
 
@@ -197,8 +177,6 @@ flowchart LR
 | **Desventaja** | **Difíciles de medir**. | **No se puede intervenir retroactivamente**. |
 | **Ejemplos de la cátedra** | Cantidad de **pull requests por semana**, **cobertura de tests**. | **Churn rate del trimestre**, **ingresos mensuales**. |
 
-> 💡 **Para entenderlo – la balanza:** el peso que marca la balanza es un indicador **lagging** (resultado). Las calorías que comés y los entrenamientos de la semana son **leading** (predicen el peso futuro y podés actuar sobre ellos hoy). Un buen tablero combina ambos.
-
 ```mermaid
 flowchart LR
     L1["LEADING<br/>cobertura de tests ↑<br/>PRs pequeños y frecuentes"] -->|"predicen"| L2["LAGGING<br/>menos bugs en producción<br/>menos churn"]
@@ -221,75 +199,7 @@ flowchart LR
 
 ---
 
-## VI. KPI por área
-
-### VI.A Áreas de negocio
-
-| Área | KPIs típicos |
-|---|---|
-| **Ventas** | Tasa de conversión, crecimiento de ingresos, margen de beneficio, **valor del tiempo de vida del cliente (CLV)**. |
-| **Marketing digital** | **Coste de adquisición de cliente (CAC)**, **retorno de la inversión (ROI)**, tasa de apertura de emails, tráfico web. |
-| **Servicio al cliente** | Tasa de retención, **Net Promoter Score (NPS)**, tiempo de respuesta. |
-| **Finanzas** | Margen de utilidad neta, flujo de caja, **EBITDA**. |
-
-### VI.B Desarrollo de software (DORA)
-
-> Fuente citada por la cátedra: **DORA Metrics — Forsgren, Humble & Kim (2018). *Accelerate*. IT Revolution Press.**
-
-| KPI | Fórmula / definición | Meta típica | ¿Por qué importa? |
-|---|---|---|---|
-| **Lead Time** | Tiempo **desde commit hasta producción** | **< 1 día** | **Velocidad** de entrega de valor |
-| **Defect Escape Rate** | **Bugs en prod / Total bugs × 100** | **< 5 %** | **Calidad** del proceso de QA |
-| **Code Coverage** | **Líneas testeadas / Total líneas × 100** | **> 80 %** | **Confiabilidad** del código |
-| **Deployment Frequency** | **Deploys exitosos por semana** | **> 2/semana** | **Madurez CI/CD** del equipo |
-| **MTTR** | **Tiempo promedio de recuperación** ante falla | **< 2 horas** | **Resiliencia** operacional |
-| **Tech Debt Ratio** | **Tiempo de remediación / Tiempo de desarrollo** | **< 5 %** | **Salud** del codebase |
-
-### VI.C Implementación en cliente
-
-| KPI | Fórmula | Meta | Impacto directo |
-|---|---|---|---|
-| **Time to Value (TTV)** | **Días desde contrato hasta primer uso productivo** | **< 30 días** | Riesgo de **churn temprano** |
-| **Adoption Rate** | **Usuarios activos / Licencias contratadas** | **> 75 %** | **Renovación y expansión** |
-| **First Response Time** | **Tiempo promedio de 1ª respuesta** a ticket | **< 4 horas** | Satisfacción y **SLA** |
-| **NPS** | **% Promotores − % Detractores** | **> +40** | **Referidos y retención** |
-| **Tasa de reentrenamiento** | **Tickets por uso incorrecto / Total tickets** | **< 10 %** | **Costo de soporte** |
-
-> 📊 *"Un cliente que adopta rápido tiene una probabilidad de renovación del **87 %** vs. **43 %** de quienes tardan más de 60 días."* — Gainsight Customer Success Benchmark 2023 (citado por la cátedra).
-
-### VI.D Comercialización de software (SaaS)
-
-**Adquisición**
-
-| KPI | Fórmula |
-|---|---|
-| **CAC** (Costo de Adquisición de Cliente) | **(Marketing + Ventas) / Nuevos clientes** |
-| **Conversion Rate (trial a pago)** | **Clientes pago / Trialists × 100** |
-| **SQL to Close Rate** | **Deals cerrados / SQLs calificados** |
-
-**Retención y expansión**
-
-| KPI | Fórmula / criterio |
-|---|---|
-| **MRR / ARR** | Ingresos **recurrentes** mensuales / anuales |
-| **Churn Rate** | **Clientes perdidos / Total al inicio × 100** |
-| **LTV / CAC** | **Saludable si LTV ≥ 3 × CAC** |
-
-**Benchmarks SaaS 2024** (OpenView / Paddle, citados por la cátedra):
-
-| Indicador | Benchmark |
-|---|---|
-| Churn mensual saludable (SMB) | **< 3 %** |
-| Trial-to-paid conversion promedio | **15–25 %** |
-| LTV/CAC mínimo viable | **3 : 1** |
-| NPS promedio industria tech | **+35** |
-| CAC Payback Period recomendado | **< 12 meses** |
-
-> 💡 **SQL** = *Sales Qualified Lead*: un potencial cliente que ventas ya calificó como oportunidad real.
-
----
-
-## VII. Herramientas para medir KPI
+## VI. Herramientas para medir KPI
 
 | Ámbito | Herramienta | Qué mide |
 |---|---|---|
@@ -300,7 +210,7 @@ flowchart LR
 
 ---
 
-## VIII. Caso real: Mercado Libre y las métricas DORA
+## VII. Caso real: Mercado Libre y las métricas DORA
 
 > Fuente citada: **MeLi Engineering Blog / DORA Report LATAM 2023.**
 
@@ -319,54 +229,7 @@ flowchart LR
 
 > 📌 **Conclusión de la cátedra:** *"La medición sistemática de KPI de ingeniería genera impacto directo tanto en la calidad del producto como en la satisfacción del equipo. **Los equipos con mejores DORA metrics tienen también la mayor retención de ingenieros**."*
 
-> 💡 **La lección del caso:** sin medir **por equipo**, el problema estaba "diluido" en el promedio de la empresa. El KPI permitió **focalizar** la intervención (regla de Pareto: pocos generan la mayoría de los problemas).
-
 > 📝 **Citar y explayarse:** La conclusión de la cátedra sobre el caso es que *"la medición sistemática de KPI de ingeniería genera impacto directo tanto en la calidad del producto como en la satisfacción del equipo"*, y que *"los equipos con mejores DORA metrics tienen también la mayor retención de ingenieros"*. Lo importante es que medir no fue solo controlar: al medir **por equipo**, el problema dejó de estar diluido en el promedio de la empresa y se pudo concentrar la intervención donde más rendía. Y el efecto fue doble: mejoró el producto y mejoró el clima, porque los equipos con procesos más sanos trabajan con menos urgencias y frustración. Un buen KPI no solo describe la realidad: ayuda a cambiarla.
-
----
-
-## IX. El costo de no medir: caso TechSolve
-
-> **Escenario:** TechSolve SRL — **6 desarrolladores** — módulo de pagos — **3 meses** — costo diario por dev: **USD 250**.
-
-| Concepto | **SIN KPI definidos** | **CON KPI activos** |
-|---|---|---|
-| Calidad | **47 bugs** encontrados en producción | **87 %** de bugs detectados **antes** de producción |
-| Retrabajo | **18 días extra** → 6 devs × 18 días × USD 250 = **USD 27.000** | Retrabajo evitado: **12 de 18 días** → 6 × 12 × 250 = **−USD 18.000** |
-| Inversión en KPI | — | **USD 1.200** (setup + herramienta) |
-| Incidentes | **3 incidentes mayores** | **1 menor**, gestionado con MTTR |
-| Penalidad SLA | **USD 8.000** | **USD 0** |
-| Churn | **1 cliente perdido** (12 meses) = **USD 24.000** | **+15 % de renovación**, cliente retenido |
-| **Total** | **Costo adicional: USD 59.000+** | **Ahorro neto estimado: USD 57.800** |
-
----
-
-## X. KPI y la transformación del modelo de trabajo
-
-> 📌 *"Los KPI **no solo miden: cambian cómo se organiza el trabajo**. Cuando el equipo ve los mismos indicadores en tiempo real, el modelo se desplaza de **'control por actividad'** a **'autonomía por resultado'**."*
-
-**Efectos en el equipo:** trabaja **por objetivos** (decide cómo alcanzar el KPI), baja el **micromanagement** (*"el número habla"*), se instala la **mejora continua** y la **responsabilidad se distribuye** (cada squad es dueño de su métrica).
-
-**Modelos habilitados por KPI claros:**
-
-| Modelo | Cómo funciona |
-|---|---|
-| **Pago contra hitos (freelance)** | El KPI define el hito: *"cobertura > 80 % y 0 bugs críticos = release 2 = pago 30 %"*. |
-| **Performance-based compensation** | Parte del **salario variable atado a KPI del equipo**. |
-| **SLA contractual** | El KPI se vuelve **compromiso legal** (*uptime > 99,9 %, MTTR < 4 h*): **incumplir tiene costo directo**. |
-
-> 📝 **Citar y explayarse:** La cátedra afirma que *"los KPI no solo miden: cambian cómo se organiza el trabajo"*: con los mismos indicadores a la vista de todos, se pasa del *"control por actividad"* a la *"autonomía por resultado"*. El equipo sabe qué resultado tiene que lograr y decide cómo alcanzarlo, y los KPI claros habilitan el pago contra hitos, la compensación variable y los SLA contractuales. Se profundiza con OKR en el módulo [22](22-okr.md).
-
----
-
-## XI. Ejercicio: construí tu primer KPI
-
-Consigna de la cátedra (8 min individual + 10 min en común). Elegí un contexto:
-- **Opción A – Equipo de desarrollo:** construyen una **API de pagos** para un e-commerce; tienen **problemas de calidad**.
-- **Opción B – Implementación en cliente:** implementaron un **CRM** en una empresa de logística; **el cliente no adopta** el sistema.
-- **Opción C – Producto propio:** lanzaron una **app de gestión de turnos**; quieren saber **si crece**.
-
-Para el contexto elegido definí: (1) el problema a medir, (2) el KPI con **fórmula exacta**, (3) la **meta**, (4) **frecuencia** y **responsable**.
 
 ---
 
@@ -377,10 +240,6 @@ Para el contexto elegido definí: (1) el problema a medir, (2) el KPI con **fór
 | Métrica | KPI | La métrica **informa**; el KPI tiene **meta, responsable, frecuencia** y **orienta decisiones**. |
 | Leading | Lagging | Predicen y son accionables (difíciles de medir) vs. resultados pasados (fáciles de medir, no se puede intervenir). |
 | Lead Time | MTTR | Commit → producción (velocidad) vs. tiempo de **recuperación** ante una falla (resiliencia). |
-| Defect Escape Rate | Defect Rate | Bugs en prod / **total de bugs** vs. bugs en prod / **features entregadas**. |
-| CAC | LTV | Lo que **cuesta** conseguir un cliente vs. lo que **deja** un cliente en toda su vida. |
-| Churn | Retención | Churn = % que **se va**; retención = % que **se queda** (son complementarios). |
-| MRR | ARR | Ingreso recurrente **mensual** vs. **anual** (ARR ≈ MRR × 12). |
 
 ---
 
@@ -413,34 +272,10 @@ Nombre + fórmula (qué y cómo se mide), meta/target (valor que define el éxit
 (a) **Lagging**. (b) **Leading**. (c) **Lagging**. (d) **Leading** (predice ventas futuras).
 </details>
 
-**4. Una SaaS tiene 400 clientes al inicio del mes y pierde 18. ¿Cuál es su churn mensual? ¿Es saludable para una SMB?**
-<details><summary>Ver respuesta</summary>
-
-Churn = 18 / 400 × 100 = **4,5 %**. El benchmark saludable para SMB es **< 3 %**, así que **no es saludable**.
-</details>
-
-**5. Calcule el NPS: 300 respuestas, 150 promotores, 90 pasivos, 60 detractores. ¿Cumple la meta de implementación (> +40)?**
-<details><summary>Ver respuesta</summary>
-
-%P = 150/300 = 50 %; %D = 60/300 = 20 %. **NPS = 50 − 20 = +30**. **No cumple** la meta de > +40 (y está debajo del promedio tech de +35).
-</details>
-
-**6. En el caso TechSolve, ¿cómo se obtiene el ahorro neto de USD 57.800?**
-<details><summary>Ver respuesta</summary>
-
-Costo sin KPI = 27.000 (retrabajo: 6 devs × 18 días × USD 250) + 8.000 (SLA) + 24.000 (churn) = 59.000. Ahorro neto = 59.000 − 1.200 (inversión) = **57.800**. Medir cuesta muy poco frente a lo que cuesta no medir.
-</details>
-
-**7. ¿Qué aprendió Mercado Libre al medir el Change Failure Rate por equipo?**
+**4. ¿Qué aprendió Mercado Libre al medir el Change Failure Rate por equipo?**
 <details><summary>Ver respuesta</summary>
 
 Que **3 squads generaban el 68 % de los incidentes** de producción. Intervenir sobre ellos **redujo la indisponibilidad un 41 % en 2 trimestres**. Además, los equipos con mejores métricas DORA tenían la mayor retención de ingenieros.
-</details>
-
-**8. ¿Cómo cambian los KPI el modelo de trabajo?**
-<details><summary>Ver respuesta</summary>
-
-Desplazan el modelo de **control por actividad** a **autonomía por resultado**: el equipo decide cómo alcanzar el KPI, baja el micromanagement, se instala la mejora continua y la responsabilidad se distribuye. Habilitan **pago contra hitos**, **compensación variable por desempeño** y **SLA contractuales**.
 </details>
 
 ---
