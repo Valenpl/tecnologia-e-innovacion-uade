@@ -27,7 +27,6 @@
     2. Incierto
     3. Complejo
     4. Ambiguo
-  - B. Respuesta estándar: agilidad y planificación flexible
 - **II. VANI (BANI): gestión del caos**
   - A. Por qué VICA quedó obsoleto
   - B. Las cuatro letras
@@ -67,6 +66,8 @@ flowchart LR
 
 ## I. VICA (VUCA): gestión del cambio
 
+> 📌 **El Paradigma VICA (VUCA):** *"Nacido en la Guerra Fría y adoptado en los 90. Describe un mundo **difícil de predecir pero estructurado**, enfocado en la **volatilidad** y la **incertidumbre**. La respuesta estándar era la **agilidad y la planificación flexible**."*
+
 ### I.A Las cuatro letras
 
 | Letra | Definición (cátedra) | Impacto en la Innovación Abierta |
@@ -76,27 +77,29 @@ flowchart LR
 | **C – Complejidad** | **Múltiples factores interconectados**. | **Co-crear con expertos globales**. |
 | **A – Ambigüedad** | **Falta de claridad en el significado**. | **Experimentar con prototipos rápidos**. |
 
-### I.B Respuesta estándar
-**Agilidad y planificación flexible.**
-
 ---
 
 ## II. VANI (BANI): gestión del caos
 
+> 📌 **El Paradigma VANI (BANI):** *"Acuñado en 2020 por Jamais Cascio. Describe un mundo que **ya no solo es inestable, sino que está roto**. Enfocado en la **fragilidad** y la **no-linealidad**. La respuesta requiere **resiliencia, empatía e intuición profunda**."*
+
 ### II.A Por qué VICA quedó obsoleto
 > 📌 *"Según Cascio, el mundo actual **ya no es simplemente complejo o inestable**; se ha vuelto **caótico, confuso** y funciona bajo **dinámicas que desafían la lógica tradicional**."*
 
-VANI describe un mundo que **"ya no solo es inestable, sino que está roto"**, enfocado en la **fragilidad** y la **no-linealidad**.
-
 ### II.B Las cuatro letras
+
+| Letra | Definición (cátedra) | Impacto en la Innovación Abierta |
+|---|---|---|
+| **F – Frágil** (*Brittle*) | **Sistemas que parecen sólidos pero colapsan rápido**. | **Resiliencia compartida en red**. |
+| **A – Ansioso** (*Anxious*) | **Incertidumbre que genera parálisis o miedo**. | **Confianza y empatía en el ecosistema**. |
+| **N – No lineal** (*Nonlinear*) | **Causas pequeñas generan efectos desproporcionados**. | **Apuestas diversificadas (CVC)**. |
+| **I – Incomprensible** (*Incomprehensible*) | **Los datos lógicos ya no explican la realidad**. | **Inteligencia colectiva y abierta**. |
 
 #### II.B.1 F – Frágil (*Brittle*)
 - **Concepto:** sistemas que **parecen sólidos, estables y robustos en la superficie** pueden **romperse de forma repentina y catastrófica** ante un impacto inesperado. **No se doblan; se quiebran por completo.**
 - **En Innovación Abierta:** depender de **un único proveedor**, **un solo laboratorio de I+D cerrado** o un **modelo de negocio rígido** expone a la empresa al colapso.
 - **Respuesta:** **resiliencia y redundancia**, logradas **diversificando capacidades** mediante **alianzas con startups y redes globales**.
 - **Impacto en IA (Innovación Abierta):** **resiliencia compartida en red**.
-
-> 🧩 **Ejemplo:** una cadena de suministro global "eficiente" que dependía de una sola fábrica se cortó por completo durante la pandemia.
 
 #### II.B.2 A – Ansioso (*Anxious*)
 - **Concepto:** la volatilidad extrema y la velocidad de los cambios generan **ansiedad, desconfianza y miedo a tomar la decisión equivocada**. Cada elección **parece de vida o muerte**.
@@ -116,8 +119,6 @@ VANI describe un mundo que **"ya no solo es inestable, sino que está roto"**, e
 - **Respuesta:** **intuición, colaboración y transparencia**. Abrirse al ecosistema permite usar la **"inteligencia colectiva"** de expertos, científicos y emprendedores para decodificar los cambios **en tiempo real**.
 - **Impacto en IA:** **inteligencia colectiva y abierta**.
 
-> 🔗 **Conexión crítica con los módulos de datos:** "Incomprensible" pone un **límite** a la cultura data-driven (BI, Big Data). No alcanza con tener más datos; hace falta **interpretarlos colectivamente**. Es la respuesta a la pregunta del módulo [08](../parcial-1/08-business-intelligence.md): *¿puede una empresa depender demasiado de los datos?*
-
 ---
 
 ## III. Matriz de transición estratégica VICA → VANI
@@ -129,24 +130,13 @@ VANI describe un mundo que **"ya no solo es inestable, sino que está roto"**, e
 | **Rol de la propiedad intelectual** | **Protección estratégica** con licenciamiento ágil. | **Co-creación libre** y plataformas de ecosistema total. |
 | **Alianzas externas** | **Comprar o absorber startups** para acelerar. | **Tejer redes de apoyo mutuo** para sobrevivir al caos. |
 
-> 💡 **La evolución en una frase:** en VICA la innovación abierta servía para **ir más rápido**; en VANI sirve para **no romperse**.
-
 ---
 
 ## IV. Conclusión: innovación abierta como resiliencia colectiva
 
 > 📌 *"**La Innovación Abierta ya no es para competir.** En un entorno VANI, la innovación abierta es **la única herramienta para construir resiliencia colectiva** y habitar el futuro."*
 
-```mermaid
-flowchart LR
-    VANI(["Mundo VANI"]) --> F["Frágil"] --> R1["Redes y redundancia"]
-    VANI --> A["Ansioso"] --> R2["Riesgo compartido"]
-    VANI --> N["No lineal"] --> R3["Cartera CVC"]
-    VANI --> I["Incomprensible"] --> R4["Inteligencia colectiva"]
-    R1 & R2 & R3 & R4 --> IA(["INNOVACIÓN ABIERTA<br/>= resiliencia colectiva"])
-```
-
-> 📝 **Citar y explayarse:** La conclusión de la cátedra es que *"la innovación abierta ya no es para competir"*: en un entorno VANI es *"la única herramienta para construir resiliencia colectiva"*. Cada rasgo del mundo VANI tiene su respuesta en la apertura: ante la **fragilidad**, redes y redundancia para no depender de un único proveedor o laboratorio; ante la **ansiedad**, compartir los riesgos con el ecosistema; ante la **no linealidad**, múltiples apuestas simultáneas como las carteras de CVC; y ante lo **incomprensible**, inteligencia colectiva. Es decir, la innovación abierta cambia de función: deja de ser una forma de ganar ventaja y pasa a ser una forma de **sobrevivir**. La pandemia lo mostró: las cadenas de suministro que dependían de una sola fábrica se cortaron por completo, mientras que las diversificadas pudieron adaptarse.
+> 📝 **Citar y explayarse:** La conclusión de la cátedra es que *"la innovación abierta ya no es para competir"*: en un entorno VANI es *"la única herramienta para construir resiliencia colectiva"*. Cada rasgo del mundo VANI tiene su respuesta en la apertura: ante la **fragilidad**, redes y redundancia para no depender de un único proveedor o laboratorio; ante la **ansiedad**, compartir los riesgos con el ecosistema; ante la **no linealidad**, múltiples apuestas simultáneas como las carteras de CVC; y ante lo **incomprensible**, inteligencia colectiva. Es decir, la innovación abierta cambia de función: deja de ser una forma de ganar ventaja y pasa a ser una forma de **sobrevivir**.
 
 ---
 
@@ -201,12 +191,6 @@ Porque se rompe la relación causa-efecto y **las predicciones a largo plazo pie
 <details><summary>Ver respuesta</summary>
 
 Objetivo: VICA → **agilidad operativa y velocidad de respuesta**; VANI → **resiliencia sistémica y adaptabilidad evolutiva**. Alianzas: VICA → **comprar o absorber startups para acelerar**; VANI → **tejer redes de apoyo mutuo para sobrevivir al caos**.
-</details>
-
-**6. En la diapositiva "El entorno VANI", ¿qué significa "Impacto en IA: inteligencia colectiva y abierta"?**
-<details><summary>Ver respuesta</summary>
-
-Que, ante un mundo **incomprensible**, la **Innovación Abierta** (no la Inteligencia Artificial) responde abriéndose al ecosistema para aprovechar la **inteligencia colectiva** de expertos externos, científicos y emprendedores y decodificar los cambios en tiempo real.
 </details>
 
 ---

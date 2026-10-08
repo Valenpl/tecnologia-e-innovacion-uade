@@ -2,6 +2,16 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.08.5 — 2026-10-08
+
+**Motivo:** se pidió agregar al tema 18 los cuadros de la presentación que resumen VICA y VANI y dejarlo con lo importante.
+
+### Agregado
+- **Tema 18 · VICA y VANI:** cuadros *El Paradigma VICA (VUCA)* y *El Paradigma VANI (BANI)* (diapositiva 21) al inicio de cada sección, y tabla *El Entorno VANI* con definición e impacto de cada letra (diapositiva 23), junto a la de VICA (diapositiva 22).
+
+### Quitado
+- **Tema 18 · VICA y VANI:** *Respuesta estándar* de VICA y la frase repetida sobre VANI (quedan en los cuadros nuevos), ejemplo de la cadena de suministro y su mención en el párrafo final, recuadros *Conexión crítica con los módulos de datos* y *La evolución en una frase*, diagrama de la conclusión y la pregunta 6 de autoevaluación.
+
 ## v2026.10.08.4 — 2026-10-08
 
 **Motivo:** se pidió sacar del tema 17 los agregados propios que repetían contenido y recortar el origen de los marcos en el tema 18.
