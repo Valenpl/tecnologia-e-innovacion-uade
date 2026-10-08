@@ -5,10 +5,12 @@
 | Término | Definición breve | Módulo |
 |---|---|---|
 | **5 V de Big Data** | Volumen, Velocidad, Variedad, Veracidad y Valor (la más importante). | [10](parcial-1/10-big-data.md) |
+| **8 pasos de la planificación estratégica** | Misión, visión, análisis externo, análisis interno, objetivos estratégicos, estrategias, ejecución y evaluación (ciclo). | [26](resto-de-la-materia/26-planificacion-estrategica.md) |
 | **Abismo de desilusión** | Fase del Hype Cycle de Gartner donde caen las expectativas tras el pico. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
 | **Aceleradora corporativa** | Estructura interna que da mentoría, recursos e infraestructura a emprendedores a cambio de pilotar soluciones. | [17](resto-de-la-materia/17-innovacion-abierta.md) |
-| **Adoption Rate** | Usuarios activos / licencias contratadas. Meta > 75 %. | [21](resto-de-la-materia/21-kpi.md) |
 | **Adoptadores tempranos** | 13,5 % de la curva de adopción; visionarios. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
+| **Adoption Rate** | Usuarios activos / licencias contratadas. Meta > 75 %. | [21](resto-de-la-materia/21-kpi.md) |
+| **Agilidad** | *"No es velocidad, es adaptación al cambio."* Trabajo por iteraciones cortas con entrega temprana de valor. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
 | **Ambidestreza** | Mantener el negocio actual (explotar) mientras se desarrolla agresivamente el futuro (explorar). Exige recursos, liderazgo y estructura. | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **Análisis morfológico** | Técnica creativa: descomponer un problema en componentes y combinar opciones. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
 | **Árbol de decisión** | Técnica de Data Mining: modelo visual de reglas para clasificar o predecir. | [09](parcial-1/09-data-mining.md) |
@@ -40,12 +42,14 @@
 | **Curva de adopción** | Cómo distintos grupos adoptan una tecnología: 2,5 / 13,5 / 34 / 34 / 16 %. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
 | **Curva S** | Evolución del desempeño de una tecnología: despegue lento, crecimiento acelerado, saturación (Christensen). | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
 | **Customer Journey Map** | Mapa de las etapas del cliente (antes, durante, después) con acciones, pensamientos, emociones y puntos de dolor. | [16](resto-de-la-materia/16-service-design-y-cultura-fail.md) |
+| **Daily Standup** | Reunión diaria de 15 minutos de Scrum: qué hice, qué obstáculos tengo, qué haré. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
 | **Data Mining** | Proceso técnico y automatizado que descubre patrones ocultos en grandes volúmenes de datos con estadística e IA. | [09](parcial-1/09-data-mining.md) |
 | **Data warehouse** | Repositorio central donde BI integra datos de distintas fuentes. | [08](parcial-1/08-business-intelligence.md) |
 | **Deep learning** | Subcampo del machine learning basado en redes neuronales profundas. | [12](parcial-1/12-innovacion-tecnologica-e-ia.md) |
 | **Design Sprint** | Metodología de cinco días: Map, Sketch, Decide, Prototype, Test. | [16](resto-de-la-materia/16-service-design-y-cultura-fail.md) |
 | **Design Thinking** | Metodología centrada en el ser humano: empatizar, definir, idear, prototipar, testear. | [13](parcial-1/13-design-thinking.md) |
 | **Destrucción creativa** | Proceso de transformación que acompaña a la innovación (Schumpeter). | [06](parcial-1/06-schumpeter-destruccion-creativa-y-ciclos.md) |
+| **Development Team** | Equipo de Scrum que construye el producto: auto-organizado, multifuncional, a ritmo sostenible. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
 | **Diversificación concéntrica / por conglomerado** | Sumar productos nuevos relacionados / no relacionados. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **Doblin (10 tipos)** | Configuración (4), Oferta (2), Experiencia (4). | [07](parcial-1/07-gestion-de-la-innovacion.md) |
 | **DORA metrics** | Deployment frequency, lead time, change failure rate, MTTR. | [21](resto-de-la-materia/21-kpi.md) |
@@ -83,6 +87,7 @@
 | **Lean Startup** | Metodología de Eric Ries para reducir riesgo y desperdicio con prototipos, experimentación y aprendizaje. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) |
 | **Liquidación** | Estrategia defensiva: venta de los activos de la empresa, en partes, por su valor tangible. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **Machine learning** | Subcampo de la IA: sistemas que aprenden de los datos. | [12](parcial-1/12-innovacion-tecnologica-e-ia.md) |
+| **Manifiesto Ágil** | 4 valores: individuos e interacciones, software funcionando, colaboración con el cliente y respuesta ante el cambio, por sobre sus opuestos; 12 principios. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
 | **Market share** | Participación de una marca o empresa sobre el total del mercado, en volumen o en valores. Se gana share creciendo más que la industria. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **Matriz de Ansoff** | Mercado × producto: penetración, desarrollo de mercado, desarrollo de producto, diversificación. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **Matriz de competitividad** | Compara tu negocio con 3–5 competidores puntuando criterios clave (ej.: 1–5). | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
@@ -99,6 +104,8 @@
 | **Penetración de mercado** | Estrategia intensiva: más participación con los productos actuales vía marketing. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **Pivotar** | Cambiar aspectos clave del negocio cuando el mercado no valida. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) |
 | **Proceso creativo** | Preparación, incubación, iluminación, verificación, adaptación y difusión. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
+| **Product Backlog / Sprint Backlog** | Lista priorizada de todo lo que desea el cliente / lo asignado a un sprint. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
+| **Product Owner** | Rol de Scrum: la voz del cliente; prioriza el backlog y define criterios de aceptación. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
 | **Propuesta de valor** | Razón por la que los clientes eligen tu solución en lugar de la competencia. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **Proyecto de innovación** | Esfuerzo planificado y estratégico para introducir cambios significativos que generen valor. | [19](resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md) |
 | **Recorte de gastos** | Estrategia defensiva: reducir costos y activos para revertir la caída de ventas y utilidades. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
@@ -106,12 +113,15 @@
 | **Regresión** | Técnica de Data Mining para predecir valores numéricos continuos. | [09](parcial-1/09-data-mining.md) |
 | **Resiliencia organizacional** | Capacidad de perder un negocio central y usar las capacidades restantes para construir una nueva posición (Nokia → redes). | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **SCAMPER** | Sustituir, Combinar, Adaptar, Modificar, Poner en otro uso, Eliminar, Revertir. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
+| **Scrum** | Modelo ágil (Schwaber, Sutherland, Beedle) basado en sprints; pilares: transparencia, inspección y adaptación. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
+| **Scrum Master** | Rol de Scrum: coach y líder servidor; protege al equipo de interferencias y remueve impedimentos. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
 | **Self-Service BI** | Usuarios de negocio sin conocimientos técnicos consultan datos y crean informes. | [08](parcial-1/08-business-intelligence.md) |
 | **Service Blueprint** | Mapa que conecta acciones del cliente, frontstage, backstage y procesos de soporte. | [16](resto-de-la-materia/16-service-design-y-cultura-fail.md) |
 | **Service Design** | Diseño de servicios: hacerlos útiles, usables y deseables para clientes, y eficientes y efectivos para la organización. | [16](resto-de-la-materia/16-service-design-y-cultura-fail.md) |
 | **SLA** | Acuerdo de nivel de servicio; el KPI como compromiso contractual. | [21](resto-de-la-materia/21-kpi.md) |
 | **SMART** | Specific, Measurable, Achievable, Relevant, Time-bound (Doran, 1981). | [21](resto-de-la-materia/21-kpi.md) |
 | **Spin-off** | Empresa nueva que se desprende de otra para explotar una tecnología. | [17](resto-de-la-materia/17-innovacion-abierta.md) |
+| **Sprint** | Ciclo corto de trabajo de Scrum (1 a 6 semanas) al final del cual se demuestra la nueva funcionalidad. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
 | **Squad** | Equipo autónomo con su propio KPI (modelo Spotify). | [21](resto-de-la-materia/21-kpi.md) |
 | **TAM / SAM / SOM** | Mercado total disponible / parte accesible y relevante para el negocio / parte que el negocio puede captar razonablemente. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **Tecnología** | Conjunto de saberes, técnicas y herramientas que permiten transformar el entorno ("el cómo"). | [01](parcial-1/01-tecnologia-e-innovacion-fundamentos.md) |

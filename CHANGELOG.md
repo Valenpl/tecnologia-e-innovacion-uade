@@ -2,6 +2,19 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.08.6 — 2026-10-08
+
+**Motivo:** se pidió agregar las presentaciones *Metodologías Ágiles* y *Matrices para la toma de decisiones*, solo con lo que entra según la cátedra.
+
+### Agregado
+- **Tema 25 · Metodologías ágiles y Scrum:** qué es ágil (el problema del columpio, cascada vs. ágil, mantra, cambio cultural, modelos ágiles), Manifiesto Ágil (4 valores y 12 principios), Scrum (pilares, principios, organización, flujo de trabajo, fases y proceso, conclusión del trabajo) y roles (Product Owner, Scrum Master, Development Team).
+- **Tema 26 · Planificación estratégica:** matrices para la toma de decisiones, los 8 pasos de la planificación estratégica (misión, visión, análisis externo, análisis interno, objetivos estratégicos, estrategias, ejecución y evaluación) y la Matriz de Ansoff. No se incluyen la Matriz de McKinsey, las 7 S, PESTEL, Porter ni el resto de las matrices, que no entran.
+- **Glosario:** 8 pasos de la planificación estratégica, Agilidad, Daily Standup, Development Team, Manifiesto Ágil, Product Backlog / Sprint Backlog, Product Owner, Scrum, Scrum Master y Sprint.
+
+### Cambiado
+- **README** y **Cómo estudiar:** temas 25 y 26 en el índice y el mapa; el resto de la materia pasa a ser temas 15–26; tiempo total ~12 h 45 min.
+- **Tema 24:** enlace al tema siguiente.
+
 ## v2026.10.08.5 — 2026-10-08
 
 **Motivo:** se pidió agregar al tema 18 los cuadros de la presentación que resumen VICA y VANI y dejarlo con lo importante.

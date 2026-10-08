@@ -193,4 +193,4 @@ Se busca una empresa comparable que cotice en bolsa (mismo sector y tamaño), se
 
 ---
 
-[← 23 Análisis de mercado](23-analisis-de-mercado-tam-sam-som.md) · [🏠 Índice](../README.md)
+[← 23 Análisis de mercado](23-analisis-de-mercado-tam-sam-som.md) · [🏠 Índice](../README.md) · [Siguiente → 25 Metodologías ágiles y Scrum](25-metodologias-agiles-y-scrum.md)
