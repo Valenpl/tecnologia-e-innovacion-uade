@@ -2,6 +2,37 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.08.5 — 2026-10-08
+
+**Motivo:** se pidió agregar al tema 18 los cuadros de la presentación que resumen VICA y VANI y dejarlo con lo importante.
+
+### Agregado
+- **Tema 18 · VICA y VANI:** cuadros *El Paradigma VICA (VUCA)* y *El Paradigma VANI (BANI)* (diapositiva 21) al inicio de cada sección, y tabla *El Entorno VANI* con definición e impacto de cada letra (diapositiva 23), junto a la de VICA (diapositiva 22).
+
+### Quitado
+- **Tema 18 · VICA y VANI:** *Respuesta estándar* de VICA y la frase repetida sobre VANI (quedan en los cuadros nuevos), ejemplo de la cadena de suministro y su mención en el párrafo final, recuadros *Conexión crítica con los módulos de datos* y *La evolución en una frase*, diagrama de la conclusión y la pregunta 6 de autoevaluación.
+
+## v2026.10.08.4 — 2026-10-08
+
+**Motivo:** se pidió sacar del tema 17 los agregados propios que repetían contenido y recortar el origen de los marcos en el tema 18.
+
+### Quitado
+- **Tema 17 · Innovación abierta:** diagrama de flujos inbound/outbound (repetía la tabla), recuadro *Glosario rápido*, tabla *Verdad / Parte del título / Flujo*, tabla *La mentalidad cerrada* (se superponía con la comparación de paradigmas) y recuadro *La fila más profunda*.
+- **Tema 18 · VICA y VANI:** sección *Por qué importan los marcos del entorno*, *Origen* de VICA y *Origen: Jamais Cascio* de VANI, con las fechas del mapa visual y de la pregunta 1 de autoevaluación. Secciones renumeradas de I a IV. Tiempo estimado: 35 min.
+
+### Cambiado
+- **README:** tiempo del tema 18 y tiempo total (~11 h 40 min).
+
+## v2026.10.08.3 — 2026-10-08
+
+**Motivo:** se pidió dejar el tema 17 con lo importante.
+
+### Quitado
+- **Tema 17 · Innovación abierta:** sección *Henry Chesbrough y el origen del concepto*; de *El fundamento* queda solo la diferencia entre el modelo poroso y el esquema de Wheelwright & Clark (cita y párrafo para explayarse), sin el diagrama de flujo, los datos del libro ni *La ruptura del modelo tradicional*; secciones *Corporate Venture Capital en detalle*, *Caso real: Google Ventures* e *Ideas fuerza*. Con sus objetivos, entradas del esquema y la pregunta de autoevaluación sobre CVC y GV. Tiempo estimado: 45 min.
+
+### Cambiado
+- **README:** descripción y tiempo del tema 17.
+
 ## v2026.10.08.2 — 2026-10-08
 
 **Motivo:** se pidió dejar KPI y OKR con lo más importante (manteniendo las dos tablas KPI vs. OKR) y sacar las 5 Fuerzas de Porter del tema 23.
