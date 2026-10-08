@@ -28,9 +28,8 @@
   2. No tenés que inventarlo todo para usarlo
   3. Si no te sirve, sacale dinero afuera
 - **IV. Cambio de mentalidad estratégica**
-  - A. La mentalidad cerrada (secretismo, patentes defensivas, miedo a compartir)
-  - B. El cambio: propiedad intelectual flexible
-  - C. Paradigma cerrado vs. abierto (4 dimensiones)
+  - A. El cambio: propiedad intelectual flexible
+  - B. Paradigma cerrado vs. abierto (4 dimensiones)
 - **V. Vehículos prácticos de implementación**
   1. Corporate Venture Capital
   2. Aceleradoras corporativas
@@ -58,40 +57,11 @@
 
 En la innovación abierta, las paredes del embudo **tienen agujeros**: el conocimiento **entra** y **sale**.
 
-```mermaid
-flowchart LR
-    subgraph EXT1["Exterior"]
-        S["Startups"]
-        U["Universidades"]
-        P["Patentes externas"]
-    end
-    subgraph EMB["Embudo de la empresa (perforado)"]
-        I["Ideas internas"] --> D["Desarrollo"] --> MP(["Mercado propio"])
-    end
-    subgraph EXT2["Exterior"]
-        L["Licencias"]
-        SO["Spin-offs"]
-        JV["Joint ventures"]
-    end
-    S -->|"INBOUND"| D
-    U -->|"INBOUND"| I
-    P -->|"INBOUND"| D
-    D -->|"OUTBOUND"| L
-    D -->|"OUTBOUND"| SO
-    I -->|"OUTBOUND"| JV
-```
-
 | | **A. Inbound** (de fuera hacia dentro) | **B. Outbound** (de dentro hacia fuera) |
 |---|---|---|
 | **Qué es** | **Integración externa**: absorber conocimiento, patentes o tecnologías **desarrolladas fuera**. | **Monetización externa**: transferir al mercado tecnologías o ideas **internas infrautilizadas**. |
 | **Mecanismos comunes** | **Hackathons**, **retos tecnológicos abiertos**, **fusiones y adquisiciones de startups**. | **Concesión de licencias** de patentes no estratégicas, **spin-offs** y **joint ventures**. |
 | **Impacto operativo** | **Reduce drásticamente los costes fijos de I+D básica** y **mitiga el riesgo de fases tempranas**. | **Transforma costes hundidos y laboratorios inactivos en flujos de ingresos directos**. |
-
-> 💡 **Glosario rápido:**
-> - **Spin-off**: empresa nueva que nace de una existente para explotar una tecnología que no encaja en el negocio principal.
-> - **Joint venture**: empresa o proyecto conjunto entre dos o más organizaciones que comparten inversión, riesgo y beneficios.
-> - **Licencia**: permiso para que otro use tu patente a cambio de un pago (regalías).
-> - **Costo hundido**: dinero ya gastado que no se recupera (ej. la investigación que terminó en un cajón).
 
 ---
 
@@ -116,31 +86,17 @@ flowchart LR
 - En el modelo viejo, si un laboratorio farmacéutico descubría por accidente un componente útil para limpiar pantallas, **se archivaba** ("vendemos medicinas, no tecnología de pantallas").
 - Chesbrough: **licencialo, vendelo o creá una spin-off**. *"No dejes que el conocimiento muera en un cajón."*
 
-| Verdad | Parte del título | Flujo |
-|---|---|---|
-| 1. Obligación | "El nuevo imperativo" | Ambos |
-| 2. No inventar todo | "para **crear**… tecnología" | **Inbound** |
-| 3. Monetizar afuera | "y **beneficiarse** de la tecnología" | **Outbound** |
-
 ---
 
 ## IV. Cambio de mentalidad estratégica
 
-### IV.A La mentalidad cerrada
-
-| Rasgo | Descripción |
-|---|---|
-| **Secretismo absoluto** | Ingenieros y científicos aislados, **sin colaborar con universidades ni expertos externos** por miedo a filtraciones. |
-| **Patentes defensivas** | Se registraban miles de inventos **solo para bloquear a la competencia**, aunque nunca se fabricaran. |
-| **Miedo a compartir** | Se creía que si otra empresa usaba una idea propia, era **pérdida de poder** en el mercado. |
-
-### IV.B El cambio: propiedad intelectual flexible
+### IV.A El cambio: propiedad intelectual flexible
 
 > 📌 *"Chesbrough explicó que esta protección extrema se volvió **un freno**. En lugar de gastar recursos en esconder todo, la innovación abierta propone que la **propiedad intelectual sea flexible**: si tenés una patente que no usás, **la licenciás o la vendés**; y si necesitás una tecnología externa, **pagás por ella o te asociás**."*
 
 > 📝 **Citar y explayarse:** Chesbrough sostiene que la protección extrema de la propiedad intelectual *"se volvió un freno"*, y que la innovación abierta propone que sea **flexible**: *"si tenés una patente que no usás, la licenciás o la vendés; y si necesitás una tecnología externa, pagás por ella o te asociás"*. El cambio de mentalidad es pasar de ver la propiedad intelectual como un muro para **esconder** conocimiento a verla como un **activo que circula** y genera valor en ambas direcciones. Guardar una patente sin usarla tiene costo y no produce nada; licenciarla genera ingresos y puede abrir mercados nuevos. Por ejemplo, una farmacéutica puede licenciar a otra un compuesto que no va a desarrollar y, a la vez, comprarle a una startup una tecnología de diagnóstico que no tiene.
 
-### IV.C Paradigma cerrado vs. abierto
+### IV.B Paradigma cerrado vs. abierto
 
 | Dimensión | **Paradigma cerrado** | **Paradigma abierto** |
 |---|---|---|
@@ -148,8 +104,6 @@ flowchart LR
 | **Propiedad intelectual** | **Protección extrema** para bloquear mercados. | Se **adquiere IP externa** estratégica; se **licencia la IP interna no utilizada**. |
 | **Ventaja competitiva** | **Ser el primero en descubrir** la tecnología asegura el dominio. | **Construir modelos de negocio superiores** es más rentable que descubrir la tecnología. |
 | **Filosofía de control** | **Control absoluto** del ciclo de vida del producto, de inicio a fin, interno. | **Orquestación de ecosistemas** abiertos, **distribuyendo riesgos y beneficios**. |
-
-> 💡 **La fila más profunda es "ventaja competitiva":** en el paradigma abierto **no gana quien inventa, gana quien tiene el mejor modelo de negocio** para aprovechar la tecnología (propia o ajena). Conecta con Doblin: **modelo de ingresos** y **red** (módulo [07](../parcial-1/07-gestion-de-la-innovacion.md)).
 
 ---
 

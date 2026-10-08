@@ -2,15 +2,15 @@
 
 > **Fuente en el material:** *Día 3 – Innovación Abierta*, diapositivas 15–25.
 > **Prerrequisitos:** [17 Innovación abierta](17-innovacion-abierta.md).
-> **Tiempo estimado:** 45 min.
+> **Tiempo estimado:** 35 min.
 > **Resto de la materia · Tema 18** (Día 3). No entra en el Primer Parcial.
 
 ---
 
 ## 🎯 Objetivos de aprendizaje
 
-1. Explicar el marco **VICA (VUCA)**: origen y significado de cada letra.
-2. Explicar el marco **VANI (BANI)** de **Jamais Cascio**: origen y significado de cada letra.
+1. Explicar el marco **VICA (VUCA)** y el significado de cada letra.
+2. Explicar el marco **VANI (BANI)** y el significado de cada letra.
 3. Explicar **por qué VICA quedó obsoleto** según Cascio.
 4. Para cada letra, explicar su **impacto en la innovación abierta** y la **respuesta** recomendada.
 5. Usar la **matriz de transición estratégica** VICA → VANI.
@@ -21,25 +21,22 @@
 
 ## 🗺️ Esquema del tema
 
-- **I. Por qué importan los marcos del entorno**
-- **II. VICA (VUCA): gestión del cambio**
-  - A. Origen
-  - B. Las cuatro letras
+- **I. VICA (VUCA): gestión del cambio**
+  - A. Las cuatro letras
     1. Volátil
     2. Incierto
     3. Complejo
     4. Ambiguo
-  - C. Respuesta estándar: agilidad y planificación flexible
-- **III. VANI (BANI): gestión del caos**
-  - A. Origen: Jamais Cascio
-  - B. Por qué VICA quedó obsoleto
-  - C. Las cuatro letras
+  - B. Respuesta estándar: agilidad y planificación flexible
+- **II. VANI (BANI): gestión del caos**
+  - A. Por qué VICA quedó obsoleto
+  - B. Las cuatro letras
     1. Frágil (*Brittle*)
     2. Ansioso (*Anxious*)
     3. No lineal (*Nonlinear*)
     4. Incomprensible (*Incomprehensible*)
-- **IV. Matriz de transición estratégica VICA → VANI**
-- **V. Conclusión: innovación abierta como resiliencia colectiva**
+- **III. Matriz de transición estratégica VICA → VANI**
+- **IV. Conclusión: innovación abierta como resiliencia colectiva**
 
 ---
 
@@ -47,19 +44,19 @@
 
 ```mermaid
 flowchart LR
-    subgraph VICA["VICA · años 80–90 · mundo inestable pero estructurado"]
+    subgraph VICA["VICA · mundo inestable pero estructurado"]
         V["Volátil"]
         I["Incierto"]
         C["Complejo"]
         A["Ambiguo"]
     end
-    subgraph VANI["VANI · 2018–2020 · mundo roto y caótico"]
+    subgraph VANI["VANI · mundo roto y caótico"]
         F["Frágil"]
         AN["Ansioso"]
         N["No lineal"]
         IN["Incomprensible"]
     end
-    VICA -->|"Jamais Cascio:<br/>'Facing the Age of Chaos'"| VANI
+    VICA --> VANI
     VICA -.-> R1(["Respuesta:<br/>agilidad y<br/>planificación flexible"])
     VANI -.-> R2(["Respuesta:<br/>resiliencia, empatía,<br/>contexto, intuición"])
 ```
@@ -68,23 +65,9 @@ flowchart LR
 
 ## 📖 Desarrollo
 
-## I. Por qué importan los marcos del entorno
+## I. VICA (VUCA): gestión del cambio
 
-> 📌 *"Los modelos de gestión **no nacen en el vacío**. La Innovación Abierta surgió como **respuesta directa a la aceleración del entorno**. Para diseñar una estrategia efectiva, las organizaciones utilizan **marcos analíticos que describen la naturaleza del mundo que enfrentan**. Hoy vivimos **la transición de un marco a otro**."*
-
-> 💡 **Para entenderlo:** antes de elegir *cómo* innovar, una empresa tiene que entender *en qué mundo* está jugando. VICA y VANI son dos "diagnósticos" de ese mundo.
-
-> 📝 **Citar y explayarse:** La cátedra plantea que *"los modelos de gestión no nacen en el vacío"*: la innovación abierta surgió como *"respuesta directa a la aceleración del entorno"*, y para diseñar una estrategia las organizaciones usan *"marcos analíticos que describen la naturaleza del mundo que enfrentan"*. VICA y VANI son esos marcos: diagnósticos del contexto que condicionan cómo conviene innovar. VICA describe un mundo **volátil, incierto, complejo y ambiguo**, difícil de predecir pero todavía estructurado, que se enfrenta con **agilidad y planificación flexible**. VANI, en cambio, describe un mundo **frágil, ansioso, no lineal e incomprensible**, que *"ya no solo es inestable, sino que está roto"*. Elegir una estrategia sin este diagnóstico es como planificar un viaje sin mirar el clima.
-
----
-
-## II. VICA (VUCA): gestión del cambio
-
-### II.A Origen
-- Desarrollado por el **ejército estadounidense en los años 80**; la cátedra lo ubica **nacido en la Guerra Fría y adoptado en los 90** por el mundo de los negocios.
-- Describe un mundo **difícil de predecir pero estructurado**, enfocado en la **volatilidad** y la **incertidumbre**.
-
-### II.B Las cuatro letras
+### I.A Las cuatro letras
 
 | Letra | Definición (cátedra) | Impacto en la Innovación Abierta |
 |---|---|---|
@@ -93,26 +76,21 @@ flowchart LR
 | **C – Complejidad** | **Múltiples factores interconectados**. | **Co-crear con expertos globales**. |
 | **A – Ambigüedad** | **Falta de claridad en el significado**. | **Experimentar con prototipos rápidos**. |
 
-### II.C Respuesta estándar
+### I.B Respuesta estándar
 **Agilidad y planificación flexible.**
 
 ---
 
-## III. VANI (BANI): gestión del caos
+## II. VANI (BANI): gestión del caos
 
-### III.A Origen: Jamais Cascio
-- Creado por el **antropólogo, autor y futurista estadounidense Jamais Cascio**.
-- Lo propuso **a fines de 2018**, pero cobró relevancia mundial con su artículo ***"Facing the Age of Chaos"*** ("Enfrentando la era del caos") a **principios de 2020**.
-- **VANI** es la traducción de **BANI**: ***Brittle, Anxious, Nonlinear, Incomprehensible***.
-
-### III.B Por qué VICA quedó obsoleto
+### II.A Por qué VICA quedó obsoleto
 > 📌 *"Según Cascio, el mundo actual **ya no es simplemente complejo o inestable**; se ha vuelto **caótico, confuso** y funciona bajo **dinámicas que desafían la lógica tradicional**."*
 
 VANI describe un mundo que **"ya no solo es inestable, sino que está roto"**, enfocado en la **fragilidad** y la **no-linealidad**.
 
-### III.C Las cuatro letras
+### II.B Las cuatro letras
 
-#### III.C.1 F – Frágil (*Brittle*)
+#### II.B.1 F – Frágil (*Brittle*)
 - **Concepto:** sistemas que **parecen sólidos, estables y robustos en la superficie** pueden **romperse de forma repentina y catastrófica** ante un impacto inesperado. **No se doblan; se quiebran por completo.**
 - **En Innovación Abierta:** depender de **un único proveedor**, **un solo laboratorio de I+D cerrado** o un **modelo de negocio rígido** expone a la empresa al colapso.
 - **Respuesta:** **resiliencia y redundancia**, logradas **diversificando capacidades** mediante **alianzas con startups y redes globales**.
@@ -120,19 +98,19 @@ VANI describe un mundo que **"ya no solo es inestable, sino que está roto"**, e
 
 > 🧩 **Ejemplo:** una cadena de suministro global "eficiente" que dependía de una sola fábrica se cortó por completo durante la pandemia.
 
-#### III.C.2 A – Ansioso (*Anxious*)
+#### II.B.2 A – Ansioso (*Anxious*)
 - **Concepto:** la volatilidad extrema y la velocidad de los cambios generan **ansiedad, desconfianza y miedo a tomar la decisión equivocada**. Cada elección **parece de vida o muerte**.
 - **En Innovación Abierta:** **parálisis por análisis** o posturas **ultra-defensivas**.
 - **Respuesta:** **empatía, transparencia y agilidad**. Al **descentralizar** el desarrollo de productos, **los riesgos se mitigan y se comparten** con el ecosistema.
 - **Impacto en IA:** **confianza y empatía en el ecosistema**.
 
-#### III.C.3 N – No lineal (*Nonlinear*)
+#### II.B.3 N – No lineal (*Nonlinear*)
 - **Concepto:** **se rompe la relación causa-efecto** tradicional. **Pequeños eventos generan consecuencias desproporcionadas** y **grandes esfuerzos pueden terminar en impacto nulo**. Las **predicciones a largo plazo pierden validez**.
 - **En Innovación Abierta:** **planificar productos a 5 años es inviable**.
 - **Respuesta:** **contexto y flexibilidad**. Se necesitan **múltiples apuestas simultáneas** (**carteras de Corporate Venture Capital**) para reaccionar rápido cuando una tendencia pequeña **se convierte de golpe en estándar** de la industria.
 - **Impacto en IA:** **apuestas diversificadas (CVC)**.
 
-#### III.C.4 I – Incomprensible (*Incomprehensible*)
+#### II.B.4 I – Incomprensible (*Incomprehensible*)
 - **Concepto:** **acumular más datos ya no funciona**. La **sobreinformación genera "ruido"**; los eventos y decisiones parecen **absurdos o sin sentido**. *"El exceso de respuestas oscurece las soluciones reales."*
 - **En Innovación Abierta:** **ningún departamento interno puede descifrar la complejidad por sí solo**.
 - **Respuesta:** **intuición, colaboración y transparencia**. Abrirse al ecosistema permite usar la **"inteligencia colectiva"** de expertos, científicos y emprendedores para decodificar los cambios **en tiempo real**.
@@ -142,7 +120,7 @@ VANI describe un mundo que **"ya no solo es inestable, sino que está roto"**, e
 
 ---
 
-## IV. Matriz de transición estratégica VICA → VANI
+## III. Matriz de transición estratégica VICA → VANI
 
 | Dimensión | **Era VICA** (gestión del **cambio**) | **Era VANI** (gestión del **caos**) |
 |---|---|---|
@@ -155,7 +133,7 @@ VANI describe un mundo que **"ya no solo es inestable, sino que está roto"**, e
 
 ---
 
-## V. Conclusión: innovación abierta como resiliencia colectiva
+## IV. Conclusión: innovación abierta como resiliencia colectiva
 
 > 📌 *"**La Innovación Abierta ya no es para competir.** En un entorno VANI, la innovación abierta es **la única herramienta para construir resiliencia colectiva** y habitar el futuro."*
 
@@ -195,10 +173,10 @@ flowchart LR
 
 ## ✍️ Autoevaluación
 
-**1. ¿Qué significan las siglas VICA y VANI? ¿Quién propuso VANI y cuándo?**
+**1. ¿Qué significan las siglas VICA y VANI?**
 <details><summary>Ver respuesta</summary>
 
-**VICA** (VUCA): Volátil, Incierto, Complejo, Ambiguo; surgido del ejército estadounidense en los años 80 y adoptado en los 90. **VANI** (BANI): Frágil (*Brittle*), Ansioso (*Anxious*), No lineal (*Nonlinear*), Incomprensible (*Incomprehensible*); propuesto por el antropólogo y futurista **Jamais Cascio** a fines de 2018 y popularizado con su artículo **"Facing the Age of Chaos"** (2020).
+**VICA** (VUCA): Volátil, Incierto, Complejo, Ambiguo. **VANI** (BANI): Frágil (*Brittle*), Ansioso (*Anxious*), No lineal (*Nonlinear*), Incomprensible (*Incomprehensible*).
 </details>
 
 **2. ¿Por qué Cascio considera que VICA quedó obsoleto?**

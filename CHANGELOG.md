@@ -2,6 +2,17 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.08.4 — 2026-10-08
+
+**Motivo:** se pidió sacar del tema 17 los agregados propios que repetían contenido y recortar el origen de los marcos en el tema 18.
+
+### Quitado
+- **Tema 17 · Innovación abierta:** diagrama de flujos inbound/outbound (repetía la tabla), recuadro *Glosario rápido*, tabla *Verdad / Parte del título / Flujo*, tabla *La mentalidad cerrada* (se superponía con la comparación de paradigmas) y recuadro *La fila más profunda*.
+- **Tema 18 · VICA y VANI:** sección *Por qué importan los marcos del entorno*, *Origen* de VICA y *Origen: Jamais Cascio* de VANI, con las fechas del mapa visual y de la pregunta 1 de autoevaluación. Secciones renumeradas de I a IV. Tiempo estimado: 35 min.
+
+### Cambiado
+- **README:** tiempo del tema 18 y tiempo total (~11 h 40 min).
+
 ## v2026.10.08.3 — 2026-10-08
 
 **Motivo:** se pidió dejar el tema 17 con lo importante.
