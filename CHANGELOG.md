@@ -2,6 +2,16 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.08.3 — 2026-10-08
+
+**Motivo:** se pidió dejar el tema 17 con lo importante.
+
+### Quitado
+- **Tema 17 · Innovación abierta:** sección *Henry Chesbrough y el origen del concepto*; de *El fundamento* queda solo la diferencia entre el modelo poroso y el esquema de Wheelwright & Clark (cita y párrafo para explayarse), sin el diagrama de flujo, los datos del libro ni *La ruptura del modelo tradicional*; secciones *Corporate Venture Capital en detalle*, *Caso real: Google Ventures* e *Ideas fuerza*. Con sus objetivos, entradas del esquema y la pregunta de autoevaluación sobre CVC y GV. Tiempo estimado: 45 min.
+
+### Cambiado
+- **README:** descripción y tiempo del tema 17.
+
 ## v2026.10.08.2 — 2026-10-08
 
 **Motivo:** se pidió dejar KPI y OKR con lo más importante (manteniendo las dos tablas KPI vs. OKR) y sacar las 5 Fuerzas de Porter del tema 23.
