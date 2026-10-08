@@ -2,6 +2,19 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.08.2 — 2026-10-08
+
+**Motivo:** se pidió dejar KPI y OKR con lo más importante (manteniendo las dos tablas KPI vs. OKR) y sacar las 5 Fuerzas de Porter del tema 23.
+
+### Quitado
+- **Tema 21 · KPI:** recuadros propios del GPS, de la balanza y la "lección del caso" de Mercado Libre.
+- **Tema 22 · OKR:** analogía del tablero del auto, ejemplo comercial/freelancer y los recuadros "regla de oro aplicada", sección *OKR en el trabajo freelance y por proyectos* (con su objetivo y pregunta de autoevaluación) y *Cierre: preguntas para llevarse*. Tiempo estimado: 45 min.
+- **Tema 23 · Análisis de mercado:** sección *Las 5 Fuerzas de Porter* (con su objetivo, rama del mapa y pregunta de autoevaluación). El tema pasa a llamarse *TAM, SAM y SOM*. Tiempo estimado: 35 min.
+- **Glosario:** 5 Fuerzas de Porter.
+
+### Cambiado
+- **README:** descripción y tiempo de los temas 22 y 23.
+
 ## v2026.10.08 — 2026-10-08
 
 **Motivo:** se pidió recortar el tema 21 a lo más importante: queda el caso Mercado Libre y se sacan los KPI por área, TechSolve, la transformación del modelo de trabajo y el ejercicio.

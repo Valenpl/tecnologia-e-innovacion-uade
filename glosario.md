@@ -4,7 +4,6 @@
 
 | Término | Definición breve | Módulo |
 |---|---|---|
-| **5 Fuerzas de Porter** | Modelo para analizar la intensidad competitiva de una industria: rivalidad, potenciales entrantes, poder de clientes, poder de proveedores y sustitutos. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **5 V de Big Data** | Volumen, Velocidad, Variedad, Veracidad y Valor (la más importante). | [10](parcial-1/10-big-data.md) |
 | **Abismo de desilusión** | Fase del Hype Cycle de Gartner donde caen las expectativas tras el pico. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
 | **Aceleradora corporativa** | Estructura interna que da mentoría, recursos e infraestructura a emprendedores a cambio de pilotar soluciones. | [17](resto-de-la-materia/17-innovacion-abierta.md) |

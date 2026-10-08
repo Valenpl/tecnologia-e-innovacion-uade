@@ -1,8 +1,8 @@
-# 23 · Análisis de mercado y competencia: TAM, SAM, SOM y Porter
+# 23 · Análisis de mercado: TAM, SAM y SOM
 
 > **Fuente en el material:** *Tecnología e Innovación – Tamaño de mercado TAM SAM SOM* / *Análisis de Mercado y Competencia* (Ing. Mario Barrios, 2026), diapositivas 1–41.
 > **Prerrequisitos:** [14 Propuesta de valor y segmentación](../parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md), [15 Estrategias comerciales](15-estrategias-comerciales-y-oceano-azul.md).
-> **Tiempo estimado:** 45 min.
+> **Tiempo estimado:** 35 min.
 > **Resto de la materia · Tema 23** (Análisis de Mercado y Competencia · Barrios). No entra en el Primer Parcial.
 
 ---
@@ -14,7 +14,6 @@
 3. Definir **TAM, SAM y SOM** y explicar para qué sirven.
 4. Diferenciar los enfoques **Top-Down** y **Bottom-Up** para estimar el tamaño de un mercado.
 5. Explicar los **aspectos a tener en cuenta** de cada enfoque: volumen, valores, per cápita, precio y **market share**.
-6. Analizar una industria con las **5 Fuerzas de Porter**.
 
 ---
 
@@ -32,7 +31,6 @@
   - A. Top-Down vs. Bottom-Up
   - B. Aspectos a tener en cuenta · Top-Down
   - C. Aspectos a tener en cuenta · Bottom-Up
-- **IV. Las 5 Fuerzas de Porter**
 
 ---
 
@@ -42,7 +40,6 @@
 flowchart TB
     M["🌍 MERCADO<br/>economía: oferta + demanda<br/>marketing: mercado meta"]
     M --> T["📏 ¿Cuánto mide?<br/>TAM ⊃ SAM ⊃ SOM<br/>Top-Down · Bottom-Up"]
-    M --> C["⚔️ ¿Qué tan competido es?<br/>5 Fuerzas de Porter"]
 ```
 
 ---
@@ -182,38 +179,10 @@ flowchart LR
 
 ---
 
-## IV. Las 5 Fuerzas de Porter 🔥
-
-> 📌 *"El Modelo de Fuerzas de Porter nos permite **analizar la intensidad competitiva de una industria**."* Es fundamental analizar la estructura de la industria en la que se desea entrar, entendiendo el **balance de fuerzas**. Sirve para comprender la **dinámica del mercado** y su **rentabilidad**, y desarrollar estrategias acordes.
-
-```mermaid
-flowchart TB
-    PE["🚪 Potenciales entrantes<br/>(amenaza de entrada)"] --> R
-    PR["🏭 Poder de los<br/>proveedores"] --> R["⚔️ RIVALIDAD COMPETITIVA<br/>entre las empresas existentes"]
-    CL["🛒 Poder de los<br/>clientes"] --> R
-    SU["🔄 Productos sustitutos<br/>(amenaza de sustitutos)"] --> R
-```
-
-Alrededor de las fuerzas actúan los **factores ambientales** (tecnológicos, económicos, ecológicos, socio-demográficos, político/legales) y las **regulaciones e intervenciones**.
-
-| # | Fuerza | Pregunta clave | Factores que **aumentan** la intensidad competitiva |
-|---|---|---|---|
-| 1 | **Rivalidad competitiva** | ¿Cómo reaccionaría un competidor si otro intenta aumentar sus ventas? | Muchos competidores de igual tamaño; bajo crecimiento de la industria; productos no diferenciados (commodities); altos costos fijos; productos perecederos; sobrecapacidad. |
-| 2 | **Potenciales entrantes** | ¿Qué tan fácil es para un nuevo jugador entrar y tomar participación? | Pocas economías de escala; poco capital necesario; fácil acceso a canales de distribución. |
-| 3 | **Clientes** | ¿Qué tan fácil es para los clientes cambiar de proveedor? | Productos no diferenciados; producto poco importante para el cliente; clientes que pueden **integrarse hacia atrás**. |
-| 4 | **Proveedores** | ¿Qué tan dependiente es la organización de sus proveedores? | Pocos proveedores dominan; productos únicos, muy diferenciados o con alto **costo de cambio**. |
-| 5 | **Sustitutos** | ¿Se pueden reemplazar los productos por otros similares? | Sustitutos similares, más baratos o más convenientes. |
-
-**Herramienta de trabajo: intensidad competitiva** (diapositivas 39–41). Para cada fuerza se completa: **importancia relativa**, si la fuerza es **baja, moderada o alta**, su **tendencia futura** y **comentarios**, y al final un **resumen**. Cada fuerza se puntúa en una escala **Low / Mid / High** según indicadores (por ejemplo, para el poder de los compradores: concentración de compradores, costo de cambiar de proveedor, amenaza de integración hacia atrás; para la rivalidad: número y tamaño de competidores, barreras de salida, diferenciación del producto, madurez de la industria).
-
-> 💡 **Fuerza alta = menos rentabilidad** para la industria; **fuerza baja = más rentabilidad**.
-
----
-
 ## 🔗 Conexiones
 
 - **← [14 Propuesta de valor y segmentación](../parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md):** el mercado meta es el segmento elegido; tipos de competidores y matriz de competitividad.
-- **← [15 Estrategias comerciales](15-estrategias-comerciales-y-oceano-azul.md):** ciclo del negocio, Ansoff (nuevos mercados), océano rojo (rivalidad alta).
+- **← [15 Estrategias comerciales](15-estrategias-comerciales-y-oceano-azul.md):** ciclo del negocio, Ansoff (nuevos mercados).
 - **← [20 Lean Startup](20-lean-startup-y-mvp.md):** validar la oportunidad de mercado antes de invertir.
 
 ---
@@ -250,13 +219,7 @@ Gana share cuando el **% de crecimiento de sus ventas es mayor que el % de creci
 Competencia perfecta: muchísimos productores, producto homogéneo, sin control del precio, sin barreras (ej. trigo). Oligopolio: pocos productores grandes, control alto pero dependiente de la competencia, barreras fuertes (ej. telefonía móvil, aerolíneas). Monopolio: un solo productor, producto sin sustitutos, control total del precio, barreras infranqueables (ej. agua, electricidad local).
 </details>
 
-**6. Enumere las 5 Fuerzas de Porter y un factor que aumente la intensidad de cada una.**
-<details><summary>Ver respuesta</summary>
-
-(1) **Rivalidad competitiva**: muchos competidores de igual tamaño. (2) **Potenciales entrantes**: poco capital necesario para competir. (3) **Poder de los clientes**: productos no diferenciados. (4) **Poder de los proveedores**: pocos proveedores dominan la industria. (5) **Sustitutos**: sustitutos más baratos o convenientes.
-</details>
-
-**7. En la demanda Qd = a − bP, ¿qué representan "a" y "b"?**
+**6. En la demanda Qd = a − bP, ¿qué representan "a" y "b"?**
 <details><summary>Ver respuesta</summary>
 
 **a**: demanda potencial máxima cuando el precio es cero; reúne los factores ajenos al precio (modas, gustos, ingresos, población). **b**: sensibilidad de la demanda al precio, cuántas unidades cae la cantidad demandada por cada peso que sube el precio (signo negativo por la Ley de la Demanda).

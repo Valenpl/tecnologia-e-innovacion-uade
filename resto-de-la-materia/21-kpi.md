@@ -71,8 +71,6 @@ mindmap
 
 > 📌 **Versión "KPI & OKR":** *"Un Key Performance Indicator es un **indicador cuantificable** que permite evaluar **qué tan bien** una organización, equipo o proceso **está alcanzando sus objetivos estratégicos** en un **período de tiempo definido**."*
 
-> 💡 **La metáfora del GPS:** el GPS no maneja por vos; te dice **dónde estás respecto de adónde querés ir** y te avisa si te desviaste. Eso hace un KPI.
-
 > 📝 **Citar y explayarse:** La cátedra define un KPI como *"un indicador cuantificable que permite evaluar qué tan bien una organización, equipo o proceso está alcanzando sus objetivos estratégicos en un período de tiempo definido"*, y lo compara con un *"GPS empresarial"*. La comparación es precisa: el KPI no hace el trabajo, pero muestra **dónde estás respecto de adónde querés llegar** y permite *"corregir el rumbo"* con decisiones basadas en datos. Por eso un KPI no es cualquier número: tiene que estar ligado a un **objetivo estratégico** y a un **período**. "Tiempo promedio de resolución de bugs críticos", por ejemplo, es un KPI si la empresa se propuso mejorar la calidad del servicio y lo revisa cada semana.
 
 ### I.B Métrica vs. KPI
@@ -179,8 +177,6 @@ flowchart LR
 | **Desventaja** | **Difíciles de medir**. | **No se puede intervenir retroactivamente**. |
 | **Ejemplos de la cátedra** | Cantidad de **pull requests por semana**, **cobertura de tests**. | **Churn rate del trimestre**, **ingresos mensuales**. |
 
-> 💡 **Para entenderlo – la balanza:** el peso que marca la balanza es un indicador **lagging** (resultado). Las calorías que comés y los entrenamientos de la semana son **leading** (predicen el peso futuro y podés actuar sobre ellos hoy). Un buen tablero combina ambos.
-
 ```mermaid
 flowchart LR
     L1["LEADING<br/>cobertura de tests ↑<br/>PRs pequeños y frecuentes"] -->|"predicen"| L2["LAGGING<br/>menos bugs en producción<br/>menos churn"]
@@ -232,8 +228,6 @@ flowchart LR
 - La intervención **redujo el tiempo de indisponibilidad un 41 % en 2 trimestres**.
 
 > 📌 **Conclusión de la cátedra:** *"La medición sistemática de KPI de ingeniería genera impacto directo tanto en la calidad del producto como en la satisfacción del equipo. **Los equipos con mejores DORA metrics tienen también la mayor retención de ingenieros**."*
-
-> 💡 **La lección del caso:** sin medir **por equipo**, el problema estaba "diluido" en el promedio de la empresa. El KPI permitió **focalizar** la intervención (regla de Pareto: pocos generan la mayoría de los problemas).
 
 > 📝 **Citar y explayarse:** La conclusión de la cátedra sobre el caso es que *"la medición sistemática de KPI de ingeniería genera impacto directo tanto en la calidad del producto como en la satisfacción del equipo"*, y que *"los equipos con mejores DORA metrics tienen también la mayor retención de ingenieros"*. Lo importante es que medir no fue solo controlar: al medir **por equipo**, el problema dejó de estar diluido en el promedio de la empresa y se pudo concentrar la intervención donde más rendía. Y el efecto fue doble: mejoró el producto y mejoró el clima, porque los equipos con procesos más sanos trabajan con menos urgencias y frustración. Un buen KPI no solo describe la realidad: ayuda a cambiarla.
 

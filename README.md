@@ -27,7 +27,7 @@ Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El o
 | 13 | [Design Thinking](parcial-1/13-design-thinking.md) | Las 5 etapas, características, beneficios, casos (Apple, Netflix, Airbnb, BBVA, IKEA); principios y mentalidades (clase pre-parcial). | Día 3 | 55 min | 🔥 pregunta 4 |
 | 14 | [Propuesta de valor, segmentación y Business Model Canvas](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) | Kawasaki, propuesta de valor, Maslow y los 30 elementos de valor, Canvas de Propuesta de Valor (caso NEXA), buyer persona, tipos de competidores, matriz de competitividad, los 9 bloques del BMC. | Clase 4 | 75 min | — |
 
-**Tiempo total:** ~12 h 35 min.
+**Tiempo total:** ~12 h 15 min.
 
 ---
 
@@ -42,8 +42,8 @@ Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El o
 | 19 | [Proyectos y estrategia de innovación](resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md) | Proyecto de innovación, tipos, estrategia de innovación, alineación, caso retail. | Proyecto de Innovación · Barrios | 60 min |
 | 20 | [Lean Startup y MVP](resto-de-la-materia/20-lean-startup-y-mvp.md) | Definición y objetivo, las fases del método, MVP, iterar vs. pivotar. | Proyecto de Innovación · Barrios | 45 min |
 | 21 | [KPI](resto-de-la-materia/21-kpi.md) | Anatomía, SMART, leading/lagging, herramientas, caso Mercado Libre. | KPI & OKR · Barrios | 45 min |
-| 22 | [OKR](resto-de-la-materia/22-okr.md) | Estructura, KPI vs. OKR, cascada, 6 errores, pago contra hitos para freelancers. | KPI & OKR · Barrios | 55 min |
-| 23 | [Análisis de mercado: TAM, SAM, SOM y Porter](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) | Mercado (oferta y demanda, estructuras, mercado meta), TAM/SAM/SOM, Top-Down vs. Bottom-Up y sus aspectos a tener en cuenta (volumen, valores, market share), 5 Fuerzas de Porter. | Análisis de Mercado y Competencia · Barrios | 45 min |
+| 22 | [OKR](resto-de-la-materia/22-okr.md) | Estructura, KPI vs. OKR (tabla de la cátedra), cascada, 6 errores, sistema KPI + OKR + iniciativas. | KPI & OKR · Barrios | 45 min |
+| 23 | [Análisis de mercado: TAM, SAM y SOM](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) | Mercado (oferta y demanda, estructuras, mercado meta), TAM/SAM/SOM, Top-Down vs. Bottom-Up y sus aspectos a tener en cuenta (volumen, valores, market share). | Análisis de Mercado y Competencia · Barrios | 35 min |
 | 24 | [Análisis financiero y estrategias de salida](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) | **Etapas de la inversión** y cadena de financiamiento (valle de la muerte, capital semilla, capital de riesgo), VAN, TIR, CAPM con riesgo país, estrategias de salida (fusión, venta) y valoración por múltiplo EBITDA. | MRI Análisis Financiero y Estrategias de Salida · Barrios | 35 min |
 
 ---
