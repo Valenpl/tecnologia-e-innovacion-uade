@@ -2,6 +2,17 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.08 — 2026-10-08
+
+**Motivo:** se pidió recortar el tema 21 a lo más importante: queda el caso Mercado Libre y se sacan los KPI por área, TechSolve, la transformación del modelo de trabajo y el ejercicio.
+
+### Quitado
+- **Tema 21 · KPI:** secciones *KPI por área* (áreas de negocio, DORA, implementación en cliente, SaaS), *El costo de no medir: caso TechSolve*, *KPI y la transformación del modelo de trabajo* y *Ejercicio: construí tu primer KPI*, con sus objetivos, ramas del mapa, filas de "Conceptos que se confunden" y preguntas de autoevaluación. Herramientas y Mercado Libre pasan a ser VI y VII. Tiempo estimado: 45 min.
+- **Glosario:** ARR / MRR, CAC, Churn, Defect Escape Rate y LTV / CAC.
+
+### Cambiado
+- **README:** descripción y tiempo del tema 21.
+
 ## v2026.10.07.11 — 2026-10-07
 
 **Motivo:** se agregó la tabla comparativa KPI vs. OKR que mostró la cátedra (va a ser pregunta del final).

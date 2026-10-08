@@ -12,7 +12,6 @@
 | **Adoptadores tempranos** | 13,5 % de la curva de adopción; visionarios. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
 | **Ambidestreza** | Mantener el negocio actual (explotar) mientras se desarrolla agresivamente el futuro (explorar). Exige recursos, liderazgo y estructura. | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **Análisis morfológico** | Técnica creativa: descomponer un problema en componentes y combinar opciones. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
-| **ARR / MRR** | Ingreso recurrente anual / mensual. | [21](resto-de-la-materia/21-kpi.md) |
 | **Árbol de decisión** | Técnica de Data Mining: modelo visual de reglas para clasificar o predecir. | [09](parcial-1/09-data-mining.md) |
 | **B2B / B2C** | Venta entre empresas (al por mayor, proceso lento, relaciones largas) / venta directa al consumidor final. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **Backstage / Frontstage** | Lo oculto que sostiene el servicio / lo que el cliente ve y experimenta; los separa la línea de visibilidad. | [16](resto-de-la-materia/16-service-design-y-cultura-fail.md) |
@@ -23,13 +22,11 @@
 | **Business Intelligence (BI)** | Conjunto de tecnologías, procesos y herramientas que transforman datos brutos en información accionable. | [08](parcial-1/08-business-intelligence.md) |
 | **Business Model Canvas (BMC)** | Lienzo de Osterwalder que muestra en una imagen cómo genera valor el negocio, en 9 bloques. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **Buyer persona** | Perfil del cliente ideal: datos demográficos, comportamiento y hábitos, dolores y necesidades. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
-| **CAC** | Costo de adquisición de cliente = (marketing + ventas) / nuevos clientes. | [21](resto-de-la-materia/21-kpi.md) |
 | **Canvas de Propuesta de Valor** | Mapa de valor (productos, creadores de alegrías, aliviadores de frustraciones) frente al perfil del cliente (trabajos, alegrías, frustraciones). | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **Capital semilla / capital de riesgo** | Financiamiento de la etapa de inicio (4 F, crowdfunding, fondos semilla, ángeles) / de la etapa de crecimiento (fondos privados). | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
 | **CAPM** | Modelo que relaciona el riesgo sistemático con el rendimiento esperado de un activo. Versión de la cátedra: R = Rf + Riesgo país + β × (Rm − Rf). | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
 | **Cascada de OKR** | Definir OKR en la empresa y bajarlos a equipos como contribución real. | [22](resto-de-la-materia/22-okr.md) |
 | **Change Failure Rate** | % de releases que requieren rollback o hotfix. Métrica DORA. | [21](resto-de-la-materia/21-kpi.md) |
-| **Churn** | Clientes perdidos / total al inicio × 100. | [21](resto-de-la-materia/21-kpi.md) |
 | **Ciberresiliencia** | Capacidad de recuperarse de un ataque (vs. solo prevenirlo). | [02](parcial-1/02-impactos-y-desafios.md) |
 | **Ciclos económicos** | Oscilación del PIB: depresión → recuperación → auge; la innovación impulsa la recuperación. | [06](parcial-1/06-schumpeter-destruccion-creativa-y-ciclos.md) |
 | **Clasificación** | Técnica predictiva: asigna elementos a categorías predefinidas. | [09](parcial-1/09-data-mining.md) |
@@ -47,7 +44,6 @@
 | **Data Mining** | Proceso técnico y automatizado que descubre patrones ocultos en grandes volúmenes de datos con estadística e IA. | [09](parcial-1/09-data-mining.md) |
 | **Data warehouse** | Repositorio central donde BI integra datos de distintas fuentes. | [08](parcial-1/08-business-intelligence.md) |
 | **Deep learning** | Subcampo del machine learning basado en redes neuronales profundas. | [12](parcial-1/12-innovacion-tecnologica-e-ia.md) |
-| **Defect Escape Rate** | Bugs en producción / total de bugs × 100. Meta < 5 %. | [21](resto-de-la-materia/21-kpi.md) |
 | **Design Sprint** | Metodología de cinco días: Map, Sketch, Decide, Prototype, Test. | [16](resto-de-la-materia/16-service-design-y-cultura-fail.md) |
 | **Design Thinking** | Metodología centrada en el ser humano: empatizar, definir, idear, prototipar, testear. | [13](parcial-1/13-design-thinking.md) |
 | **Destrucción creativa** | Proceso de transformación que acompaña a la innovación (Schumpeter). | [06](parcial-1/06-schumpeter-destruccion-creativa-y-ciclos.md) |
@@ -87,7 +83,6 @@
 | **Leading / Lagging** | KPI que predicen resultados (accionables) / que miden resultados ocurridos. | [21](resto-de-la-materia/21-kpi.md) |
 | **Lean Startup** | Metodología de Eric Ries para reducir riesgo y desperdicio con prototipos, experimentación y aprendizaje. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) |
 | **Liquidación** | Estrategia defensiva: venta de los activos de la empresa, en partes, por su valor tangible. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
-| **LTV / CAC** | Relación valor de vida del cliente / costo de adquirirlo; saludable ≥ 3:1. | [21](resto-de-la-materia/21-kpi.md) |
 | **Machine learning** | Subcampo de la IA: sistemas que aprenden de los datos. | [12](parcial-1/12-innovacion-tecnologica-e-ia.md) |
 | **Market share** | Participación de una marca o empresa sobre el total del mercado, en volumen o en valores. Se gana share creciendo más que la industria. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **Matriz de Ansoff** | Mercado × producto: penetración, desarrollo de mercado, desarrollo de producto, diversificación. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
