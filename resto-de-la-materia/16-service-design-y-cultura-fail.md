@@ -109,9 +109,9 @@ Según la cátedra, el diseño de servicios:
 
 | Pilar | Qué incluye |
 |---|---|
-1. **Personas** | Diseño centrado tanto en el **cliente final** como en los **empleados** que operan y dan vida al servicio diariamente.
-2. **Procesos** | Flujos de trabajo estructurados, flujos de información integrados y metodologías que aseguran la **eficiencia operativa sin fricciones**.
-3. **Artefactos** | Toda la **infraestructura física y digital**: plataformas tecnológicas, herramientas, entornos, espacios y materiales tangibles.
+| **1. Personas** | Diseño centrado tanto en el **cliente final** como en los **empleados** que operan y dan vida al servicio diariamente. |
+| **2. Procesos** | Flujos de trabajo estructurados, flujos de información integrados y metodologías que aseguran la **eficiencia operativa sin fricciones**. |
+| **3. Artefactos** | Toda la **infraestructura física y digital**: plataformas tecnológicas, herramientas, entornos, espacios y materiales tangibles. |
 
 ### D. El ecosistema del servicio: frontstage y backstage
 
@@ -144,10 +144,10 @@ Los principios, en su versión de **2017**:
 
 | Actividad | Objetivo | Qué se hace (cátedra) |
 |---|---|---|
-1. **Investigación** (*research*) | **Comprender** | Investigación **cualitativa** profunda; entrevistas en profundidad y **observación directa**; mapeo de necesidades, dolores y expectativas; hallazgo de **insights ocultos** del usuario. Ayuda al equipo a **ir más allá de las suposiciones**; los conocimientos **cualitativos** suelen ser más prácticos que los cuantitativos porque responden **"por qué"**.
-2. **Ideación** (*ideation*) | **Crear** | Talleres de **co-creación** multidisciplinarios; lluvia de ideas sin restricciones iniciales; alineación entre viabilidad de negocio y diseño; mapeo conceptual de soluciones. Los equipos deben aprender que **no se busca la idea perfecta ("la bala de plata")** para invertir enseguida recursos masivos: **aprender a dejar ir las ideas** para dar paso a otras nuevas es una habilidad crucial.
-3. **Prototipado** (*prototyping*) | **Validar** | Construcción **rápida y de bajo costo**; simulaciones de servicio y maquetas digitales; pruebas con usuarios reales y personal; iteración basada en feedback. Probar las ideas clave **en el mundo real**, midiendo la mayor cantidad de variables para construir soluciones más robustas.
-4. **Implementación** (*implementation*) | **Escalar** | Planificación e hitos de lanzamiento; **pilotos controlados** en entornos reales; **capacitación** de equipos (back y front); establecimiento de **métricas de éxito (KPI)**. Es **el punto final**: convertir un prototipo en un sistema en funcionamiento, lo que involucra gestión del cambio, capacitación, contratación, desarrollo de software o producción de objetos físicos.
+| **1. Investigación** (*research*) | **Comprender** | Investigación **cualitativa** profunda; entrevistas en profundidad y **observación directa**; mapeo de necesidades, dolores y expectativas; hallazgo de **insights ocultos** del usuario. Ayuda al equipo a **ir más allá de las suposiciones**; los conocimientos **cualitativos** suelen ser más prácticos que los cuantitativos porque responden **"por qué"**. |
+| **2. Ideación** (*ideation*) | **Crear** | Talleres de **co-creación** multidisciplinarios; lluvia de ideas sin restricciones iniciales; alineación entre viabilidad de negocio y diseño; mapeo conceptual de soluciones. Los equipos deben aprender que **no se busca la idea perfecta ("la bala de plata")** para invertir enseguida recursos masivos: **aprender a dejar ir las ideas** para dar paso a otras nuevas es una habilidad crucial. |
+| **3. Prototipado** (*prototyping*) | **Validar** | Construcción **rápida y de bajo costo**; simulaciones de servicio y maquetas digitales; pruebas con usuarios reales y personal; iteración basada en feedback. Probar las ideas clave **en el mundo real**, midiendo la mayor cantidad de variables para construir soluciones más robustas. |
+| **4. Implementación** (*implementation*) | **Escalar** | Planificación e hitos de lanzamiento; **pilotos controlados** en entornos reales; **capacitación** de equipos (back y front); establecimiento de **métricas de éxito (KPI)**. Es **el punto final**: convertir un prototipo en un sistema en funcionamiento, lo que involucra gestión del cambio, capacitación, contratación, desarrollo de software o producción de objetos físicos. |
 
 **Para qué sirve prototipar un servicio (cátedra):**
 
