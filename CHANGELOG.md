@@ -2,6 +2,13 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.09.4 — 2026-10-09
+
+**Motivo:** en el tema 16 quedaron tablas rotas después del recorte.
+
+### Corregido
+- **Tema 16 · Service Design:** las tablas de los 3 pilares (II.C) y de las 4 actividades (IV) habían perdido el formato de tabla en sus filas; se restauraron igual que antes del recorte.
+
 ## v2026.10.09.3 — 2026-10-09
 
 **Motivo:** para estudiar en 2 días se pidió achicar el resumen sacando los párrafos "citar y explayarse", los ejemplos de más, las repeticiones y los datos históricos, sin borrar archivos salvo el tema 19.
