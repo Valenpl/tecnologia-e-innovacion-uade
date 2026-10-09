@@ -2,6 +2,19 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.09 — 2026-10-09
+
+**Motivo:** se pidió agregar los repasos *Metodologías de Innovación* (en un tema aparte, marcando las diferencias) y *Pensamiento Divergente y Convergente* (breve, dentro de innovación abierta).
+
+### Agregado
+- **Tema 27 · Metodologías de innovación:** tabla comparativa de la cátedra (foco principal e ideal para) y concepto, pilares y proceso de Design Thinking, Lean Startup, Ágiles, Innovación Abierta y Océano Azul; cierre con Peter Drucker.
+- **Tema 17 · Innovación abierta:** sección *VI. Pensamiento divergente y convergente* (ciclo de oscilación cognitiva, Doble Diamante, matriz comparativa y Drucker), con su objetivo, fila en *Conceptos que se confunden* y pregunta de autoevaluación. Tiempo estimado: 55 min.
+- **Glosario:** Doble Diamante, Matriz ERAC, Pensamiento divergente / convergente.
+
+### Cambiado
+- **README** y **Cómo estudiar:** tema 27 en el índice y el mapa; descripción y tiempo del tema 17; el resto de la materia pasa a ser temas 15–27; tiempo total ~13 h 20 min.
+- **Tema 26:** enlace al tema siguiente.
+
 ## v2026.10.08.6 — 2026-10-08
 
 **Motivo:** se pidió agregar las presentaciones *Metodologías Ágiles* y *Matrices para la toma de decisiones*, solo con lo que entra según la cátedra.

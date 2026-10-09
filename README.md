@@ -27,7 +27,7 @@ Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El o
 | 13 | [Design Thinking](parcial-1/13-design-thinking.md) | Las 5 etapas, características, beneficios, casos (Apple, Netflix, Airbnb, BBVA, IKEA); principios y mentalidades (clase pre-parcial). | Día 3 | 55 min | 🔥 pregunta 4 |
 | 14 | [Propuesta de valor, segmentación y Business Model Canvas](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) | Kawasaki, propuesta de valor, Maslow y los 30 elementos de valor, Canvas de Propuesta de Valor (caso NEXA), buyer persona, tipos de competidores, matriz de competitividad, los 9 bloques del BMC. | Clase 4 | 75 min | — |
 
-**Tiempo total:** ~12 h 45 min.
+**Tiempo total:** ~13 h 20 min.
 
 ---
 
@@ -37,7 +37,7 @@ Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El o
 |---|---|---|---|---|
 | 15 | [Estrategias comerciales, Matriz de Ansoff y Océano Azul](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) | Integración, intensivas, diversificación y defensivas (cuándo usar cada una), ciclo del negocio, Ansoff, océano rojo vs. azul, matriz de las cuatro acciones. | Clase 4 pre-parcial · Barrios | 60 min |
 | 16 | [Service Design, Design Sprint y cultura fail](resto-de-la-materia/16-service-design-y-cultura-fail.md) | Design Sprint en 5 días, definición y pilares del diseño de servicios, frontstage/backstage, principios 2010 vs. 2017, 4 actividades, Journey Map y Blueprint, cultura fail. | Clase 4 pre-parcial · Barrios | 70 min |
-| 17 | [Innovación abierta](resto-de-la-materia/17-innovacion-abierta.md) | Embudo cerrado vs. poroso, inbound/outbound, las tres verdades, paradigma cerrado vs. abierto, vehículos (CVC, aceleradoras, co-creación). | Día 3 | 45 min |
+| 17 | [Innovación abierta](resto-de-la-materia/17-innovacion-abierta.md) | Embudo cerrado vs. poroso, inbound/outbound, las tres verdades, paradigma cerrado vs. abierto, vehículos (CVC, aceleradoras, co-creación), pensamiento divergente y convergente (Doble Diamante). | Día 3 · repaso MRI viernes | 55 min |
 | 18 | [De VICA a VANI](resto-de-la-materia/18-entornos-vica-y-vani.md) | Entornos VUCA y BANI, matriz de transición, innovación abierta como resiliencia. | Día 3 | 35 min |
 | 19 | [Proyectos y estrategia de innovación](resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md) | Proyecto de innovación, tipos, estrategia de innovación, alineación, caso retail. | Proyecto de Innovación · Barrios | 60 min |
 | 20 | [Lean Startup y MVP](resto-de-la-materia/20-lean-startup-y-mvp.md) | Definición y objetivo, las fases del método, MVP, iterar vs. pivotar. | Proyecto de Innovación · Barrios | 45 min |
@@ -47,6 +47,7 @@ Entra **hasta Propuesta de valor y Business Model Canvas** (temas 01–14). El o
 | 24 | [Análisis financiero y estrategias de salida](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) | **Etapas de la inversión** y cadena de financiamiento (valle de la muerte, capital semilla, capital de riesgo), VAN, TIR, CAPM con riesgo país, estrategias de salida (fusión, venta) y valoración por múltiplo EBITDA. | MRI Análisis Financiero y Estrategias de Salida · Barrios | 35 min |
 | 25 | [Metodologías ágiles y Scrum](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) | Qué es ágil (adaptación al cambio), Manifiesto (4 valores y 12 principios), Scrum: pilares, principios, organización, flujo de trabajo, fases y roles (Product Owner, Scrum Master, Development Team). | MRI Metodologías Ágiles · Barrios | 45 min |
 | 26 | [Planificación estratégica: 8 pasos y Ansoff](resto-de-la-materia/26-planificacion-estrategica.md) | Matrices para la toma de decisiones, los 8 pasos de la planificación estratégica (misión → evaluación), Matriz de Ansoff. | Matrices para la toma de decisiones · Barrios | 20 min |
+| 27 | [Metodologías de innovación: diferencias](resto-de-la-materia/27-metodologias-de-innovacion-comparativa.md) | Design Thinking, Lean Startup, Ágiles, Innovación Abierta y Océano Azul: concepto, pilares, proceso y tabla comparativa (foco e ideal para); Drucker. | MRI viernes · repaso | 25 min |
 
 ---
 
@@ -90,7 +91,7 @@ Cada actualización del material se registra en [CHANGELOG.md](CHANGELOG.md) y s
 ├── README.md                     ← este índice
 ├── 00-como-estudiar-…md          ← método
 ├── parcial-1/                    ← temas 01–14 (Primer Parcial)
-├── resto-de-la-materia/          ← temas 15–26
+├── resto-de-la-materia/          ← temas 15–27
 ├── evaluacion/                   ← guía del parcial, parcial anterior, preguntas integradoras
 │   └── casos/                    ← Nokia, NEXA, enunciado del parcial anterior
 ├── glosario.md

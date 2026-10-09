@@ -2,7 +2,7 @@
 
 > **Fuente en el material:** *Día 3 – Innovación Abierta* (basado en Henry Chesbrough), diapositivas 1–14 y 26–32.
 > **Prerrequisitos:** [07 Gestión de la innovación](../parcial-1/07-gestion-de-la-innovacion.md) (tipo "Red" de Doblin).
-> **Tiempo estimado:** 45 min.
+> **Tiempo estimado:** 55 min.
 > **Resto de la materia · Tema 17** (Día 3). No entra en el Primer Parcial.
 
 ---
@@ -14,6 +14,7 @@
 3. Explicar las **tres verdades** del "nuevo imperativo".
 4. Comparar el **paradigma cerrado** y el **abierto** en cuatro dimensiones.
 5. Describir los **vehículos de implementación** (CVC, aceleradoras corporativas, ecosistemas de co-creación).
+6. Diferenciar el **pensamiento divergente** y el **convergente** y ubicarlos en el **Doble Diamante**.
 
 ---
 
@@ -34,6 +35,7 @@
   1. Corporate Venture Capital
   2. Aceleradoras corporativas
   3. Ecosistemas de co-creación
+- **VI. Pensamiento divergente y convergente** (Doble Diamante)
 
 ---
 
@@ -119,6 +121,33 @@ En la innovación abierta, las paredes del embudo **tienen agujeros**: el conoci
 
 ---
 
+## VI. Pensamiento divergente y convergente
+
+> 📌 *"El proceso creativo **no se gestiona de manera caótica**. Consiste en un **ritmo estructurado** que combina y alterna de forma controlada **dos modos fundamentales de pensamiento**"* (ciclo de oscilación cognitiva). Los líderes deben saber **cuándo abrir** la organización a la captura de ideas y **cuándo enfocar** los recursos en la viabilidad comercial.
+
+- **Pensamiento divergente (apertura):** capacidad de **generar múltiples opciones** a partir de un único estímulo, **sin juzgar su viabilidad**. Rasgos: **fluidez** (muchas ideas), **flexibilidad** (cambiar de perspectiva) y **originalidad** (ideas disruptivas). Se conecta con el flujo **inbound**: hackathons, convocatorias abiertas, scouting de startups, co-creación con universidades.
+- **Pensamiento convergente (enfoque):** **analizar, evaluar, filtrar y seleccionar** la mejor opción con lógica, datos y criterios de negocio. Criterios: **viabilidad técnica**, **rentabilidad económica** (ROI) y **encaje estratégico**. Se conecta con los **comités de filtrado**, las carteras de **CVC** y el flujo **outbound** (licencias, spin-offs).
+
+**El Doble Diamante** alterna los dos modos:
+
+| Diamante | Fase | Modo | En innovación abierta |
+|---|---|---|---|
+| **1. El problema** (*diseñar la cosa correcta*) | **Descubrir** | Divergencia | Captura masiva de ideas del ecosistema (inbound). |
+| | **Definir** | Convergencia | Identificar el dolor real y el problema central. |
+| **2. La solución** (*diseñar correctamente la cosa*) | **Desarrollar** | Divergencia | Explorar múltiples soluciones sin juzgar viabilidad (co-creación). |
+| | **Entregar** | Convergencia | Ejecutar y monetizar: filtros, ROI, viabilidad, spin-offs (outbound). |
+
+| Dimensión | **Divergente** | **Convergente** |
+|---|---|---|
+| **Objetivo** | Expandir alternativas (crear opciones) | Focalizar alternativas (tomar decisiones) |
+| **Estado mental** | Abierto, creativo, sin juzgar | Analítico, crítico, enfocado en viabilidad |
+| **Rol en innovación** | Flujo inbound | Flujo outbound |
+| **Riesgo si se abusa** | Caos creativo sin ejecución | Rigidez corporativa, falta de disrupción |
+
+> 📌 *"La innovación **no es un evento fortuito**, es un **proceso disciplinado**"* (Peter Drucker, 1985). La innovación abierta exitosa no depende solo de capturar ideas (divergencia), sino de **canalizarlas hacia soluciones de valor comercial** (convergencia).
+
+---
+
 ## ⚠️ Conceptos que se confunden
 
 | Se confunde… | …con | Diferencia |
@@ -127,6 +156,7 @@ En la innovación abierta, las paredes del embudo **tienen agujeros**: el conoci
 | Innovación abierta | Código abierto / regalar todo | No es regalar: la IP es **flexible** (se compra, se vende, se licencia). |
 | Embudo de Wheelwright & Clark | Embudo de Chesbrough | **Cerrado, lineal, secuencial** (filtra y archiva) vs. **perforado/poroso** (entra y sale conocimiento). |
 | CVC | Aceleradora corporativa | **Invertir capital** en startups vs. **acompañar** con mentoría e infraestructura a cambio de pilotos. |
+| Pensamiento divergente | Pensamiento convergente | **Abrir** y generar opciones sin juzgar (inbound) vs. **filtrar** y elegir con criterios de viabilidad (outbound). |
 | Spin-off | Joint venture | Empresa **nueva que se desprende** vs. emprendimiento **conjunto** entre organizaciones. |
 
 ---
@@ -170,6 +200,12 @@ Wheelwright & Clark: proceso **lineal, secuencial y cerrado**; la empresa genera
 <details><summary>Ver respuesta</summary>
 
 Cerrado: **ser el primero en descubrir** la tecnología asegura el dominio de la industria. Abierto: **construir modelos de negocio superiores** es más rentable que descubrir la tecnología.
+</details>
+
+**6. ¿Qué es el pensamiento divergente y el convergente, y cómo se combinan en el Doble Diamante?**
+<details><summary>Ver respuesta</summary>
+
+**Divergente:** generar muchas opciones sin juzgar su viabilidad (fluidez, flexibilidad, originalidad); se asocia al flujo inbound. **Convergente:** analizar, filtrar y elegir con criterios de viabilidad técnica, rentabilidad y encaje estratégico; se asocia al outbound. El Doble Diamante los alterna: problema (descubrir → definir) y solución (desarrollar → entregar). Como dice Drucker, la innovación es un proceso disciplinado.
 </details>
 
 ---

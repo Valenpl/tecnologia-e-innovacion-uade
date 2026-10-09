@@ -89,4 +89,4 @@ Analiza estrategias de crecimiento según productos y mercados actuales o nuevos
 
 ---
 
-[← 25 Metodologías ágiles y Scrum](25-metodologias-agiles-y-scrum.md) · [🏠 Índice](../README.md)
+[← 25 Metodologías ágiles y Scrum](25-metodologias-agiles-y-scrum.md) · [🏠 Índice](../README.md) · [Siguiente → 27 Metodologías de innovación](27-metodologias-de-innovacion-comparativa.md)
