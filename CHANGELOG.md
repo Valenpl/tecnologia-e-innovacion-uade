@@ -2,6 +2,13 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.09.5 — 2026-10-09
+
+**Motivo:** se pidió agregar al resumen una explicación de Lean Startup, el MVP y cómo se relacionan.
+
+### Agregado
+- **Tema 20 · Lean Startup y MVP:** sección IV *Lean Startup y MVP: cómo se relacionan* (definiciones, relación con las 10 fases y frase para el examen), con el texto que pasó Valentino.
+
 ## v2026.10.09.4 — 2026-10-09
 
 **Motivo:** en el tema 16 quedaron tablas rotas después del recorte.

@@ -34,6 +34,7 @@
     9. Iteración
     10. Decisión de pivotar
 - **III. Conceptos clave**: MVP, hipótesis, pivotar, iterar
+- **IV. Lean Startup y MVP: cómo se relacionan**
 
 ---
 
@@ -118,6 +119,23 @@ Si, cumplidas estas etapas, el producto **no cumple los objetivos que demanda el
 | **Validación** | El mercado confirma (o no) la hipótesis. |
 | **Iterar** | Mejorar **sin cambiar el rumbo**. |
 | **Pivotar** | **Cambiar aspectos clave** del negocio. |
+
+---
+
+## IV. Lean Startup y MVP: cómo se relacionan
+
+**Lean Startup:** es una metodología de gestión creada por **Eric Ries** para desarrollar negocios y productos de forma más eficiente. Su objetivo es **reducir el riesgo** y **evitar el desperdicio** de tiempo y dinero. Lo logra con el **lanzamiento rápido de prototipos**, la **experimentación con usuarios reales** y el **aprendizaje continuo**.
+
+**MVP (Producto Mínimo Viable):** es la **versión más simple** del producto que permite **poner a prueba una hipótesis** con usuarios reales. No es un producto "malo": es **lo mínimo necesario para aprender**.
+
+**Cómo se relacionan:** el MVP es la **herramienta central** del método. Lean Startup dice *"no construyas todo de entrada; probá rápido y aprendé"*, y el MVP es lo que se lanza para hacer esa prueba. Dentro de las 10 fases:
+
+- Primero **entendés el problema** (fases 1 y 2) y **diseñás la solución** (fases 3 y 4), priorizándola con el objetivo de llegar a un MVP.
+- En la **fase 5** construís el MVP según hipótesis.
+- Después lo lanzás, **medís el feedback** de los usuarios (fase 6), **aprendés** de errores y fortalezas (fase 7) y **validás** si cumple con lo que espera el mercado (fase 8).
+- Según el resultado, **iterás** (mejorás sin cambiar el rumbo y volvés a probar) o **pivotás** (cambiás aspectos clave del negocio).
+
+> 🔥 **En una frase para el examen:** Lean Startup **reduce riesgo y desperdicio** validando hipótesis con el mercado, y el MVP es **el medio para validarlas** con usuarios reales antes de invertir en el producto completo.
 
 ---
 
