@@ -27,23 +27,14 @@
   5. Crecimiento y sostenibilidad
 - **II. Por qué invertir: la lógica del retorno**
 - **III. Impactos en la sociedad**
-  1. Conectividad y comunicación
-  2. Eficiencia y trabajo
-  3. Educación y salud
-  4. Desafíos sociales (lado negativo)
-  5. Sostenibilidad (doble filo)
-- **IV. Impactos en los negocios**
-  1. Eficiencia operativa y competitividad
-  2. Transformación de modelos de negocio
-  3. Cambios en el mercado laboral
-  4. Impacto social y calidad de vida
-  5. Adaptación y sostenibilidad
-- **V. Impacto en las empresas (la empresa de 2026)**
+  1. Desafíos sociales (lado negativo)
+  2. Sostenibilidad (doble filo)
+- **IV. Impacto en las empresas (la empresa de 2026)**
   - A. Operaciones: de la automatización a la IA agéntica
   - B. Toma de decisiones: predicción en tiempo real
   - C. Experiencia del cliente: hiperpersonalización
   - D. Sostenibilidad y resiliencia
-- **VI. Desafíos de la tecnología y la innovación**
+- **V. Desafíos de la tecnología y la innovación**
   1. Ciberseguridad y ciberresiliencia
   2. IA y ética
   3. Resistencia al cambio y cultura
@@ -110,33 +101,17 @@ flowchart LR
 
 > ⚠️ Fijate en **"a largo plazo"**: la innovación rara vez paga en el corto plazo. Esto se conecta con la **Gestión de la innovación 2.0** (módulo [07](07-gestion-de-la-innovacion.md)), donde la cátedra dice que *el cortoplacismo va en detrimento de la innovación*.
 
-> 📝 **Citar y explayarse:** La cátedra afirma que invertir en innovación tecnológica *"fortalece la defensa contra amenazas externas, ayuda a abordar riesgos internos"* y mejora la eficiencia, lo que se traduce en *"un retorno de inversión significativo a largo plazo"*. La clave está en el **largo plazo**: la inversión tiene un costo inmediato (equipos, capacitación, cambio de procesos) y sus beneficios llegan después, en forma de menos incidentes, procesos más rápidos y mejor posición competitiva. Por eso las empresas cortoplacistas tienden a invertir de menos. Por ejemplo, implementar ciberseguridad proactiva cuesta hoy, pero evita una filtración de datos que podría costar mucho más en multas y reputación.
-
 ---
 
 ## III. Impactos en la sociedad
 
 > 📌 *"La técnica, tecnología e innovación impactan profundamente la sociedad actual al aumentar la productividad, facilitar la conectividad global, transformar el trabajo remoto y mejorar diagnósticos médicos. Impulsan el aprendizaje en línea, el comercio electrónico y el acceso a la información."*
 
-> 📝 **Citar y explayarse:** Para la cátedra, la técnica, la tecnología y la innovación *"impactan profundamente la sociedad actual"*: aumentan la productividad, facilitan la conectividad global, transforman el trabajo remoto y mejoran los diagnósticos médicos. Lo que estos impactos tienen en común es que **cambian cómo las personas se relacionan, trabajan y acceden a servicios**, no solo las herramientas que usan. El trabajo remoto, por ejemplo, no es solo una videollamada: reorganiza horarios, ciudades y formas de contratar. Pero estos impactos no llegan a todos por igual, y por eso la materia los presenta junto con sus **desafíos** (brecha digital, ciberseguridad, ética).
-
-### III.1 Conectividad y comunicación
-- Interacción **inmediata** y **acortamiento de distancias**.
-- Cambia **cómo las personas se relacionan** y acceden al entretenimiento.
-
-### III.2 Eficiencia y trabajo
-- **Automatización, robótica e IA** aumentan la productividad industrial.
-- Habilitan modalidades como el **trabajo remoto**.
-
-### III.3 Educación y salud
-- Educación: **plataformas personalizadas**.
-- Salud: **telemedicina** y mejores **herramientas de diagnóstico**.
-
-### III.4 Desafíos sociales (el lado negativo)
+### III.1 Desafíos sociales (el lado negativo)
 - El uso excesivo trae riesgos de **aislamiento, tecnoestrés, ansiedad y adicción**.
 - Persisten **desigualdades en el acceso**, que afectan a **grupos vulnerables**.
 
-### III.5 Sostenibilidad (doble filo)
+### III.2 Sostenibilidad (doble filo)
 - La innovación **crea soluciones ecoamigables**…
 - …pero el **mal uso** de la tecnología **contribuye a la contaminación y al cambio climático**.
 
@@ -144,19 +119,7 @@ flowchart LR
 
 ---
 
-## IV. Impactos en los negocios
-
-| # | Impacto | Explicación |
-|---|---|---|
-| 1 | **Eficiencia operativa y competitividad** | Adoptar tecnología permite **reducir costos, acelerar procesos y mantenerse relevante** en mercados competitivos. |
-| 2 | **Transformación de modelos de negocio** | Impulsada por **Big Data e IA**, fomenta **nuevos productos, servicios y modelos de trabajo**, cambiando cómo operan las empresas y cómo interactúan con los clientes. |
-| 3 | **Cambios en el mercado laboral** | La automatización **transforma sectores**, pero **también crea nuevas oportunidades** laborales y exige **nuevas habilidades tecnológicas**. |
-| 4 | **Impacto social y calidad de vida** | La tecnología actúa como **ecualizador**: mejora el acceso a salud, educación y finanzas, aunque plantea **retos de privacidad y equidad**. |
-| 5 | **Adaptación y sostenibilidad** | Las organizaciones innovadoras pueden **gestionar riesgos**, mejorar la sostenibilidad y **adaptarse rápido** a las demandas del consumidor. |
-
----
-
-## V. Impacto en las empresas (la empresa de 2026)
+## IV. Impacto en las empresas (la empresa de 2026)
 
 La cátedra organiza el impacto en cuatro frentes. Este es uno de los bloques más "actuales" de la materia.
 
@@ -168,7 +131,7 @@ flowchart LR
     E --> S["D. SOSTENIBILIDAD<br/>y resiliencia"]
 ```
 
-### V.A Operaciones: de la automatización a la "IA agéntica"
+### IV.A Operaciones: de la automatización a la "IA agéntica"
 
 1. **Eficiencia radical**: reducción de **hasta un 30–50 % en los tiempos de ciclos operativos**, gracias a sistemas que **no solo sugieren, sino que ejecutan flujos de trabajo completos** (finanzas, logística, atención).
 2. **ERP activo**: los sistemas de gestión **ya no son bases de datos pasivas**; ahora **detectan problemas** (ej. falta de stock) y **proponen soluciones antes de que el humano lo note**.
@@ -177,26 +140,24 @@ flowchart LR
 > - **Automatización clásica**: "si pasa X, hacé Y" (reglas fijas).
 > - **IA agéntica**: el sistema **interpreta la situación, decide y ejecuta** una secuencia de pasos para lograr un objetivo (ej.: detecta que falta stock, pide cotizaciones, genera la orden de compra y avisa al responsable).
 
-### V.B Toma de decisiones: predicción en tiempo real
+### IV.B Toma de decisiones: predicción en tiempo real
 
 1. **Cultura data-driven**: la tecnología permite **pasar de la intuición a la precisión**. Las empresas líderes usan **analítica predictiva** para adelantarse a las tendencias del mercado.
 2. **Gemelos digitales (*Digital Twins*)**: se usan para **simular escenarios de negocio** —probar cambios en la cadena de suministro o en la producción **en un entorno virtual antes de aplicarlos en la realidad**.
 
-> 🧩 **Ejemplo:** una automotriz crea un gemelo digital de su planta y simula qué pasa si cambia el orden de la línea de montaje, sin frenar la producción real.
-
-### V.C Experiencia del cliente: hiperpersonalización
+### IV.C Experiencia del cliente: hiperpersonalización
 
 1. **Omnicanalidad inteligente**: *"el cliente ya no espera 24 horas; espera respuestas en 5 minutos"*. La **IA generativa** permite que cada interacción se personalice según el **historial y el sentimiento** del usuario.
 2. **Realidad inmersiva**: **AR y VR** pasan del entretenimiento a la **venta y formación**: los clientes "prueban" productos y los empleados se entrenan en entornos seguros.
 
-### V.D Sostenibilidad y resiliencia
+### IV.D Sostenibilidad y resiliencia
 
-1. **Tecnología sostenible**: según la diapositiva, *en 2026 el 60 % de las empresas implementa marcos de IA que optimizan el consumo energético y reducen la huella de carbono digital*.
+1. **Tecnología sostenible**: *marcos de IA que optimizan el consumo energético y reducen la huella de carbono digital*.
 2. **Ciberseguridad proactiva**: ante amenazas más complejas, se usa **IA para detectar anomalías antes de que ocurra un ataque** (prevención en lugar de reacción).
 
 ---
 
-## VI. Desafíos de la tecnología y la innovación
+## V. Desafíos de la tecnología y la innovación
 
 Son seis. Es una lista muy preguntable: aprendela con su "porqué".
 
@@ -209,20 +170,9 @@ Son seis. Es una lista muy preguntable: aprendela con su "porqué".
 | 5 | **Brecha digital y acceso** | Que la transformación sea **equitativa** y no aumente la **desigualdad social o de género**. | Equidad |
 | 6 | **Integración de sistemas y costos** | Dificultad para implementar tecnología nueva **sobre sistemas antiguos** (*legacy*) y **altos costos de mantenimiento**. | Legacy |
 
-> 💡 **Para entenderlo – prevención vs. ciberresiliencia:** la prevención asume que podés evitar todos los ataques. La ciberresiliencia asume que **algún ataque va a pasar** y se prepara para **seguir operando y recuperarse rápido** (backups, planes de contingencia, monitoreo). Ojo: en V.D aparece "ciberseguridad **proactiva**" (detectar antes) y acá "ciber**resiliencia**" (recuperarse después). Son complementarias.
+> 💡 **Para entenderlo – prevención vs. ciberresiliencia:** la prevención asume que podés evitar todos los ataques. La ciberresiliencia asume que **algún ataque va a pasar** y se prepara para **seguir operando y recuperarse rápido** (backups, planes de contingencia, monitoreo). Ojo: en IV.D aparece "ciberseguridad **proactiva**" (detectar antes) y acá "ciber**resiliencia**" (recuperarse después). Son complementarias.
 
 > 🔗 El desafío 3 (resistencia al cambio) reaparece como "problema de innovar" en el módulo [12](12-innovacion-tecnologica-e-ia.md) y como tema de liderazgo en el [07](07-gestion-de-la-innovacion.md).
-
----
-
-## Actividades de la clase (para practicar)
-
-La Clase 1 propone dos consignas que conviene responder por escrito como práctica de desarrollo:
-
-1. *¿Qué innovación tecnológica cambió sus vidas durante estos últimos 10 años? ¿Por qué ha sido importante para usted ese cambio? ¿Qué mejoras ha encontrado? Si pudiera mejorar, ¿qué haría?*
-2. *Elija una empresa que ha crecido durante los últimos años y detalle por qué ha crecido exponencialmente.*
-
-> 💡 **Cómo responder la 2 usando la materia:** elegí la empresa → identificá **qué tecnología** usa (II.A del módulo 01) → **qué tipo de innovación** hizo (incremental/radical/disruptiva, de modelo de negocio…) → **qué impacto** generó (sección I de este módulo) → si aplica, **qué uso de datos** hace (módulos 08–10).
 
 ---
 

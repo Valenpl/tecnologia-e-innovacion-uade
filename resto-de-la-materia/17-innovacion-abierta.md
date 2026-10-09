@@ -51,8 +51,6 @@
 
 > 📌 *"A diferencia del modelo poroso de Chesbrough, el esquema de Wheelwright & Clark describe un proceso **lineal, secuencial y cerrado**. La idea central: **una empresa siempre genera muchas más ideas de las que financieramente puede o debe ejecutar**. Por lo tanto, el proceso de desarrollo debe actuar como **un filtro que va descartando opciones** a medida que se avanza, asegurando que **solo los proyectos con mayor valor estratégico y viabilidad comercial lleguen al mercado**."*
 
-> 📝 **Citar y explayarse:** Según la cátedra, el embudo de Wheelwright y Clark describe un proceso *"lineal, secuencial y cerrado"* basado en una idea: *"una empresa siempre genera muchas más ideas de las que financieramente puede o debe ejecutar"*. Por eso el desarrollo funciona como un **filtro** que descarta opciones en cada etapa hasta que solo las mejores llegan al mercado. El rasgo clave es que es **cerrado**: todas las ideas nacen adentro, todo se desarrolla adentro y lo descartado queda archivado sin aprovecharse. Ese es justamente el punto que critica Chesbrough: las ideas descartadas pueden tener valor para otros, y las ideas externas pueden ser mejores que las propias. Un laboratorio corporativo que patenta tecnologías que nunca usa es el ejemplo típico de este modelo.
-
 ---
 
 ## II. Dinámica de flujos: el embudo perforado
@@ -76,8 +74,6 @@ En la innovación abierta, las paredes del embudo **tienen agujeros**: el conoci
 - Hoy la tecnología y la demanda cambian a una velocidad tal que **si desarrollás todo adentro, llegás tarde** al mercado.
 - Abrirse al exterior **no es una moda: es una regla de supervivencia**.
 
-> 📝 **Citar y explayarse:** La cátedra resume el nuevo imperativo diciendo que *"las empresas ya no pueden sobrevivir siendo islas tecnológicas"* y que *"el éxito depende de cooperar con el mundo exterior"*. La razón es la velocidad: antes un producto podía sostener a una empresa durante años, pero hoy la tecnología y la demanda cambian tan rápido que desarrollar todo internamente implica **llegar tarde** al mercado. Cooperar permite usar tecnologías ajenas sin inventarlas y, a la vez, obtener ingresos de las propias que no se usan, por ejemplo licenciándolas. No es una moda sino una **condición de supervivencia**, sobre todo en entornos inestables como los que describe el modelo VANI (módulo [18](18-entornos-vica-y-vani.md)).
-
 ### III.2 No tenés que inventarlo todo para usarlo ("crear… tecnología")
 - Las corporaciones sufrían el síndrome **"No fue inventado aquí"** (*Not Invented Here*): si sus ingenieros no lo habían creado, lo rechazaban.
 - Chesbrough demostró que se pueden crear productos revolucionarios **integrando piezas del rompecabezas que otros ya armaron**.
@@ -95,8 +91,6 @@ En la innovación abierta, las paredes del embudo **tienen agujeros**: el conoci
 ### IV.A El cambio: propiedad intelectual flexible
 
 > 📌 *"Chesbrough explicó que esta protección extrema se volvió **un freno**. En lugar de gastar recursos en esconder todo, la innovación abierta propone que la **propiedad intelectual sea flexible**: si tenés una patente que no usás, **la licenciás o la vendés**; y si necesitás una tecnología externa, **pagás por ella o te asociás**."*
-
-> 📝 **Citar y explayarse:** Chesbrough sostiene que la protección extrema de la propiedad intelectual *"se volvió un freno"*, y que la innovación abierta propone que sea **flexible**: *"si tenés una patente que no usás, la licenciás o la vendés; y si necesitás una tecnología externa, pagás por ella o te asociás"*. El cambio de mentalidad es pasar de ver la propiedad intelectual como un muro para **esconder** conocimiento a verla como un **activo que circula** y genera valor en ambas direcciones. Guardar una patente sin usarla tiene costo y no produce nada; licenciarla genera ingresos y puede abrir mercados nuevos. Por ejemplo, una farmacéutica puede licenciar a otra un compuesto que no va a desarrollar y, a la vez, comprarle a una startup una tecnología de diagnóstico que no tiene.
 
 ### IV.B Paradigma cerrado vs. abierto
 
@@ -137,14 +131,7 @@ En la innovación abierta, las paredes del embudo **tienen agujeros**: el conoci
 | **2. La solución** (*diseñar correctamente la cosa*) | **Desarrollar** | Divergencia | Explorar múltiples soluciones sin juzgar viabilidad (co-creación). |
 | | **Entregar** | Convergencia | Ejecutar y monetizar: filtros, ROI, viabilidad, spin-offs (outbound). |
 
-| Dimensión | **Divergente** | **Convergente** |
-|---|---|---|
-| **Objetivo** | Expandir alternativas (crear opciones) | Focalizar alternativas (tomar decisiones) |
-| **Estado mental** | Abierto, creativo, sin juzgar | Analítico, crítico, enfocado en viabilidad |
-| **Rol en innovación** | Flujo inbound | Flujo outbound |
-| **Riesgo si se abusa** | Caos creativo sin ejecución | Rigidez corporativa, falta de disrupción |
-
-> 📌 *"La innovación **no es un evento fortuito**, es un **proceso disciplinado**"* (Peter Drucker, 1985). La innovación abierta exitosa no depende solo de capturar ideas (divergencia), sino de **canalizarlas hacia soluciones de valor comercial** (convergencia).
+> 📌 *"La innovación **no es un evento fortuito**, es un **proceso disciplinado**"* (Peter Drucker). La innovación abierta exitosa no depende solo de capturar ideas (divergencia), sino de **canalizarlas hacia soluciones de valor comercial** (convergencia).
 
 ---
 
@@ -175,7 +162,7 @@ En la innovación abierta, las paredes del embudo **tienen agujeros**: el conoci
 **1. ¿Qué es la innovación abierta?**
 <details><summary>Ver respuesta</summary>
 
-Es el paradigma, popularizado por **Henry Chesbrough en 2003**, según el cual las empresas deben **cooperar con el exterior**: absorber conocimiento externo (inbound) y monetizar afuera el conocimiento interno no utilizado (outbound).
+Es el paradigma, popularizado por **Henry Chesbrough**, según el cual las empresas deben **cooperar con el exterior**: absorber conocimiento externo (inbound) y monetizar afuera el conocimiento interno no utilizado (outbound).
 </details>
 
 **2. Compare el embudo de Wheelwright & Clark con el embudo perforado de Chesbrough.**

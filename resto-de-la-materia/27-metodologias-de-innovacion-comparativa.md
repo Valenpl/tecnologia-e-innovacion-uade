@@ -68,11 +68,9 @@
 
 ## III. Cierre: la innovación como disciplina
 
-> 📌 **Peter Drucker**, considerado el padre del management moderno, publicó en 1985 en *Harvard Business Review* ***The Discipline of Innovation***: la innovación es un **trabajo organizado, enfocado y sistemático** que requiere tanto rigor como cualquier otra área de la empresa.
+> 📌 **Peter Drucker**, considerado el padre del management moderno, publicó ***The Discipline of Innovation***: la innovación es un **trabajo organizado, enfocado y sistemático** que requiere tanto rigor como cualquier otra área de la empresa.
 >
 > *"La innovación **no es un evento fortuito**, es un **proceso disciplinado**."*
-
-> 📝 **Citar y explayarse:** Las metodologías de innovación son *"procesos estructurados para transformar ideas en valor real"*, y cada una pone el foco en algo distinto. **Design Thinking** se centra en el **usuario**: entender sus necesidades profundas para descubrir el problema correcto. **Lean Startup** se centra en la **incertidumbre**: validar el negocio con un MVP y decidir con datos si pivotar o perseverar. Las **metodologías ágiles** se centran en la **ejecución**: desarrollo iterativo en sprints y adaptación al cambio. La **innovación abierta** se centra en el **ecosistema**: aprovechar conocimiento externo e interno mediante flujos inbound y outbound. El **Océano Azul** se centra en el **mercado**: crear espacios nuevos sin competencia con la matriz ERAC. Todas comparten la idea de Drucker: la innovación *"no es un evento fortuito, es un proceso disciplinado"*.
 
 ---
 
@@ -93,7 +91,7 @@ Lanzar un emprendimiento: **Lean Startup** (ideal para lanzar nuevos productos, 
 **3. ¿Qué planteó Peter Drucker sobre la innovación?**
 <details><summary>Ver respuesta</summary>
 
-En *The Discipline of Innovation* (HBR, 1985) planteó que la innovación es un trabajo organizado, enfocado y sistemático: *"no es un evento fortuito, es un proceso disciplinado"*.
+En *The Discipline of Innovation* planteó que la innovación es un trabajo organizado, enfocado y sistemático: *"no es un evento fortuito, es un proceso disciplinado"*.
 </details>
 
 ---

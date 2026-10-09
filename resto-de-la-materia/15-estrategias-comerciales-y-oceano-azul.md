@@ -11,9 +11,8 @@
 
 1. Nombrar las **cuatro familias de estrategias comerciales** (integración, intensivas, diversificación y defensivas) y sus **11 variantes**.
 2. Explicar **qué es** cada estrategia y **cuándo conviene** usarla.
-3. Relacionar la estrategia con la **etapa del ciclo de vida** del producto o negocio.
-4. Usar la **Matriz de Ansoff** para ubicar las estrategias intensivas y la diversificación.
-5. Explicar la **Estrategia del Océano Azul** (Kim y Mauborgne), la **innovación en valor** y la **matriz de las cuatro acciones**.
+3. Usar la **Matriz de Ansoff** para ubicar las estrategias intensivas y la diversificación.
+4. Explicar la **Estrategia del Océano Azul** (Kim y Mauborgne), la **innovación en valor** y la **matriz de las cuatro acciones**.
 
 ---
 
@@ -35,9 +34,8 @@
   1. Recorte de gastos
   2. Enajenación
   3. Liquidación
-- **VI. Uso de la estrategia según el ciclo del negocio**
-- **VII. Matriz de Ansoff**
-- **VIII. Estrategia del Océano Azul**
+- **VI. Matriz de Ansoff**
+- **VII. Estrategia del Océano Azul**
   - A. Océano rojo vs. océano azul
   - B. Innovación en valor
   - C. Matriz de las cuatro acciones
@@ -99,8 +97,6 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 
 - Cuando los **distribuidores actuales son muy costosos, poco confiables o incapaces** de satisfacer las necesidades de distribución.
 - Cuando la **disponibilidad de distribuidores de calidad está muy limitada**, lo que da ventaja competitiva a quien se integra hacia delante.
-- Cuando la empresa compite en una **industria en crecimiento** que se espera que siga creciendo con rapidez.
-- Cuando la empresa cuenta con el **capital y los recursos humanos** para dirigir la nueva empresa de distribución.
 
 ### 3. Integración horizontal
 
@@ -109,8 +105,6 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 **Cuándo conviene:**
 
 - Cuando la empresa puede adquirir **características de monopolio** en un área o región sin que el gobierno cuestione su tendencia a reducir la competencia.
-- Cuando compite en una **industria en crecimiento**.
-- Cuando el incremento de las **economías de escala** da mayores ventajas competitivas.
 - Cuando los **competidores titubean** por falta de habilidad gerencial o por necesitar recursos que la empresa posee. *(Ojo: no sería adecuada si el rendimiento de los competidores fuera deficiente por razones de la industria.)*
 
 ---
@@ -125,9 +119,6 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 
 - Cuando los mercados presentes **no están muy saturados** con ese producto o servicio.
 - Cuando la **tasa de uso de los clientes actuales** se podría incrementar de manera significativa.
-- Cuando la **participación de los competidores principales ha disminuido** mientras las ventas totales de la industria aumentaron.
-- Cuando la **correlación entre ventas y gastos en marketing** ha sido alta por tradición.
-- Cuando el incremento de las **economías de escala** ofrece mayores ventajas competitivas.
 
 ### 2. Desarrollo de mercado
 
@@ -136,11 +127,7 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 **Cuándo conviene:**
 
 - Cuando existen **nuevos canales de distribución** confiables, baratos y de buena calidad.
-- Cuando la empresa tiene **mucho éxito** con lo que realiza.
 - Cuando existen **nuevos mercados inexplorados o poco saturados**.
-- Cuando la empresa cuenta con **capital y recursos humanos** para una mayor expansión.
-- Cuando la empresa posee **exceso de capacidad de producción**.
-- Cuando la industria básica adquiere con rapidez un **alcance global**.
 
 ### 3. Desarrollo de producto
 
@@ -149,9 +136,6 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 **Cuándo conviene:**
 
 - Cuando la empresa tiene **productos exitosos en la etapa de madurez** del ciclo de vida: la idea es atraer a los clientes satisfechos para que prueben productos nuevos (mejorados) gracias a su experiencia positiva con los actuales.
-- Cuando compite en una industria con **avances tecnológicos rápidos**.
-- Cuando **competidores importantes ofrecen mejor calidad a precios similares**.
-- Cuando compite en una industria de **crecimiento rápido**.
 - Cuando posee **capacidades de I+D muy importantes**.
 
 > 🔗 El desarrollo de producto en la **madurez** es exactamente el **salto a una nueva curva S** del tema [05](../parcial-1/05-curvas-de-la-tecnologia.md).
@@ -168,8 +152,6 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 
 - Cuando la empresa compite en una industria **sin crecimiento o de crecimiento lento**.
 - Cuando los productos nuevos relacionados **mejorarían las ventas de los actuales** en forma significativa.
-- Cuando los productos nuevos relacionados se pudieran ofrecer a **precios muy competitivos**.
-- Cuando los productos nuevos tienen **ventas de temporada que compensan los picos y valles** de la empresa.
 
 ### 2. Diversificación por conglomerado
 
@@ -178,10 +160,7 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 **Cuándo conviene:**
 
 - Cuando la industria básica experimenta una **declinación de ventas y utilidades** anuales.
-- Cuando existe la oportunidad de adquirir una **empresa no relacionada que sea una inversión atractiva**.
 - Cuando existe **sinergia financiera** entre la empresa adquirida y la compradora.
-- Cuando los **mercados existentes están saturados**.
-- Cuando la **acción antimonopolio** amenaza a una empresa concentrada por tradición en una sola industria.
 
 > ⚠️ **Concéntrica vs. conglomerado (diferencia clave de la cátedra):** la concéntrica se basa en la **semejanza de mercados, productos o tecnología**; la de conglomerado se basa más en **consideraciones sobre las utilidades** (financieras).
 
@@ -196,10 +175,7 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 **Cuándo conviene:**
 
 - Cuando la empresa tiene una **capacidad distintiva definida** pero **no logró sus objetivos** en forma constante.
-- Cuando es uno de los **competidores débiles** de la industria.
 - Cuando está plagada de **ineficiencias, escasa rentabilidad, baja moral** de los empleados y **presión de los accionistas**.
-- Cuando **fracasó en aprovechar oportunidades, reducir amenazas, explotar fortalezas y superar debilidades** (cuando los gerentes estratégicos fracasaron).
-- Cuando **creció tanto y tan rápido** que requiere una reorganización interna importante.
 
 ### 2. Enajenación
 
@@ -208,11 +184,7 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 **Cuándo conviene:**
 
 - Cuando ya siguió una estrategia de **recorte de gastos y no logró** las mejoras necesarias.
-- Cuando una división **requiere más recursos** de los que la empresa le puede dar.
 - Cuando una división es **responsable del escaso rendimiento general**.
-- Cuando una división **no se adapta al resto** de la empresa (mercados, clientes, gerentes, valores distintos).
-- Cuando se necesita **efectivo con rapidez** y no se puede obtener de otras fuentes.
-- Cuando la **acción antimonopolio** gubernamental amenaza a la empresa.
 
 ### 3. Liquidación
 
@@ -220,7 +192,6 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 
 **Cuándo conviene:**
 
-- Cuando ya siguió **recorte de gastos y enajenación** y ninguna fue exitosa.
 - Cuando la **única alternativa es la bancarrota**: la liquidación es un medio **ordenado y planeado** de obtener la mayor cantidad posible de efectivo. Puede declararse la bancarrota primero y después liquidar divisiones.
 - Cuando los accionistas pueden **reducir al mínimo sus pérdidas** vendiendo los activos.
 
@@ -228,22 +199,7 @@ La cátedra las agrupa en **cuatro familias**: **integración**, **intensivas**,
 
 ---
 
-## VI. Uso de la estrategia según el ciclo del negocio
-
-La cátedra muestra el **ciclo del producto/negocio** como una curva S de **crecimiento vs. tiempo**:
-
-```mermaid
-flowchart LR
-    A["Creación del<br/>concepto"] --> B["Desarrollo del<br/>concepto"] --> C["Desarrollo<br/>del mercado"] --> D["Optimización<br/>del negocio"]
-    D --> E["🔄 Reinventar<br/>el negocio<br/>(nueva curva)"]
-    D --> F["📉 Cosechar<br/>(harvesting)"]
-```
-
-> 🔗 Es la **curva S** de Christensen (tema [05](../parcial-1/05-curvas-de-la-tecnologia.md)) aplicada al negocio: "reinventar" es saltar a la curva siguiente; "cosechar" es quedarse en la curva vieja.
-
----
-
-## VII. Matriz de Ansoff
+## VI. Matriz de Ansoff
 
 Cruza **mercado** (presente o nuevo) con **producto** (presente o nuevo). Ordena las tres estrategias **intensivas** y la **diversificación**:
 
@@ -258,7 +214,7 @@ Cruza **mercado** (presente o nuevo) con **producto** (presente o nuevo). Ordena
 
 ---
 
-## VIII. Estrategia del Océano Azul
+## VII. Estrategia del Océano Azul
 
 **W. Chan Kim y Renée Mauborgne.**
 
@@ -280,8 +236,6 @@ Cruza **mercado** (presente o nuevo) con **producto** (presente o nuevo). Ordena
 ### B. Innovación en valor
 
 > 📌 **Innovación en valor**: se logra **bajando los costos y subiendo el valor para el cliente al mismo tiempo**. *"El **ahorro en costos** se da al **eliminar o reducir** los factores en los que la industria compite. El **valor al cliente** se aumenta al **elevar y crear** elementos que la industria nunca ha ofrecido."*
-
-> 📝 **Citar y explayarse:** La Estrategia del Océano Azul de Kim y Mauborgne propone dejar de competir en el mercado existente (océano rojo) y **crear un espacio nuevo donde la competencia pierda importancia**. Su herramienta central es la **innovación en valor**: en lugar de elegir entre diferenciarse o ser barato, se **rompe esa disyuntiva**, bajando costos al **eliminar o reducir** lo que la industria da por obvio y aumentando el valor al **incrementar o crear** lo que nadie ofrece. Por ejemplo, el Cirque du Soleil eliminó los animales y las estrellas de circo (caros), y creó una experiencia de teatro y música para adultos: no compitió con los circos, inventó otro mercado.
 
 ### C. Matriz de las cuatro acciones
 
@@ -313,10 +267,8 @@ Cruza **mercado** (presente o nuevo) con **producto** (presente o nuevo). Ordena
 
 ## 🔗 Conexiones
 
-- **← [05 Curvas de la tecnología](../parcial-1/05-curvas-de-la-tecnologia.md):** el ciclo del negocio es una curva S.
 - **← [14 Propuesta de valor](../parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md):** "o eres diferente o eres barato".
 - **→ [16 Service Design y cultura fail](16-service-design-y-cultura-fail.md):** de la estrategia a los procesos y la cultura.
-- **→ [19 Proyectos y estrategia de innovación](19-proyectos-y-estrategia-de-innovacion.md):** la estrategia de innovación como hoja de ruta.
 
 ---
 
@@ -337,7 +289,7 @@ Es la **búsqueda de la propiedad o del aumento del control sobre los proveedore
 **3. Diferencie diversificación concéntrica y por conglomerado.**
 <details><summary>Ver respuesta</summary>
 
-La **concéntrica** suma productos **nuevos pero relacionados**, y se basa en la semejanza de mercados, productos o tecnología. La de **conglomerado** suma productos **no relacionados**, y se basa en consideraciones sobre las **utilidades** (sinergia financiera, mercados saturados, declinación de la industria).
+La **concéntrica** suma productos **nuevos pero relacionados**, y se basa en la semejanza de mercados, productos o tecnología. La de **conglomerado** suma productos **no relacionados**, y se basa en consideraciones sobre las **utilidades** (sinergia financiera, declinación de la industria).
 </details>
 
 **4. Dibuje la Matriz de Ansoff.**

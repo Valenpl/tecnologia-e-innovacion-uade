@@ -1,7 +1,7 @@
 # 20 · Lean Startup y MVP
 
 > **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Mario Barrios), diapositivas 21–23.
-> **Prerrequisitos:** [19 Proyectos y estrategia](19-proyectos-y-estrategia-de-innovacion.md), [13 Design Thinking](../parcial-1/13-design-thinking.md).
+> **Prerrequisitos:** [13 Design Thinking](../parcial-1/13-design-thinking.md).
 > **Tiempo estimado:** 45 min.
 > **Resto de la materia · Tema 20** (Proyecto de Innovación · Barrios). No entra en el Primer Parcial. Ojo: el **MVP** fue la pregunta 10 del [parcial anterior](../evaluacion/parcial-anterior-resuelto.md#v10-el-mvp-contra-la-competencia).
 
@@ -60,16 +60,7 @@ flowchart TB
 
 > 📌 *"Lean Startup es una **metodología de gestión** creada por **Eric Ries** para **desarrollar negocios y productos de forma más eficiente**. Su objetivo es **reducir el riesgo y evitar el desperdicio de tiempo y dinero** mediante el **lanzamiento rápido de prototipos**, la **experimentación con usuarios reales** y el **aprendizaje continuo**."*
 
-Tres mecanismos de la definición:
-1. **Lanzamiento rápido de prototipos** (MVP).
-2. **Experimentación con usuarios reales**.
-3. **Aprendizaje continuo**.
-
-> 💡 **Para entenderlo – "lean" = "esbelto, sin desperdicio":** el mayor desperdicio en innovación es **construir durante meses algo que nadie quiere**. Lean Startup invierte el orden: primero **probás** con lo mínimo, después **construís**.
-
 > 🔗 **Por qué existe:** responde directamente a la característica **"incertidumbre y riesgo"** de la innovación tecnológica y al problema **"alto costo y riesgo"** de innovar (módulo [12](../parcial-1/12-innovacion-tecnologica-e-ia.md)).
-
-> 📝 **Citar y explayarse:** La cátedra define Lean Startup como *"una metodología de gestión creada por Eric Ries para desarrollar negocios y productos de forma más eficiente"*, cuyo objetivo es *"reducir el riesgo y evitar el desperdicio de tiempo y dinero"*. Lo logra invirtiendo el orden tradicional: en lugar de construir durante meses un producto completo y recién después ver si alguien lo quiere, se lanza rápido una versión mínima (el **MVP**), se experimenta con **usuarios reales** y se aprende de los datos. Así, el error se descubre temprano y sale barato. Por eso responde directamente a la **incertidumbre y el riesgo** propios de la innovación tecnológica. Antes de programar un sistema de turnos para gimnasios, por ejemplo, se puede publicar una página con un formulario de demo y medir cuántos dueños se interesan.
 
 ---
 
@@ -128,10 +119,6 @@ Si, cumplidas estas etapas, el producto **no cumple los objetivos que demanda el
 | **Iterar** | Mejorar **sin cambiar el rumbo**. |
 | **Pivotar** | **Cambiar aspectos clave** del negocio. |
 
-> ⚠️ **Iterar vs. pivotar (clásico):** iterar = **ajustar** el producto manteniendo la estrategia. Pivotar = **cambiar algo fundamental** (segmento de cliente, problema, modelo de ingresos, canal). Pivotar **no es fracasar**: es usar lo aprendido para reorientarse.
-
-> 📝 **Citar y explayarse:** Según la nota del docente, en Lean Startup se distinguen etapas que van *"desde la detección de la necesidad del cliente"* hasta *"la creación del producto e incluso el cambio de estrategia cuando sea necesario"*. Primero se entiende el problema, después se diseña la solución y se construye un MVP según hipótesis, luego se mide y se valida con el mercado y, por último, se decide: **iterar** —mejorar sin cambiar el rumbo— o **pivotar** —*"cambiar aspectos clave del negocio"* cuando el producto no cumple lo que demanda el mercado—. Pivotar no es fracasar, sino usar lo aprendido para reorientarse. Instagram es el ejemplo clásico: empezó como una app de check-in y pivotó hacia las fotos al ver que era lo que los usuarios realmente usaban.
-
 ---
 
 ## ⚠️ Conceptos que se confunden
@@ -147,7 +134,6 @@ Si, cumplidas estas etapas, el producto **no cumple los objetivos que demanda el
 
 ## 🔗 Conexiones
 
-- **← [19 Proyectos](19-proyectos-y-estrategia-de-innovacion.md):** pregunta "relacione Lean Startup con proyectos de innovación".
 - **← [13 Design Thinking](../parcial-1/13-design-thinking.md).**
 - **→ [21 KPI](21-kpi.md):** la fase "medición de resultados" necesita indicadores.
 - **← [18 VANI](18-entornos-vica-y-vani.md):** en un mundo no lineal, experimentar es mejor que planificar a 5 años.
@@ -188,4 +174,4 @@ Es el **Producto Mínimo Viable**: la versión más simple del producto que perm
 
 ---
 
-[← 19 Proyectos de innovación y estrategia de innovación](19-proyectos-y-estrategia-de-innovacion.md) · [🏠 Índice](../README.md) · [Siguiente → 21 KPI](21-kpi.md)
+[← 18 Entornos VICA y VANI](18-entornos-vica-y-vani.md) · [🏠 Índice](../README.md) · [Siguiente → 21 KPI](21-kpi.md)

@@ -32,10 +32,9 @@
 - **III. KPI vs. OKR**
 - **IV. Cómo escribir un buen Objective**
 - **V. Cómo definir Key Results efectivos**
-- **VI. Ejemplo completo: equipo de ingeniería**
-- **VII. La cascada de OKR**
-- **VIII. Errores frecuentes** (6)
-- **IX. El sistema completo: KPI + OKR + Iniciativas**
+- **VI. La cascada de OKR**
+- **VII. Errores frecuentes** (6)
+- **VIII. El sistema completo: KPI + OKR + Iniciativas**
 
 ---
 
@@ -87,14 +86,6 @@ flowchart TB
 
 ## III. KPI vs. OKR
 
-| **KPI** – Key Performance Indicator | **OKR** – Objectives & Key Results |
-|---|---|
-| **Mide el estado actual** de un proceso o área | Define **hacia dónde va** la organización **en 90 días** |
-| **Monitoreo continuo** (siempre activo) | Es **temporal**: **se resetea cada trimestre** |
-| Orienta la **operación cotidiana** | Orienta la **estrategia y priorización** |
-| **Puede existir sin un objetivo aspiracional** | **Siempre parte de un objetivo aspiracional** |
-| Ej: uptime mensual, NPS, churn rate | Ej: *"Ser el equipo más ágil de la empresa"* |
-
 ### Tabla comparativa de la cátedra: KPI vs. OKR 🔥
 
 > Va a ser pregunta del final.
@@ -109,8 +100,6 @@ flowchart TB
 | **Flexibilidad** | **Baja.** La métrica es fija (ej. "Tasa de conversión") para poder comparar el histórico. | **Alta.** Se redefinen, cambian o eliminan por completo cada 90 días según el mercado. |
 
 > 📌 *"**Los KPI te dicen cómo estás. Los OKR te dicen adónde querés ir.** Un KR bien definido dentro de un OKR es **un KPI con contexto estratégico**."*
-
-> 📝 **Citar y explayarse:** La cátedra define OKR como *"un sistema de gestión de objetivos que conecta metas aspiracionales con indicadores medibles de progreso, para alinear a toda la organización en torno a lo que realmente importa"*. Se compone de un **Objective**, cualitativo e inspirador, y de **Key Results**, medibles, que prueban si se logró. Con los KPI se complementa: *"los KPI te dicen cómo estás; los OKR te dicen adónde querés ir"*, y un buen KR es *"un KPI con contexto estratégico"*. Es decir, los KPI son el tablero del auto, siempre encendido, y el OKR es el destino del viaje de este trimestre. Un objetivo como "ofrecer una plataforma en la que nuestros clientes confíen" puede medirse, por ejemplo, con el KR "uptime mayor al 99,95 % en el tercer trimestre".
 
 ---
 
@@ -148,24 +137,9 @@ Un buen Objective:
 
 > 📌 **Regla práctica:** *"Si **alguien externo al equipo** puede verificar si el KR se cumplió o no, **sin necesidad de interpretación**, está bien definido."*
 
-> 📝 **Citar y explayarse:** Para la cátedra, los KR son *"la evidencia del logro"*: si un KR no puede responder *"¿cómo sabemos que lo logramos?"*, no es válido. De ahí salen dos reglas. La **regla de oro**: *"si se cumplen todos los KR, el Objective debería estar logrado"*; si no, los KR están mal elegidos. Y la **regla práctica**: un KR está bien definido si *"alguien externo al equipo puede verificar si se cumplió o no, sin necesidad de interpretación"*. El error más común es confundir un KR con una iniciativa: "mejorar los procesos de QA" es algo que se hace; "Defect Escape Rate menor al 3 %" es un resultado que se verifica.
-
 ---
 
-## VI. Ejemplo completo: equipo de ingeniería
-
-> **Objective:** *"Convertirnos en el equipo de entrega más rápido y confiable de la empresa en Q3."*
-> Q3 2025 (jul–sep) · **Responsable:** Engineering Manager · **Check-in semanal** · Revisión formal: último viernes de cada mes.
-
-| Key Result | Definición | Línea de base | Iniciativas |
-|---|---|---|---|
-| **KR1: Lead Time < 24 h** | Desde merge aprobado hasta deploy en producción | **72 h** | Automatizar pipeline CI/CD · Reducir tamaño de PR a < 200 líneas |
-| **KR2: Change Failure Rate < 4 %** | % de releases que requieren rollback o hotfix | **14 %** | Implementar staging environment · Code coverage > 80 % obligatorio |
-| **KR3: MTTR < 2 h** | Tiempo promedio de recuperación ante incidente | **8,5 h** | Runbooks para top 5 incidentes · Alertas automáticas con Datadog |
-
----
-
-## VII. La cascada de OKR
+## VI. La cascada de OKR
 
 > 📌 *"Los OKR se definen **primero a nivel empresa**, luego **se cascadean a equipos**. Cada equipo elige los OKR donde **puede tener impacto real** y define sus propios KR e iniciativas."*
 
@@ -182,11 +156,9 @@ flowchart TB
 
 > ⚠️ **Error típico:** copiar el objetivo de la empresa en cada área. Ingeniería no puede "ser la plataforma #1 en LATAM" sola; **sí puede** "entregar features sin interrupciones", que **contribuye** a eso.
 
-> 📝 **Citar y explayarse:** La cátedra explica que *"los OKR se definen primero a nivel empresa, luego se cascadean a equipos"*, y que cada equipo elige aquellos donde *"puede tener impacto real"*. La clave es que los OKR del equipo *"no replican los de empresa palabra por palabra"*: son *"la contribución real del equipo a ese objetivo mayor"*. Copiar el objetivo general en cada área no sirve, porque ningún equipo puede lograrlo solo; traducirlo a lo que cada uno controla, en cambio, alinea a toda la organización. Si la empresa quiere ser la plataforma número uno para PyMEs en LATAM, ingeniería no puede lograrlo sola, pero sí puede comprometerse a entregar funcionalidades sin interrupciones, que contribuye a ese objetivo.
-
 ---
 
-## VIII. Errores frecuentes al implementar OKR
+## VII. Errores frecuentes al implementar OKR
 
 | # | Error | En una línea |
 |---|---|---|
@@ -199,7 +171,7 @@ flowchart TB
 
 ---
 
-## IX. El sistema completo: KPI + OKR + Iniciativas
+## VIII. El sistema completo: KPI + OKR + Iniciativas
 
 > 📌 *Nota del docente:* *"Son **capas de un mismo sistema de gestión orientado a resultados**."*
 
@@ -214,22 +186,11 @@ flowchart LR
 | **Revisión semanal / sprint** | **KPI y estado de los KR** en el **check-in semanal**; el equipo **ajusta iniciativas** en tiempo real. |
 | **Revisión trimestral** | Los **OKR se revisan y resetean cada 90 días**: momento de **recalibrar la estrategia**. |
 
-### Síntesis de la cátedra ("Lo que vimos hoy")
-
-1. **KPI es métrica con contexto estratégico** – fórmula, meta, responsable y frecuencia; sin esos cuatro, es solo un número.
-2. **Los KPI cambian según la etapa** – desarrollo, implementación y comercialización tienen KPI distintos.
-3. **No medir tiene un costo real** – retrabajo, incidentes sin MTTR y churn evitable.
-4. **OKR le da sentido a los KPI** – el Objective define la dirección; los KR miden si nos acercamos; las iniciativas son lo que hacemos.
-5. **OKR transforma el modelo de trabajo** – de "hacé esto" a "alcanzá este resultado": autonomía, transparencia y pago por resultados.
-6. **Son herramientas complementarias** – **KPI para operar, OKR para estrategia, iniciativas para actuar.**
-
 > 📌 *"Lo que no se mide, no se puede mejorar."* — Peter Drucker (frase de cierre de la clase)
 >
 > | KPI | OKR | Impacto |
 > |---|---|---|
 > | Lo que **medís** hoy | **Hacia dónde** vas | Lo que **generás** |
-
-> 📝 **Citar y explayarse:** Como cierre, la cátedra plantea que KPI, iniciativas y OKR *"son capas de un mismo sistema de gestión orientado a resultados"*: los KPI muestran cómo funciona la operación, las iniciativas son lo que se hace para mover los números y los OKR marcan hacia dónde va la organización y cómo sabe que llegó. La frase de Peter Drucker que cierra la clase, *"lo que no se mide, no se puede mejorar"*, resume la lógica: sin medición no hay forma de saber si una innovación funciona, ni de aprender de ella. Por eso la medición conecta con toda la materia: con Lean Startup, que valida hipótesis con datos, y con la estrategia de innovación, que necesita indicadores para saber si cada proyecto aporta al objetivo.
 
 ---
 
@@ -249,7 +210,6 @@ flowchart LR
 
 - **← [21 KPI](21-kpi.md).**
 - **← [07 Gestión 2.0](../parcial-1/07-gestion-de-la-innovacion.md):** liderazgo visionario (Objective inspirador), autonomía.
-- **← [19 Estrategia](19-proyectos-y-estrategia-de-innovacion.md):** "dirección clara" y alineación.
 
 ---
 

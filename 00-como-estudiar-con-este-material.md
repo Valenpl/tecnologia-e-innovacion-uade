@@ -73,8 +73,7 @@ Cada archivo `NN-tema.md` tiene siempre estos bloques, en este orden:
 
 ### II.B Convenciones visuales
 
-- > 📌 **Definición** — bloque con la definición tal como la da la cátedra. Sirve para **citarla**, pero nunca la dejes sola en una respuesta (ver 📝).
-- > 📝 **Citar y explayarse** — párrafo modelo que **cita** la idea central de la cátedra y la **desarrolla** con palabras propias: qué significa, por qué importa y un ejemplo. Es el formato que pide el profesor: **no citar a secas, sino citar y explayarse**.
+- > 📌 **Definición** — bloque con la definición tal como la da la cátedra. Sirve para **citarla**, pero nunca la dejes sola en una respuesta.
 - > 💡 **Para entenderlo** — explicación intuitiva con palabras simples.
 - > 🧩 **Ejemplo** — caso concreto.
 - > ➕ **Contexto adicional** — información que **no está en las diapositivas** de la materia y que se agrega para entender mejor. Usala para comprender, pero en el parcial priorizá la versión de la cátedra.
@@ -102,7 +101,7 @@ flowchart LR
 4. **Compará** con el esquema real. Lo que te faltó es lo que no entendiste: volvé a esa sección.
 5. **Hacé la autoevaluación.** Respondé por escrito, después desplegá la respuesta.
 
-> 💡 **Tip de examen:** para una pregunta del tipo *"Defina X y explique sus características"*, usá la estructura del esquema: **definición (I) → características (I.A) → ejemplo (🧩) → relación con otro concepto (🔗)**. Es exactamente cómo está ordenado cada módulo. Y recordá la consigna del profesor: **no alcanza con citar**. Cada cita va seguida de qué significa, por qué importa y un ejemplo; los bloques 📝 de cada módulo te muestran cómo queda escrito.
+> 💡 **Tip de examen:** para una pregunta del tipo *"Defina X y explique sus características"*, usá la estructura del esquema: **definición (I) → características (I.A) → ejemplo (🧩) → relación con otro concepto (🔗)**. Es exactamente cómo está ordenado cada módulo. Y recordá la consigna del profesor: **no alcanza con citar**. Cada cita va seguida de qué significa, por qué importa y un ejemplo.
 
 ---
 
@@ -131,7 +130,7 @@ flowchart TB
         C1 --> C2 --> C3 --> D3 --> C4
     end
     subgraph POST["⏳ RESTO DE LA MATERIA · temas 15–27"]
-        T15["15 Estrategias<br/>comerciales"] --> T16["16 Service Design<br/>y cultura fail"] --> T17["17 Innovación<br/>abierta"] --> T18["18 VICA / VANI"] --> T19["19 Proyectos y<br/>estrategia"] --> T20["20 Lean Startup<br/>y MVP"] --> T21["21 KPI"] --> T22["22 OKR"] --> T23["23 Análisis de<br/>mercado TAM/SAM/SOM"] --> T24["24 Etapas de inversión<br/>y salida"] --> T25["25 Metodologías ágiles<br/>y Scrum"] --> T26["26 Planificación<br/>estratégica"] --> T27["27 Metodologías de<br/>innovación"]
+        T15["15 Estrategias<br/>comerciales"] --> T16["16 Service Design<br/>y cultura fail"] --> T17["17 Innovación<br/>abierta"] --> T18["18 VICA / VANI"] --> T20["20 Lean Startup<br/>y MVP"] --> T21["21 KPI"] --> T22["22 OKR"] --> T23["23 Análisis de<br/>mercado TAM/SAM/SOM"] --> T24["24 Etapas de inversión<br/>y salida"] --> T25["25 Metodologías ágiles<br/>y Scrum"] --> T26["26 Planificación<br/>estratégica"] --> T27["27 Metodologías de<br/>innovación"]
     end
     P1 --> POST
 ```

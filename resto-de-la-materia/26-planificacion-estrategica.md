@@ -50,8 +50,6 @@ La diapositiva muestra un **ciclo de 8 pasos**:
 
 Es un **ciclo**: después de la evaluación se vuelve a empezar.
 
-> 📝 **Citar y explayarse:** La planificación estratégica se organiza en **8 pasos** que forman un ciclo: definir la **misión** y la **visión**, hacer el **análisis externo** e **interno**, fijar **objetivos estratégicos**, elegir las **estrategias**, **ejecutarlas** y **evaluar** los resultados para volver a empezar.
-
 ---
 
 ## III. Matriz de Ansoff

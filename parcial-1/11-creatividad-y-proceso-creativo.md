@@ -41,7 +41,6 @@
   5. Mapas mentales
   6. Visualización de ideas
   7. Análisis de analogías
-- **V. Herramientas** (plataformas colaborativas, prototipado rápido, tecnologías emergentes)
 
 ---
 
@@ -74,10 +73,6 @@ mindmap
       Biomimética
       Mapas mentales
       Analogías
-    Herramientas
-      Miro y FigJam
-      Arduino e impresión 3D
-      IA y RV
 ```
 
 ---
@@ -103,8 +98,6 @@ mindmap
 | **No necesita venderse ni medirse**. | **Crea un valor útil** para las personas. |
 | Es **el punto de partida** de todo. | **Mide sus resultados con datos**. |
 
-> 📝 **Citar y explayarse:** La cátedra define la creatividad como la *"capacidad de generar nuevas ideas, conceptos por medio de la creación, cambios y mejoras"* y, en otra versión, como *"el acto de generar ideas originales"*. La diferencia con la innovación tecnológica es que esta consiste en *"poner esas ideas en práctica"* usando la ciencia y las herramientas digitales *"para resolver problemas reales"*. Es decir, la creatividad es el **punto de partida** —vive en el plano de las ideas y no necesita medirse ni venderse—, mientras que la innovación es el **paso a la realidad**, donde la idea tiene que funcionar y generar valor. Por eso puede haber creatividad sin innovación (una gran idea que nunca se implementa), pero no innovación sin una idea creativa detrás. Imaginar un sistema de turnos que avise por WhatsApp es creatividad; desarrollarlo, implementarlo en una clínica y que los pacientes lo usen es innovación.
-
 ```mermaid
 flowchart LR
     CR["💡 CREATIVIDAD<br/>idea original<br/>(imaginación)"] -->|"implementación<br/>con tecnología"| IN["⚙️ INNOVACIÓN<br/>valor útil y medible<br/>(mundo real)"]
@@ -122,18 +115,16 @@ flowchart LR
 
 > 💡 **Lo importante:** la creatividad **no es un rayo de inspiración aleatorio**; se puede **estructurar** en un proceso. Por eso es gestionable.
 
-> 📝 **Citar y explayarse:** Para la cátedra, el proceso creativo es *"un conjunto estructurado de fases"* —preparación, incubación, iluminación, verificación y difusión— destinado a *"generar soluciones originales a problemas"*. La palabra clave es **estructurado**: la creatividad no depende de un golpe de inspiración, sino que se puede organizar y, por lo tanto, **gestionar**. Primero se estudia el problema (preparación), se lo deja madurar (incubación), aparece la idea (iluminación), se comprueba si sirve (verificación) y se comunica o implementa (difusión). Además, el proceso fomenta *"el pensamiento divergente, la experimentación y la mejora continua"*, las mismas actitudes que después piden Design Thinking y Lean Startup. Un equipo que necesita reducir el abandono de una app, por ejemplo, no espera una idea brillante: analiza datos, prueba alternativas y valida la que funciona.
-
 ### II.B Importancia
 
-| # | Razón | Explicación |
-|---|---|---|
-| 1 | **Motor de la innovación** | La creatividad es **la chispa** que inicia el proceso; la innovación es la **implementación práctica**. |
-| 2 | **Solución de problemas complejos** | Permite abordar desafíos técnicos **desde perspectivas inusuales**, donde los métodos tradicionales fallan. |
-| 3 | **Adaptación y competitividad** | En un mercado de cambio rápido, es clave para **mantener la relevancia** y **anticiparse**. |
-| 4 | **Experimentación y mejora** | Fomenta la **prueba y error (MVP)**: la innovación ocurre a través de **prototipos y mejora continua**. |
-| 5 | **Fusión de mente y tecnología** | Aunque la IA avanza, **la mente humana sigue siendo necesaria para la creatividad original**; la tecnología es la herramienta para materializar visiones. |
-| 6 | **Optimización** | Un proceso estructurado **ahorra tiempo y recursos** y dirige la energía a soluciones de alto impacto. |
+| # | Razón |
+|---|---|
+| 1 | **Motor de la innovación** |
+| 2 | **Solución de problemas complejos** |
+| 3 | **Adaptación y competitividad** |
+| 4 | **Experimentación y mejora** |
+| 5 | **Fusión de mente y tecnología** |
+| 6 | **Optimización** |
 
 ### II.C Etapas del proceso creativo
 
@@ -152,8 +143,6 @@ flowchart LR
 | 3 | **Iluminación** | **"Momento Eureka"**: surge la idea o solución innovadora. | Se te ocurre: "¿y si los turnos se liberan automáticamente si no se confirma 2 h antes?". |
 | 4 | **Verificación / validación** | **Comprobación técnica** de si la idea es **funcional y eficaz**. | Hacés un prototipo en Figma y lo probás con 5 socios. |
 | 5 | **Adaptación y difusión** | **Ajuste del prototipo** y **comercialización o implementación**. | Corregís lo que no entendieron y lanzás la app en el club. |
-
-> ➕ **Contexto adicional:** este modelo deriva del de **Graham Wallas** (*The Art of Thought*, 1926), que proponía cuatro etapas (preparación, incubación, iluminación, verificación). La cátedra agrega una quinta, **adaptación y difusión**, que es la que conecta la creatividad con la **innovación** (llevarla al mercado).
 
 ---
 
@@ -220,7 +209,7 @@ Una combinación posible: **acero + pico deportivo + sensor** → "botella intel
 ### IV.4 Biomimética / Biónica
 > 📌 Solución de problemas tecnológicos **mediante la imitación de estructuras y procesos naturales**.
 
-🧩 El velcro (inspirado en los abrojos); el tren bala japonés con nariz inspirada en el pico del martín pescador; paneles con estructura de panal de abeja.
+🧩 El velcro (inspirado en los abrojos).
 
 ### IV.5 Mapas mentales
 > 📌 **Diagramas visuales** que organizan información **de manera no lineal**, ayudando a **encontrar conexiones** entre conceptos.
@@ -234,29 +223,6 @@ Una combinación posible: **acero + pico deportivo + sensor** → "botella intel
 > 📌 **Comparar el problema actual con situaciones o productos de otros sectores** para **romper patrones de pensamiento convencional**.
 
 🧩 Un hospital que analiza cómo un equipo de Fórmula 1 hace un *pit stop* para rediseñar el traslado de pacientes desde el quirófano.
-
-> 📝 **Citar y explayarse:** Las técnicas creativas de la cátedra tienen un objetivo común: **sacar al pensamiento de sus caminos habituales** para generar más y mejores ideas. Algunas trabajan sobre lo existente, como SCAMPER, que *"modifica productos o procesos existentes"* sustituyendo, combinando, adaptando o eliminando partes; otras ordenan el problema, como el análisis morfológico, que lo *"descompone en sus componentes fundamentales"* para explorar combinaciones; y otras buscan inspiración afuera, como la biomimética (imitar *"estructuras y procesos naturales"*) o las analogías (comparar con *"situaciones o productos de otros sectores"*). La elección depende del problema: para mejorar un producto conviene SCAMPER; en un equipo jerárquico donde la gente no se anima a hablar, el brainwriting. El velcro, inspirado en los abrojos, es el ejemplo clásico de biomimética.
-
-### Tabla de decisión: ¿qué técnica uso?
-
-| Situación | Técnica sugerida |
-|---|---|
-| Quiero mejorar un producto que ya existe | **SCAMPER** |
-| El problema tiene varias partes y quiero explorar todas las combinaciones | **Análisis morfológico** |
-| Necesito muchas ideas rápido en grupo | **Brainstorming** |
-| El grupo es jerárquico y la gente se autocensura | **Brainwriting** |
-| Busco inspiración radicalmente distinta | **Biomimética** o **analogías** |
-| Necesito ordenar y conectar mucha información | **Mapas mentales** |
-
----
-
-## V. Herramientas
-
-| Herramienta | Para qué |
-|---|---|
-| **Plataformas colaborativas** (Miro, FigJam) | Facilitar el **trabajo en equipo**, incluso a distancia. |
-| **Prototipado rápido** (Arduino, impresoras 3D, sensores) | Crear **versiones iniciales** del producto tecnológico. |
-| **Tecnologías emergentes** (IA, realidad virtual, robótica) | **Estimular nuevas formas de crear**. |
 
 ---
 

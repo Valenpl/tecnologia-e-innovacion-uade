@@ -13,7 +13,7 @@
 2. Definir **Service Design** (diseño de servicios) con las citas de **Stefan Moritz** y **Birgit Mager**.
 3. Explicar por qué **falla la experiencia del cliente** (el síndrome de la operación fragmentada).
 4. Describir los **3 pilares** (personas, procesos, artefactos) y el ecosistema **frontstage / backstage**.
-5. Comparar los **principios** del diseño de servicios de **2010 y 2017**.
+5. Describir los **principios** del diseño de servicios (versión **2017**).
 6. Explicar las **4 actividades** del proceso (investigación, ideación, prototipado, implementación).
 7. Usar el **Customer Journey Map** y el **Service Blueprint**.
 8. Explicar qué es la **cultura fail** y sus **6 claves** organizacionales.
@@ -28,7 +28,7 @@
   - B. ¿Por qué falla la experiencia del cliente?
   - C. Los 3 pilares
   - D. Frontstage y backstage
-- **III. Principios** (2010 → 2017)
+- **III. Principios** (2017)
 - **IV. Las 4 actividades del proceso**
   1. Investigación
   2. Ideación
@@ -37,7 +37,7 @@
 - **V. Herramientas**
   1. Customer Journey Map
   2. Service Blueprint
-  3. Co-creación y prototipado de servicios
+  3. Co-creación
 - **VI. Beneficios**
 - **VII. Cultura fail**
 
@@ -94,8 +94,6 @@ Según la cátedra, el diseño de servicios:
 3. Aporta un **proceso creativo y centrado en el ser humano** (tiene sus raíces en el pensamiento de diseño).
 4. Ayuda a las organizaciones a obtener una **comprensión real e integral de sus servicios**, lo que permite mejoras holísticas y significativas.
 
-> 📝 **Citar y explayarse:** Stefan Moritz define el diseño de servicios como la disciplina que ayuda a *"innovar o mejorar los servicios para hacerlos más útiles, usables, deseables para los clientes y eficientes y efectivos para las organizaciones"*. La definición tiene dos lados: el del **cliente** (útil, usable, deseable) y el de la **organización** (eficiente, efectivo), y el diseño de servicios busca **equilibrar los dos**. Por eso no se queda en la pantalla o el mostrador que ve el cliente, sino que diseña también los procesos internos que lo sostienen. Por ejemplo, de nada sirve una app de un banco muy linda si, al pedir un préstamo, el pedido queda trabado tres semanas entre áreas que no se comunican: el cliente lo vive como un mal servicio aunque la app sea excelente.
-
 ### B. ¿Por qué falla la experiencia del cliente?
 
 **El síndrome de la operación fragmentada:**
@@ -111,9 +109,9 @@ Según la cátedra, el diseño de servicios:
 
 | Pilar | Qué incluye |
 |---|---|
-| **1. Personas** | Diseño centrado tanto en el **cliente final** como en los **empleados** que operan y dan vida al servicio diariamente. |
-| **2. Procesos** | Flujos de trabajo estructurados, flujos de información integrados y metodologías que aseguran la **eficiencia operativa sin fricciones**. |
-| **3. Artefactos** | Toda la **infraestructura física y digital**: plataformas tecnológicas, herramientas, entornos, espacios y materiales tangibles. |
+1. **Personas** | Diseño centrado tanto en el **cliente final** como en los **empleados** que operan y dan vida al servicio diariamente.
+2. **Procesos** | Flujos de trabajo estructurados, flujos de información integrados y metodologías que aseguran la **eficiencia operativa sin fricciones**.
+3. **Artefactos** | Toda la **infraestructura física y digital**: plataformas tecnológicas, herramientas, entornos, espacios y materiales tangibles.
 
 ### D. El ecosistema del servicio: frontstage y backstage
 
@@ -129,16 +127,14 @@ Según la cátedra, el diseño de servicios:
 
 ## III. Principios
 
-La cátedra compara los principios de **2010** con su versión de **2017**:
+Los principios, en su versión de **2017**:
 
-| 2010 | 2017 | Qué cambió |
-|---|---|---|
-| **1. Centrado en el usuario:** los servicios deben experimentarse a través de los ojos del cliente. | **1. Centrado en el ser humano:** considerar la experiencia de **todas las personas afectadas** por el servicio. | De "el cliente" a **todas las personas** (incluye empleados). |
-| **2. Co-creativo:** todas las partes interesadas deben estar incluidas en el proceso de diseño. | **2. Colaborativo:** las partes interesadas de diversos orígenes y funciones deben participar **activamente**. | De estar incluidos a **participar activamente**. |
-| — | **3. Iterativo:** enfoque **exploratorio, adaptativo y experimental**, iterando hacia la implementación. | **Nuevo** principio. |
-| **3. Secuencial:** el servicio debe visualizarse como una secuencia de acciones interrelacionadas. | **4. Secuencial:** visualizarse y **organizarse** como una secuencia de acciones interrelacionadas. | Se suma *organizarse*. |
-| **4. Evidencial:** los servicios intangibles deben visualizarse en términos de artefactos físicos. | **5. Real:** las necesidades deben **investigarse en la realidad**, las ideas **prototiparse en la realidad** y los valores intangibles evidenciarse como realidad física o digital. | De "mostrar evidencia" a **investigar y prototipar en la realidad**. |
-| **5. Holístico:** todo el entorno de un servicio debe ser considerado. | **6. Holístico:** abordar **de manera sostenible** las necesidades de todas las partes interesadas a través de todo el servicio y todo el negocio. | Se suma la **sostenibilidad**. |
+1. **Centrado en el ser humano:** considerar la experiencia de **todas las personas afectadas** por el servicio.
+2. **Colaborativo:** las partes interesadas de diversos orígenes y funciones deben participar **activamente**.
+3. **Iterativo:** enfoque **exploratorio, adaptativo y experimental**, iterando hacia la implementación.
+4. **Secuencial:** visualizarse y **organizarse** como una secuencia de acciones interrelacionadas.
+5. **Real:** las necesidades deben **investigarse en la realidad**, las ideas **prototiparse en la realidad** y los valores intangibles evidenciarse como realidad física o digital.
+6. **Holístico:** abordar **de manera sostenible** las necesidades de todas las partes interesadas a través de todo el servicio y todo el negocio.
 
 > 📌 *"…cuando las personas intentan describir un objeto, lo hacen a través de los **servicios percibidos que proporciona**. Es casi imposible definir objetivamente cualquier objeto sin aprovechar los posibles potenciales de acción que percibimos que nos ofrece."*
 
@@ -148,10 +144,10 @@ La cátedra compara los principios de **2010** con su versión de **2017**:
 
 | Actividad | Objetivo | Qué se hace (cátedra) |
 |---|---|---|
-| **1. Investigación** (*research*) | **Comprender** | Investigación **cualitativa** profunda; entrevistas en profundidad y **observación directa**; mapeo de necesidades, dolores y expectativas; hallazgo de **insights ocultos** del usuario. Ayuda al equipo a **ir más allá de las suposiciones**; los conocimientos **cualitativos** suelen ser más prácticos que los cuantitativos porque responden **"por qué"**. |
-| **2. Ideación** (*ideation*) | **Crear** | Talleres de **co-creación** multidisciplinarios; lluvia de ideas sin restricciones iniciales; alineación entre viabilidad de negocio y diseño; mapeo conceptual de soluciones. Los equipos deben aprender que **no se busca la idea perfecta ("la bala de plata")** para invertir enseguida recursos masivos: **aprender a dejar ir las ideas** para dar paso a otras nuevas es una habilidad crucial. |
-| **3. Prototipado** (*prototyping*) | **Validar** | Construcción **rápida y de bajo costo**; simulaciones de servicio y maquetas digitales; pruebas con usuarios reales y personal; iteración basada en feedback. Probar las ideas clave **en el mundo real**, midiendo la mayor cantidad de variables para construir soluciones más robustas. |
-| **4. Implementación** (*implementation*) | **Escalar** | Planificación e hitos de lanzamiento; **pilotos controlados** en entornos reales; **capacitación** de equipos (back y front); establecimiento de **métricas de éxito (KPI)**. Es **el punto final**: convertir un prototipo en un sistema en funcionamiento, lo que involucra gestión del cambio, capacitación, contratación, desarrollo de software o producción de objetos físicos. |
+1. **Investigación** (*research*) | **Comprender** | Investigación **cualitativa** profunda; entrevistas en profundidad y **observación directa**; mapeo de necesidades, dolores y expectativas; hallazgo de **insights ocultos** del usuario. Ayuda al equipo a **ir más allá de las suposiciones**; los conocimientos **cualitativos** suelen ser más prácticos que los cuantitativos porque responden **"por qué"**.
+2. **Ideación** (*ideation*) | **Crear** | Talleres de **co-creación** multidisciplinarios; lluvia de ideas sin restricciones iniciales; alineación entre viabilidad de negocio y diseño; mapeo conceptual de soluciones. Los equipos deben aprender que **no se busca la idea perfecta ("la bala de plata")** para invertir enseguida recursos masivos: **aprender a dejar ir las ideas** para dar paso a otras nuevas es una habilidad crucial.
+3. **Prototipado** (*prototyping*) | **Validar** | Construcción **rápida y de bajo costo**; simulaciones de servicio y maquetas digitales; pruebas con usuarios reales y personal; iteración basada en feedback. Probar las ideas clave **en el mundo real**, midiendo la mayor cantidad de variables para construir soluciones más robustas.
+4. **Implementación** (*implementation*) | **Escalar** | Planificación e hitos de lanzamiento; **pilotos controlados** en entornos reales; **capacitación** de equipos (back y front); establecimiento de **métricas de éxito (KPI)**. Es **el punto final**: convertir un prototipo en un sistema en funcionamiento, lo que involucra gestión del cambio, capacitación, contratación, desarrollo de software o producción de objetos físicos.
 
 **Para qué sirve prototipar un servicio (cátedra):**
 
@@ -189,16 +185,9 @@ Conecta de forma **síncrona** el viaje del cliente con **todo el motor interno*
 
 > ⚠️ **Journey Map vs. Blueprint:** el **Journey Map** mira **solo al cliente** (qué hace, piensa y siente); el **Blueprint** agrega **todo lo que la organización hace** para que eso pase (front, back y soporte).
 
-### 3. Co-creación y prototipado de servicios
+### 3. Co-creación
 
 **Co-creación: diseñar CON la gente.** Involucra activamente a **clientes finales, personal de línea de frente y directivos** en la mesa de diseño, y garantiza soluciones **viables y realizables**.
-
-**Métodos rápidos de prototipado:**
-
-- **Roleplaying:** simular de forma física los flujos de atención y diálogos.
-- **Storyboards:** guiones gráficos secuenciales para evaluar el ritmo del servicio.
-- **Prototipos digitales:** *mockups* rápidos de apps o tótems para probar flujos de clics.
-- **Pilotos de baja fidelidad:** probar el servicio en un entorno controlado con usuarios reales.
 
 ---
 
@@ -228,8 +217,6 @@ Conecta de forma **síncrona** el viaje del cliente con **todo el motor interno*
 > 📌 *"Si algo puede fallar, **fallará**."*
 > 📌 *"Probar y fallar es el **primer eslabón** de una cadena que termina en probar y **NO** fallar."*
 
-> 📝 **Citar y explayarse:** La cátedra resume la cultura fail en la idea de que *"debemos aprender al fallar"* y en que *"probar y fallar es el primer eslabón de una cadena que termina en probar y no fallar"*. Significa que el error no es el opuesto del éxito sino un **paso necesario** para llegar a él: una organización que castiga el fracaso logra que nadie se arriesgue, y sin riesgo no hay innovación. Por eso propone no premiar solo el éxito, dar un **contexto seguro para experimentar** y **compartir** lo que falló para que otros no repitan el error. Por ejemplo, un equipo que prueba un piloto de atención por chatbot y fracasa aporta igual valor si documenta por qué falló: el siguiente intento parte de ese aprendizaje.
-
 > 🔗 Es el pilar de **aceptar el fracaso** de la **Gestión 2.0** (tema [07](../parcial-1/07-gestion-de-la-innovacion.md)), el *fail fast* de [Design Thinking](../parcial-1/13-design-thinking.md) y el "iterar vs. pivotar" de [Lean Startup](20-lean-startup-y-mvp.md).
 
 ---
@@ -243,16 +230,6 @@ Conecta de forma **síncrona** el viaje del cliente con **todo el motor interno*
 | Frontstage | Backstage | Front = lo que el **cliente ve**. Back = lo **oculto** que sostiene el servicio. Los separa la **línea de visibilidad**. |
 | Customer Journey Map | Service Blueprint | El Journey mira **al cliente**; el Blueprint conecta al cliente con **toda la operación interna**. |
 | Cultura fail | Tolerar la mediocridad | No es aceptar cualquier error: es **experimentar en un contexto seguro y aprender** de lo que falla, compartiéndolo. |
-
----
-
-## 🔗 Conexiones
-
-- **← [13 Design Thinking](../parcial-1/13-design-thinking.md):** raíz del diseño de servicios y del Design Sprint.
-- **← [07 Gestión 2.0](../parcial-1/07-gestion-de-la-innovacion.md):** aceptar el fracaso, trabajo interdisciplinario.
-- **← [15 Estrategias comerciales](15-estrategias-comerciales-y-oceano-azul.md):** de la estrategia a los procesos y la cultura.
-- **→ [17 Innovación abierta](17-innovacion-abierta.md):** la co-creación con actores externos.
-- **→ [21 KPI](21-kpi.md):** las métricas de éxito de la implementación.
 
 ---
 

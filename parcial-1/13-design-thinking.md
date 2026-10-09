@@ -2,7 +2,7 @@
 
 > **Fuente en el material:** *Día 3 – Innovación tecnológica, creatividad vs. innovación*, diapositivas 30–37.
 > **Prerrequisitos:** [11 Creatividad](11-creatividad-y-proceso-creativo.md) y [12 Innovación tecnológica](12-innovacion-tecnologica-e-ia.md).
-> **Tiempo estimado:** 50 min.
+> **Tiempo estimado:** 40 min.
 > **Primer Parcial · Tema 13 de 14** (Día 3). 🔥 Salió en el parcial anterior (pregunta [4](../evaluacion/parcial-anterior-resuelto.md#iii4-design-thinking-qué-es--al-menos-3-etapas)).
 
 ---
@@ -11,9 +11,8 @@
 
 1. Definir **Design Thinking** e identificar sus **tres dimensiones** (personas, tecnología, negocio).
 2. Describir sus **cinco etapas** en orden, con técnicas de cada una.
-3. Explicar sus **siete características**, su **importancia** y sus **beneficios**.
-4. Analizar **casos de empresas** que lo usaron y **por qué**.
-5. **Aplicar** Design Thinking a un problema concreto.
+3. Explicar sus **siete características** y sus **beneficios**.
+4. Analizar **casos de empresas** que lo usaron.
 
 ---
 
@@ -27,12 +26,9 @@
   4. Prototipar
   5. Evaluar / testear
 - **III. Características** (7)
-- **IV. Importancia** (5)
-- **V. Beneficios** (6)
-- **VI. Empresas que lo utilizan**
-- **VII. Por qué lo utilizaron** (4 razones)
-- **VIII. Caso aplicado paso a paso**
-- **IX. Lo que agregó la clase pre-parcial** (principios, mentalidades, entender–explorar–materializar, restricciones)
+- **IV. Beneficios** (6)
+- **V. Empresas que lo utilizan**
+- **VI. Lo que agregó la clase pre-parcial** (principios, mentalidades, entender–explorar–materializar, restricciones)
 
 ---
 
@@ -70,11 +66,7 @@ flowchart TB
     N --> INN
 ```
 
-> ➕ **Contexto adicional:** IDEO (la consultora que popularizó el método) habla de **deseabilidad, factibilidad y viabilidad**: una buena innovación está en la intersección de las tres. El modelo de 5 etapas que usa la cátedra es el de la **d.school de Stanford**.
-
 > 💡 **Para entenderlo:** la mayoría de los fracasos tecnológicos empiezan por la tecnología ("tenemos esta tecnología, ¿qué hacemos?"). Design Thinking **empieza por la persona** ("¿qué le pasa a esta persona?") y recién después busca la tecnología. Por eso es la respuesta directa al problema n.º 1 de innovar: **falta de comprensión del usuario** (módulo [12](12-innovacion-tecnologica-e-ia.md)).
-
-> 📝 **Citar y explayarse:** La cátedra define el Design Thinking como *"una metodología centrada en el ser humano para resolver problemas complejos y fomentar la innovación"*, que integra *"necesidades de los usuarios, tecnología y requisitos de negocio"*. Que esté **centrada en el ser humano** significa que el punto de partida no es la tecnología disponible sino la persona y su problema: primero se empatiza y se define el reto, y recién después se idean, prototipan y testean soluciones. Integrar las tres dimensiones asegura que la solución sea **deseable** para el usuario, **factible** técnicamente y **viable** para el negocio. Además es iterativa: el testeo puede devolver al equipo a cualquier etapa anterior. Por ejemplo, una app de turnos médicos diseñada así empezaría observando a pacientes mayores pedir turno, y no por elegir la tecnología.
 
 ---
 
@@ -114,15 +106,7 @@ flowchart LR
 | 6 | **Visual y tangible** | Bocetos, modelos y herramientas visuales para hacer las ideas **comprensibles**. |
 | 7 | **Validación constante** | Prototipos testeados con **usuarios reales** → feedback temprano. |
 
-## IV. Importancia
-
-1. **Enfoque centrado en el usuario** – comprender no solo **lo que dicen** los usuarios, sino **lo que necesitan, piensan y sienten**.
-2. **Innovación efectiva** – resolver problemas complejos y **diferenciarse** de la competencia aportando valor real.
-3. **Aprendizaje y validación rápida** – la iteración (prototipar y testear) **minimiza el riesgo de fracasos costosos** al **fallar rápido y barato**.
-4. **Resolución colaborativa** – equipos diversos enriquecen las ideas.
-5. **Adaptabilidad** – fomenta creatividad y adaptación ante un mercado cambiante.
-
-## V. Beneficios
+## IV. Beneficios
 
 | Beneficio | Explicación |
 |---|---|
@@ -142,42 +126,15 @@ flowchart LR
 
 ---
 
-## VI. Empresas que utilizan esta metodología
+## V. Empresas que utilizan esta metodología
 
 | Empresa | Qué hizo con Design Thinking |
 |---|---|
-| **Apple** | **Pionera**: enfoca el desarrollo de productos en la **experiencia del usuario** y resuelve problemas de diseño creativamente. |
-| **Netflix** | Reinventó su modelo **de alquiler de DVDs al streaming**, priorizando **contenido personalizado** y experiencias atractivas; ofrece contenido bajo demanda **anticipando los deseos** de sus usuarios. |
-| **Airbnb** | Transformó la hotelería **empatizando con viajeros y anfitriones**; plataforma fácil de usar y experiencia personalizada. |
 | **BBVA** | Rediseñó sus **cajeros automáticos** para hacerlos **más intuitivos, humanos y seguros**. |
-| **IKEA** | Diseñó muebles pensando en el **transporte fácil por el consumidor** y la **reducción de costos**. |
-
-## VII. Por qué utilizaron esta metodología
-
-1. **Empatía con el usuario** – entienden necesidades reales **antes** de desarrollar.
-2. **Innovación centrada en el humano** – soluciones originales que **la gente realmente desea**.
-3. **Prototipado rápido** – probar ideas rápido y **fallar barato para aprender rápido**.
-4. **Colaboración interdisciplinaria** – **romper silos** para resolver problemas complejos en conjunto.
 
 ---
 
-## VIII. Caso aplicado paso a paso
-
-> 🧩 **Reto:** los estudiantes de la facultad pierden mucho tiempo buscando aulas libres para estudiar en grupo.
-
-| Etapa | Aplicación |
-|---|---|
-| **1. Empatizar** | Entrevistás a 10 estudiantes y observás los pasillos en hora pico. Hallazgos: recorren 3–4 pisos; los grupos se arman a último momento; se sienten frustrados y "echados" cuando llega un curso. Armás un **mapa de empatía** (qué piensa, siente, dice y hace). |
-| **2. Definir** | Reto: *"¿Cómo podríamos ayudar a los grupos de estudio a encontrar un espacio libre y garantizado en menos de 5 minutos?"* |
-| **3. Idear** | Lluvia de ideas sin juzgar: app con mapa en tiempo real, sensores de ocupación (IoT), reserva por QR en la puerta, bot de WhatsApp, cartel digital en cada piso, liberar aulas automáticamente… |
-| **4. Prototipar** | Hacés un prototipo en Figma de "reserva por QR" + una planilla compartida simulando la disponibilidad (barato y rápido). |
-| **5. Testear** | 15 estudiantes lo prueban una semana. Feedback: el QR funciona, pero no quieren instalar otra app → **volvés a idear**: bot de WhatsApp. Iterás. |
-
-> 🔗 Fijate que el paso 5 de este caso se parece mucho a **Lean Startup** (MVP → medir → aprender → pivotar). Las diferencias se ven en el módulo [20](../resto-de-la-materia/20-lean-startup-y-mvp.md).
-
----
-
-## IX. Lo que agregó la clase pre-parcial
+## VI. Lo que agregó la clase pre-parcial
 
 La *Clase 4 pre-parcial – Estrategias, procesos y cultura* (Barrios, diapositivas 38–55) repasó Design Thinking y sumó cuatro ideas.
 
@@ -225,7 +182,6 @@ La *Clase 4 pre-parcial – Estrategias, procesos y cultura* (Barrios, diapositi
 - **← [12 Innovación tecnológica](12-innovacion-tecnologica-e-ia.md):** problema n.º 1 de innovar.
 - **← [07 Gestión 2.0](07-gestion-de-la-innovacion.md):** fracaso aceptado, trabajo interdisciplinario.
 - **→ [14 Propuesta de valor](14-propuesta-de-valor-segmentacion-y-canvas.md):** empatizar = construir el perfil del cliente.
-- **→ [19 Proyectos](../resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md):** DT es la metodología de "experimentación y validación".
 - **→ [20 Lean Startup](../resto-de-la-materia/20-lean-startup-y-mvp.md)**.
 
 ---
