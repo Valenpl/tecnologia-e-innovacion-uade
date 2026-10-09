@@ -2,6 +2,13 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.09.7 — 2026-10-09
+
+**Motivo:** se pidió agregar al tema de KPI la definición de KPI y OKR, con un ejemplo de cada uno y su diferencia, escrita con el estilo de Valentino.
+
+### Agregado
+- **Tema 21 · KPI:** sección VII *KPI y OKR: definición, ejemplo y diferencia*, con los ejemplos de la cátedra (Defect Rate y el OKR de la plataforma de pagos).
+
 ## v2026.10.09.6 — 2026-10-09
 
 **Motivo:** se pasaron dos presentaciones más (*Start-Up Mindset y Lean Startup* y el *Repaso final* de Barrios) para agregar solo lo importante: definiciones más claras, cuadros e información valiosa.

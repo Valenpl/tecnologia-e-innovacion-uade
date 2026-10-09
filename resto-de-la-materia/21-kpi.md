@@ -13,6 +13,7 @@
 3. Aplicar el **framework SMART**.
 4. Distinguir KPI **leading** (adelantados) y **lagging** (rezagados).
 5. Analizar el **caso Mercado Libre**.
+6. Definir **KPI y OKR** con un ejemplo de cada uno y explicar su **diferencia**.
 
 ---
 
@@ -31,6 +32,7 @@
 - **IV. Tipos de KPI: leading vs. lagging**
 - **V. Pasos para implementar KPIs**
 - **VI. Caso real: Mercado Libre y las métricas DORA**
+- **VII. KPI y OKR: definición, ejemplo y diferencia**
 
 ---
 
@@ -167,6 +169,22 @@ flowchart LR
 - La intervención **redujo el tiempo de indisponibilidad un 41 % en 2 trimestres**.
 
 > 📌 **Conclusión de la cátedra:** *"La medición sistemática de KPI de ingeniería genera impacto directo tanto en la calidad del producto como en la satisfacción del equipo. **Los equipos con mejores DORA metrics tienen también la mayor retención de ingenieros**."*
+
+---
+
+## VII. KPI y OKR: definición, ejemplo y diferencia
+
+**KPI:** es un indicador clave cuantificable que permite medir el desempeño o la eficiencia de un equipo o la organización hacia un objetivo, o de un proceso en marcha. Funciona como un **GPS**, porque te dice cómo estás y te permite corregir el rumbo si estás lejos de la meta. Se compone del **nombre y la fórmula**, que dicen exactamente qué se mide y cómo se calcula; la **meta**, que es el valor numérico al que queremos llegar; y el **responsable y la frecuencia** de medición. Además tiene una **línea base**, que es el valor con el que arranca el KPI.
+
+- **Ejemplo (cátedra):** Defect Rate = bugs en producción / features entregadas, con una meta de menos de 0,1 bugs por feature, medido semanalmente por el Tech Lead y con una línea base de 0,4 bugs por feature.
+
+**OKR:** es un sistema de gestión de objetivos que permite alinear a todos los equipos de la organización hacia objetivos estratégicos más aspiracionales. Se compone de 3 partes: el **objetivo**, que tiene que ser aspiracional y no contener números; los **KR**, que son en esencia KPI con contexto estratégico y representan la parte medible (van de 2 a 5 por objetivo); y las **iniciativas**, que son las acciones concretas para mover los KR y que se abandonan si no mueven el número.
+
+- **Ejemplo (cátedra):** el objetivo "ser la plataforma de pagos más confiable del país", con los KR "uptime mayor a 99,95 % en Q3" y "MTTR menor a 2 horas", y la iniciativa "implementar circuit breakers en servicios críticos".
+
+**Diferencia:** los KPI miden constantemente el estado de un proceso en marcha (se revisan diaria o semanalmente) y la métrica se mantiene fija para poder compararla con el histórico. En cambio, los OKR se revisan con check-ins semanales y se resetean cada trimestre. A los KPI se les exige un **100 %** de cumplimiento porque representan el estándar mínimo operativo, mientras que a los OKR se les pide entre un **60 y un 70 %** porque son metas más aspiracionales. Los KPI te dicen cómo estás y los OKR adónde querés ir, así que **se complementan**.
+
+> 🔗 La tabla completa KPI vs. OKR está en el tema [22](22-okr.md) (sección III).
 
 ---
 
