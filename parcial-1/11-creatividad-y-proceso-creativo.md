@@ -103,6 +103,8 @@ flowchart LR
     CR["💡 CREATIVIDAD<br/>idea original<br/>(imaginación)"] -->|"implementación<br/>con tecnología"| IN["⚙️ INNOVACIÓN<br/>valor útil y medible<br/>(mundo real)"]
 ```
 
+> 📌 **Repaso final:** *"La creatividad es **pensar** cosas nuevas. La innovación es **hacer** cosas nuevas."* La creatividad es **divergente** (imaginar soluciones sin restricciones); la innovación es **convergente y pragmática** (tomar la idea y hacer que funcione en el mundo real).
+
 > 💡 **La pregunta disparadora de la clase:** *"¿Innovar es tener una buena idea… o hacer que funcione?"* → **Las dos cosas**: la nota del docente en esa diapositiva dice *"Son ambas y debe aportar valor a una persona del mercado"*. La creatividad aporta la idea; la innovación la hace funcionar y genera valor.
 
 ---

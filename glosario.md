@@ -5,7 +5,9 @@
 | Término | Definición breve | Módulo |
 |---|---|---|
 | **5 V de Big Data** | Volumen, Velocidad, Variedad, Veracidad y Valor (la más importante). | [10](parcial-1/10-big-data.md) |
+| **6D de Diamandis** | Digitalización, decepción, disrupción, desmonetización, desmaterialización y democratización: cómo una tecnología pasa de curiosidad digital a transformar mercados. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
 | **8 pasos de la planificación estratégica** | Misión, visión, análisis externo, análisis interno, objetivos estratégicos, estrategias, ejecución y evaluación (ciclo). | [26](resto-de-la-materia/26-planificacion-estrategica.md) |
+| **Abismo (*chasm*)** | Brecha que identificó Geoffrey Moore entre los adoptadores tempranos y la mayoría temprana; muchos productos fracasan ahí. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
 | **Abismo de desilusión** | Fase del Hype Cycle de Gartner donde caen las expectativas tras el pico. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
 | **Aceleradora corporativa** | Estructura interna que da mentoría, recursos e infraestructura a emprendedores a cambio de pilotar soluciones. | [17](resto-de-la-materia/17-innovacion-abierta.md) |
 | **Adoptadores tempranos** | 13,5 % de la curva de adopción; visionarios. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
@@ -13,6 +15,7 @@
 | **Agilidad** | *"No es velocidad, es adaptación al cambio."* Trabajo por iteraciones cortas con entrega temprana de valor. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
 | **Ambidestreza** | Mantener el negocio actual (explotar) mientras se desarrolla agresivamente el futuro (explorar). Exige recursos, liderazgo y estructura. | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **Análisis morfológico** | Técnica creativa: descomponer un problema en componentes y combinar opciones. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
+| **Aprendizaje validado** | Demostrar empíricamente con clientes reales qué funciona, en lugar de basarse en suposiciones. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) |
 | **Árbol de decisión** | Técnica de Data Mining: modelo visual de reglas para clasificar o predecir. | [09](parcial-1/09-data-mining.md) |
 | **B2B / B2C** | Venta entre empresas (al por mayor, proceso lento, relaciones largas) / venta directa al consumidor final. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **Backstage / Frontstage** | Lo oculto que sostiene el servicio / lo que el cliente ve y experimenta; los separa la línea de visibilidad. | [16](resto-de-la-materia/16-service-design-y-cultura-fail.md) |
@@ -34,6 +37,7 @@
 | **Code Coverage** | Líneas testeadas / total × 100. Meta > 80 %. | [21](resto-de-la-materia/21-kpi.md) |
 | **Competencia directa / indirecta / sustituta / latente** | Producto similar al mismo público / mismo problema de otra manera / alternativa distinta que reemplaza / todavía no está pero puede entrar. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **Competencia perfecta / oligopolio / monopolio** | Estructuras de mercado: muchísimos productores sin control del precio / pocos productores grandes / un solo productor con control total. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
+| **Construir-Medir-Aprender** | Núcleo de Lean Startup: construir un MVP, medirlo con datos reales y aprender si pivotar o perseverar. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) |
 | **Corporate Venture Capital (CVC)** | Cartera de inversiones de una gran empresa en múltiples startups simultáneamente. | [17](resto-de-la-materia/17-innovacion-abierta.md) |
 | **Creatividad** | Capacidad de generar nuevas ideas y conceptos por medio de la creación, cambios y mejoras. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
 | **Cultura del miedo** | Caso Nokia: directivos que temen a la competencia y mandos medios que no comunican malas noticias → información distorsionada y decisiones lentas. | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
@@ -73,8 +77,10 @@
 | **Innovación en valor** | Bajar costos y subir el valor para el cliente a la vez (Océano Azul). | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **Innovación incremental** | Pequeñas mejoras continuas sobre lo existente. | [01](parcial-1/01-tecnologia-e-innovacion-fundamentos.md) |
 | **Innovación radical** | Cambios revolucionarios que crean mercados nuevos. | [01](parcial-1/01-tecnologia-e-innovacion-fundamentos.md) |
+| **Innovación sostenida** | Mejora el producto para los clientes más exigentes de un mercado existente (Christensen); se opone a la disruptiva. | [03](parcial-1/03-tecnologias-disruptivas.md) |
 | **Innovación tecnológica** | Proceso de crear, mejorar o aplicar nuevas tecnologías para productos, servicios o procesos más eficientes. | [12](parcial-1/12-innovacion-tecnologica-e-ia.md) |
 | **Integración hacia atrás / hacia delante / horizontal** | Controlar proveedores / distribuidores / competidores. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
+| **Invención** | Creación de algo nuevo que aún no llegó al mercado; se vuelve innovación cuando se adopta y genera valor. | [01](parcial-1/01-tecnologia-e-innovacion-fundamentos.md) |
 | **Iterar** | Repetir el ciclo de mejora sin cambiar el rumbo. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) |
 | **Joint venture** | Emprendimiento conjunto entre organizaciones que comparten inversión, riesgo y beneficio. | [17](resto-de-la-materia/17-innovacion-abierta.md) |
 | **Kitchin / Juglar / Kondratiev** | Ciclos de ≈3, ≈10 y 40–60 años. | [06](parcial-1/06-schumpeter-destruccion-creativa-y-ciclos.md) |
@@ -82,10 +88,14 @@
 | **Lead Time** | Tiempo desde commit hasta producción. | [21](resto-de-la-materia/21-kpi.md) |
 | **Leading / Lagging** | KPI que predicen resultados (accionables) / que miden resultados ocurridos. | [21](resto-de-la-materia/21-kpi.md) |
 | **Lean Startup** | Metodología de Eric Ries para reducir riesgo y desperdicio con prototipos, experimentación y aprendizaje. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) |
+| **Ley de la Disrupción** | Larry Downes: los sistemas sociales, políticos y económicos cambian incrementalmente; la tecnología, exponencialmente. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
+| **Ley de Moore** | Los transistores de un chip se duplican cada dos años aproximadamente: más rendimiento y menor costo. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
 | **Liquidación** | Estrategia defensiva: venta de los activos de la empresa, en partes, por su valor tangible. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **Machine learning** | Subcampo de la IA: sistemas que aprenden de los datos. | [12](parcial-1/12-innovacion-tecnologica-e-ia.md) |
 | **Manifiesto Ágil** | 4 valores: individuos e interacciones, software funcionando, colaboración con el cliente y respuesta ante el cambio, por sobre sus opuestos; 12 principios. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
+| **Manual de Oslo** | Referencia de la OCDE para definir y clasificar la innovación (producto, proceso, modelo de negocio, marketing). | [01](parcial-1/01-tecnologia-e-innovacion-fundamentos.md) |
 | **Market share** | Participación de una marca o empresa sobre el total del mercado, en volumen o en valores. Se gana share creciendo más que la industria. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
+| **Martec's Law** | Scott Brinker: la tecnología cambia exponencialmente, pero las organizaciones solo logarítmicamente. | [05](parcial-1/05-curvas-de-la-tecnologia.md) |
 | **Matriz de Ansoff** | Mercado × producto: penetración, desarrollo de mercado, desarrollo de producto, diversificación. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **Matriz de competitividad** | Compara tu negocio con 3–5 competidores puntuando criterios clave (ej.: 1–5). | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **Matriz de las cuatro acciones** | Eliminar, reducir, incrementar y crear (Océano Azul). | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
@@ -121,6 +131,7 @@
 | **Spin-off** | Empresa nueva que se desprende de otra para explotar una tecnología. | [17](resto-de-la-materia/17-innovacion-abierta.md) |
 | **Sprint** | Ciclo corto de trabajo de Scrum (1 a 6 semanas) al final del cual se demuestra la nueva funcionalidad. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
 | **Squad** | Equipo autónomo con su propio KPI (modelo Spotify). | [21](resto-de-la-materia/21-kpi.md) |
+| **Startup Mindset** | Mentalidad de startup: enfoque mental y cultural de innovación disruptiva, experimentación rápida y aprendizaje continuo. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) |
 | **TAM / SAM / SOM** | Mercado total disponible / parte accesible y relevante para el negocio / parte que el negocio puede captar razonablemente. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **Tecnología** | Conjunto de saberes, técnicas y herramientas que permiten transformar el entorno ("el cómo"). | [01](parcial-1/01-tecnologia-e-innovacion-fundamentos.md) |
 | **Tecnologías disruptivas** | Innovaciones que transforman radicalmente industrias y desplazan lo establecido con soluciones más accesibles. | [03](parcial-1/03-tecnologias-disruptivas.md) |

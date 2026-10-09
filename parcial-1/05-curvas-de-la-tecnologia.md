@@ -2,7 +2,7 @@
 
 > **Fuente en el material:** *Clase 2 – Gestión de la innovación* (Ing. Mario Barrios), diapositivas 5–13.
 > **Prerrequisitos:** [03 Tecnologías disruptivas](03-tecnologias-disruptivas.md).
-> **Tiempo estimado:** 75 min (es uno de los temas más gráficos y preguntables).
+> **Tiempo estimado:** 85 min (es uno de los temas más gráficos y preguntables).
 > **Primer Parcial · Tema 05 de 14** (Clase 2). 🔥 Salió en el parcial anterior (pregunta [6](../evaluacion/parcial-anterior-resuelto.md#v6-la-curva-s-por-qué-cuidar-solo-la-tecnología-que-deja-plata-hoy-sentenció-a-nokia)).
 
 ---
@@ -50,6 +50,8 @@
   - A. Ciclo de vida: introducción → crecimiento → madurez → declive/retiro
   - B. Proyectos sucesivos y gobernanza del portafolio
 - **V. Comparación integradora de las curvas**
+- **VI. Leyes del cambio tecnológico** (Moore, Disrupción, Martec)
+- **VII. Las 6D de Diamandis**
 
 ---
 
@@ -189,6 +191,10 @@ La cátedra muestra una segunda versión de la curva S, ahora con **ventas** en 
 
 ![Curva de adopción tecnológica](../assets/adopcion-tecnologica.svg)
 
+En el repaso final la cátedra la presenta como la **curva de difusión de innovaciones de Everett Rogers (1962)**: cómo se adopta una novedad a lo largo del tiempo en un mercado.
+
+> 📌 **El abismo (*the chasm*):** *"**Geoffrey Moore** identificó una **brecha crítica** entre los **adoptadores tempranos** (entusiastas) y la **mayoría temprana** (pragmáticos). Muchos productos innovadores **fracasan justo ahí**, al no lograr el salto hacia el mercado masivo."*
+
 ### III.B Los cinco segmentos
 
 | Segmento | % | Perfil (según el gráfico de la cátedra) | Cómo piensan |
@@ -251,8 +257,35 @@ Esta tabla es **la clave para no mezclar** los modelos en el parcial:
 | **Curva S** | Clayton Christensen | **Desempeño** del producto | Tiempo / **esfuerzo de ingeniería** | S | ¿Cuánto mejora la tecnología si sigo invirtiendo? ¿Cuándo saltar a otra? |
 | **Ciclo de vida (ventas)** | — | **Ventas** | Tiempo | S | ¿En qué etapa (investigación → maduración) está? |
 | **Hype Cycle** | **Gartner** | **Expectativas** | Tiempo | Pico, valle y meseta | ¿Qué tan inflada está la percepción? ¿Cuándo madura? |
-| **Adopción** | — | **Cantidad de adoptantes** | Tiempo | Campana | ¿**Quién** adopta y en qué orden? ¿Qué estrategia necesito? |
+| **Adopción** | Everett Rogers | **Cantidad de adoptantes** | Tiempo | Campana | ¿**Quién** adopta y en qué orden? ¿Qué estrategia necesito? |
 | **Desarrollo de tecnologías** | — | Uso / ventas / impacto | Tiempo | Campana asimétrica | ¿Qué **proyecto** corresponde a cada etapa? |
+
+---
+
+## VI. Leyes del cambio tecnológico (repaso final)
+
+| Ley | Autor | Qué dice (cátedra) |
+|---|---|---|
+| **Ley de Moore** | **Gordon Moore** (cofundador de Intel), 1965 | El número de **transistores en un chip se duplica aproximadamente cada dos años**, lo que **mejora el rendimiento y reduce el costo** de la tecnología. Es un crecimiento **exponencial, no lineal**: lo que empieza lento termina transformando industrias enteras. |
+| **Ley de la Disrupción** | **Larry Downes**, 2009 | *"Los sistemas sociales, políticos y económicos cambian **incrementalmente**, pero la tecnología cambia **exponencialmente**."* |
+| **Martec's Law** | **Scott Brinker**, 2019 | La tecnología cambia de forma **exponencial**, pero las organizaciones solo pueden cambiar de forma **logarítmica**. La gestión tecnológica consiste en **decidir bien qué cambios adoptar y cuándo**. |
+
+**Tres consecuencias directas de la Ley de Moore:** más **transistores por chip**, **abaratamiento del almacenamiento** (el costo por gigabyte cayó de forma exponencial) y **mayor velocidad de transferencia** (la red creció al mismo ritmo).
+
+---
+
+## VII. Las 6D de Peter Diamandis
+
+> 📌 *Framework para entender cómo una tecnología pasa de ser una **curiosidad digital** a **transformar mercados completos**, en **seis etapas**.*
+
+| D | Qué es (cátedra) |
+|---|---|
+| **1. Digitalización** | La tecnología pasa de lo **analógico a lo digital** (unos y ceros). Poner un insumo, concepto o propuesta en un medio digital **acelera el intercambio de ideas**. |
+| **2. Decepción** | El movimiento tiene, en apariencia, **poco impacto** (pasar del 0,01 % al 0,02 % sigue pareciendo cero). Solo persisten los proyectos con convicción, hasta que la curva empieza a **duplicarse de forma exponencial**. |
+| **3. Disrupción** | El crecimiento empieza a **quebrar los parámetros del mercado**: irrumpe en un mercado para **crear otro nuevo** sobre la base del anterior, transformándolo (caso **Uber**). |
+| **4. Desmonetización** | El **costo de acceso se acerca a cero**: se remueve el dinero de la ecuación. Muchas empresas exponenciales dan el producto **gratis** y monetizan por otras vías (Skype con las llamadas de larga distancia). |
+| **5. Desmaterialización** | La tecnología deja de ser un objeto físico: el GPS o la cámara ya no son aparatos independientes, **viven juntos en el celular**. |
+| **6. Democratización** | La **estación terminal**: consecuencia de la desmonetización y la desmaterialización. **Acceso para toda la población**, sin importar nivel socioeconómico, edad o geografía. |
 
 ---
 
