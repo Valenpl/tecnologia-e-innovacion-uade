@@ -2,6 +2,21 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.09.6 — 2026-10-09
+
+**Motivo:** se pasaron dos presentaciones más (*Start-Up Mindset y Lean Startup* y el *Repaso final* de Barrios) para agregar solo lo importante: definiciones más claras, cuadros e información valiosa.
+
+### Agregado
+- **Tema 01:** definición de innovación del repaso, definición del Manual de Oslo, cuadro creatividad / invención / innovación, cuadro Manual de Oslo 2005 vs. 2018 y tipos de innovación según su objeto (III.D), con la definición de incremental y radical del repaso.
+- **Tema 03:** I.C Innovación sostenida vs. disruptiva (Christensen) con los tres casos de la cátedra.
+- **Tema 05:** Rogers (1962) y el abismo de Geoffrey Moore en la curva de adopción; VI Leyes del cambio tecnológico (Ley de Moore, Ley de la Disrupción, Martec's Law); VII Las 6D de Diamandis.
+- **Tema 11:** "la creatividad es pensar cosas nuevas; la innovación es hacer cosas nuevas" (divergente vs. convergente).
+- **Tema 20:** I.A Startup Mindset (definición, características y cuadro empresa tradicional vs. startup); segunda definición de Lean Startup, principios clave y ciclo Construir-Medir-Aprender; definición de MVP de la cátedra con sus características y tipos.
+- **Glosario:** 6D de Diamandis, Abismo (*chasm*), Aprendizaje validado, Construir-Medir-Aprender, Innovación sostenida, Invención, Ley de la Disrupción, Ley de Moore, Manual de Oslo, Martec's Law y Startup Mindset.
+
+### No agregado
+- Listas de importancia, ventajas y beneficios (repetían lo mismo), ejemplos de empresas, reflexiones históricas (Clarke, Alan Kay…), datos de inversión, generaciones 1G–5G y el taller del TPO.
+
 ## v2026.10.09.5 — 2026-10-09
 
 **Motivo:** se pidió agregar al resumen una explicación de Lean Startup, el MVP y cómo se relacionan.

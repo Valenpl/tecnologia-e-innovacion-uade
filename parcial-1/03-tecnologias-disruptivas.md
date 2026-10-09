@@ -2,7 +2,7 @@
 
 > **Fuente en el material:** *CLASE 1* (Prof. Escandell), diapositivas 27–31, y *Clase "Pinamar" 2026* (Prof. Escandell), diapositivas 5–19.
 > **Prerrequisitos:** [01](01-tecnologia-e-innovacion-fundamentos.md) y [02](02-impactos-y-desafios.md).
-> **Tiempo estimado:** 60 min.
+> **Tiempo estimado:** 65 min.
 > **Primer Parcial · Tema 03 de 14** (Clase 1). 🔥 Salió en el parcial anterior (pregunta [7](../evaluacion/parcial-anterior-resuelto.md#v7-el-competidor-disruptivo-por-qué-lo-inferior-se-vuelve-destrucción-creativa)).
 
 ---
@@ -23,6 +23,7 @@
 - **I. Definición**
   - A. Versión Clase 1 (innovaciones radicales que transforman o reemplazan)
   - B. Versión Clase 2026 (más accesibles, eficientes o sencillas)
+  - C. Innovación sostenida vs. disruptiva (Christensen)
 - **II. Características**
   1. Accesibilidad y menor costo
   2. Innovación radical
@@ -103,6 +104,16 @@ La cátedra da dos definiciones complementarias. Conviene saber ambas.
 > 🔥 **Síntesis de clase (Clase 2, notas de cursada):** innovación disruptiva = **cambio de paradigma** → **una nueva tecnología deja obsoleta a una tecnología anterior** → se genera un **cambio brusco**. Son las tres ideas que no pueden faltar en tu definición.
 
 > 🧩 **Ejemplo de la cátedra:** el paso de la **fotografía de carrete a la digital**. Las primeras cámaras digitales sacaban peores fotos, pero eran más prácticas y baratas por foto. Mejoraron rápido y desplazaron al carrete.
+
+### I.C Innovación sostenida vs. disruptiva (Clayton Christensen, repaso final)
+
+> 📌 *"La innovación **sostenida** mejora el producto para los **clientes más exigentes** de un mercado existente. La innovación **disruptiva** **ingresa por abajo** (más simple, barata o accesible) y termina **desplazando a los líderes establecidos**."*
+
+| Caso de la cátedra | Qué pasó |
+|---|---|
+| Blockbuster → Netflix | El alquiler físico fue desplazado por el streaming accesible. |
+| Film → cámara digital | Kodak, líder del mercado anterior, no logró adaptarse a tiempo. |
+| Taxis → Uber | Un servicio más simple y accesible redefinió el transporte. |
 
 ---
 

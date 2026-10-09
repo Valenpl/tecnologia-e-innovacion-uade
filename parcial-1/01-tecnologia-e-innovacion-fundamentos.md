@@ -2,7 +2,7 @@
 
 > **Fuente en el material:** *Tecnología e Innovación – CLASE 1* (Prof. Gustavo E. Escandell, MRI Pinamar, marzo 2026), diapositivas 4–14 y 32.
 > **Prerrequisitos:** ninguno. Es la base de toda la materia.
-> **Tiempo estimado:** 45–60 min.
+> **Tiempo estimado:** 50–65 min.
 > **Primer Parcial · Tema 01 de 14** (Clase 1). 🔥 Salió en el parcial anterior (pregunta [1](../evaluacion/parcial-anterior-resuelto.md#iii1-diferencia-entre-innovación-tecnológica-y-creatividad)).
 
 ---
@@ -24,12 +24,13 @@ Al terminar este módulo deberías poder:
 - **I. Punto de partida: ¿por qué la tecnología mejoró la vida de las personas?**
 - **II. Definiciones base**
   - A. Tecnología → "el cómo"
-  - B. Innovación → "el para qué"
+  - B. Innovación → "el para qué" (y creatividad / invención / innovación)
   - C. Innovación tecnológica (la síntesis)
 - **III. Tipos de innovación (versión Clase 1)**
   - A. Incremental
   - B. Radical
   - C. De proceso / de producto
+  - D. Según su objeto (Manual de Oslo)
 - **IV. Importancia de la tecnología y la innovación** (progreso social y económico)
 - **V. Relación Tecnología – Innovación – Negocios**
   - A. El ciclo: motor → proceso → campo de aplicación
@@ -118,6 +119,26 @@ Tres palabras de esta definición son claves y suelen evaluarse:
 
 Se la llama **"el para qué"** porque responde a *¿con qué propósito usamos la tecnología?*
 
+**Repaso final (Barrios):**
+
+> 📌 *"Innovar en tecnología significa utilizar herramientas, conocimientos científicos y desarrollos digitales para **crear nuevos productos, mejorar los existentes o transformar procesos** con el fin de **resolver problemas reales y generar valor**. No implica únicamente inventar algo desde cero; su verdadero éxito radica en **aplicar la tecnología de manera estratégica** para que tenga un **impacto práctico y medible**."*
+
+> 📌 **Manual de Oslo (OCDE):** *"Introducción de un producto (bien o servicio), proceso, método de comercialización o de organización **nuevo o significativamente mejorado**, que **genera valor y logra adopción en el mercado**."*
+
+| Concepto | Qué es (cátedra) |
+|---|---|
+| **Creatividad** | Capacidad de generar **ideas nuevas y de valor**. Es **materia prima**, no el resultado final. |
+| **Invención** | Creación de algo nuevo (idea, producto, proceso) que **aún no llegó al mercado**. |
+| **Innovación** | Idea o invención **llevada al mercado, adoptada** y capaz de **generar valor real**. |
+
+**Manual de Oslo: edición 2005 vs. 2018**
+
+| Criterio | Edición 2005 | Edición 2018 (moderna) |
+|---|---|---|
+| **Estructura** | 4 categorías rígidas (producto, proceso, marketing, organización). | 2 categorías transversales (producto y proceso de negocio). |
+| **Foco principal** | El acto de **introducir la novedad** al mercado. | El **cambio significativo** y la **adopción real** por el usuario. |
+| **Tecnología** | Separaba lo tecnológico de lo no tecnológico. | Asume que la tecnología es **el motor** de cualquier proceso. |
+
 ### II.C Innovación tecnológica (la síntesis)
 
 Juntando ambas: la innovación tecnológica es el **proceso** de introducir **cambios significativos** (nuevos o mejorados) en **productos, servicios o métodos**, **usando tecnología**, para **generar valor y satisfacer necesidades**.
@@ -149,6 +170,17 @@ En la Clase 1 se presentan tres tipos. Más adelante (módulo [12](12-innovacion
 
 - **De proceso:** optimizar **cómo se hacen** las cosas (por ejemplo, automatizar una línea de producción).
 - **De producto:** **crear cosas nuevas** (un bien o servicio que antes no existía).
+
+### III.D Según su objeto (Manual de Oslo, repaso final)
+
+| Tipo | Qué es | Ejemplo de la cátedra |
+|---|---|---|
+| **Producto** | Bienes o servicios nuevos o mejorados. | iPhone, Netflix |
+| **Proceso** | Nuevos métodos de producción o distribución. | Just-in-time, automatización |
+| **Modelo de negocio** | Nueva forma de crear y capturar valor. | Suscripción, marketplace |
+| **Marketing** | Nuevos métodos de comercialización o diseño. | Growth hacking, branding |
+
+En el repaso, incremental y radical se definen así: **incremental** = mejoras progresivas sobre lo existente, **bajo riesgo y adopción rápida**; **radical** = cambios profundos que **rompen con lo existente** y **crean nuevas categorías** de producto o mercado.
 
 > 💡 **Para entenderlo:** fijate que los tipos responden a **dos preguntas distintas**. Incremental vs. radical responde a *¿cuánto cambia?* (grado). Proceso vs. producto responde a *¿qué cambia?* (objeto). Por eso una misma innovación puede ser, a la vez, **incremental y de proceso**.
 

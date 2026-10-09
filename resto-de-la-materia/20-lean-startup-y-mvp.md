@@ -2,7 +2,7 @@
 
 > **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Mario Barrios), diapositivas 21–23.
 > **Prerrequisitos:** [13 Design Thinking](../parcial-1/13-design-thinking.md).
-> **Tiempo estimado:** 45 min.
+> **Tiempo estimado:** 55 min.
 > **Resto de la materia · Tema 20** (Proyecto de Innovación · Barrios). No entra en el Primer Parcial. Ojo: el **MVP** fue la pregunta 10 del [parcial anterior](../evaluacion/parcial-anterior-resuelto.md#v10-el-mvp-contra-la-competencia).
 
 ---
@@ -18,6 +18,8 @@
 ## 🗺️ Esquema del tema
 
 - **I. Definición y objetivo**
+  - A. Startup Mindset (y empresa tradicional vs. startup)
+  - B. Lean Startup: definición, principios clave y ciclo Construir-Medir-Aprender
 - **II. Las fases del método**
   - A. Entender el problema
     1. Necesidad del cliente
@@ -34,7 +36,7 @@
     9. Iteración
     10. Decisión de pivotar
 - **III. Conceptos clave**: MVP, hipótesis, pivotar, iterar
-- **IV. Lean Startup y MVP: cómo se relacionan**
+- **IV. Lean Startup y MVP: cómo se relacionan** (definición, características y tipos de MVP)
 
 ---
 
@@ -59,7 +61,41 @@ flowchart TB
 
 ## I. Definición y objetivo
 
+### I.A Startup Mindset
+
+> 📌 *"El Startup Mindset (mentalidad de startup) es un **enfoque mental y cultural** enfocado en la **innovación disruptiva**, la **experimentación rápida** y el **aprendizaje continuo**, diseñado para **resolver problemas y crecer rápidamente**. Se caracteriza por la **resiliencia**, la **proactividad**, la **tolerancia al riesgo** y la **capacidad de adaptarse al cambio**."*
+
+**Características:** experimentación y aprendizaje constante (prueba y error), orientación al cliente (*customer centric*), resiliencia y adaptabilidad (pivotar cuando hace falta), agilidad y velocidad (acción sobre planificación excesiva), pasión y proactividad, estructura flexible (equipos multidisciplinarios) y foco en el capital y el crecimiento (escalabilidad).
+
+| Empresa tradicional | Startup |
+|---|---|
+| Planifica todo | **Experimenta** |
+| Evita el error | **Aprende del error** |
+| Estructura rígida | **Flexible** |
+| Largo plazo | **Iteración rápida** |
+
+### I.B Lean Startup
+
 > 📌 *"Lean Startup es una **metodología de gestión** creada por **Eric Ries** para **desarrollar negocios y productos de forma más eficiente**. Su objetivo es **reducir el riesgo y evitar el desperdicio de tiempo y dinero** mediante el **lanzamiento rápido de prototipos**, la **experimentación con usuarios reales** y el **aprendizaje continuo**."*
+
+> 📌 **Otra definición de la cátedra:** *"Metodología de gestión empresarial para crear negocios y productos nuevos de forma **rápida y eficiente, reduciendo riesgos**. Su objetivo es **validar hipótesis de negocio** lanzando un **MVP** al mercado para **aprender del feedback real** de los clientes, permitiendo **iterar o pivotar**."*
+
+**Principios clave:**
+
+| Principio | Qué es (cátedra) |
+|---|---|
+| **Construir-Medir-Aprender** | **El núcleo del método**: construir un MVP, medir su rendimiento con datos reales y aprender si **pivotar o perseverar**. |
+| **MVP** | Versión funcional más sencilla que permite recoger el **máximo aprendizaje validado** con el **menor esfuerzo**. |
+| **Aprendizaje validado** | Demostrar **empíricamente** qué funciona realmente con clientes reales, en lugar de basarse en suposiciones. |
+| **Pivotar** | **Cambio estructural** en la estrategia del producto o modelo de negocio, basado en el feedback, **sin cambiar la visión principal**. |
+
+**El ciclo Construir-Medir-Aprender:**
+
+| Paso | Qué se hace (cátedra) |
+|---|---|
+| **Construir** | En lugar de un producto final complejo, se crea un **MVP**. |
+| **Medir** | Se lanza el MVP (usualmente a **early adopters**) y se mide su aceptación con **métricas reales, no "métricas de vanidad"**, para validar o invalidar las hipótesis. |
+| **Aprender** | Con los datos se sacan conclusiones: ¿el producto **cubre las necesidades**? ¿los clientes están **dispuestos a pagar**? |
 
 > 🔗 **Por qué existe:** responde directamente a la característica **"incertidumbre y riesgo"** de la innovación tecnológica y al problema **"alto costo y riesgo"** de innovar (módulo [12](../parcial-1/12-innovacion-tecnologica-e-ia.md)).
 
@@ -125,6 +161,14 @@ Si, cumplidas estas etapas, el producto **no cumple los objetivos que demanda el
 ## IV. Lean Startup y MVP: cómo se relacionan
 
 **Lean Startup:** es una metodología de gestión creada por **Eric Ries** para desarrollar negocios y productos de forma más eficiente. Su objetivo es **reducir el riesgo** y **evitar el desperdicio** de tiempo y dinero. Lo logra con el **lanzamiento rápido de prototipos**, la **experimentación con usuarios reales** y el **aprendizaje continuo**.
+
+> 📌 **Definición de la cátedra:** *"Un MVP es la **versión más básica** de un nuevo producto que permite **probar su viabilidad con el mínimo esfuerzo y recursos**, obteniendo **retroalimentación valiosa** de los primeros usuarios. Su objetivo es **validar hipótesis de negocio, reducir riesgos de inversión y acelerar el aprendizaje** antes del desarrollo final."*
+
+| Características del MVP | Tipos comunes de MVP |
+|---|---|
+| **Funcionalidad esencial:** solo lo necesario para resolver el problema central. | **Conserje:** servicio manual personalizado para validar la demanda sin tecnología desarrollada. |
+| **Aprendizaje validado:** evalúa la reacción real del mercado sin construir el producto completo. | **Landing page:** sitio web simple que describe el producto y mide el interés. |
+| **Velocidad y bajo costo:** se lanza rápido, sin funciones innecesarias. | **Prototipo:** versión funcional básica del software o producto físico. |
 
 **MVP (Producto Mínimo Viable):** es la **versión más simple** del producto que permite **poner a prueba una hipótesis** con usuarios reales. No es un producto "malo": es **lo mínimo necesario para aprender**.
 
