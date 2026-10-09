@@ -11,7 +11,7 @@
 
 1. Recorrer las **etapas de evolución de una empresa** y la **cadena de financiamiento** que corresponde a cada una.
 2. Enumerar y explicar las **etapas de la inversión**, desde la inversión inicial hasta la **etapa de liquidez o salida**.
-3. Definir **VAN**, **TIR** y **CAPM** (y su ecuación con riesgo país).
+3. Definir **VAN** y **TIR**.
 4. Definir **estrategia de salida (exit)**, sus motivos y sus formas: **fusión** y **venta**.
 5. Explicar cómo se valora la empresa para la salida: **múltiplo EBITDA** y comparación en **Crunchbase**.
 
@@ -22,7 +22,7 @@
 - **I. Etapas de la inversión** 🔥
   - A. Evolución de una empresa y cadena de financiamiento
   - B. Las etapas de la inversión
-- **II. Herramientas financieras: VAN, TIR y CAPM**
+- **II. Herramientas financieras: VAN y TIR**
 - **III. Estrategias de salida**
   - A. Por qué salir del negocio
   - B. Fusión y venta
@@ -81,26 +81,14 @@ flowchart LR
 
 ---
 
-## II. Herramientas financieras: VAN, TIR y CAPM
+## II. Herramientas financieras: VAN y TIR
 
 | Herramienta | Definición de la cátedra |
 |---|---|
 | **VAN** (Valor Actual Neto) | Dado el **rendimiento esperado (R)** de inversiones alternativas de **riesgo comparable**, el VAN computa **cuánto más dinero, traído a hoy**, me da el proyecto que si invirtiese en esa actividad alternativa. |
 | **TIR** (Tasa Interna de Retorno) | Es la **tasa de descuento que hace el VAN igual a cero**. |
-| **CAPM** (*Capital Asset Pricing Model*) | Describe la **relación entre el riesgo sistemático y el rendimiento esperado** de los activos, particularmente las acciones. Se usa en todas las finanzas para **fijar precios de valores riesgosos** y generar **rendimientos esperados** dado el riesgo de esos activos y el **costo de capital**. |
 
 > ⚠️ **TIR:** la interpretación habitual es que es *"la tasa de rendimiento 'promedio' de los fondos invertidos"*, pero la cátedra la marca como **problemática**.
-
-**Ecuación CAPM (con riesgo país)** (diapositivas 6–9):
-
-> **R = Rf + Riesgo país + β × (Rm − Rf)**
-
-- **Rf (risk free):** tasa libre de riesgo.
-- **Riesgo país.**
-- **β (beta):** riesgo del activo frente al mercado.
-- **Rm (market risk):** rendimiento del mercado; **(Rm − Rf)** es la prima de riesgo de mercado.
-
-Ejemplo de la cátedra (Sartori, biotecnología): **R = 3,3 + 20 + 1,34 × (8,31 − 3)**. El Rf sale de un ETF de renta fija, la β de un ETF de biotecnología (Nasdaq) y el Rm de un ETF del S&P 500.
 
 ---
 
@@ -173,19 +161,13 @@ Es el tramo inicial en que los resultados de la empresa son negativos, antes de 
 **VAN**: dado el rendimiento esperado de inversiones alternativas de riesgo comparable, cuánto más dinero, traído a hoy, da el proyecto que si se invirtiera en la alternativa. **TIR**: la tasa de descuento que hace el VAN igual a cero (leerla como rendimiento "promedio" es problemático).
 </details>
 
-**4. Escriba la ecuación CAPM que usa la cátedra y explique sus términos.**
-<details><summary>Ver respuesta</summary>
-
-**R = Rf + Riesgo país + β × (Rm − Rf)**. Rf: tasa libre de riesgo; riesgo país; β: riesgo del activo frente al mercado; Rm: rendimiento del mercado. Relaciona el riesgo sistemático con el rendimiento esperado.
-</details>
-
-**5. ¿Qué es una estrategia de salida y qué formas tiene?**
+**4. ¿Qué es una estrategia de salida y qué formas tiene?**
 <details><summary>Ver respuesta</summary>
 
 Un plan de acción para cuando llegue el día de salir del negocio; permite a los inversores entender cómo se saldrá y cómo se comercializará la empresa, y elegir el momento idóneo maximiza el valor. Formas: **fusión** (vertical u horizontal: juntar patrimonios para formar una nueva sociedad) y **venta** (valuar, actuar como pretendiente, identificar candidatos, conseguir datos, elegir los mejores, auditoría previa, cierre).
 </details>
 
-**6. ¿Cómo se valora una empresa por múltiplo EBITDA y qué se hace si no hay EBITDA comparable?**
+**5. ¿Cómo se valora una empresa por múltiplo EBITDA y qué se hace si no hay EBITDA comparable?**
 <details><summary>Ver respuesta</summary>
 
 Se busca una empresa comparable que cotice en bolsa (mismo sector y tamaño), se calculan multiplicadores entre el valor de la compañía y un parámetro financiero u operativo, y se obtiene un rango de valoración. Si no hay EBITDA o ventas (estadío temprano), se compara en Crunchbase contra otras startups y las inversiones que recibieron.

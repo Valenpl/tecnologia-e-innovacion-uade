@@ -9,7 +9,7 @@
 
 ## 🎯 Objetivos de aprendizaje
 
-1. Definir **mercado** desde la **economía** (oferta y demanda) y desde el **marketing** (mercado meta).
+1. Definir **mercado** desde el **marketing** (mercado meta).
 2. Distinguir **competencia perfecta, oligopolio y monopolio**.
 3. Definir **TAM, SAM y SOM** y explicar para qué sirven.
 4. Diferenciar los enfoques **Top-Down** y **Bottom-Up** para estimar el tamaño de un mercado.
@@ -20,9 +20,8 @@
 ## 🗺️ Esquema del tema
 
 - **I. Qué es un mercado**
-  - A. Visto desde la economía: oferta, demanda y equilibrio
-  - B. Estructuras de mercado
-  - C. Visto desde el marketing: mercado meta
+  - A. Estructuras de mercado
+  - B. Visto desde el marketing: mercado meta
 - **II. TAM, SAM y SOM**
   - A. Definiciones
   - B. Importancia y aplicación
@@ -38,7 +37,7 @@
 
 ```mermaid
 flowchart TB
-    M["🌍 MERCADO<br/>economía: oferta + demanda<br/>marketing: mercado meta"]
+    M["🌍 MERCADO<br/>estructuras de mercado<br/>marketing: mercado meta"]
     M --> T["📏 ¿Cuánto mide?<br/>TAM ⊃ SAM ⊃ SOM<br/>Top-Down · Bottom-Up"]
 ```
 
@@ -48,23 +47,7 @@ flowchart TB
 
 ## I. Qué es un mercado
 
-### I.A Visto desde la economía
-
-> 📌 *"El mercado es el **espacio en el cual confluyen las fuerzas de la demanda y la oferta** para intercambiar, vender y comprar bienes y servicios **a un precio determinado**."*
-
-| Curva | Fórmula | Pendiente | Qué muestra |
-|---|---|---|---|
-| **Demanda** | **Qd = a − bP** | **Negativa** | A **mayor precio**, **menor** cantidad demandada. |
-| **Oferta** | **Qo = c + dP** | **Positiva** | A **mayor precio**, **mayor** producción u oferta. |
-| **Equilibrio** | **Qd = Qo** | — | El cruce fija el **precio de equilibrio (Pe)** y la **cantidad de equilibrio (Qe)**. |
-
-Términos de la demanda (diapositiva 7):
-- **Qd:** cantidad total que los consumidores están dispuestos a comprar a un precio dado.
-- **a (intersección autónoma):** **demanda potencial máxima cuando P = 0**. Reúne los factores ajenos al precio que estimulan el consumo: modas, gustos, ingresos, población.
-- **b (pendiente):** **sensibilidad de la demanda al precio**: cuántas unidades cae Qd por cada peso que sube el precio. Signo **negativo** por la **Ley de la Demanda**.
-- **P:** precio de mercado del bien o servicio.
-
-### I.B Estructuras de mercado
+### I.A Estructuras de mercado
 
 Es el **ambiente competitivo** en el que se va a desenvolver el futuro negocio:
 
@@ -77,7 +60,7 @@ Es el **ambiente competitivo** en el que se va a desenvolver el futuro negocio:
 | **Información** | Perfecta | Imperfecta y estratégica | Imperfecta (controlada por la empresa) |
 | **Ejemplo** | Agro (trigo, leche), materias primas | Telefonía móvil, aerolíneas, automotriz | Servicios públicos (agua, electricidad local) |
 
-### I.C Visto desde el marketing
+### I.B Visto desde el marketing
 
 > 📌 **Kotler/Armstrong:** *"Conjunto de compradores que tienen **necesidades y/o características comunes** a los que la empresa u organización **decide servir**."*
 
@@ -217,12 +200,6 @@ Gana share cuando el **% de crecimiento de sus ventas es mayor que el % de creci
 <details><summary>Ver respuesta</summary>
 
 Competencia perfecta: muchísimos productores, producto homogéneo, sin control del precio, sin barreras (ej. trigo). Oligopolio: pocos productores grandes, control alto pero dependiente de la competencia, barreras fuertes (ej. telefonía móvil, aerolíneas). Monopolio: un solo productor, producto sin sustitutos, control total del precio, barreras infranqueables (ej. agua, electricidad local).
-</details>
-
-**6. En la demanda Qd = a − bP, ¿qué representan "a" y "b"?**
-<details><summary>Ver respuesta</summary>
-
-**a**: demanda potencial máxima cuando el precio es cero; reúne los factores ajenos al precio (modas, gustos, ingresos, población). **b**: sensibilidad de la demanda al precio, cuántas unidades cae la cantidad demandada por cada peso que sube el precio (signo negativo por la Ley de la Demanda).
 </details>
 
 ---

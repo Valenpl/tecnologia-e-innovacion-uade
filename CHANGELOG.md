@@ -2,6 +2,18 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.09.2 — 2026-10-09
+
+**Motivo:** según la lista de lo que entra en el final, se pidió sacar lo que no entra y estaba en el resumen.
+
+### Quitado
+- **Tema 24 · Análisis financiero:** CAPM (fila de la tabla, ecuación con riesgo país, ejemplo de Sartori, parte del objetivo 3 y pregunta de autoevaluación). Quedan VAN y TIR (teoría).
+- **Tema 23 · Análisis de mercado:** *Visto desde la economía* (oferta, demanda, Qd = a − bP, equilibrio), con su parte del objetivo 1 y la pregunta de autoevaluación sobre la demanda.
+- **Glosario:** CAPM.
+
+### Cambiado
+- **README:** descripción de los temas 23 y 24.
+
 ## v2026.10.09 — 2026-10-09
 
 **Motivo:** se pidió agregar los repasos *Metodologías de Innovación* (en un tema aparte, marcando las diferencias) y *Pensamiento Divergente y Convergente* (breve, dentro de innovación abierta).
