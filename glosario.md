@@ -51,6 +51,7 @@
 | **Destrucción creativa** | Proceso de transformación que acompaña a la innovación (Schumpeter). | [06](parcial-1/06-schumpeter-destruccion-creativa-y-ciclos.md) |
 | **Development Team** | Equipo de Scrum que construye el producto: auto-organizado, multifuncional, a ritmo sostenible. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
 | **Diversificación concéntrica / por conglomerado** | Sumar productos nuevos relacionados / no relacionados. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
+| **Doble Diamante** | Problema (descubrir → definir) y solución (desarrollar → entregar), alternando pensamiento divergente y convergente. | [17](resto-de-la-materia/17-innovacion-abierta.md) |
 | **Doblin (10 tipos)** | Configuración (4), Oferta (2), Experiencia (4). | [07](parcial-1/07-gestion-de-la-innovacion.md) |
 | **DORA metrics** | Deployment frequency, lead time, change failure rate, MTTR. | [21](resto-de-la-materia/21-kpi.md) |
 | **Ecosistema (plataforma)** | Competencia donde el valor del dispositivo depende de desarrolladores, apps, usuarios y socios: *ecosistema vs. ecosistema*. | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
@@ -92,6 +93,7 @@
 | **Matriz de Ansoff** | Mercado × producto: penetración, desarrollo de mercado, desarrollo de producto, diversificación. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **Matriz de competitividad** | Compara tu negocio con 3–5 competidores puntuando criterios clave (ej.: 1–5). | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **Matriz de las cuatro acciones** | Eliminar, reducir, incrementar y crear (Océano Azul). | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
+| **Matriz ERAC** | Eliminar, reducir, incrementar y crear (Océano Azul). | [27](resto-de-la-materia/27-metodologias-de-innovacion-comparativa.md) |
 | **Mercado meta** | Segmento de mercado que la empresa decide captar, satisfacer y/o servir con su programa de marketing para obtener un beneficio. | [23](resto-de-la-materia/23-analisis-de-mercado-tam-sam-som.md) |
 | **Miopía temporal** | Concentración excesiva en la innovación de corto plazo en detrimento de la de mayor beneficio futuro (caso Nokia). | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **Misfit** | Desajuste o falta de encaje entre la propuesta de valor y el perfil del cliente. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
@@ -102,6 +104,7 @@
 | **Océano azul / océano rojo** | Espacio de mercado nuevo sin competencia / mercado existente donde se compite (Kim y Mauborgne). | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **OKR** | Objectives and Key Results: sistema que conecta metas aspiracionales con indicadores medibles. | [22](resto-de-la-materia/22-okr.md) |
 | **Penetración de mercado** | Estrategia intensiva: más participación con los productos actuales vía marketing. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
+| **Pensamiento divergente / convergente** | Generar muchas opciones sin juzgar su viabilidad / analizar, filtrar y elegir con criterios de viabilidad. | [17](resto-de-la-materia/17-innovacion-abierta.md) |
 | **Pivotar** | Cambiar aspectos clave del negocio cuando el mercado no valida. | [20](resto-de-la-materia/20-lean-startup-y-mvp.md) |
 | **Proceso creativo** | Preparación, incubación, iluminación, verificación, adaptación y difusión. | [11](parcial-1/11-creatividad-y-proceso-creativo.md) |
 | **Product Backlog / Sprint Backlog** | Lista priorizada de todo lo que desea el cliente / lo asignado a un sprint. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
