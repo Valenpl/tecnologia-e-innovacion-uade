@@ -25,7 +25,6 @@
 | **Buyer persona** | Perfil del cliente ideal: datos demográficos, comportamiento y hábitos, dolores y necesidades. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **Canvas de Propuesta de Valor** | Mapa de valor (productos, creadores de alegrías, aliviadores de frustraciones) frente al perfil del cliente (trabajos, alegrías, frustraciones). | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
 | **Capital semilla / capital de riesgo** | Financiamiento de la etapa de inicio (4 F, crowdfunding, fondos semilla, ángeles) / de la etapa de crecimiento (fondos privados). | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
-| **CAPM** | Modelo que relaciona el riesgo sistemático con el rendimiento esperado de un activo. Versión de la cátedra: R = Rf + Riesgo país + β × (Rm − Rf). | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
 | **Cascada de OKR** | Definir OKR en la empresa y bajarlos a equipos como contribución real. | [22](resto-de-la-materia/22-okr.md) |
 | **Change Failure Rate** | % de releases que requieren rollback o hotfix. Métrica DORA. | [21](resto-de-la-materia/21-kpi.md) |
 | **Ciberresiliencia** | Capacidad de recuperarse de un ataque (vs. solo prevenirlo). | [02](parcial-1/02-impactos-y-desafios.md) |
