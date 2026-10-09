@@ -2,7 +2,7 @@
 
 > **Fuente en el material:** *Clase "Pinamar" 2026* (Prof. Gustavo E. Escandell), diapositivas 33–47.
 > **Prerrequisitos:** [08 Business Intelligence](08-business-intelligence.md).
-> **Tiempo estimado:** 60 min.
+> **Tiempo estimado:** 40 min.
 > **Primer Parcial · Tema 09 de 14** (Clase 3). 🔥 Salió en el parcial anterior (pregunta [3](../evaluacion/parcial-anterior-resuelto.md#iii3-business-intelligence-vs-data-mining)).
 
 ---
@@ -13,8 +13,6 @@
 2. Enumerar sus **objetivos**, **usos** y **características**.
 3. Describir las **6 etapas del proceso** de minería de datos en orden.
 4. Explicar las **8 técnicas** vistas (clasificación, clustering, reglas de asociación, árboles de decisión, redes neuronales, regresión, detección de anomalías, text mining) y saber cuál usar en cada caso.
-5. Dar ejemplos de aplicación en **informática**, **empresas** y **sectores**.
-6. Debatir los **dilemas éticos** del Data Mining.
 
 ---
 
@@ -31,10 +29,6 @@
   - A. Predictivas (clasificación, árboles de decisión, regresión, redes neuronales)
   - B. Descriptivas (clustering, reglas de asociación)
   - C. Especiales (detección de anomalías, text mining)
-- **VIII. Ejemplos desde el área informática** (6)
-- **IX. Principales software** (6)
-- **X. Empresas y sectores que lo usan**
-- **XI. Para reflexionar: ética y responsabilidad**
 
 ---
 
@@ -79,8 +73,6 @@ Este es el ejemplo clásico de minería de datos: **nadie buscaba esa relación*
 
 > 💡 **Lo importante del ejemplo:** el Data Mining **descubre** patrones **que no estaban a simple vista** y que nadie formuló como hipótesis. Esa es la diferencia con un informe de BI, donde uno ya sabe qué quiere mirar.
 
-> ➕ **Contexto adicional:** la versión más difundida de esta anécdota habla de **pañales y cerveza** (padres jóvenes que pasan a comprar pañales un viernes a la tarde y se llevan cerveza). La cátedra usa la versión con gaseosas; la lógica es idéntica: es un ejemplo de **reglas de asociación** (análisis de la cesta de compra).
-
 ---
 
 ## II. Definición
@@ -95,8 +87,6 @@ Desglose en esquema:
 - **Para qué**: **predecir** comportamientos, reducir costos, mejores decisiones.
 
 > 🔥 **Síntesis de clase (Clase 3, notas de cursada):** Data Mining consiste en **encontrar patrones que se repiten en grandes volúmenes de información**. Si tenés que definirlo en una línea, es esta.
-
-> 📝 **Citar y explayarse:** La cátedra define la minería de datos como *"un proceso técnico y automatizado que analiza grandes volúmenes de información (Big Data) para descubrir patrones, tendencias, anomalías y correlaciones ocultas"*. Lo que la distingue es que busca lo **oculto**: relaciones que no se ven a simple vista ni con una consulta común, y que aparecen al aplicar **técnicas estadísticas y de inteligencia artificial** sobre muchos datos. Ese descubrimiento sirve para *"convertir datos brutos en conocimiento estratégico"*, sobre todo para **predecir** comportamientos. Un banco, por ejemplo, puede descubrir que los clientes con varios reclamos en poco tiempo y poca antigüedad tienden a irse, y usar ese patrón para retenerlos antes. A diferencia de Big Data, que **gestiona** los datos, Data Mining los **analiza**.
 
 ---
 
@@ -151,16 +141,6 @@ flowchart LR
 | 5 | **Extracción (minado)** | **Aplicar los algoritmos** para encontrar patrones. | Es el "minado" propiamente dicho: recién acá se usan las técnicas. |
 | 6 | **Interpretación / Evaluación** | **Analizar los patrones** encontrados para **obtener conclusiones**. | Un patrón sin interpretación de negocio no sirve. |
 
-> 🧩 **Ejemplo completo – banco que quiere predecir qué clientes se van:**
-> 1. **Selección**: datos de clientes de los últimos 2 años (movimientos, reclamos, productos).
-> 2. **Limpieza**: se borran clientes duplicados y registros con fechas imposibles.
-> 3. **Reducción**: se descarta "color favorito" y se mantienen "cantidad de reclamos", "saldo promedio", "antigüedad".
-> 4. **Transformación**: "antigüedad" se convierte a meses; "reclamos" a cantidad por trimestre.
-> 5. **Minado**: se aplica un **árbol de decisión** (clasificación: se va / no se va).
-> 6. **Interpretación**: "clientes con más de 3 reclamos en un trimestre y menos de 1 año de antigüedad tienen alta probabilidad de irse" → acción: llamada de retención.
-
-> ➕ **Contexto adicional:** este proceso corresponde al modelo **KDD** (*Knowledge Discovery in Databases*, Fayyad et al., 1996). En la industria también se usa **CRISP-DM**. No hace falta saberlos para la materia, pero si los ves en otra bibliografía, son "primos" de este proceso.
-
 ---
 
 ## VII. Técnicas
@@ -194,16 +174,6 @@ flowchart TB
 
 > 💡 **Clasificación vs. regresión (clásico de parcial):** la clasificación predice una **categoría** (sí/no, A/B/C). La regresión predice un **número** (ventas = $3,2 M).
 
-#### Así se ve un árbol de decisión
-
-```mermaid
-flowchart TD
-    A{"¿Reclamos en el<br/>último trimestre > 3?"} -->|Sí| B{"¿Antigüedad<br/>< 12 meses?"}
-    A -->|No| C(["✅ Se queda"])
-    B -->|Sí| D(["❌ Alta probabilidad<br/>de irse"])
-    B -->|No| E(["⚠️ Riesgo medio"])
-```
-
 ### VII.B Técnicas descriptivas
 
 | Técnica | Definición de la cátedra | Pregunta que responde | Ejemplo |
@@ -221,80 +191,6 @@ flowchart TD
 |---|---|---|
 | **Detección de anomalías** | Identifica **patrones atípicos** o desviaciones que no siguen el comportamiento normal. | **Fraude financiero**, errores. |
 | **Minería de textos (Text Mining)** | Analiza **datos no estructurados** (comentarios, correos) para extraer información y **analizar sentimientos**. | ¿Los comentarios sobre el producto nuevo son positivos o negativos? |
-
-### Tabla de decisión rápida: ¿qué técnica uso?
-
-| Si querés… | Usá… |
-|---|---|
-| Saber si un cliente va a comprar o no | Clasificación / árbol de decisión |
-| Estimar cuánto vas a vender | Regresión |
-| Descubrir segmentos de clientes que no conocías | Clustering |
-| Saber qué productos se compran juntos | Reglas de asociación |
-| Detectar una transacción sospechosa | Detección de anomalías |
-| Analizar opiniones en redes | Text mining |
-| Modelar algo muy complejo y no lineal | Redes neuronales |
-
----
-
-## VIII. Ejemplos desde el área informática
-
-Muy útil para vos como estudiante de sistemas:
-
-1. **Ciberseguridad y detección de intrusos** – analizar el **tráfico de red** para identificar patrones anómalos que indican ataques **en tiempo real**.
-2. **Mantenimiento predictivo de sistemas** – datos de sensores para **predecir fallos en servidores o hardware** antes de que ocurran.
-3. **Análisis de logs y rendimiento** – minar **archivos de registro** para encontrar **causas raíz de errores** o cuellos de botella en la infraestructura.
-4. **Web Mining** – analizar el comportamiento del usuario en sitios web para **personalizar la interfaz**, mejorar la navegación y **predecir clics**.
-5. **Sistemas de recomendación** – algoritmos (Netflix, Spotify) que analizan historial de búsquedas y visualizaciones para **sugerir contenido**.
-6. **Optimización de búsquedas** – mejorar motores de búsqueda analizando las **consultas más frecuentes** y la **relevancia** de los resultados.
-
-## IX. Principales software de minería de datos
-
-| Software | Rasgo distintivo |
-|---|---|
-| **KNIME** (Konstanz Information Miner) | **Código abierto**, basado en **nodos**; flujos de ciencia de datos **sin programar**. |
-| **RapidMiner** | Entorno unificado: preparación de datos, aprendizaje automático y minería; gran capacidad **predictiva**. |
-| **Orange Data Mining** | **Visual**, ideal para **principiantes**. |
-| **SAS Enterprise Miner** | Robusta, **empresarial**, modelado predictivo. |
-| **WEKA** (Univ. de Waikato) | Suite de algoritmos de ML muy usada en **investigación y educación**. |
-| **IBM SPSS Modeler** | Interfaz intuitiva de **arrastrar y soltar** para análisis predictivo. |
-
-## X. Empresas y sectores que lo usan
-
-**Empresas:**
-
-| Empresa | Uso |
-|---|---|
-| **Amazon** | Recomendaciones en tiempo real y optimización de la cadena de suministro. |
-| **Netflix y Spotify** | Hábitos de visualización/escucha para **crear contenido original** y recomendar. |
-| **Starbucks** | **Geolocalización** para decidir dónde abrir tiendas y analizar consumo. |
-| **BBVA** | Segmentación, **prevención de fraude**, evaluación de riesgos. |
-| **Zara (Inditex)** | Ventas en tiempo real para optimizar inventario y ajustar producción a la demanda. |
-| **Walmart / minoristas** | Hábitos de compra para la **colocación de productos** en tienda. |
-| **Tesla, Google, Meta** | IA + minería para automatizar procesos y mejorar productos. |
-
-**Sectores:**
-
-| Sector | Uso |
-|---|---|
-| **Banca y seguros** | Fraude, **riesgo crediticio**, reducción de la deserción (**churn**). |
-| **Atención médica** | Historiales para predecir necesidades de pacientes y gestionar recursos. |
-| **Telecomunicaciones** | Patrones para evitar que los clientes abandonen el servicio. |
-| **Retail / e-commerce** | Personalización de ofertas y **optimización de precios**. |
-
----
-
-## XI. Para reflexionar: ética y responsabilidad
-
-La cátedra plantea dos preguntas. Tené una respuesta argumentada:
-
-1. **¿Hasta qué punto es ético predecir el comportamiento de los clientes incluso antes de que ellos sean conscientes de sus decisiones?**
-   - Argumentos a favor: mejores servicios, recomendaciones útiles, prevención de fraude.
-   - Argumentos en contra: **privacidad**, **manipulación** (empujar decisiones), falta de consentimiento informado.
-   - Postura razonable: es aceptable con **transparencia, consentimiento y límites** sobre datos sensibles.
-2. **Si una decisión basada en Data Mining resulta incorrecta, ¿quién es responsable: la empresa, el analista o el algoritmo?**
-   - El algoritmo **no es sujeto de responsabilidad**: es una herramienta. La responsabilidad recae en **la empresa** (que decide usarlo y actúa) y, profesionalmente, en **quienes diseñan, validan e interpretan** el modelo (etapa 6: interpretación/evaluación).
-
-> 🔗 Conecta con el desafío **"IA y ética"** (módulo [02](02-impactos-y-desafios.md)) y con los **problemas éticos** de innovar (módulo [12](12-innovacion-tecnologica-e-ia.md)).
 
 ---
 
@@ -342,18 +238,6 @@ Proceso **técnico y automatizado** que analiza **grandes volúmenes de informac
 <details><summary>Ver respuesta</summary>
 
 **Clasificación**: técnica **predictiva** que asigna elementos a **categorías predefinidas** (ej. "comprará / no comprará"). **Clustering**: técnica **descriptiva** que agrupa datos **sin etiquetas previas** según similitudes (ej. descubrir que existen "compradores de fin de semana con alto ticket" como segmento).
-</details>
-
-**5. Dé tres ejemplos de Data Mining aplicados al área informática.**
-<details><summary>Ver respuesta</summary>
-
-Detección de intrusos analizando tráfico de red; mantenimiento predictivo de servidores con datos de sensores; análisis de logs para encontrar causas raíz de errores. (También: web mining, sistemas de recomendación, optimización de búsquedas.)
-</details>
-
-**6. Si un modelo de Data Mining rechaza injustamente créditos a un grupo de personas, ¿quién es responsable?**
-<details><summary>Ver respuesta</summary>
-
-No el algoritmo, que es una herramienta. Es responsable **la empresa** que decide usar el modelo y actuar sobre sus resultados, y profesionalmente **quienes lo diseñaron, validaron e interpretaron** (la etapa de interpretación/evaluación existe justamente para detectar estos sesgos).
 </details>
 
 ---

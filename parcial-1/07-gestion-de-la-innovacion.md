@@ -71,13 +71,9 @@ Para eso la cátedra presenta dos herramientas:
 
 ## II. Los 10 tipos de innovación según Doblin
 
-> ➕ **Contexto adicional:** Doblin es una consultora de innovación (hoy parte de Deloitte). El modelo fue difundido por **Larry Keeley** en el libro *Ten Types of Innovation* (2013), tras analizar miles de innovaciones exitosas.
-
 Los diez tipos se agrupan en **tres categorías**, ordenadas **de izquierda a derecha según su visibilidad para el cliente**:
 
 > 📌 *"Los tipos ubicados a la izquierda están enfocados en **aspectos internos y más alejados del cliente**. Este tipo de innovación [el del medio] está enfocada en el **producto o servicio principal del negocio**. Finalmente, a la derecha se encuentran los tipos **más visibles y evidentes para los usuarios finales**."*
-
-> 📝 **Citar y explayarse:** El modelo de Doblin muestra que innovar no es solo crear un producto nuevo: hay **diez tipos** de innovación agrupados en tres categorías. A la izquierda, la **configuración**, con tipos *"enfocados en aspectos internos y más alejados del cliente"* (modelo de ingresos, red, estructura y procesos); en el centro, la **oferta**, enfocada *"en el producto o servicio principal del negocio"* (performance y sistema de producto); y a la derecha, la **experiencia**, con los tipos *"más visibles y evidentes para los usuarios finales"* (servicio, canal, marca y relación con el cliente). La consecuencia práctica es que las empresas que **combinan varios tipos** logran innovaciones más difíciles de copiar que las que solo cambian el producto. Netflix, por ejemplo, combinó un modelo de ingresos nuevo (suscripción), un canal nuevo (streaming) y una relación con el cliente basada en recomendaciones personalizadas.
 
 ### II.A Configuración (interno, lejos del cliente)
 
@@ -103,8 +99,6 @@ Los diez tipos se agrupan en **tres categorías**, ordenadas **de izquierda a de
 | 8 | **Canal** (*Channel*) | **Conectás tus ofertas con los clientes y usuarios** | Cómo llega la oferta al cliente. | Venta directa online / omnicanalidad. |
 | 9 | **Marca** (*Brand*) | **Representás tus ofertas y negocio** | Cómo se comunica y percibe la propuesta. | Beyond Meat: marca asociada a salud y sostenibilidad. |
 | 10 | **Relación con el cliente** (*Customer Engagement*) | **Fomentás experiencias únicas** | Interacciones significativas y comunidad. | Comunidades de usuarios, personalización. |
-
-> 🧩 Los ejemplos de la tabla salen de casos que la propia cátedra usa en otras clases (Netflix/Spotify, P&G, Spotify, Zara, Tesla, Apple, Singapore Airlines, Beyond Meat), reubicados en la grilla de Doblin para que veas cómo se aplica.
 
 > 💡 **Regla mnemotécnica:** **C-O-E** → **C**onfiguración (cómo me organizo) → **O**ferta (qué vendo) → **E**xperiencia (cómo lo vive el cliente). De **adentro hacia afuera**.
 
@@ -139,8 +133,6 @@ flowchart LR
 ```
 
 > 💡 **La idea:** una innovación en un tipo **impacta en otras funciones** de la empresa. Las innovaciones más fuertes y difíciles de copiar **combinan varios tipos a la vez**.
->
-> ➕ **Contexto adicional:** Keeley sostiene que las innovaciones que combinan **cinco o más tipos** son mucho más difíciles de imitar que las que dependen solo del producto. Ejemplo: Apple con el iPod + iTunes combinó **sistema de producto, modelo de ingresos, red (discográficas), canal y marca**.
 
 > ⚠️ **Por qué la cátedra lo enseña en "gestión":** si una empresa solo innova en **performance del producto**, la competencia la copia rápido. Innovar en **configuración** (procesos, estructura, red, modelo de ingresos) es menos visible pero **más difícil de copiar**.
 
@@ -170,13 +162,8 @@ flowchart TB
 #### III.A.1 Proceso de liderazgo
 > 📌 *"El rol del **director y equipo de alto cargo** que poseen y toman roles de líderes: **si no brindan el ambiente favorable para la innovación, nunca podrá emerger** dentro de la organización."*
 
-- La innovación **empieza arriba**: si la dirección no la habilita, no ocurre por más talento que haya abajo.
-
 #### III.A.2 Inversión, procesos y sistemas
 > 📌 *"Se requiere **inversión, procesos y sistemas que operen coherentemente**. **El corto plazo, los resultados inmediatos y la preponderancia de lo operativo sobre lo estratégico van en detrimento de la innovación**."*
-
-- Innovar necesita **recursos** y **método**, no solo buenas intenciones.
-- El **cortoplacismo** es enemigo de la innovación (recordá: el ROI de la innovación es **a largo plazo**, módulo [02](02-impactos-y-desafios.md)).
 
 #### III.A.3 Estructura organizacional
 > 📌 *"Los **modelos jerárquico-piramidales** son un **detractor/freno** de la innovación. La evolución a **modelos en 'Red'** operan y se adaptan a las dinámicas necesarias para innovar."*
@@ -192,38 +179,17 @@ flowchart TB
 #### III.A.4 Estilos de liderazgo
 > 📌 *"Los **estilos rígidos** son reemplazados por los líderes que poseen comportamientos **de afiliación, colaborativos y visionarios**."*
 
-- **Afiliativo**: prioriza el vínculo y el clima del equipo.
-- **Colaborativo**: construye con el equipo, no impone.
-- **Visionario**: marca un rumbo inspirador (se conecta con el *Objective* de los OKR, módulo [22](../resto-de-la-materia/22-okr.md)).
-
 #### III.A.5 Fracaso
 > 📌 *"**Está bien fracasar.** No hay posibilidad de lograr innovar si no se posee **capacidad de aceptar los fracasos y mejorar sobre ellos**. **Iterar y resiliencia**."*
-
-- Toda innovación implica **incertidumbre y riesgo** (característica de la innovación tecnológica, módulo [12](12-innovacion-tecnologica-e-ia.md)).
-- Si el error se castiga, nadie experimenta.
-- Se conecta con **Design Thinking** ("fallar rápido y barato") y **Lean Startup** (iterar, pivotar).
 
 #### III.A.6 Trabajo en equipo
 > 📌 *"Los equipos poseen características **interdisciplinarias**. **No es realizar algo con varios sectores**, es la **capacidad de un diseño y trabajo colaborativo entre ellos**."*
 
 > ⚠️ **Matiz importante:** juntar a gente de distintas áreas en una reunión **no** es trabajo interdisciplinario. Lo es cuando **diseñan y construyen juntos** la solución.
 
-> 📝 **Citar y explayarse:** La Gestión de la Innovación 2.0 sostiene que la innovación depende de la **organización y las personas**, no solo de la tecnología, y lo apoya en seis pilares. El **liderazgo**: si la dirección no brinda *"el ambiente favorable para la innovación, nunca podrá emerger"*. La **inversión, procesos y sistemas**, porque *"el corto plazo, los resultados inmediatos y la preponderancia de lo operativo sobre lo estratégico van en detrimento de la innovación"*. La **estructura**: los modelos *"jerárquico-piramidales son un detractor/freno"* y deben evolucionar hacia modelos en red. Los **estilos de liderazgo**, donde los rígidos se reemplazan por líderes *"de afiliación, colaborativos y visionarios"*. El **fracaso**: *"está bien fracasar"*, porque sin capacidad de aprender de los errores nadie experimenta. Y el **trabajo en equipo** interdisciplinario, entendido como diseñar juntos y no solo reunir áreas. En conjunto: una empresa con talento pero con estructura rígida, castigo al error y mirada cortoplacista no va a innovar.
-
 ### III.B Habilidades blandas
 
-La cátedra las presenta como el segundo pilar de la "mirada moderna". Aunque la diapositiva solo las nombra, se desprenden de los pilares anteriores:
-
-| Habilidad blanda | Pilar 2.0 con el que se conecta |
-|---|---|
-| Comunicación y escucha | Trabajo en equipo, liderazgo afiliativo |
-| Colaboración | Trabajo interdisciplinario, estructura en red |
-| Tolerancia a la frustración / resiliencia | Fracaso |
-| Pensamiento crítico y creatividad | Creatividad (módulo [11](11-creatividad-y-proceso-creativo.md)) |
-| Empatía | Design Thinking (módulo [13](13-design-thinking.md)) |
-| Liderazgo e influencia | Proceso y estilos de liderazgo |
-
-> ➕ **Contexto adicional:** la tabla es una **síntesis propia**; la cátedra no enumera las habilidades blandas, pero estas son las que se derivan de los pilares 2.0.
+La cátedra las presenta como el segundo pilar de la "mirada moderna".
 
 ---
 
@@ -244,7 +210,6 @@ La cátedra las presenta como el segundo pilar de la "mirada moderna". Aunque la
 - **← [06 Schumpeter](06-schumpeter-destruccion-creativa-y-ciclos.md):** primeros "tipos de innovación".
 - **→ [11 Creatividad](11-creatividad-y-proceso-creativo.md):** la creatividad es el punto de partida de la innovación.
 - **→ [17 Innovación abierta](../resto-de-la-materia/17-innovacion-abierta.md):** el tipo "Red" llevado al extremo.
-- **→ [19 Proyectos y estrategia](../resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md):** "cultura" como componente clave.
 
 ---
 

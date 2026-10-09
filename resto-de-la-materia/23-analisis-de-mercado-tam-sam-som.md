@@ -64,11 +64,7 @@ Es el **ambiente competitivo** en el que se va a desenvolver el futuro negocio:
 
 > 📌 **Kotler/Armstrong:** *"Conjunto de compradores que tienen **necesidades y/o características comunes** a los que la empresa u organización **decide servir**."*
 
-Otras definiciones de **mercado meta**: el segmento al que la empresa **dirige su programa de marketing**; el segmento para el que se diseña una **mezcla de mercadotecnia** (Stanton/Walker); *"la parte del **mercado disponible calificado** que la empresa **decide captar**"* (Kotler).
-
 > 📌 **En síntesis:** *"aquel **segmento de mercado** que la empresa **decide captar, satisfacer y/o servir**, dirigiendo hacia él su programa de marketing, con la finalidad de **obtener una determinada utilidad o beneficio**."*
-
-> 💡 *"No conozco la clave del éxito, pero sé que la clave del fracaso es **tratar de complacer a todo el mundo**."* — Woody Allen. Es la idea de elegir un segmento en vez de venderle a "todos".
 
 > 📌 **"La clave es predecir la evolución del ciclo de vida para la toma de decisiones":** desarrollo → introducción → crecimiento → madurez → declinación (diapositiva 15).
 
@@ -109,13 +105,10 @@ flowchart LR
 
 | Caso | TAM | SAM | SOM |
 |---|---|---|---|
-| **Terapia génica** para una enfermedad rara | Todos los pacientes diagnosticados en el mundo (≈ USD 500.000 por tratamiento) | Ajuste por **accesibilidad** del tratamiento en cada país, **competencia** y **regulaciones** locales | (mismo ajuste) |
 | **Terapia CAR-T** para linfoma | Todos los pacientes con linfoma del mundo | Pacientes en **mercados desarrollados** donde está **aprobada y accesible** | Pacientes que trata la empresa según **competencia y capacidad de producción** |
 | **Dispositivo portátil de diagnóstico de ADN** | Todos los hospitales y clínicas del mundo interesados en diagnóstico genético | Instituciones en mercados desarrollados **con capacidad de pagar y adoptar** | Centros que **eligen este dispositivo** frente a las alternativas |
 
 > 💡 **Patrón para el examen:** TAM = **todos** los que tienen el problema; SAM = los que **puedo atender** (geografía, regulación, capacidad de pago); SOM = los que **realmente me eligen** (competencia, capacidad propia).
-
-> 📝 **Citar y explayarse:** La cátedra define el **TAM** como el *"tamaño total del mercado disponible"*, el **SAM** como la *"parte del TAM accesible y relevante para el negocio"* y el **SOM** como la *"parte del SAM que el negocio puede captar razonablemente"*. Es decir, cada nivel filtra al anterior. En el caso de la terapia CAR-T, el TAM son todos los pacientes con linfoma del mundo; el SAM, los de mercados desarrollados donde el tratamiento está aprobado; y el SOM, los que la empresa puede tratar según su capacidad de producción y la competencia. Estas métricas sirven para fijar metas realistas, validar la idea antes de invertir y mostrar el potencial a inversores.
 
 ---
 
@@ -141,13 +134,9 @@ flowchart LR
 - Los **datos salen de fuentes de terceros**.
 - El **cálculo se basa en datos demográficos**.
 
-> ⚠️ La diapositiva 34 está dañada: compara el Top-Down con otros dos métodos (uno *"el mejor para pymes/empresas, con mejor precisión"* y otro *"el mejor para startups/scaleups, con precisión limitada"*), pero sus títulos no se leen. Del Top-Down solo se lee lo de arriba.
-
 ### III.C Aspectos a tener en cuenta · Bottom-Up 🔥
 
 **Cómo se dimensiona** (diapositiva 27): se arma desde el consumo. Ejemplo de la cátedra: **250.000 consumidores × 4 comprimidos per cápita = 1 millón de comprimidos** (volumen); la **facturación** es ese volumen × el precio.
-
-> ⚠️ La diapositiva dice "ventas: 500 millones de pesos" y "precio: $0,50/comprimido", que no cierran entre sí (1.000.000 × $0,50 = $500.000). Lo que importa es la lógica: **volumen = consumidores × per cápita** y **facturación = volumen × precio**.
 
 | Aspecto | Definición de la cátedra |
 |---|---|

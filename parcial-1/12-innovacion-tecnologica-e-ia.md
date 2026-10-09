@@ -2,7 +2,7 @@
 
 > **Fuente en el material:** *Día 3 – Innovación tecnológica, creatividad vs. innovación*, diapositivas 10–29.
 > **Prerrequisitos:** [11 Creatividad](11-creatividad-y-proceso-creativo.md).
-> **Tiempo estimado:** 70 min.
+> **Tiempo estimado:** 55 min.
 > **Primer Parcial · Tema 12 de 14** (Día 3).
 
 ---
@@ -14,7 +14,7 @@
 3. Enumerar los **beneficios** y las **ventajas** de la innovación tecnológica.
 4. Clasificar la innovación en sus **seis tipos** del Día 3.
 5. Explicar los **diez problemas de innovar**.
-6. Definir **Inteligencia Artificial**, sus **aspectos clave**, **características** y **ventajas**, y explicar por qué es *"el ejemplo más disruptivo de la última década"*.
+6. Definir **Inteligencia Artificial** y sus **aspectos clave**, y explicar por qué es *"el ejemplo más disruptivo de la última década"*.
 
 ---
 
@@ -28,15 +28,11 @@
   - E. Ventajas (4 grupos)
 - **II. Tipos de innovación (versión Día 3)**
   1. Incremental · 2. Radical · 3. Disruptiva · 4. De producto · 5. De proceso · 6. Tecnológica sostenible
-- **III. Ejemplos actuales de innovación tecnológica**
-- **IV. Problemas de innovar** (10)
-- **V. Inteligencia Artificial**
+- **III. Problemas de innovar** (10)
+- **IV. Inteligencia Artificial**
   - A. Por qué es el ejemplo más disruptivo
   - B. Definición
   - C. Aspectos clave (4)
-  - D. Características (7)
-  - E. Ventajas (7)
-- **VI. Para reflexionar**
 
 ---
 
@@ -73,8 +69,6 @@ mindmap
     IA
       Machine learning
       IA estrecha vs general
-      PLN y visión
-      Automatización 24x7
 ```
 
 ---
@@ -88,8 +82,6 @@ mindmap
 > 📌 *"La innovación tecnológica es el **proceso de crear, mejorar o aplicar nuevas tecnologías** para desarrollar **productos, servicios o procesos más eficientes, funcionales o sostenibles**. Combina **conocimientos científicos y técnicos** para **resolver problemas, aumentar la competitividad empresarial y generar valor**, ya sea mediante **cambios pequeños (incrementales) o revolucionarios (disruptivos)**."*
 
 Compará con la definición de la Clase 1 (módulo [01](01-tecnologia-e-innovacion-fundamentos.md)): ambas hablan de **proceso**, de **productos/servicios/métodos** y de **generar valor**. La del Día 3 agrega el **espectro** incremental ↔ disruptivo y el adjetivo **sostenible**.
-
-> 📝 **Citar y explayarse:** En la versión del Día 3, la innovación tecnológica es *"el proceso de crear, mejorar o aplicar nuevas tecnologías para desarrollar productos, servicios o procesos más eficientes, funcionales o sostenibles"*. Respecto de la Clase 1 agrega dos ideas: que innovar puede ser **crear, mejorar o simplemente aplicar** una tecnología (no hace falta inventarla) y que el cambio puede ser **incremental o disruptivo**. En todos los casos combina conocimiento científico y técnico para *"resolver problemas, aumentar la competitividad empresarial y generar valor"*. Agregar pago con QR a una app existente es una innovación incremental; reemplazar las sucursales por un banco 100 % digital es disruptiva. Ambas son innovación tecnológica porque usan tecnología para generar valor.
 
 ### I.B Características generales
 
@@ -115,8 +107,6 @@ Compará con la definición de la Clase 1 (módulo [01](01-tecnologia-e-innovaci
 | 9 | **Impulsada por el mercado** | Responde a **necesidades del consumidor** y a la **competencia**. |
 
 > 💡 **Para entenderlo – "rendimientos crecientes":** cuantas más personas usan una tecnología, más valiosa se vuelve (más datos para mejorarla, más desarrolladores, más compatibilidad). Ejemplo: un sistema de pagos con QR vale más cuantos más comercios y usuarios lo usan.
->
-> ➕ **Contexto adicional:** esto se relaciona con los **efectos de red** y explica por qué, una vez superado el "abismo" de adopción (módulo [05](05-curvas-de-la-tecnologia.md)), la difusión se acelera.
 
 > 💡 **Para entenderlo – "I+D+i":** **I**nvestigación + **D**esarrollo + **i**nnovación. La "i" minúscula final remarca que **no alcanza con investigar y desarrollar**: hay que **llevarlo al mercado**.
 
@@ -151,21 +141,6 @@ flowchart TB
     D --> D3["Educación y formación"]
 ```
 
-| Grupo | Ventaja | Detalle |
-|---|---|---|
-| **Eficiencia operativa y productividad** | Automatización | Tareas repetitivas más rápidas y precisas, **menos errores humanos**. |
-| | Reducción de costos | Mejor gestión de recursos, más rentabilidad. |
-| | Monitoreo en tiempo real | Seguimiento de inventarios, producción y finanzas. |
-| **Competitividad y crecimiento** | Ventaja competitiva | Diferenciarse y adaptarse a cambios. |
-| | Nuevos mercados | Oportunidades **globales**; facilita el **trabajo remoto**. |
-| | Innovación en productos/servicios | Nuevas ofertas de valor. |
-| **Decisiones y comunicación** | Uso de datos (Big Data/IA) | Información precisa y rápida para decisiones estratégicas. |
-| | Experiencia del cliente | Personalización y comunicación eficiente (chatbots). |
-| | Conectividad y colaboración | Comunicación interna y externa. |
-| **Sociedad y empleo** | Tareas de mayor valor | Los empleados se enfocan en lo **creativo o estratégico**. |
-| | Salud y calidad de vida | **Telemedicina**, diagnósticos asistidos. |
-| | Educación y formación | Aprendizaje **personalizado y continuo**. |
-
 ---
 
 ## II. Tipos de innovación (versión Día 3)
@@ -192,23 +167,7 @@ Esta es la clasificación **más completa** de las que da la cátedra para la in
 
 ---
 
-## III. Ejemplos actuales de innovación tecnológica
-
-| Tecnología | Aplicación |
-|---|---|
-| **IA y Machine Learning** | Diagnósticos médicos precisos, chatbots, análisis predictivo. |
-| **IoT** | Automatización industrial, hogares inteligentes, monitoreo de salud (biosensores, rastreadores). |
-| **5G** | Banda ancha de altísima velocidad, conexión simultánea de múltiples dispositivos, **ciudades inteligentes**. |
-| **Impresión 3D** | Prototipos, piezas industriales, **prótesis personalizadas**. |
-| **Realidad Virtual y Aumentada** | Educación, entrenamiento industrial, experiencias de consumo inmersivas. |
-| **Drones autónomos** | Logística (entregas), **agricultura de precisión**, vigilancia. |
-| **Reconocimiento facial** | Seguridad urbana, control de acceso, autenticación móvil. |
-| **Blockchain** | Registros descentralizados, seguridad y transparencia en finanzas y logística. |
-| **Energías renovables innovadoras** | Paneles solares de alta eficiencia, baterías de litio de gran capacidad, turbinas eólicas avanzadas. |
-
----
-
-## IV. Problemas de innovar
+## III. Problemas de innovar
 
 Diez problemas. Es una lista larga: agrupalos para recordarlos mejor.
 
@@ -230,41 +189,39 @@ flowchart TB
     MER --> p9["9. Competencia acelerada"]
 ```
 
-| # | Problema | Detalle de la cátedra | Cómo se combate (conexión con la materia) |
-|---|---|---|---|
-| 1 | **Falta de comprensión del usuario** | Se desarrolla tecnología **sin entender necesidades reales**. | **Design Thinking** (empatizar) – módulo 13. |
-| 2 | **Alto costo y riesgo** | Invertir **no garantiza éxito**; puede haber **pérdidas importantes**. | **Lean Startup** (MVP), **innovación abierta** (riesgo compartido). |
-| 3 | **Resistencia al cambio** | Personas y organizaciones **rechazan lo nuevo**; preferencia por lo conocido. | Capacitación, liderazgo (Gestión 2.0). |
-| 4 | **Obsolescencia rápida** | *"Lo innovador hoy, mañana ya no sirve."* | Curva S: buscar la próxima curva. |
-| 5 | **Falta de cultura innovadora** | Empresas **rígidas**, **miedo al error**, poca creatividad. | Gestión 2.0: "está bien fracasar", estructura en red. |
-| 6 | **Problemas de implementación** | **Buena idea, mala ejecución**; falta de planificación. | Proyectos de innovación, KPI, OKR. |
-| 7 | **Dependencia tecnológica** | Exceso de dependencia en sistemas o plataformas; **riesgos si fallan**. | Resiliencia (entorno VANI, frágil). |
-| 8 | **Problemas éticos** | **Uso indebido de datos**, **privacidad**, **IA**. | Gobernanza de datos; ética en Data Mining. |
-| 9 | **Competencia acelerada** | **Todos innovan al mismo tiempo**; difícil diferenciarse. | Combinar tipos de innovación (Doblin). |
-| 10 | **Falta de capacitación** | Usuarios o empleados **no saben usar la tecnología**; **se desaprovecha**. | Paso "capacitar al personal" (módulo 03). |
+| # | Problema | Detalle de la cátedra |
+|---|---|---|
+| 1 | **Falta de comprensión del usuario** | Se desarrolla tecnología **sin entender necesidades reales**. |
+| 2 | **Alto costo y riesgo** | Invertir **no garantiza éxito**; puede haber **pérdidas importantes**. |
+| 3 | **Resistencia al cambio** | Personas y organizaciones **rechazan lo nuevo**; preferencia por lo conocido. |
+| 4 | **Obsolescencia rápida** | *"Lo innovador hoy, mañana ya no sirve."* |
+| 5 | **Falta de cultura innovadora** | Empresas **rígidas**, **miedo al error**, poca creatividad. |
+| 6 | **Problemas de implementación** | **Buena idea, mala ejecución**; falta de planificación. |
+| 7 | **Dependencia tecnológica** | Exceso de dependencia en sistemas o plataformas; **riesgos si fallan**. |
+| 8 | **Problemas éticos** | **Uso indebido de datos**, **privacidad**, **IA**. |
+| 9 | **Competencia acelerada** | **Todos innovan al mismo tiempo**; difícil diferenciarse. |
+| 10 | **Falta de capacitación** | Usuarios o empleados **no saben usar la tecnología**; **se desaprovecha**. |
 
 > 💡 **Tip de parcial:** si te piden "analice un caso donde la innovación no generó valor", recorré esta lista y detectá cuál(es) problema(s) aparecen. Casi siempre es el 1 (no entender al usuario) o el 6 (mala ejecución).
 
 ---
 
-## V. Inteligencia Artificial
+## IV. Inteligencia Artificial
 
-### V.A Por qué es el ejemplo más disruptivo
+### IV.A Por qué es el ejemplo más disruptivo
 
 > 📌 *"La inteligencia artificial (IA) es **el ejemplo más disruptivo de innovación tecnológica de la última década**, transformando por completo la forma en que vivimos, trabajamos y procesamos la información. Lo que hace que la IA sea una innovación tan profunda es su **capacidad de evolución** y **transversalidad**, impactando prácticamente a **todas las industrias**."*
 
 - **Capacidad de evolución**: mejora con más datos y uso (rendimientos crecientes).
 - **Transversalidad**: no es de un sector; atraviesa salud, finanzas, educación, logística, entretenimiento…
 
-### V.B Definición
+### IV.B Definición
 
 > 📌 *"La Inteligencia Artificial (IA) es un **campo de la informática** dedicado a crear **sistemas capaces de realizar tareas que, por lo general, requieren inteligencia humana**, como **aprender, razonar, percibir y tomar decisiones**. Se basa en el **procesamiento de grandes volúmenes de datos** mediante **algoritmos** para **identificar patrones** y **mejorar automáticamente con la experiencia**."*
 
 > 🔗 Fijate que la definición usa vocabulario de los módulos de datos: **grandes volúmenes de datos** (Big Data), **identificar patrones** (Data Mining).
 
-> 📝 **Citar y explayarse:** La cátedra define la inteligencia artificial como *"un campo de la informática dedicado a crear sistemas capaces de realizar tareas que, por lo general, requieren inteligencia humana, como aprender, razonar, percibir y tomar decisiones"*, y la presenta como *"el ejemplo más disruptivo de innovación tecnológica de la última década"*. Es tan disruptiva por dos rasgos: su **capacidad de evolución**, porque mejora automáticamente con más datos y uso, y su **transversalidad**, porque no pertenece a una industria sino que atraviesa salud, finanzas, educación o logística. Su funcionamiento se apoya en el bloque de datos: necesita *"grandes volúmenes de datos"* (Big Data) y algoritmos que *"identifican patrones"* (Data Mining). Un filtro que clasifica correos o un sistema que detecta fraudes con tarjetas son ejemplos cotidianos.
-
-### V.C Aspectos clave
+### IV.C Aspectos clave
 
 | Aspecto | Explicación |
 |---|---|
@@ -282,39 +239,6 @@ flowchart LR
 > 💡 **Programación tradicional vs. machine learning:**
 > - Tradicional: **reglas + datos → respuestas** (el programador escribe las reglas).
 > - Machine learning: **datos + respuestas → reglas** (el sistema aprende las reglas a partir de ejemplos).
-
-### V.D Características
-
-1. **Aprendizaje automático** – mejora con más datos **sin ser programado explícitamente** para cada tarea.
-2. **Análisis y predicción** – analiza **Big Data** para detectar patrones y **predecir**.
-3. **Autonomía** – ejecuta tareas y **toma decisiones** basadas en reglas o patrones aprendidos.
-4. **Procesamiento del Lenguaje Natural (PLN)** – entiende, interpreta y **genera lenguaje humano** (chatbots).
-5. **Adaptabilidad** – ajusta respuestas ante nuevos datos o cambios del entorno.
-6. **Visión por computadora** – identifica, procesa e interpreta **imágenes y videos**.
-7. **Automatización de procesos** – tareas repetitivas o complejas, rápido y **sin interrupciones (24×7)**.
-
-### V.E Ventajas
-
-| Ventaja | Explicación |
-|---|---|
-| **Automatización y eficiencia** | Maneja tareas monótonas; **libera tiempo humano** para lo creativo o estratégico. |
-| **Reducción de errores humanos** | Sin cansancio ni distracciones; clave en **medicina o industria**. |
-| **Disponibilidad 24/7** | Atención al cliente o supervisión **continua**. |
-| **Análisis rápido de datos** | Volúmenes masivos **en tiempo real**; patrones ocultos. |
-| **Optimización de decisiones** | **Previsión de riesgos** y **detección de fraudes**. |
-| **Educación y personalización** | Aprendizaje **adaptado** a cada estudiante; apoyo a docentes. |
-| **Entornos peligrosos** | Robots y sistemas inteligentes operan donde es riesgoso para humanos. |
-
-> ⚖️ **Visión crítica (de otros módulos):** la propia cátedra marca como desafíos de la IA la **desinformación, los sesgos éticos y el impacto laboral** (módulo [02](02-impactos-y-desafios.md)) y los **problemas éticos** de innovar (sección IV). En un desarrollo, mencioná ventajas **y** riesgos.
-
----
-
-## VI. Para reflexionar
-
-La clase deja dos preguntas abiertas:
-
-1. **¿La innovación mejora la vida… o la complica?** → Ambas: depende de cómo se implemente (ver impactos sociales, módulo 02: tecnoestrés, adicción, brecha digital vs. conectividad, salud, educación).
-2. **¿Se puede innovar sin entender a las personas?** → Según la cátedra, **no de forma exitosa**: el problema n.º 1 de innovar es la **falta de comprensión del usuario**, y la regla 5 del proceso creativo exige **enfoque en el usuario y el problema**. Esto es exactamente lo que resuelve **Design Thinking** (siguiente módulo).
 
 ---
 

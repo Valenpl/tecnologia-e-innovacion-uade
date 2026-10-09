@@ -56,7 +56,6 @@
 | **Ecosistema (plataforma)** | Competencia donde el valor del dispositivo depende de desarrolladores, apps, usuarios y socios: *ecosistema vs. ecosistema*. | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **Embudo de desarrollo** | Modelo cerrado y secuencial que filtra ideas (Wheelwright & Clark, 1992). | [17](resto-de-la-materia/17-innovacion-abierta.md) |
 | **Enajenación** | Estrategia defensiva: venta de una división o parte de la empresa. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
-| **Estrategia de innovación** | Plan que vincula las mejoras novedosas con la estrategia comercial; hoja de ruta. | [19](resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md) |
 | **Estrategia de salida (exit)** | Plan de acción para cuando llegue el día de salir del negocio; formas: fusión o venta. Elegir el momento idóneo maximiza el valor. | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
 | **Etapas de la inversión** | Inversión inicial → empezar a funcionar → desarrollo temprano → expansión → rentable con escasa liquidez → crecimiento rápido hacia la liquidez → puente → liquidez o salida. | [24](resto-de-la-materia/24-analisis-financiero-y-estrategias-de-salida.md) |
 | **Explotar / Explorar** | Explotar: seguir mejorando el negocio actual (menor riesgo inmediato). Explorar: apostar por una nueva plataforma (posicionarse antes, más riesgo). | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
@@ -70,8 +69,6 @@
 | **Inbound / Outbound** | Absorber conocimiento externo / monetizar afuera el conocimiento interno. | [17](resto-de-la-materia/17-innovacion-abierta.md) |
 | **Innovación** | Aplicación práctica y exitosa de nuevas ideas tecnológicas para mejorar la eficiencia o crear oportunidades ("el para qué"). | [01](parcial-1/01-tecnologia-e-innovacion-fundamentos.md) |
 | **Innovación abierta** | Paradigma de Chesbrough (2003): el conocimiento entra y sale de la empresa. | [17](resto-de-la-materia/17-innovacion-abierta.md) |
-| **Innovación alineada** | Conectar las metas de innovación con los objetivos de negocio. | [19](resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md) |
-| **Innovación arquitectónica** | Reorganiza componentes existentes de forma innovadora. | [19](resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md) |
 | **Innovación disruptiva** | Comienza en nichos y termina desplazando a los líderes. | [03](parcial-1/03-tecnologias-disruptivas.md), [12](parcial-1/12-innovacion-tecnologica-e-ia.md) |
 | **Innovación en valor** | Bajar costos y subir el valor para el cliente a la vez (Océano Azul). | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **Innovación incremental** | Pequeñas mejoras continuas sobre lo existente. | [01](parcial-1/01-tecnologia-e-innovacion-fundamentos.md) |
@@ -109,7 +106,6 @@
 | **Product Backlog / Sprint Backlog** | Lista priorizada de todo lo que desea el cliente / lo asignado a un sprint. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
 | **Product Owner** | Rol de Scrum: la voz del cliente; prioriza el backlog y define criterios de aceptación. | [25](resto-de-la-materia/25-metodologias-agiles-y-scrum.md) |
 | **Propuesta de valor** | Razón por la que los clientes eligen tu solución en lugar de la competencia. | [14](parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
-| **Proyecto de innovación** | Esfuerzo planificado y estratégico para introducir cambios significativos que generen valor. | [19](resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md) |
 | **Recorte de gastos** | Estrategia defensiva: reducir costos y activos para revertir la caída de ventas y utilidades. | [15](resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) |
 | **Reglas de asociación** | Técnica de Data Mining: qué elementos aparecen juntos (cesta de compra). | [09](parcial-1/09-data-mining.md) |
 | **Regresión** | Técnica de Data Mining para predecir valores numéricos continuos. | [09](parcial-1/09-data-mining.md) |

@@ -1,6 +1,6 @@
 # 14 · Propuesta de valor, segmentación y Business Model Canvas
 
-> **Fuente en el material:** *Clase 4 – Propuesta de Valor, Segmentación y CANVAS* (Ing. Mario Barrios), diapositivas 1–38. Las preguntas guía de cada bloque del Canvas salen de *Clase 4 pre-parcial – Estrategias* (Barrios), diapositivas 30–33.
+> **Fuente en el material:** *Clase 4 – Propuesta de Valor, Segmentación y CANVAS* (Ing. Mario Barrios), diapositivas 1–38.
 > **Prerrequisitos:** [13 Design Thinking](13-design-thinking.md) (empatizar con el usuario).
 > **Tiempo estimado:** 75 min.
 > **Primer Parcial · Tema 14 de 14** (Clase 4 · Barrios).
@@ -12,7 +12,7 @@
 1. Explicar la frase de Guy Kawasaki *"o eres diferente o eres barato"* y por qué competir solo por precio destruye el negocio.
 2. Definir la **propuesta de valor** y explicar cómo hacerla **relevante** y cómo **comprobar** que funciona.
 3. Distinguir **quiénes reciben el valor** (usuario/cliente, empresa, inversor) y las diferencias entre **B2C** y **B2B**.
-4. Relacionar la propuesta de valor con la **pirámide de Maslow**, la **pirámide de los 30 elementos de valor** (Bain) y los **11 elementos para crear valor** (Osterwalder).
+4. Relacionar la propuesta de valor con la **pirámide de Maslow** y la **pirámide de los 30 elementos de valor** (Bain).
 5. Completar el **Canvas de Propuesta de Valor** (mapa de valor vs. perfil del cliente) y redactar la propuesta con la **plantilla** *"Nuestro… ayuda a… que quieren…"*.
 6. **Segmentar** y perfilar al **cliente ideal** (buyer persona) en tres dimensiones, y **validarlo** en el mundo real.
 7. Clasificar a los **competidores** (directo, indirecto, sustituto, latente) y armar una **matriz de competitividad**.
@@ -32,8 +32,7 @@
 - **IV. Qué necesidad satisface: pirámides de preferencias**
   - A. Pirámide de Maslow
   - B. Pirámide de los 30 elementos de valor (Bain & Company)
-  - C. Los 11 elementos para crear valor (Osterwalder)
-  - D. Atributos de la propuesta de valor
+  - C. Atributos de la propuesta de valor
 - **V. Canvas de Propuesta de Valor**
   - A. Los dos lados: mapa de valor y perfil del cliente
   - B. Encaje (*fit*) y desajuste (*misfit*): el caso NEXA
@@ -48,8 +47,7 @@
   - C. Matriz de competitividad
 - **VIII. Business Model Canvas**
   - A. Concepto
-  - B. Los 9 bloques y sus preguntas
-- **IX. Caso aplicado paso a paso**
+  - B. Los 9 bloques
 
 ---
 
@@ -112,8 +110,6 @@ La cátedra la desarrolla en tres ideas:
 
 > 📌 *"Es la **razón por la que los clientes eligen tu solución en lugar de la competencia**. Debe responder: **¿Qué problema resuelvo? ¿Por qué mi solución es mejor?**"*
 
-> 📝 **Citar y explayarse:** La cátedra define la propuesta de valor como *"la razón por la que los clientes eligen tu solución en lugar de la competencia"*, y pide que responda dos preguntas: *qué problema resuelvo* y *por qué mi solución es mejor*. Es decir, no alcanza con describir el producto: hay que explicar **qué cambia en la vida del cliente** y **por qué eso no lo consigue en otro lado**. Si no hay diferencia, según Kawasaki solo queda competir por precio, lo que destruye los márgenes. Por ejemplo, una app de delivery no ofrece "comida a domicilio" (eso lo hacen todas), sino "tu pedido en 15 minutos o no lo pagás": un beneficio concreto y distinto de la competencia.
-
 ### B. Cómo hacerla relevante
 
 | Criterio | Qué significa |
@@ -156,7 +152,7 @@ La cátedra la desarrolla en tres ideas:
 
 ### A. Pirámide de Maslow
 
-Teoría de las necesidades de **Abraham Maslow** (psicología humanista), presentada en **1943** en el artículo *"Una teoría sobre la motivación humana"* (*A Theory of Human Motivation*). Maslow quería entender **qué hace felices a las personas y qué las motiva** a actuar en su día a día.
+Teoría de las necesidades de **Abraham Maslow** (psicología humanista). Maslow quería entender **qué hace felices a las personas y qué las motiva** a actuar en su día a día.
 
 ```mermaid
 flowchart TB
@@ -170,7 +166,7 @@ flowchart TB
 
 ### B. Pirámide de los 30 elementos de valor (Bain & Company)
 
-La "pirámide de preferencias" que usa la cátedra se basa en la investigación de **Eric Almquist, John Senior y Nicholas Bloch** (Bain & Company, *Harvard Business Review*, 2016). Ordena los **atributos fundamentales** que un producto o servicio puede ofrecer: **más atributos = más oportunidades de que lo adopten**.
+Ordena los **atributos fundamentales** que un producto o servicio puede ofrecer: **más atributos = más oportunidades de que lo adopten**.
 
 | Nivel (de abajo hacia arriba) | Necesidad para el usuario | Ejemplos de elementos |
 |---|---|---|
@@ -181,25 +177,7 @@ La "pirámide de preferencias" que usa la cátedra se basa en la investigación 
 
 > 💡 Es la pirámide de Maslow **llevada a productos**: abajo lo que resuelve una tarea; arriba lo que cambia cómo se siente o quién es la persona. Las marcas más valoradas suelen cubrir **varios niveles a la vez**.
 
-### C. Los 11 elementos para crear valor (Osterwalder)
-
-Adaptación de **Alexander Osterwalder** (creador del Business Model Canvas):
-
-| Elemento | Cómo crea valor |
-|---|---|
-| **Novedad** | Cubrir una necesidad que antes no existía por falta de oferta. |
-| **Rendimiento** | Aumentar el desempeño de un producto. |
-| **Personalización** | Crear valor para segmentos específicos de clientes. |
-| **Hacer el trabajo** | Ayudar al cliente a realizar una tarea específica (ej.: contabilidad). |
-| **Diseño** | Superioridad estética del producto. |
-| **Marca y estatus** | Reconocimiento y posición social de la marca. |
-| **Precio** | Ofrecer un valor similar por un precio menor. |
-| **Reducción de costos** | Reducir costos para el cliente final. |
-| **Reducción de riesgos** | Hacer más segura la adquisición de valor. |
-| **Accesibilidad** | Dar acceso a un producto a clientes que no podían comprarlo. |
-| **Comodidad y usabilidad** | Facilitar el uso de un producto. |
-
-### D. Atributos de la propuesta de valor
+### C. Atributos de la propuesta de valor
 
 > 📌 La propuesta de valor: **(1)** es **solución a los problemas** de los clientes; **(2)** **satisface sus necesidades**; **(3)** **materializa la estrategia para el segmento objetivo**, **combinando precio, producto, servicio e imagen de marca**; **(4)** **comunica de manera diferenciada** el "valor" frente a la oferta de la competencia.
 
@@ -245,13 +223,12 @@ Hay **encaje** cuando cada aliviador responde a una frustración real y cada cre
 
 | | Mapa de valor (NEXA) | Perfil del cliente (pymes) | Resultado |
 |---|---|---|---|
-| **Productos** | Plataforma "todo-en-uno" (ventas, stock, envíos) + **NEXA Vision** (algoritmo predictivo de IA). | Tareas: administrar tiendas físicas y digitales en paralelo; controlar inventario, cobros y logística. | — |
 | **Alegrías** | Predicción de demanda con IA, ajuste automático de precios, soporte para escalar. | Automatizar decisiones de inventario, predecir la demanda, reducir costos. | ✅ **Fit técnico**. |
 | **Frustraciones** | Unifica canales y quita incertidumbre de stock. **Pero no alivia el miedo** a la filtración o uso masivo de datos. | Capital atrapado en stock que no rota; sistemas complejos o caros. **Nuevo dolor:** temor al rechazo social por falta de privacidad. | ⚠️ **Misfit reputacional**. |
 
 > 📌 **Misfit**: *"desajuste", "incompatibilidad" o "falta de encaje"*.
 
-> 💡 La lectura de la cátedra: **la tecnología encaja** (la IA predice bien), pero **el mercado no la adopta** porque apareció un dolor nuevo (privacidad) que la propuesta no resuelve. Un producto puede ser técnicamente excelente y aun así fracasar por un **misfit** en el perfil del cliente. 🔗 Es el mismo problema de **opinión pública** del tema [04](04-empresas-unicornio.md).
+> 💡 La lectura de la cátedra: **la tecnología encaja** (la IA predice bien), pero **el mercado no la adopta** porque apareció un dolor nuevo (privacidad) que la propuesta no resuelve. Un producto puede ser técnicamente excelente y aun así fracasar por un **misfit** en el perfil del cliente.
 
 ### C. La plantilla para redactarla
 
@@ -263,8 +240,6 @@ Hay **encaje** cuando cada aliviador responde a una frustración real y cada cre
 | **al** *[verbo de reducción: reducir, evitar]* *[+ un dolor]* | El dolor que le quitás. | al evitar la picazón y la resequedad |
 | **y** *[verbo de aumento: mejorar, permitir]* *[+ una alegría]* | El beneficio que le das. | y mejorar el brillo natural de su cabello |
 | **(a diferencia de** *[propuesta de la competencia]***)** | Qué hace la competencia y por qué sos distinto. | a diferencia de los champús comerciales que usan sulfatos agresivos |
-
-> 🧩 **Frase completa:** *"Nuestro champú natural en barra ayuda a personas con cuero cabelludo sensible que quieren lavar su cabello sin químicos fuertes, al evitar la picazón y la resequedad y mejorar el brillo natural de su cabello, a diferencia de los champús comerciales que usan sulfatos agresivos."*
 
 ---
 
@@ -352,17 +327,6 @@ Para definir el **perfil del cliente ideal** (*buyer persona* o perfil de compra
 
 **Variables de ejemplo:** 🚀 diferenciación (¿qué tan único es?) · 💰 precio (¿más caro o accesible?) · 🛠 facilidad de uso (¿intuitivo o requiere capacitación?) · 📢 alcance de marca (¿es conocida en el mercado objetivo?).
 
-**Ejemplo de la cátedra:**
-
-| | Precio | Facilidad de uso | Innovación | Atención al cliente | Diferenciación | Alcance de mercado |
-|---|---|---|---|---|---|---|
-| **Nuestro SaaS** | 4 | 5 | 5 | 4 | 5 | 3 |
-| Competidor A | 3 | 4 | 4 | 3 | 3 | **5** |
-| Competidor B | **5** | 3 | 3 | 4 | 2 | 4 |
-| Competidor C | 2 | 5 | 4 | **5** | 4 | 2 |
-
-> 💡 **Cómo se lee:** "Nuestro SaaS" gana en **innovación y diferenciación** (su propuesta de valor) pero pierde en **alcance de mercado** frente al Competidor A. La conclusión práctica: el desafío no es el producto sino **darlo a conocer** (canales y marketing).
-
 ---
 
 ## VIII. Business Model Canvas
@@ -394,41 +358,23 @@ flowchart LR
     B5["5 Flujos de ingreso"] -.- DER
 ```
 
-### B. Los 9 bloques y sus preguntas
+### B. Los 9 bloques
 
 El orden numérico es **el orden en que se completa**: se empieza por el cliente (1) y se termina por los costos (9).
 
-| # | Bloque | Qué es (cátedra) | Preguntas guía |
-|---|---|---|---|
-| 1 | **Segmentos de clientes** | Uno o varios segmentos de clientes. | ¿Para quién estamos creando valor? ¿Quiénes son nuestros clientes más importantes? ¿Cuáles son los arquetipos de los clientes? |
-| 2 | **Propuesta de valor** | Orientada a resolver preocupaciones de los clientes y satisfacer sus necesidades. | ¿Qué valor entregamos? ¿Cuál de los problemas de nuestros clientes ayudamos a resolver? ¿Qué paquetes de productos ofrecemos a cada segmento? ¿Qué necesidades satisfacemos? ¿Cuál es el producto mínimo viable? |
-| 3 | **Canales** (distribución y comunicación) | Las propuestas de valor llegan a los clientes a través de la comunicación, la distribución y los canales de venta. | ¿A través de qué canales quieren ser alcanzados nuestros segmentos? ¿Cómo llegan otras empresas a ellos? ¿Cuáles funcionan mejor y son más rentables? ¿Cómo los integramos con las rutinas de los clientes? |
-| 4 | **Relación con clientes** | Se establecen y mantienen con cada segmento. | ¿Cómo conseguimos, mantenemos y aumentamos los clientes? ¿Qué relaciones hemos establecido? ¿Cómo se integran con el resto del modelo? ¿Qué tan costosas son? |
-| 5 | **Flujos de ingreso** | El resultado de las propuestas de valor ofrecidas a los clientes. | ¿Por qué valor están dispuestos a pagar? ¿Qué pagan actualmente? ¿Cuál es el modelo de ingresos? ¿Cuáles son las tácticas de fijación de precios? |
-| 6 | **Recursos clave** | Los medios necesarios para ofrecer y entregar los elementos anteriores. | ¿Qué recursos clave requieren nuestras propuestas de valor, canales, relaciones y flujos de ingreso? |
-| 7 | **Actividades clave** | La realización de una serie de actividades. | ¿Qué actividades clave requieren nuestras propuestas de valor, canales, relaciones y flujos de ingreso? |
-| 8 | **Socios clave** (red de socios / alianzas) | Algunas actividades se externalizan y algunos recursos se adquieren fuera de la empresa. | ¿Quiénes son nuestros socios y proveedores clave? ¿Qué recursos adquirimos de ellos? ¿Qué actividades realizan? |
-| 9 | **Estructura de costos** | Los elementos del modelo de negocio dan como resultado la estructura de costos. | ¿Cuáles son los costos más importantes del modelo? ¿Qué recursos y actividades clave son más caros? |
-
-> 📝 **Citar y explayarse:** Según la cátedra, el Business Model Canvas *"muestra cómo genera valor el negocio, en una sola imagen"* y sirve para *"elaborar hipótesis acerca de cómo va a funcionar el negocio"*. La clave está en la palabra **hipótesis**: cada bloque es una suposición (quién es el cliente, por qué canal llega, cuánto paga) que la startup tiene que **validar con datos y hechos**; a medida que se validan, el lienzo se convierte en el diseño final del negocio. Sus nueve bloques se completan en orden: del lado derecho el **cliente** (segmentos, canales, relación) y los **ingresos**; en el centro la **propuesta de valor**; del lado izquierdo la **operación** (recursos, actividades, socios) y los **costos**. Por ejemplo, Spotify tendría como segmentos a oyentes y artistas, como propuesta "toda la música al instante", como ingresos la suscripción premium y la publicidad, y como costo principal las licencias a discográficas (sus socios clave).
+| # | Bloque | Qué es (cátedra) |
+|---|---|---|
+| 1 | **Segmentos de clientes** | Uno o varios segmentos de clientes. |
+| 2 | **Propuesta de valor** | Orientada a resolver preocupaciones de los clientes y satisfacer sus necesidades. |
+| 3 | **Canales** (distribución y comunicación) | Las propuestas de valor llegan a los clientes a través de la comunicación, la distribución y los canales de venta. |
+| 4 | **Relación con clientes** | Se establecen y mantienen con cada segmento. |
+| 5 | **Flujos de ingreso** | El resultado de las propuestas de valor ofrecidas a los clientes. |
+| 6 | **Recursos clave** | Los medios necesarios para ofrecer y entregar los elementos anteriores. |
+| 7 | **Actividades clave** | La realización de una serie de actividades. |
+| 8 | **Socios clave** (red de socios / alianzas) | Algunas actividades se externalizan y algunos recursos se adquieren fuera de la empresa. |
+| 9 | **Estructura de costos** | Los elementos del modelo de negocio dan como resultado la estructura de costos. |
 
 > 🔗 **Canvas de Propuesta de Valor vs. Business Model Canvas:** el primero es un **zoom** de dos bloques del segundo (el **2 Propuesta de valor** y el **1 Segmentos de clientes**).
-
----
-
-## IX. Caso aplicado paso a paso
-
-> 🧩 **Idea:** una app que conecta a estudiantes universitarios con tutores de otros años para clases de apoyo antes de un parcial.
-
-| Paso | Aplicación |
-|---|---|
-| **1. Segmentar** | Estudiantes de 1.º y 2.º año (18–22, CABA), que estudian a último momento, buscan ayuda por grupos de WhatsApp y tienen poco presupuesto. |
-| **2. Perfil del cliente** | **Trabajo:** aprobar el parcial. **Frustraciones:** profesores particulares caros, horarios que no coinciden, no saber si el tutor sabe la materia de *esa* cátedra. **Alegrías:** entender rápido, estudiar con alguien que ya aprobó con el mismo profesor. |
-| **3. Mapa de valor** | **Producto:** app de reservas de tutorías por materia y cátedra. **Aliviador:** tutores calificados por otros alumnos, clases desde $X por hora. **Creador de alegría:** "tutor que aprobó con tu mismo profesor". |
-| **4. Redactar** | *"Nuestra app de tutorías ayuda a estudiantes de primeros años que quieren aprobar su parcial, al evitar profesores caros y genéricos y permitir estudiar con alguien que aprobó con su misma cátedra, a diferencia de los profesores particulares tradicionales."* |
-| **5. Competidores** | **Directa:** otras apps de tutorías. **Indirecta:** grupos de WhatsApp y resúmenes compartidos. **Sustituta:** profesor particular, clases de consulta de la facultad. **Latente:** un asistente de IA que explique la materia. |
-| **6. BMC** | Segmentos: estudiantes y tutores. Canales: Instagram y centros de estudiantes. Ingresos: comisión por clase. Recursos: la app y la base de tutores. Socios: centros de estudiantes. Costos: desarrollo y marketing. |
-| **7. Validar** | MVP: un formulario de Google + un grupo de WhatsApp con 5 tutores durante una semana de parciales. Métrica: cuántos reservan y cuántos repiten. |
 
 ---
 

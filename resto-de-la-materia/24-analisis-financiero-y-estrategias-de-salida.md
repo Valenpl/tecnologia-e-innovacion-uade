@@ -46,7 +46,7 @@ flowchart LR
 
 ### I.A Evolución de una empresa y cadena de financiamiento
 
-La diapositiva 11 (basada en Cortés y Echecopar, 2009, y Cardullo, 1999) grafica los **resultados/rentabilidad** de la empresa a lo largo del **tiempo**: la curva cae primero por debajo de cero, toca fondo en el **valle de la muerte**, sube hasta el **punto de equilibrio** y después crece hasta estabilizarse. Cada tramo tiene sus propias fuentes de financiamiento:
+La diapositiva 11 grafica los **resultados/rentabilidad** de la empresa a lo largo del **tiempo**: la curva cae primero por debajo de cero, toca fondo en el **valle de la muerte**, sube hasta el **punto de equilibrio** y después crece hasta estabilizarse. Cada tramo tiene sus propias fuentes de financiamiento:
 
 | Etapa de la empresa | Tipo de capital | Quién financia |
 |---|---|---|
@@ -75,10 +75,6 @@ flowchart LR
     A["Inversión<br/>inicial"] --> B["Empezar a<br/>funcionar"] --> C["1° Desarrollo<br/>temprano"] --> D["2° Expansión"] --> E["3° Rentable,<br/>escasa liquidez"] --> F["4° Crecimiento<br/>rápido a liquidez"] --> P["Puente"] --> L["Liquidez<br/>o salida"]
 ```
 
-> 💡 **Hilo conductor:** a medida que se avanza, **baja el riesgo** para el inversor (de una idea a estudiar, a un prototipo, a ventas, a una empresa estable) y la última etapa es justamente la **salida**, donde el inversor de riesgo **vende sus acciones**. Por eso la estrategia de salida (sección III) cierra el recorrido.
-
-> 📝 **Citar y explayarse:** Según la cátedra, la inversión arranca con un **pequeño monto para estudiar si una idea merece una inversión más alta**; sigue con el dinero para **empezar a funcionar** (empresas de menos de un año que desarrollan productos y testean marketing) y continúa en cuatro etapas: **desarrollo temprano**, cuando los prototipos indican riesgo técnico mínimo y se puede montar un proceso manufacturero; **expansión**, cuando se despachan productos y se obtiene feedback del mercado; **rentable pero con escasa liquidez**, porque la rápida expansión genera problemas de caja; y **crecimiento rápido hacia el punto de liquidez**, cuando la empresa es productiva y estable y el riesgo para los inversionistas externos es reducido. Después viene la **etapa puente**, con alguna idea de la forma de salida pero todavía con necesidad de capital, y finalmente la **etapa de liquidez o salida**, en la que se venden las acciones de capital de riesgo.
-
 ---
 
 ## II. Herramientas financieras: VAN y TIR
@@ -93,8 +89,6 @@ flowchart LR
 ---
 
 ## III. Estrategias de salida
-
-> **Estadísticas de la cátedra** (diapositiva 14): cierran como un **"éxito" el 15,5 %**; **fracasaron a los 5 años el 30 %** y **a los 6 años el 54,5 %**.
 
 ### III.A Por qué salir del negocio
 

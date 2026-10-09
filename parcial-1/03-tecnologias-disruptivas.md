@@ -12,7 +12,7 @@
 1. Definir **tecnología disruptiva** con las dos formulaciones de la cátedra.
 2. Explicar sus **cinco características** y reconocerlas en un caso.
 3. Describir las **principales tecnologías disruptivas** y su impacto.
-4. Explicar **por qué son importantes**, sus **beneficios** y sus **ventajas**.
+4. Explicar **por qué son importantes** y sus **beneficios**.
 5. Describir los **siete pasos para implementar** tecnologías disruptivas en una empresa.
 6. Analizar casos de empresas que **cambiaron un mercado**.
 
@@ -44,8 +44,7 @@
   2. Eficiencia y productividad
   3. Mejora en la calidad de vida
   4. Transformación digital y adaptabilidad
-- **VII. Ventajas** (6)
-- **VIII. Empresas que cambiaron un mercado**
+- **VII. Empresas que cambiaron un mercado**
 
 ---
 
@@ -103,11 +102,7 @@ La cátedra da dos definiciones complementarias. Conviene saber ambas.
 
 > 🔥 **Síntesis de clase (Clase 2, notas de cursada):** innovación disruptiva = **cambio de paradigma** → **una nueva tecnología deja obsoleta a una tecnología anterior** → se genera un **cambio brusco**. Son las tres ideas que no pueden faltar en tu definición.
 
-> 📝 **Citar y explayarse:** La cátedra define las tecnologías disruptivas como innovaciones que *"transforman radicalmente industrias, mercados y comportamientos sociales, desplazando sistemas o productos establecidos"*. Lo central es el **cambio de paradigma**: no mejoran lo existente dentro de las mismas reglas, sino que cambian las reglas, de modo que la tecnología anterior queda **obsoleta** y el cambio es **brusco** para quienes dependían de ella. Suelen entrar con soluciones *"más accesibles, eficientes o sencillas"*, incluso con peor rendimiento inicial, y con el tiempo *"redefinen los estándares del mercado"*. El paso de la fotografía de carrete a la digital lo muestra: las primeras cámaras digitales sacaban peores fotos, pero eran más baratas por foto y más prácticas; mejoraron rápido y desplazaron a la industria del rollo.
-
 > 🧩 **Ejemplo de la cátedra:** el paso de la **fotografía de carrete a la digital**. Las primeras cámaras digitales sacaban peores fotos, pero eran más prácticas y baratas por foto. Mejoraron rápido y desplazaron al carrete.
-
-> ➕ **Contexto adicional:** el término *disruptive innovation* lo popularizó **Clayton Christensen** (Harvard) en *The Innovator's Dilemma* (1997). Para Christensen, lo disruptivo es sobre todo **el modelo de negocio**: entrar por abajo (segmentos baratos o desatendidos) y subir. Esto encaja perfecto con la característica "Accesibilidad y menor costo" y con las **Curvas S** del módulo [05](05-curvas-de-la-tecnologia.md).
 
 ---
 
@@ -164,10 +159,6 @@ flowchart LR
 | **Impresión 3D y bioimpresión** | Revolucionan la fabricación de piezas y la medicina (**creación de tejidos u órganos**). |
 | **5G** | **Mejora drásticamente la conectividad**. |
 
-Los **"ejemplos actuales"** que destaca la clase 2026 son cuatro: **IA, Blockchain, Cloud Computing y 5G**.
-
-En las notas de la **Clase 1**, la lista rápida de tecnologías que "generaron un gran cambio" fue: **IA, impresión 3D, robótica, e-commerce e IoT**.
-
 > 💡 **Para entenderlo – por qué estas tecnologías se potencian entre sí:** IoT **genera** datos → 5G los **transporta** → la nube los **almacena** → Big Data los **gestiona** → la IA los **interpreta y decide**. Por eso se habla de "convergencia tecnológica".
 
 ```mermaid
@@ -184,8 +175,6 @@ flowchart LR
 3. **Conectividad y nuevas experiencias** – **5G e IoT** facilitan la interconexión y la **hiperpersonalización** de productos en tiempo real.
 4. **Ventaja competitiva** – Permiten a **nuevas empresas competir con líderes de mercado** al ofrecer soluciones **más simples y accesibles**.
 5. **Impacto social y sostenibilidad** – Mejoran la calidad de vida y abordan desafíos globales como **ciberseguridad, sostenibilidad y salud**.
-
-> 🧩 **Ejemplo del apunte de cursada – Nokia y Apple** (ilustra el punto 4, *ventaja competitiva*): ➕ Nokia dominaba el mercado de celulares; Apple entró en 2007 con el **iPhone** (pantalla táctil + ecosistema de apps), una propuesta más simple de usar que **redefinió el estándar** del teléfono. Nokia perdió el liderazgo y terminó vendiendo su división de teléfonos a Microsoft (2014). *(El apunte solo nombra el par Nokia–Apple; el detalle es contexto adicional.)*
 
 ---
 
@@ -237,31 +226,15 @@ flowchart TD
 3. **Mejora en la calidad de vida** – En medicina, **biotecnología y telemedicina** mejoran diagnóstico, tratamiento y monitoreo; aumentan expectativa y calidad de vida.
 4. **Transformación digital y adaptabilidad** – Facilitan el **smart working**, mejoran el equilibrio vida laboral/personal y la **satisfacción del empleado**.
 
-## VII. Ventajas
-
-| Ventaja | Explicación |
-|---|---|
-| **Eficiencia operativa y automatización** | Liberan tiempo para labores estratégicas y **reducen errores humanos**. |
-| **Reducción de costes** | Optimizan cadena de suministro y procesos productivos; bajan gastos a largo plazo. |
-| **Nuevos modelos de negocio** | Acceso a **mercados antes inaccesibles**. |
-| **Mayor competitividad y agilidad** | Adaptación rápida a cambios del mercado global. |
-| **Seguridad y transparencia** | Ej. **blockchain**: registros inquebrantables y trazabilidad en procesos financieros y administrativos. |
-| **Mejora de la experiencia del cliente** | IA y aprendizaje automático personalizan la oferta. |
-
-> ⚠️ **Beneficios vs. ventajas:** en el material aparecen como listas separadas y se superponen (eficiencia aparece en ambas). Si te preguntan una, respondé con la lista correspondiente; si te preguntan "¿por qué conviene adoptarlas?", podés integrar ambas.
-
 ---
 
-## VIII. Empresas que cambiaron un mercado
+## VII. Empresas que cambiaron un mercado
 
 La Clase 1 muestra ejemplos (Uber, Netflix, entre otros) y pregunta *"¿Alguna otra empresa que haya cambiado el mercado global?"*. Para analizarlas usá siempre el mismo esquema:
 
 | Empresa | Mercado que alteró | Tecnología habilitante | Qué desplazó | Característica disruptiva más visible |
 |---|---|---|---|---|
 | **Uber** | Transporte urbano | Smartphone + GPS + pagos digitales | Taxis tradicionales | Accesibilidad / nuevo modelo (desmaterialización) |
-| **Netflix** | Entretenimiento | Streaming + datos de consumo | Videoclubes y DVD | Adopción generalizada: cambió el hábito de consumo |
-| **Airbnb** | Alojamiento | Plataforma web + reputación digital | Parte del negocio hotelero | Nuevo mercado (alquiler entre particulares) |
-| **Mercado Libre** *(ejemplo propio)* | Comercio en LATAM | E-commerce + pagos (Mercado Pago) | Comercio minorista tradicional | Ecosistema: creó nuevas redes de valor |
 
 > 💡 **Reflexión de la cátedra (clase 2026):** *"Muchas de estas empresas existen gracias al uso inteligente de los datos y al uso de tecnologías disruptivas."* → Esa frase es el **puente** al bloque de datos (BI, Data Mining, Big Data).
 
@@ -274,7 +247,6 @@ La Clase 1 muestra ejemplos (Uber, Netflix, entre otros) y pregunta *"¿Alguna o
 | Disruptiva | Radical | Toda disruptiva implica un cambio radical, pero lo distintivo de la disruptiva es que **desplaza** a lo establecido y **cambia el comportamiento del mercado**, muchas veces **entrando por nichos o gama baja**. |
 | Disruptiva | "Mejor desde el día 1" | Empieza con **rendimiento inferior** y mejora rápido. |
 | Tecnología disruptiva | Empresa disruptiva | Uber no inventó el GPS: **aplicó** tecnologías existentes con un modelo nuevo. |
-| Beneficios | Ventajas | Listas distintas en el material, con superposición. |
 
 ---
 

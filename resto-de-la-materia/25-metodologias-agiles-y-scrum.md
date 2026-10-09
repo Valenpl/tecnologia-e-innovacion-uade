@@ -22,10 +22,8 @@
 ## 🗺️ Esquema del tema
 
 - **I. Qué es ágil**
-  - A. El problema: lo que el cliente pidió vs. lo que necesitaba
-  - B. Cascada vs. ágil
-  - C. El mantra y el cambio cultural
-  - D. Modelos ágiles
+  - A. Cascada vs. ágil
+  - B. El mantra y el cambio cultural
 - **II. El Manifiesto Ágil**
   - A. Los 4 valores
   - B. Los 12 principios
@@ -60,39 +58,16 @@ flowchart LR
 
 ## I. Qué es ágil
 
-### I.A El problema
-
-La cátedra abre con la tira del **columpio en el árbol**: *lo que el cliente pidió*, *cómo lo entendió el jefe de proyectos*, *cómo lo diseñó el analista*, *cómo se programó*, *cómo se documentó*, *cómo se le cobró al cliente*… y, al final, **lo que realmente el cliente necesitaba** (un neumático colgado de una soga). Muestra que en un proyecto tradicional cada etapa interpreta el pedido a su manera y el resultado final no es lo que el cliente necesitaba.
-
-### I.B Cascada vs. ágil
+### I.A Cascada vs. ágil
 
 - **Cascada (*waterfall*):** se diseña y se entrega **todo al final**, de una sola vez. Si se entendió mal, se descubre recién en la entrega.
 - **Ágil:** se avanza por **iteraciones** (*Agile Iteration 1, 2, … n, n+1*) hasta la entrega; en cada iteración el cliente ve algo y se corrige el rumbo.
 
-### I.C El mantra y el cambio cultural
+### I.B El mantra y el cambio cultural
 
 > 📌 **Mantra:** *"Agilidad **no es velocidad**. Agilidad es **adaptación al cambio**."*
 
-> 📌 **Jack Welch:** *"Cuando la tasa de cambio dentro de una institución se vuelve más lenta que la tasa de cambio afuera, el final está a la vista. La única pregunta es cuándo."*
-
 > 📌 *"Las transformaciones ágiles son un **cambio cultural** importante."* La cátedra lo ilustra con la tira *"¿Quién quiere un cambio?"* (todos levantan la mano) vs. *"¿Quién quiere cambiar?"* (nadie).
-
-> 📝 **Citar y explayarse:** Para la cátedra, *"agilidad no es velocidad, agilidad es adaptación al cambio"*. Las metodologías ágiles surgen frente al problema de los proyectos tradicionales en cascada, donde se diseña y se entrega todo al final y cada etapa interpreta el pedido a su manera, de modo que el resultado no es lo que el cliente necesitaba. Ágil propone avanzar por iteraciones cortas, entregando valor temprano y corrigiendo con el cliente en cada ciclo. Como dice Jack Welch, si una organización cambia más lento que su entorno, *"el final está a la vista"*. Por eso adoptar ágil no es solo cambiar herramientas: es un **cambio cultural**.
-
-### I.D Modelos ágiles
-
-| Modelo | Autores |
-|---|---|
-| Programación Extrema (XP) | Kent Beck, Eric Gamma y otros |
-| Desarrollo adaptativo de software (DAS) | Jim Highsmith |
-| Método de desarrollo de sistemas dinámicos (MDSD) | Dane Faulkner y otros |
-| Crystal Clear (familia de métodos) | Alistair Cockburn |
-| Desarrollo esbelto de software (Lean Software Development) | Mary y Tom Poppendieck |
-| Feature-Driven Development | Peter Coad y Jeff DeLuca |
-| Agile Unified Process (AUP) | Scott Ambler |
-| **Scrum** | **Ken Schwaber, Jeff Sutherland, Mike Beedle** |
-| The Incremental Commitment Spiral Model (ICSM) | Barry Boehm y Jo Ann Lane |
-| SEMAT | Ivar Jacobson, Pan-Wei Ng |
 
 ---
 
@@ -206,14 +181,14 @@ El **Scrum team** (Product Owner, Scrum Master, Development Team) se vincula con
 
 ### IV.B Product Owner
 
-| Responsabilidades | Características |
-|---|---|
-| Gestionar la economía (*manage economics*) | **Conocimiento del dominio:** es visionario; sabe que no todo se puede anticipar; tiene experiencia en el negocio y el dominio. |
-| Participar en la planificación | **Habilidades con las personas:** buena relación con stakeholders; negociador y generador de consenso; buen comunicador; gran motivador. |
-| Refinar el backlog del producto (*groom*) | **Toma de decisiones:** tiene poder para decidir; está dispuesto a tomar decisiones difíciles; es decidido; tiene una visión económica para equilibrar temas de negocio y técnicos. |
-| Definir criterios de aceptación y verificar que se cumplan | **Responsabilidad:** se hace cargo del producto; está comprometido y disponible; actúa como un miembro más del equipo Scrum. |
-| Colaborar con el equipo de desarrollo | |
-| Colaborar con los stakeholders | |
+| Responsabilidades |
+|---|
+| Gestionar la economía (*manage economics*) |
+| Participar en la planificación |
+| Refinar el backlog del producto (*groom*) |
+| Definir criterios de aceptación y verificar que se cumplan |
+| Colaborar con el equipo de desarrollo |
+| Colaborar con los stakeholders |
 
 ### IV.C Scrum Master
 
@@ -222,8 +197,6 @@ Responsabilidades: **Coach**, **líder servidor** (*servant leader*), **autorida
 ### IV.D Development Team
 
 Características: **auto-organizado**; **multifuncional**, diverso y suficiente (*cross-functional*); habilidades en **"T"** (*T-shaped skills*); **actitud de mosquetero** (todos para uno); comunicación de **alto ancho de banda** y **transparente**; de **tamaño adecuado**; **enfocado y comprometido**; trabaja a un **ritmo sostenible**; **estable en el tiempo** (*long-lived*).
-
-> 📝 **Citar y explayarse:** Scrum es uno de los modelos ágiles (Schwaber, Sutherland y Beedle). Se apoya en tres **pilares**, **transparencia, inspección y adaptación**, y en seis **principios**: control del proceso empírico, auto-organización, colaboración, priorización basada en valor, tiempo asignado y desarrollo iterativo. El trabajo parte de un **Backlog Priorizado del Producto** que arma el **Product Owner**, "la voz del cliente". El equipo elige qué hacer en cada **sprint** (de 1 a 6 semanas), se coordina en un **Daily Standup** de 15 minutos y, al final, demuestra la nueva funcionalidad en la **revisión del sprint** y reflexiona en la **retrospectiva**. El **Scrum Master** no manda: es un líder servidor que protege al equipo de interferencias y remueve impedimentos. El **Development Team** es auto-organizado y multifuncional.
 
 ---
 

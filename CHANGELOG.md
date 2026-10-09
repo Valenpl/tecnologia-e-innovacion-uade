@@ -2,6 +2,19 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.09.3 — 2026-10-09
+
+**Motivo:** para estudiar en 2 días se pidió achicar el resumen sacando los párrafos "citar y explayarse", los ejemplos de más, las repeticiones y los datos históricos, sin borrar archivos salvo el tema 19.
+
+### Quitado
+- **Tema 19 · Proyectos y estrategia de innovación:** el archivo entero, con su fila del README, el mapa de 00-como-estudiar, la guía del parcial y sus 4 entradas del glosario.
+- **Todos los temas:** los 58 bloques 📝 *Citar y explayarse* y su fila en las convenciones.
+- **Temas 01–18 y 20–27:** ejemplos de más (se deja uno por concepto), orígenes y fechas (Christensen, Wallas, Doran, Keeley, Lee, Moore, Rogers, Schumpeter…), listas de importancia, funciones y ventajas que se repetían, secciones de debate, reflexión y actividades, casos aplicados paso a paso, listas de programas y empresas. En las autoevaluaciones solo se quitaron las preguntas sobre lo que ya no está (08 y 09).
+
+### Cambiado
+- **README:** tiempos de los temas 08, 09, 10, 12, 13 y 21 y tiempo total del Primer Parcial (~11 h 45 min); descripciones de 03, 08, 09, 10, 13, 15, 16 y 21.
+- En Word con letra 11 el resumen pasa de unas 132 a unas 89 páginas (sin gráficos ni preguntas).
+
 ## v2026.10.09.2 — 2026-10-09
 
 **Motivo:** según la lista de lo que entra en el final, se pidió sacar lo que no entra y estaba en el resumen.

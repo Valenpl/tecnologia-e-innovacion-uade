@@ -66,7 +66,7 @@ flowchart LR
 
 ## I. VICA (VUCA): gestión del cambio
 
-> 📌 **El Paradigma VICA (VUCA):** *"Nacido en la Guerra Fría y adoptado en los 90. Describe un mundo **difícil de predecir pero estructurado**, enfocado en la **volatilidad** y la **incertidumbre**. La respuesta estándar era la **agilidad y la planificación flexible**."*
+> 📌 **El Paradigma VICA (VUCA):** *"Describe un mundo **difícil de predecir pero estructurado**, enfocado en la **volatilidad** y la **incertidumbre**. La respuesta estándar era la **agilidad y la planificación flexible**."*
 
 ### I.A Las cuatro letras
 
@@ -81,7 +81,7 @@ flowchart LR
 
 ## II. VANI (BANI): gestión del caos
 
-> 📌 **El Paradigma VANI (BANI):** *"Acuñado en 2020 por Jamais Cascio. Describe un mundo que **ya no solo es inestable, sino que está roto**. Enfocado en la **fragilidad** y la **no-linealidad**. La respuesta requiere **resiliencia, empatía e intuición profunda**."*
+> 📌 **El Paradigma VANI (BANI):** *"Acuñado por Jamais Cascio. Describe un mundo que **ya no solo es inestable, sino que está roto**. Enfocado en la **fragilidad** y la **no-linealidad**. La respuesta requiere **resiliencia, empatía e intuición profunda**."*
 
 ### II.A Por qué VICA quedó obsoleto
 > 📌 *"Según Cascio, el mundo actual **ya no es simplemente complejo o inestable**; se ha vuelto **caótico, confuso** y funciona bajo **dinámicas que desafían la lógica tradicional**."*
@@ -99,25 +99,21 @@ flowchart LR
 - **Concepto:** sistemas que **parecen sólidos, estables y robustos en la superficie** pueden **romperse de forma repentina y catastrófica** ante un impacto inesperado. **No se doblan; se quiebran por completo.**
 - **En Innovación Abierta:** depender de **un único proveedor**, **un solo laboratorio de I+D cerrado** o un **modelo de negocio rígido** expone a la empresa al colapso.
 - **Respuesta:** **resiliencia y redundancia**, logradas **diversificando capacidades** mediante **alianzas con startups y redes globales**.
-- **Impacto en IA (Innovación Abierta):** **resiliencia compartida en red**.
 
 #### II.B.2 A – Ansioso (*Anxious*)
 - **Concepto:** la volatilidad extrema y la velocidad de los cambios generan **ansiedad, desconfianza y miedo a tomar la decisión equivocada**. Cada elección **parece de vida o muerte**.
 - **En Innovación Abierta:** **parálisis por análisis** o posturas **ultra-defensivas**.
 - **Respuesta:** **empatía, transparencia y agilidad**. Al **descentralizar** el desarrollo de productos, **los riesgos se mitigan y se comparten** con el ecosistema.
-- **Impacto en IA:** **confianza y empatía en el ecosistema**.
 
 #### II.B.3 N – No lineal (*Nonlinear*)
 - **Concepto:** **se rompe la relación causa-efecto** tradicional. **Pequeños eventos generan consecuencias desproporcionadas** y **grandes esfuerzos pueden terminar en impacto nulo**. Las **predicciones a largo plazo pierden validez**.
 - **En Innovación Abierta:** **planificar productos a 5 años es inviable**.
 - **Respuesta:** **contexto y flexibilidad**. Se necesitan **múltiples apuestas simultáneas** (**carteras de Corporate Venture Capital**) para reaccionar rápido cuando una tendencia pequeña **se convierte de golpe en estándar** de la industria.
-- **Impacto en IA:** **apuestas diversificadas (CVC)**.
 
 #### II.B.4 I – Incomprensible (*Incomprehensible*)
 - **Concepto:** **acumular más datos ya no funciona**. La **sobreinformación genera "ruido"**; los eventos y decisiones parecen **absurdos o sin sentido**. *"El exceso de respuestas oscurece las soluciones reales."*
 - **En Innovación Abierta:** **ningún departamento interno puede descifrar la complejidad por sí solo**.
 - **Respuesta:** **intuición, colaboración y transparencia**. Abrirse al ecosistema permite usar la **"inteligencia colectiva"** de expertos, científicos y emprendedores para decodificar los cambios **en tiempo real**.
-- **Impacto en IA:** **inteligencia colectiva y abierta**.
 
 ---
 
@@ -135,8 +131,6 @@ flowchart LR
 ## IV. Conclusión: innovación abierta como resiliencia colectiva
 
 > 📌 *"**La Innovación Abierta ya no es para competir.** En un entorno VANI, la innovación abierta es **la única herramienta para construir resiliencia colectiva** y habitar el futuro."*
-
-> 📝 **Citar y explayarse:** La conclusión de la cátedra es que *"la innovación abierta ya no es para competir"*: en un entorno VANI es *"la única herramienta para construir resiliencia colectiva"*. Cada rasgo del mundo VANI tiene su respuesta en la apertura: ante la **fragilidad**, redes y redundancia para no depender de un único proveedor o laboratorio; ante la **ansiedad**, compartir los riesgos con el ecosistema; ante la **no linealidad**, múltiples apuestas simultáneas como las carteras de CVC; y ante lo **incomprensible**, inteligencia colectiva. Es decir, la innovación abierta cambia de función: deja de ser una forma de ganar ventaja y pasa a ser una forma de **sobrevivir**.
 
 ---
 
@@ -195,4 +189,4 @@ Objetivo: VICA → **agilidad operativa y velocidad de respuesta**; VANI → **r
 
 ---
 
-[← 17 Innovación abierta](17-innovacion-abierta.md) · [🏠 Índice](../README.md) · [Siguiente → 19 Proyectos de innovación y estrategia de innovación](19-proyectos-y-estrategia-de-innovacion.md)
+[← 17 Innovación abierta](17-innovacion-abierta.md) · [🏠 Índice](../README.md) · [Siguiente → 20 Lean Startup y MVP](20-lean-startup-y-mvp.md)

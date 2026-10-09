@@ -33,7 +33,7 @@
 | ✅ Entra | **Clase 3** · Escandell (datos) | [08](../parcial-1/08-business-intelligence.md) · [09](../parcial-1/09-data-mining.md) · [10](../parcial-1/10-big-data.md) |
 | ✅ Entra | **Día 3** (primera parte) | [11](../parcial-1/11-creatividad-y-proceso-creativo.md) · [12](../parcial-1/12-innovacion-tecnologica-e-ia.md) · [13](../parcial-1/13-design-thinking.md) |
 | ✅ Entra | **Clase 4** · Barrios | [14](../parcial-1/14-propuesta-de-valor-segmentacion-y-canvas.md) |
-| ⏳ No entra | Clase 4 pre-parcial (estrategias, Service Design) · Día 3 (segunda parte) · Proyecto de innovación · KPI & OKR | [15](../resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) · [16](../resto-de-la-materia/16-service-design-y-cultura-fail.md) · [17](../resto-de-la-materia/17-innovacion-abierta.md) · [18](../resto-de-la-materia/18-entornos-vica-y-vani.md) · [19](../resto-de-la-materia/19-proyectos-y-estrategia-de-innovacion.md) · [20](../resto-de-la-materia/20-lean-startup-y-mvp.md) · [21](../resto-de-la-materia/21-kpi.md) · [22](../resto-de-la-materia/22-okr.md) |
+| ⏳ No entra | Clase 4 pre-parcial (estrategias, Service Design) · Día 3 (segunda parte) · KPI & OKR | [15](../resto-de-la-materia/15-estrategias-comerciales-y-oceano-azul.md) · [16](../resto-de-la-materia/16-service-design-y-cultura-fail.md) · [17](../resto-de-la-materia/17-innovacion-abierta.md) · [18](../resto-de-la-materia/18-entornos-vica-y-vani.md) · [20](../resto-de-la-materia/20-lean-startup-y-mvp.md) · [21](../resto-de-la-materia/21-kpi.md) · [22](../resto-de-la-materia/22-okr.md) |
 
 > 💡 Si el alcance se amplía, alcanza con mover la fila de ⏳ a ✅, sumar el bloque a la sección II y registrar el cambio en el CHANGELOG.
 
